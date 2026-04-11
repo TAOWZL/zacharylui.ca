@@ -84,21 +84,25 @@ body {
   padding-bottom: 4rem;
 }
 
-/* Remove doc leftovers */
+/* =========================
+   REMOVE BLUE "HOME" TAG (REAL FIX)
+========================= */
 
-.md-content__inner > h1:first-child,
-.md-footer-meta,
-.md-sidebar--secondary,
-.md-breadcrumbs,
-.md-breadcrumbs__list,
-.md-breadcrumbs__item,
-.md-breadcrumbs__link,
-.md-path,
-.md-path__list,
-.md-path__item,
-.md-path__link,
-.md-content__button {
+/* kill Material page anchor button */
+.md-content__button,
+.md-content__button.md-icon {
   display: none !important;
+}
+
+/* kill anchor links inside headings */
+.md-typeset a.md-icon {
+  display: none !important;
+}
+
+/* remove tiny top label block if still present */
+.md-content__inner > p:first-child {
+  display: none !important;
+}
 }
 
 /* remove anchor icons beside headers */
