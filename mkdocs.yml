@@ -19,11 +19,10 @@ theme:
 
 nav:
   - Home: index.md
-  - Services:
-      - Anxiety Treatment: anxiety.md
-      - Marriage Officiant: officiant.md
+  - Acupuncture for Anxiety: anxiety.md
+  - Marriage Officiant: officiant.md
   - Writing: writing.md
-  - Projects: projects.md
+ 
 
 extra_css:
   - stylesheets/extra.css
