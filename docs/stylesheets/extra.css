@@ -446,4 +446,20 @@ body {
 /* Improve divider spacing under hero */
 .md-typeset hr {
   margin: 3.5rem 0;
+}/* Kill the blue Home breadcrumb/path tag */
+.md-path,
+.md-path__list,
+.md-path__item,
+.md-path__link,
+.md-breadcrumbs,
+.md-breadcrumbs__list,
+.md-breadcrumbs__item,
+.md-breadcrumbs__link {
+  display: none !important;
+}
+
+/* Fallback: hide any tiny top-left breadcrumb line inside content */
+.md-content .md-path,
+.md-content .md-breadcrumbs {
+  display: none !important;
 }
