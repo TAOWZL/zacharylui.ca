@@ -1,8 +1,3 @@
-/* =========================
-   BAZI-ALIGNED COLOR SYSTEM
-   Metal (clean) + Earth (ground) + Water (accent)
-========================= */
-
 :root {
   --md-primary-fg-color: #0e0f10 !important;
   --md-primary-fg-color--light: #0e0f10 !important;
@@ -22,20 +17,12 @@
   --earth-accent: #c6a96b;
 }
 
-/* =========================
-   BASE
-========================= */
-
 body {
   background-color: var(--bg-main);
   color: var(--text-main);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   -webkit-font-smoothing: antialiased;
 }
-
-/* =========================
-   REMOVE MATERIAL BLUE
-========================= */
 
 .md-header,
 .md-header__inner,
@@ -45,10 +32,6 @@ body {
   background-image: none !important;
   box-shadow: none !important;
 }
-
-/* =========================
-   LAYOUT
-========================= */
 
 .md-main__inner,
 .md-content {
@@ -61,23 +44,13 @@ body {
   padding-bottom: 3rem;
 }
 
-/* =========================
-   REMOVE DOC LOOK
-========================= */
-
-/* Remove "Home" title */
 .md-content__inner > h1:first-child {
   display: none !important;
 }
 
-/* Remove right TOC */
 .md-sidebar--secondary {
   display: none !important;
 }
-
-/* =========================
-   NAV
-========================= */
 
 .md-tabs__link {
   color: var(--text-muted);
@@ -88,10 +61,6 @@ body {
   color: var(--text-main);
 }
 
-/* =========================
-   TYPOGRAPHY
-========================= */
-
 .md-typeset {
   font-size: 17px;
   line-height: 1.7;
@@ -101,6 +70,7 @@ body {
   font-size: 2.8rem;
   font-weight: 650;
   margin-bottom: 1rem;
+  color: var(--text-main);
 }
 
 .md-typeset h2 {
@@ -108,6 +78,7 @@ body {
   margin-top: 2.5rem;
   border-bottom: 1px solid var(--border);
   padding-bottom: 6px;
+  color: var(--text-main);
 }
 
 .md-typeset p {
@@ -119,10 +90,6 @@ body {
   color: var(--text-soft);
 }
 
-/* =========================
-   LINKS
-========================= */
-
 .md-typeset a {
   color: var(--link);
 }
@@ -131,29 +98,30 @@ body {
   color: var(--link-hover);
 }
 
-/* =========================
-   HERO
-========================= */
-
 .hero {
   padding: 80px 20px 60px;
   text-align: center;
   border-bottom: 1px solid var(--border);
+  margin-bottom: 20px;
 }
 
 .hero h1 {
   font-size: 3rem;
+  line-height: 1.1;
+  margin-bottom: 1rem;
+  color: var(--text-main);
 }
 
 .hero p {
   max-width: 700px;
-  margin: auto;
+  margin: 0 auto 0.8rem auto;
   color: var(--text-soft);
+  font-size: 1.1rem;
 }
 
-/* =========================
-   BUTTON
-========================= */
+.hero .subtext {
+  color: var(--text-muted);
+}
 
 .button-link {
   display: inline-block;
@@ -163,29 +131,30 @@ body {
   border-radius: 8px;
   margin-top: 18px;
   font-weight: 600;
+  text-decoration: none !important;
 }
 
 .button-link:hover {
   background: var(--link-hover);
 }
 
-/* =========================
-   EARTH ACCENT (SUBTLE AUTHORITY)
-========================= */
-
-.section-box {
-  background: var(--bg-surface);
-  border-left: 3px solid var(--earth-accent);
-  padding: 16px;
-  margin: 20px 0;
-  border-radius: 6px;
-}
-
-/* =========================
-   FOOTER
-========================= */
-
 .md-footer {
   background-color: var(--bg-main) !important;
   border-top: 1px solid var(--border);
+}
+
+@media (max-width: 768px) {
+  .md-typeset h1,
+  .hero h1 {
+    font-size: 2.15rem;
+  }
+
+  .hero {
+    padding: 56px 14px 48px;
+  }
+
+  .button-link {
+    width: 100%;
+    text-align: center;
+  }
 }

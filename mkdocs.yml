@@ -29,3 +29,6 @@ nav:
 # 🔥 CONNECT YOUR CSS (CRITICAL)
 extra_css:
   - stylesheets/extra.css
+
+markdown_extensions:
+  - md_in_html
