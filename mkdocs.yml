@@ -5,7 +5,7 @@ theme:
 
 nav:
   - Home: index.md
-  - Marriage Officiant: marriage.md
+  - Marriage Officiant: officiant.md
   - Projects: projects.md
   - Writing: writing.md
   - Anxiety: anxiety.md
