@@ -2,11 +2,10 @@
 
 # Acupuncture for Anxiety & Burnout
 
-If your system feels constantly “on”  
+If your system feels constantly “on,”  
 this work is for you.
 
-Used by professionals dealing with:
-high stress, burnout, and chronic overload.
+<p class="subtext">Used by professionals dealing with high stress, burnout, and chronic overload.</p>
 
 <a href="./anxiety/" class="button-link">Start Here</a>
 
@@ -18,11 +17,11 @@ high stress, burnout, and chronic overload.
 
 If this feels familiar:
 
-- racing thoughts  
-- tight chest  
-- poor sleep  
-- constant tension  
-- burnout  
+- racing thoughts
+- tight chest
+- poor sleep
+- constant tension
+- burnout
 
 ---
 
@@ -30,12 +29,11 @@ If this feels familiar:
 
 I use structured acupuncture to:
 
-- calm the nervous system  
-- reduce baseline anxiety  
-- restore internal stability  
+- calm the nervous system
+- reduce baseline anxiety
+- restore internal stability
 
-This is not vague wellness work.  
-This is direct and clinical.
+This is direct. Clinical. Measurable.
 
 ---
 
@@ -43,18 +41,21 @@ This is direct and clinical.
 
 Most approaches try to manage anxiety.
 
-This changes the baseline system itself.
+This changes the system itself.
 
-It’s not about coping better.  
-It’s about no longer being stuck in overdrive.
+Not coping.  
+Not managing.  
+Resetting.
 
 ---
 
 ## Location
 
 Toronto — Wuji Xuan Life Wellness  
-255 Broadview Ave  
+255 Broadview Ave
 
 ---
 
+<div style="text-align:center; margin-top:40px;">
 <a href="./anxiety/" class="button-link">Book / Learn More</a>
+</div>
