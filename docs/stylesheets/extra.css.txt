@@ -1,118 +1,91 @@
 /* =========================
-   COLOR SYSTEM
+   BAZI-ALIGNED COLOR SYSTEM
+   Metal (clean) + Earth (ground) + Water (accent)
 ========================= */
 
 :root {
-  --md-primary-fg-color: #121416 !important;
-  --md-primary-fg-color--light: #121416 !important;
-  --md-primary-fg-color--dark: #121416 !important;
-  --md-accent-fg-color: #4c8bf5 !important;
+  --md-primary-fg-color: #0e0f10 !important;
+  --md-primary-fg-color--light: #0e0f10 !important;
+  --md-primary-fg-color--dark: #0e0f10 !important;
 
-  --bg-main: #0f1113;
-  --bg-surface: #15181c;
-  --border: #2a2f36;
+  --bg-main: #0e0f10;
+  --bg-surface: #16181b;
+  --border: #2b2f34;
 
-  --text-main: #e6e6e6;
-  --text-soft: #b0b8c5;
-  --text-muted: #8e97a5;
+  --text-main: #f2f2f2;
+  --text-soft: #b8c0cc;
+  --text-muted: #8a93a3;
 
-  --link: #4c8bf5;
-  --link-hover: #79a8ff;
+  --link: #5c8df6;
+  --link-hover: #7aa2ff;
+
+  --earth-accent: #c6a96b;
 }
 
 /* =========================
    BASE
 ========================= */
 
-html {
-  scroll-behavior: smooth;
-}
-
 body {
   background-color: var(--bg-main);
   color: var(--text-main);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
 /* =========================
-   FORCE REMOVE MATERIAL BLUE
+   REMOVE MATERIAL BLUE
 ========================= */
 
 .md-header,
 .md-header__inner,
 .md-tabs,
 .md-tabs__list {
-  background: #121416 !important;
+  background: var(--bg-main) !important;
   background-image: none !important;
   box-shadow: none !important;
-}
-
-.md-main {
-  background-color: var(--bg-main);
 }
 
 /* =========================
    LAYOUT
 ========================= */
 
-.md-grid {
-  max-width: 1200px;
-}
-
-.md-main__inner {
-  max-width: 840px;
-  margin: 0 auto;
-}
-
+.md-main__inner,
 .md-content {
-  max-width: 840px;
+  max-width: 820px;
   margin: 0 auto;
 }
 
 .md-content__inner {
-  padding-top: 2.2rem;
+  padding-top: 2rem;
   padding-bottom: 3rem;
 }
 
 /* =========================
-   HIDE DOC-STYLE ELEMENTS
+   REMOVE DOC LOOK
 ========================= */
 
-/* Hide automatic page title like "Home" */
+/* Remove "Home" title */
 .md-content__inner > h1:first-child {
   display: none !important;
 }
 
-/* Hide right-side table of contents */
+/* Remove right TOC */
 .md-sidebar--secondary {
   display: none !important;
 }
 
-/* Hide Material footer branding strip */
-.md-footer-meta {
-  display: none !important;
-}
-
 /* =========================
-   TOP NAV
+   NAV
 ========================= */
 
-.md-header__title {
-  font-weight: 600;
-  letter-spacing: 0.01em;
-}
-
 .md-tabs__link {
-  color: #a8b3cf;
-  font-weight: 500;
-  transition: color 0.2s ease;
+  color: var(--text-muted);
 }
 
 .md-tabs__link:hover,
 .md-tabs__link--active {
-  color: #ffffff;
+  color: var(--text-main);
 }
 
 /* =========================
@@ -121,51 +94,29 @@ body {
 
 .md-typeset {
   font-size: 17px;
-  line-height: 1.75;
+  line-height: 1.7;
 }
 
 .md-typeset h1 {
   font-size: 2.8rem;
-  line-height: 1.08;
   font-weight: 650;
-  margin: 0 0 1rem 0;
-  letter-spacing: -0.03em;
-  color: #ffffff;
+  margin-bottom: 1rem;
 }
 
 .md-typeset h2 {
-  font-size: 1.5rem;
-  line-height: 1.2;
-  font-weight: 600;
-  margin-top: 2.7rem;
-  margin-bottom: 0.9rem;
-  color: #ffffff;
+  font-size: 1.4rem;
+  margin-top: 2.5rem;
   border-bottom: 1px solid var(--border);
-  padding-bottom: 0.45rem;
-}
-
-.md-typeset h3 {
-  font-size: 1.1rem;
-  font-weight: 600;
-  margin-top: 1.6rem;
-  margin-bottom: 0.6rem;
-  color: #ffffff;
+  padding-bottom: 6px;
 }
 
 .md-typeset p {
   color: var(--text-soft);
-  line-height: 1.75;
-  margin-bottom: 1rem;
   max-width: 680px;
-}
-
-.md-typeset strong {
-  color: #ffffff;
 }
 
 .md-typeset li {
   color: var(--text-soft);
-  margin-bottom: 0.45rem;
 }
 
 /* =========================
@@ -174,37 +125,10 @@ body {
 
 .md-typeset a {
   color: var(--link);
-  text-decoration: none;
 }
 
 .md-typeset a:hover {
   color: var(--link-hover);
-  text-decoration: underline;
-}
-
-/* =========================
-   LISTS
-========================= */
-
-.md-typeset ul,
-.md-typeset ol {
-  padding-left: 1.2rem;
-  margin-top: 0.5rem;
-}
-
-.md-typeset li::marker {
-  color: #7fa7ff;
-}
-
-/* =========================
-   DIVIDERS
-========================= */
-
-.md-typeset hr {
-  border: none;
-  height: 1px;
-  background: var(--border);
-  margin: 2.2rem 0;
 }
 
 /* =========================
@@ -212,63 +136,49 @@ body {
 ========================= */
 
 .hero {
-  padding: 88px 20px 70px;
+  padding: 80px 20px 60px;
   text-align: center;
-  margin-bottom: 10px;
   border-bottom: 1px solid var(--border);
 }
 
 .hero h1 {
   font-size: 3rem;
-  margin-bottom: 1rem;
 }
 
 .hero p {
-  font-size: 1.12rem;
-  line-height: 1.8;
-  color: var(--text-soft);
   max-width: 700px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.hero .subtext {
-  color: var(--text-muted);
-  margin-top: 0.25rem;
+  margin: auto;
+  color: var(--text-soft);
 }
 
 /* =========================
-   BUTTON LINK
+   BUTTON
 ========================= */
 
 .button-link {
   display: inline-block;
   background: var(--link);
-  color: #ffffff !important;
+  color: white !important;
   padding: 12px 22px;
   border-radius: 8px;
   margin-top: 18px;
   font-weight: 600;
-  transition: background 0.2s ease, transform 0.2s ease;
 }
 
 .button-link:hover {
-  background: #3a6edc;
-  text-decoration: none !important;
-  transform: translateY(-1px);
+  background: var(--link-hover);
 }
 
 /* =========================
-   OPTIONAL SECTION BOXES
+   EARTH ACCENT (SUBTLE AUTHORITY)
 ========================= */
 
-.callout,
 .section-box {
   background: var(--bg-surface);
-  border: 1px solid var(--border);
-  border-radius: 10px;
-  padding: 18px;
-  margin: 22px 0;
+  border-left: 3px solid var(--earth-accent);
+  padding: 16px;
+  margin: 20px 0;
+  border-radius: 6px;
 }
 
 /* =========================
@@ -276,39 +186,6 @@ body {
 ========================= */
 
 .md-footer {
-  background-color: #121416 !important;
+  background-color: var(--bg-main) !important;
   border-top: 1px solid var(--border);
-}
-
-/* =========================
-   MOBILE
-========================= */
-
-@media (max-width: 768px) {
-  .md-content__inner {
-    padding-top: 1.5rem;
-    padding-bottom: 2.2rem;
-  }
-
-  .md-typeset {
-    font-size: 16px;
-  }
-
-  .md-typeset h1,
-  .hero h1 {
-    font-size: 2.15rem;
-  }
-
-  .md-typeset h2 {
-    font-size: 1.3rem;
-  }
-
-  .hero {
-    padding: 56px 14px 48px;
-  }
-
-  .button-link {
-    width: 100%;
-    text-align: center;
-  }
 }
