@@ -2,10 +2,28 @@ site_name: Zachary Lui
 
 theme:
   name: material
+  palette:
+    scheme: slate
+    primary: black
+    accent: amber
+
+  font:
+    text: Inter
+    code: Roboto Mono
+
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
 
 nav:
   - Home: index.md
-  - Marriage Officiant: officiant.md
-  - Projects: projects.md
+  - Services:
+      - Anxiety Treatment: anxiety.md
+      - Marriage Officiant: officiant.md
   - Writing: writing.md
-  - Anxiety: anxiety.md
+  - Projects: projects.md
+
+extra_css:
+  - stylesheets/extra.css
