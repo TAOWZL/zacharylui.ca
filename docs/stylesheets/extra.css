@@ -43,7 +43,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* Header */
 .md-header,
 .md-header__inner,
 .md-tabs,
@@ -64,14 +63,13 @@ body {
   border-bottom: 1px solid var(--border-soft);
 }
 
-/* Layout */
 .md-grid {
   max-width: 1320px;
 }
 
 .md-main__inner,
 .md-content {
-  max-width: 1100px;
+  max-width: 1180px;
   margin: 0 auto;
 }
 
@@ -80,16 +78,14 @@ body {
   padding-bottom: 4rem;
 }
 
-/* Remove docs clutter */
 .md-footer-meta,
-.md-sidebar--secondary,
 .md-breadcrumbs,
 .md-path,
-.md-content__button {
+.md-content__button,
+.md-sidebar--secondary {
   display: none !important;
 }
 
-/* Nav */
 .md-header__title {
   font-weight: 600;
   letter-spacing: 0.01em;
@@ -106,7 +102,6 @@ body {
   color: var(--text-main) !important;
 }
 
-/* Search */
 .md-search__form {
   border: 1px solid var(--border-soft);
   border-radius: 12px;
@@ -116,21 +111,22 @@ body {
   color: var(--text-muted);
 }
 
-/* Typography */
 .md-typeset {
   font-size: 17px;
   line-height: 1.78;
-  max-width: 860px;
+  max-width: 920px;
   margin: 0 auto;
 }
 
 .md-typeset h1 {
   font-size: 3.35rem;
-  line-height: 1.02;
+  line-height: 1.05;
   font-weight: 700;
   letter-spacing: -0.04em;
   margin: 0 0 1.15rem 0;
   color: var(--text-main);
+  word-break: normal;
+  overflow-wrap: normal;
 }
 
 .md-typeset h2 {
@@ -201,7 +197,6 @@ body {
   margin: 3rem 0;
 }
 
-/* Hero */
 .hero {
   padding: 120px 24px 88px;
   text-align: center;
@@ -211,13 +206,15 @@ body {
 
 .hero h1 {
   font-size: 4rem;
-  line-height: 1.02;
+  line-height: 1.04;
   margin-bottom: 1.15rem;
   color: var(--text-main);
-  max-width: 900px;
+  max-width: 980px;
   margin-left: auto;
   margin-right: auto;
   letter-spacing: -0.045em;
+  word-break: normal;
+  overflow-wrap: normal;
   text-wrap: balance;
 }
 
@@ -236,7 +233,6 @@ body {
   margin-top: 0.35rem;
 }
 
-/* Buttons */
 .button-link {
   display: inline-block;
   background: linear-gradient(135deg, #6f97d8, #5578b8);
@@ -260,7 +256,6 @@ body {
   box-shadow: 0 12px 28px rgba(126, 162, 230, 0.28);
 }
 
-/* Optional sections */
 .section-box,
 .callout {
   background: linear-gradient(
@@ -276,13 +271,11 @@ body {
   box-shadow: var(--shadow-soft);
 }
 
-/* Footer */
 .md-footer {
   background-color: var(--bg-main) !important;
   border-top: 1px solid var(--border);
 }
 
-/* Tablet */
 @media (max-width: 1024px) {
   .md-main__inner,
   .md-content {
@@ -295,10 +288,10 @@ body {
 
   .hero h1 {
     font-size: 3.3rem;
+    max-width: 760px;
   }
 }
 
-/* Mobile */
 @media (max-width: 768px) {
   .md-grid {
     max-width: 100%;
