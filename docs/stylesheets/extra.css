@@ -87,10 +87,17 @@ body {
 /* Remove doc leftovers */
 
 .md-content__inner > h1:first-child,
-.md-breadcrumbs,
-.md-path,
 .md-footer-meta,
-.md-sidebar--secondary {
+.md-sidebar--secondary,
+.md-breadcrumbs,
+.md-breadcrumbs__list,
+.md-breadcrumbs__item,
+.md-breadcrumbs__link,
+.md-path,
+.md-path__list,
+.md-path__item,
+.md-path__link,
+.md-content__button {
   display: none !important;
 }
 
@@ -128,6 +135,8 @@ body {
 .md-typeset {
   font-size: 17px;
   line-height: 1.78;
+  max-width: 820px;
+  margin: 0 auto;
 }
 
 .md-typeset h1 {
@@ -176,8 +185,6 @@ body {
   margin-bottom: 0.5rem;
 }
 
-/* Links */
-
 .md-typeset a {
   color: var(--link);
   text-decoration: none;
@@ -211,26 +218,27 @@ body {
     #38414b,
     transparent
   );
-  margin: 3rem 0;
+  margin: 3.5rem 0;
 }
 
 /* Hero */
 
 .hero {
-  padding: 120px 24px 88px;
+  padding: 140px 24px 110px;
   text-align: center;
   border-bottom: 1px solid var(--border);
   margin-bottom: 1rem;
 }
 
 .hero h1 {
-  font-size: 4rem;
+  font-size: 4.4rem;
   line-height: 0.98;
   margin-bottom: 1.15rem;
   color: var(--text-main);
-  max-width: 820px;
+  max-width: 840px;
   margin-left: auto;
   margin-right: auto;
+  letter-spacing: -0.045em;
 }
 
 .hero p {
@@ -240,6 +248,7 @@ body {
   max-width: 760px;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 0.6rem;
 }
 
 .hero .subtext {
@@ -253,14 +262,17 @@ body {
   display: inline-block;
   background: linear-gradient(135deg, #6f97d8, #5578b8);
   color: #ffffff !important;
-  padding: 14px 28px;
-  border-radius: 12px;
+  padding: 16px 34px;
+  border-radius: 14px;
   margin-top: 22px;
   font-weight: 600;
+  font-size: 1.05rem;
   letter-spacing: 0.01em;
   transition: background 0.22s ease, transform 0.22s ease, box-shadow 0.22s ease;
   text-decoration: none !important;
-  box-shadow: var(--shadow-button);
+  box-shadow:
+    0 10px 25px rgba(126, 162, 230, 0.25),
+    0 0 0 1px rgba(255,255,255,0.04) inset;
 }
 
 .button-link:hover {
@@ -330,6 +342,7 @@ body {
   .md-typeset {
     font-size: 16px;
     line-height: 1.68;
+    max-width: 100%;
   }
 
   .md-typeset h1,
@@ -371,6 +384,7 @@ body {
     text-align: center;
     padding: 14px 18px;
     margin-top: 1rem;
+    font-size: 1rem;
   }
 
   .md-nav--primary .md-nav__title {
@@ -402,64 +416,4 @@ body {
   .md-typeset ol {
     padding-left: 1.1rem;
   }
-}/* =========================
-   FINAL POLISH
-========================= */
-
-/* Kill the blue "Home" tag completely */
-.md-path,
-.md-breadcrumbs,
-.md-content__button {
-  display: none !important;
-}
-
-/* Make hero feel like a real landing section */
-.hero {
-  padding: 140px 24px 110px;
-}
-
-/* Bigger, more commanding headline */
-.hero h1 {
-  font-size: 4.4rem;
-  letter-spacing: -0.045em;
-}
-
-/* Slightly more spacing between text lines */
-.hero p {
-  margin-bottom: 0.6rem;
-}
-
-/* Stronger CTA (this is conversion critical) */
-.button-link {
-  padding: 16px 34px;
-  font-size: 1.05rem;
-  border-radius: 14px;
-}
-
-/* Subtle glow (premium feel, not cheesy) */
-.button-link {
-  box-shadow:
-    0 10px 25px rgba(126, 162, 230, 0.25),
-    0 0 0 1px rgba(255,255,255,0.04) inset;
-}
-
-/* Improve divider spacing under hero */
-.md-typeset hr {
-  margin: 3.5rem 0;
-}/* Kill the blue Home breadcrumb/path tag */
-.md-path,
-.md-path__list,
-.md-path__item,
-.md-path__link,
-.md-breadcrumbs,
-.md-breadcrumbs__list,
-.md-breadcrumbs__item,
-.md-breadcrumbs__link {
-  display: none !important;
-}
-
-/* Fallback: hide any tiny top-left breadcrumb line inside content */
-.md-content .md-path,
-.md-content .md-breadcrumbs {
-  display: none !important;
 }
