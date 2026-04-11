@@ -2,18 +2,17 @@
   <h1>Acupuncture for Anxiety &amp; Burnout</h1>
   <p>If your system feels constantly “on,” this work is for you.</p>
   <p class="subtext">Used by professionals dealing with high stress, burnout, and chronic overload.</p>
-  <a href="./anxiety/" class="button-link">Start Here</a>
+  <a href="./anxiety/" class="button-link">Book a Session</a>
 </div>
 
-## What this work is for
+## Who this is for
 
-If this feels familiar:
+This is for people who:
 
-- racing thoughts
-- tight chest
-- poor sleep
-- constant tension
-- burnout
+- can’t shut their mind off
+- wake up tired even after sleep
+- feel wired but exhausted
+- are functioning, but not stable
 
 ## What I actually do
 
@@ -41,5 +40,5 @@ Toronto — Wuji Xuan Life Wellness
 255 Broadview Ave
 
 <div style="text-align:center; margin-top:40px;">
-  <a href="./anxiety/" class="button-link">Book / Learn More</a>
+  <a href="./anxiety/" class="button-link">View Treatment Plan</a>
 </div>
