@@ -1,5 +1,29 @@
 /* =========================
-   GLOBAL BACKGROUND + TEXT
+   FORCE REMOVE MATERIAL BLUE
+========================= */
+
+:root {
+  --md-primary-fg-color: #121416 !important;
+  --md-primary-fg-color--light: #121416 !important;
+  --md-primary-fg-color--dark: #121416 !important;
+  --md-accent-fg-color: #4c8bf5 !important;
+}
+
+/* =========================
+   HEADER + NAV BAR
+========================= */
+
+.md-header,
+.md-header__inner,
+.md-tabs,
+.md-tabs__list {
+  background: #121416 !important;
+  background-image: none !important;
+  box-shadow: none;
+}
+
+/* =========================
+   BODY
 ========================= */
 
 body {
@@ -9,43 +33,7 @@ body {
 }
 
 /* =========================
-   HEADER (REMOVE BLUE)
-========================= */
-
-.md-header,
-.md-tabs {
-  background-color: #121416 !important;
-  background-image: none !important;
-  box-shadow: none;
-}
-
-/* Logo / title */
-.md-header__title {
-  font-weight: 600;
-  letter-spacing: 0.5px;
-}
-
-/* =========================
-   NAVIGATION LINKS
-========================= */
-
-.md-tabs__link {
-  color: #a8b3cf;
-  font-weight: 500;
-  transition: all 0.2s ease;
-}
-
-.md-tabs__link:hover {
-  color: #ffffff;
-}
-
-.md-tabs__link--active {
-  color: #ffffff;
-  border-bottom: 2px solid #4c8bf5;
-}
-
-/* =========================
-   MAIN CONTENT
+   CONTENT WIDTH
 ========================= */
 
 .md-content {
@@ -72,25 +60,13 @@ h2 {
   padding-bottom: 6px;
 }
 
-h3 {
-  margin-top: 25px;
-}
-
 /* =========================
-   TEXT + LISTS
+   TEXT
 ========================= */
 
 p {
   line-height: 1.7;
   margin-bottom: 16px;
-}
-
-ul {
-  margin-left: 20px;
-}
-
-li {
-  margin-bottom: 6px;
 }
 
 /* =========================
@@ -107,29 +83,28 @@ a:hover {
 }
 
 /* =========================
-   CALLOUT / BOX (OPTIONAL USE)
+   NAV LINKS
 ========================= */
 
-.callout {
-  background: #15181c;
-  border-left: 3px solid #4c8bf5;
-  padding: 16px;
-  margin: 20px 0;
-  border-radius: 4px;
+.md-tabs__link {
+  color: #a8b3cf;
+}
+
+.md-tabs__link:hover {
+  color: #ffffff;
+}
+
+.md-tabs__link--active {
+  color: #ffffff;
+  border-bottom: 2px solid #4c8bf5;
 }
 
 /* =========================
-   TABLE OF CONTENTS (RIGHT SIDE)
+   SIDEBAR / TOC
 ========================= */
 
 .md-sidebar--secondary {
   border-left: 1px solid #2a2f36;
-}
-
-.md-nav__title {
-  font-size: 0.75rem;
-  text-transform: uppercase;
-  color: #888;
 }
 
 /* =========================
@@ -142,42 +117,40 @@ a:hover {
 }
 
 /* =========================
-   SCROLLBAR (OPTIONAL)
+   HERO SECTION (HOMEPAGE)
 ========================= */
 
-::-webkit-scrollbar {
-  width: 8px;
+.hero {
+  padding: 60px 20px;
+  text-align: center;
+  margin-bottom: 40px;
+  border-bottom: 1px solid #2a2f36;
 }
 
-::-webkit-scrollbar-thumb {
-  background: #2a2f36;
-  border-radius: 4px;
+.hero h1 {
+  font-size: 2.5rem;
+  margin-bottom: 15px;
+}
+
+.hero p {
+  font-size: 1.1rem;
+  color: #b0b8c5;
 }
 
 /* =========================
-   BUTTON STYLE LINKS (OPTIONAL)
+   BUTTON
 ========================= */
 
 .button-link {
   display: inline-block;
   background: #4c8bf5;
   color: white !important;
-  padding: 10px 16px;
-  border-radius: 4px;
-  margin-top: 10px;
+  padding: 12px 20px;
+  border-radius: 6px;
+  margin-top: 15px;
   font-weight: 500;
 }
 
 .button-link:hover {
   background: #3a6edc;
-}
-
-/* =========================
-   MOBILE OPTIMIZATION
-========================= */
-
-@media (max-width: 768px) {
-  .md-content {
-    padding: 20px;
-  }
 }
