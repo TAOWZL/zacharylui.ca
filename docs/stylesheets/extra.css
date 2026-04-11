@@ -436,4 +436,7 @@ body {
 /* kill any leftover top label block */
 .md-content__inner > .md-typeset > p:first-child {
   display: none !important;
+}/* Absolute kill first element above hero */
+.md-content__inner > *:first-child {
+  display: none !important;
 }
