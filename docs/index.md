@@ -1,17 +1,14 @@
 <div class="hero">
 
-<div class="hero-eyebrow">Toronto • Acupuncture • Nervous System</div>
-
 # Acupuncture for Anxiety & Burnout
 
-If your system feels constantly “on,” this is for you.
+If your system feels constantly “on”  
+this work is for you.
 
-Used by professionals dealing with high stress, burnout, and chronic overload.
+Used by professionals dealing with:
+high stress, burnout, and chronic overload.
 
-<div class="hero-actions">
-  <a href="./anxiety/">Start Here</a>
-  <a href="./officiant/">Marriage Officiant</a>
-</div>
+<a href="./anxiety/" class="button-link">Start Here</a>
 
 </div>
 
@@ -21,52 +18,43 @@ Used by professionals dealing with high stress, burnout, and chronic overload.
 
 If this feels familiar:
 
-- racing thoughts
-- tight chest
-- poor sleep
-- constant tension
-- burnout
+- racing thoughts  
+- tight chest  
+- poor sleep  
+- constant tension  
+- burnout  
 
 ---
 
-<div class="section-card">
-
-## What I do
+## What I actually do
 
 I use structured acupuncture to:
 
-- calm the nervous system
-- reduce baseline anxiety
-- restore stability
+- calm the nervous system  
+- reduce baseline anxiety  
+- restore internal stability  
 
 This is not vague wellness work.  
 This is direct and clinical.
 
-</div>
-
-<div class="section-card">
+---
 
 ## Why this works
 
 Most approaches try to manage anxiety.
 
-This work changes the baseline of your system.
+This changes the baseline system itself.
 
-It is not about coping better.  
-It is about no longer being stuck in overdrive.
+It’s not about coping better.  
+It’s about no longer being stuck in overdrive.
 
-</div>
-
-<div class="section-card">
+---
 
 ## Location
 
-Toronto — Riverdale
+Toronto — Wuji Xuan Life Wellness  
+255 Broadview Ave  
 
-</div>
+---
 
-<div class="cta-band">
-
-**Book:** Text or email to book.
-
-</div>
+<a href="./anxiety/" class="button-link">Book / Learn More</a>
