@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/marriage.md",
+                "file": "docs/officiant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "marriage"
+              "title": "officiant"
             }
           }
         ]
@@ -199,13 +199,13 @@
   },
   "active": "3a80a8cbee4f4e3b",
   "lastOpenFiles": [
+    "docs/marriage.md",
+    "docs/officiant.md",
     "docs/index.md",
     "docs/anxiety.md",
-    "docs/marriage.md",
     "docs/projects.md",
     "mkdocs.yml",
     "docs/writing.md",
-    "docs/officiant.md",
     "docs/CNAME",
     "docs",
     "writing/index.html",
