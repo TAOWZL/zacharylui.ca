@@ -17,7 +17,6 @@
   --earth-accent: #b89a63;
 }
 
-/* Base */
 html {
   scroll-behavior: smooth;
 }
@@ -30,7 +29,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* Kill Material blue */
 .md-header,
 .md-header__inner,
 .md-tabs,
@@ -47,7 +45,6 @@ body {
   background-color: transparent;
 }
 
-/* Layout */
 .md-grid {
   max-width: 1200px;
 }
@@ -63,7 +60,6 @@ body {
   padding-bottom: 3rem;
 }
 
-/* Remove doc leftovers */
 .md-content__inner > h1:first-child {
   display: none !important;
 }
@@ -76,7 +72,6 @@ body {
   display: none !important;
 }
 
-/* Top nav */
 .md-header__title {
   font-weight: 600;
   letter-spacing: 0.01em;
@@ -93,7 +88,6 @@ body {
   color: var(--text-main);
 }
 
-/* Typography */
 .md-typeset {
   font-size: 17px;
   line-height: 1.75;
@@ -143,7 +137,6 @@ body {
   margin-bottom: 0.45rem;
 }
 
-/* Links */
 .md-typeset a {
   color: var(--link);
   text-decoration: none;
@@ -154,7 +147,6 @@ body {
   text-decoration: underline;
 }
 
-/* Lists */
 .md-typeset ul,
 .md-typeset ol {
   padding-left: 1.2rem;
@@ -165,7 +157,6 @@ body {
   color: var(--earth-accent);
 }
 
-/* Divider */
 .md-typeset hr {
   border: none;
   height: 1px;
@@ -173,7 +164,6 @@ body {
   margin: 2.2rem 0;
 }
 
-/* Hero */
 .hero {
   padding: 88px 20px 70px;
   text-align: center;
@@ -201,7 +191,6 @@ body {
   margin-top: 0.25rem;
 }
 
-/* Button */
 .button-link {
   display: inline-block;
   background: var(--link);
@@ -219,7 +208,6 @@ body {
   transform: translateY(-1px);
 }
 
-/* Optional content box */
 .section-box,
 .callout {
   background: var(--bg-surface);
@@ -229,13 +217,11 @@ body {
   margin: 22px 0;
 }
 
-/* Footer */
 .md-footer {
   background-color: var(--bg-main) !important;
   border-top: 1px solid var(--border);
 }
 
-/* Mobile */
 @media (max-width: 768px) {
   .md-content__inner {
     padding-top: 1.5rem;

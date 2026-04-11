@@ -3,9 +3,18 @@ site_url: https://zacharylui.ca/
 
 theme:
   name: material
+  palette:
+    scheme: slate
+
+  font:
+    text: Inter
+    code: Roboto Mono
+
   features:
-    - navigation.tabs
     - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
 
 nav:
   - Home: index.md
