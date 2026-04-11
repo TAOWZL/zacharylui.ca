@@ -3,30 +3,15 @@ site_url: https://zacharylui.ca/
 
 theme:
   name: material
-
-  # 🔥 Kill blue at the source
-  palette:
-    scheme: slate
-    primary: black
-    accent: black
-
-  font:
-    text: Inter
-    code: Roboto Mono
-
   features:
     - navigation.tabs
     - navigation.instant
-    - navigation.sections
-    - content.code.copy
 
-# 🔥 CLEAN NAV (no clutter)
 nav:
   - Home: index.md
   - Acupuncture for Anxiety: anxiety.md
   - Marriage Officiant: officiant.md
 
-# 🔥 CONNECT YOUR CSS (CRITICAL)
 extra_css:
   - stylesheets/extra.css
 
