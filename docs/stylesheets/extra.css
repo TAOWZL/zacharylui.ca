@@ -101,6 +101,17 @@ body {
   display: none !important;
 }
 
+/* remove anchor icons beside headers */
+.md-typeset h1 a,
+.md-typeset h2 a {
+  display: none !important;
+}
+
+/* remove any small top inline title/link fallback */
+.md-content__inner > .md-typeset > p:first-child {
+  display: none !important;
+}
+
 /* Header / nav */
 
 .md-header__title {
@@ -416,27 +427,4 @@ body {
   .md-typeset ol {
     padding-left: 1.1rem;
   }
-}/* =========================
-   REMOVE BLUE "HOME" PILL
-========================= */
-
-/* kill page header link/tag */
-.md-content__button,
-.md-content__button:before,
-.md-content__button:after {
-  display: none !important;
-}
-
-/* kill anchor link icon next to titles */
-.md-typeset h1 a,
-.md-typeset h2 a {
-  display: none !important;
-}
-
-/* kill any leftover top label block */
-.md-content__inner > .md-typeset > p:first-child {
-  display: none !important;
-}/* Absolute kill first element above hero */
-.md-content__inner > *:first-child {
-  display: none !important;
 }

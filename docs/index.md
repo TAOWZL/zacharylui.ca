@@ -1,3 +1,8 @@
+---
+hide:
+  - title
+---
+
 <div class="hero">
   <h1>Acupuncture for Anxiety &amp; Burnout</h1>
   <p>If your system feels constantly “on,” this work is for you.</p>
@@ -18,9 +23,9 @@ This is for people who:
 
 I use structured acupuncture to:
 
-- calm the nervous system
-- reduce baseline anxiety
-- restore internal stability
+- calm the nervous system  
+- reduce baseline anxiety  
+- restore internal stability  
 
 This is direct. Clinical. Measurable.
 
