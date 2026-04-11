@@ -430,5 +430,17 @@ body {
   .md-typeset ul,
   .md-typeset ol {
     padding-left: 1.1rem;
-  }
+  }/* =========================
+   KILL BLUE "HOME" LABEL (FINAL)
+========================= */
+
+/* hide the page title block completely */
+.md-content__inner > .md-typeset > h1 {
+  display: none !important;
+}
+
+/* also kill any anchor link attached to it */
+.md-typeset h1 a {
+  display: none !important;
+}
 }
