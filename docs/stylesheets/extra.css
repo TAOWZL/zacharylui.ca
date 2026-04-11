@@ -402,4 +402,48 @@ body {
   .md-typeset ol {
     padding-left: 1.1rem;
   }
+}/* =========================
+   FINAL POLISH
+========================= */
+
+/* Kill the blue "Home" tag completely */
+.md-path,
+.md-breadcrumbs,
+.md-content__button {
+  display: none !important;
+}
+
+/* Make hero feel like a real landing section */
+.hero {
+  padding: 140px 24px 110px;
+}
+
+/* Bigger, more commanding headline */
+.hero h1 {
+  font-size: 4.4rem;
+  letter-spacing: -0.045em;
+}
+
+/* Slightly more spacing between text lines */
+.hero p {
+  margin-bottom: 0.6rem;
+}
+
+/* Stronger CTA (this is conversion critical) */
+.button-link {
+  padding: 16px 34px;
+  font-size: 1.05rem;
+  border-radius: 14px;
+}
+
+/* Subtle glow (premium feel, not cheesy) */
+.button-link {
+  box-shadow:
+    0 10px 25px rgba(126, 162, 230, 0.25),
+    0 0 0 1px rgba(255,255,255,0.04) inset;
+}
+
+/* Improve divider spacing under hero */
+.md-typeset hr {
+  margin: 3.5rem 0;
 }
