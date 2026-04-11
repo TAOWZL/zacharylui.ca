@@ -3,7 +3,7 @@
 
 <div class="hero-eyebrow">Toronto • Acupuncture • Ritual-informed</div>
 
-# Zachary Lui
+#Zachary Lui
 
 Acupuncture and structured ritual-informed work for anxiety, burnout, and nervous system overload.
 
