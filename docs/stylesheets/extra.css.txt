@@ -1,72 +1,161 @@
-/* =========================
-   GLOBAL RESET / BASE
-========================= */
-
 :root {
-  --md-primary-fg-color: #1c1c1c;
-  --md-accent-fg-color: #c6a85b;
+  --md-primary-fg-color: #141618;
+  --md-accent-fg-color: #c2a85a;
 
-  /* Custom palette */
-  --bg-main: #0f1113;
-  --bg-card: #181b1f;
-  --text-main: #e8e8e8;
-  --text-muted: #a8a8a8;
-  --gold: #c6a85b;
-  --gold-soft: #e0c97a;
+  --bg-main: #0e1114;
+  --bg-card: #161a1f;
+  --bg-card-2: #1b2127;
+
+  --text-main: #e8e3d8;
+  --text-soft: #cfc7b8;
+  --text-muted: #8e938f;
+
+  --gold: #c2a85a;
+  --gold-soft: #e6d3a3;
+
+  --accent-earth: #2a332b;
+  --accent-depth: #1f2622;
+
+  --border-soft: rgba(255, 255, 255, 0.06);
+  --border-gold: rgba(194, 168, 90, 0.22);
+
+  --shadow-soft: 0 10px 30px rgba(0, 0, 0, 0.24);
+  --shadow-gold: 0 8px 24px rgba(194, 168, 90, 0.22);
 }
 
 /* Base */
-body {
-  background-color: var(--bg-main);
-  color: var(--text-main);
+html {
+  scroll-behavior: smooth;
 }
 
-/* =========================
-   TYPOGRAPHY
-========================= */
+body {
+  background:
+    radial-gradient(circle at 20% 10%, rgba(42, 51, 43, 0.24), transparent 38%),
+    radial-gradient(circle at 85% 20%, rgba(194, 168, 90, 0.06), transparent 25%),
+    var(--bg-main);
+  color: var(--text-main);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Header / nav */
+.md-header {
+  background-color: rgba(20, 22, 24, 0.92);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--border-soft);
+}
+
+.md-tabs {
+  background-color: rgba(20, 22, 24, 0.96);
+  border-bottom: 1px solid var(--border-soft);
+}
+
+.md-header__title,
+.md-tabs__link,
+.md-nav__link {
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.md-tabs__link--active,
+.md-nav__link--active,
+.md-tabs__link:hover,
+.md-nav__link:hover {
+  color: var(--gold);
+}
+
+/* Layout */
+.md-main__inner {
+  max-width: 760px;
+}
+
+.md-content__inner {
+  padding-top: 1.8rem;
+  padding-bottom: 3.2rem;
+}
+
+/* Typography */
+.md-typeset {
+  font-size: 17px;
+  line-height: 1.7;
+}
 
 .md-typeset h1 {
-  font-size: 2.4rem;
-  font-weight: 600;
-  letter-spacing: -0.02em;
+  font-size: 2.6rem;
+  font-weight: 650;
+  letter-spacing: -0.03em;
+  line-height: 1.08;
   margin-top: 0.2rem;
-  margin-bottom: 1.2rem;
+  margin-bottom: 1rem;
+  color: var(--text-main);
 }
 
 .md-typeset h2 {
-  font-size: 1.4rem;
-  font-weight: 500;
-  margin-top: 2.5rem;
+  font-size: 1.45rem;
+  font-weight: 600;
+  margin-top: 2.4rem;
   margin-bottom: 0.8rem;
   color: var(--gold-soft);
+  letter-spacing: -0.01em;
+}
+
+.md-typeset h3 {
+  font-size: 1.08rem;
+  font-weight: 600;
+  margin-top: 1.6rem;
+  margin-bottom: 0.55rem;
+  color: var(--text-main);
 }
 
 .md-typeset p {
-  font-size: 1rem;
-  line-height: 1.6;
-  color: var(--text-main);
+  color: var(--text-soft);
+  margin-bottom: 1rem;
 }
 
 .md-typeset li {
+  color: var(--text-soft);
   margin-bottom: 0.4rem;
+}
+
+.md-typeset strong {
   color: var(--text-main);
 }
 
-/* =========================
-   HERO SECTION
-========================= */
+/* Links */
+.md-typeset a {
+  color: var(--gold);
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
 
+.md-typeset a:hover {
+  color: var(--gold-soft);
+  text-decoration: underline;
+}
+
+/* Hero */
 .hero {
-  padding-top: 3.8rem;
-  padding-bottom: 2.5rem;
+  padding-top: 4rem;
+  padding-bottom: 2.8rem;
 }
 
 .hero-eyebrow {
-  font-size: 0.75rem;
+  display: inline-block;
+  font-size: 0.76rem;
   letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--text-muted);
-  margin-bottom: 0.8rem;
+  margin-bottom: 0.85rem;
+  padding: 0.3rem 0.7rem;
+  border: 1px solid var(--border-gold);
+  border-radius: 999px;
+  background: rgba(194, 168, 90, 0.05);
+}
+
+.hero p {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  max-width: 640px;
 }
 
 .hero-actions {
@@ -76,106 +165,137 @@ body {
   flex-wrap: wrap;
 }
 
-/* =========================
-   BUTTONS (CTA)
-========================= */
-
 .hero-actions a {
   text-decoration: none;
-  padding: 0.6rem 1.2rem;
-  border-radius: 6px;
-  font-size: 0.85rem;
-  font-weight: 500;
-  transition: all 0.2s ease;
+  padding: 0.72rem 1.25rem;
+  border-radius: 999px;
+  font-size: 0.88rem;
+  font-weight: 600;
+  transition: all 0.22s ease;
 }
 
-/* Primary button */
+/* Primary CTA */
 .hero-actions a:first-child {
-  background: var(--gold);
-  color: #000;
+  background: linear-gradient(135deg, #c2a85a, #e6d3a3);
+  color: #111111;
+  box-shadow: var(--shadow-gold);
+  border: 1px solid rgba(230, 211, 163, 0.35);
 }
 
-/* Secondary button */
+/* Secondary CTA */
 .hero-actions a:last-child {
-  border: 1px solid var(--gold);
+  border: 1px solid var(--border-gold);
   color: var(--gold);
+  background: rgba(255, 255, 255, 0.01);
 }
 
 .hero-actions a:hover {
-  transform: translateY(-1px);
-  opacity: 0.9;
+  transform: translateY(-2px);
 }
 
-/* =========================
-   SECTION CARDS
-========================= */
+.hero-actions a:first-child:hover {
+  box-shadow: 0 10px 28px rgba(194, 168, 90, 0.28);
+}
 
+.hero-actions a:last-child:hover {
+  background: rgba(194, 168, 90, 0.06);
+  border-color: rgba(230, 211, 163, 0.35);
+}
+
+/* Section cards */
 .section-card {
-  background: var(--bg-card);
+  background: linear-gradient(
+    145deg,
+    rgba(255, 255, 255, 0.025),
+    rgba(255, 255, 255, 0.01)
+  );
+  backdrop-filter: blur(6px);
   padding: 1.6rem;
-  border-radius: 10px;
+  border-radius: 14px;
   margin-top: 2rem;
-  border: 1px solid rgba(255,255,255,0.04);
+  border: 1px solid var(--border-soft);
+  box-shadow: var(--shadow-soft);
 }
 
-/* =========================
-   CTA BAND
-========================= */
-
+/* CTA band */
 .cta-band {
   margin-top: 3rem;
-  padding: 1.2rem;
+  padding: 1.2rem 1.25rem;
   text-align: center;
-  border-top: 1px solid rgba(255,255,255,0.08);
-  color: var(--gold);
-  font-weight: 500;
+  border: 1px solid var(--border-gold);
+  border-radius: 14px;
+  background: linear-gradient(
+    135deg,
+    rgba(194, 168, 90, 0.08),
+    rgba(255, 255, 255, 0.015)
+  );
+  color: var(--gold-soft);
+  font-weight: 600;
+  box-shadow: var(--shadow-soft);
 }
 
-/* =========================
-   LINKS
-========================= */
-
-a {
-  color: var(--gold);
-  text-decoration: none;
+/* Lines / dividers */
+.md-typeset hr {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(
+    to right,
+    transparent,
+    rgba(194, 168, 90, 0.28),
+    transparent
+  );
+  margin: 2rem 0;
 }
 
-a:hover {
-  text-decoration: underline;
+/* Lists */
+.md-typeset ul,
+.md-typeset ol {
+  padding-left: 1.2rem;
 }
 
-/* =========================
-   NAV BAR CLEANUP
-========================= */
-
-.md-header {
-  background-color: #141618;
-  border-bottom: 1px solid rgba(255,255,255,0.05);
+/* Optional nicer blockquotes */
+.md-typeset blockquote {
+  background: rgba(255, 255, 255, 0.02);
+  border-left: 3px solid var(--gold);
+  padding: 0.9rem 1rem;
+  border-radius: 0 10px 10px 0;
+  color: var(--text-soft);
 }
 
-.md-tabs {
-  background-color: #141618;
+/* Sidebar cleanup */
+.md-sidebar__inner {
+  padding-top: 0.8rem;
 }
 
-/* =========================
-   SPACING + LAYOUT
-========================= */
+/* Mobile */
+@media screen and (max-width: 768px) {
+  .md-main__inner {
+    max-width: 100%;
+  }
 
-.md-main__inner {
-  max-width: 720px;
-}
+  .md-typeset {
+    font-size: 16px;
+  }
 
-/* =========================
-   SUBTLE PREMIUM TOUCHES
-========================= */
+  .md-typeset h1 {
+    font-size: 2rem;
+  }
 
-/* smoother feel */
-* {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+  .md-typeset h2 {
+    font-size: 1.28rem;
+  }
 
-/* scroll feel */
-html {
-  scroll-behavior: smooth;
+  .hero {
+    padding-top: 2.8rem;
+    padding-bottom: 2rem;
+  }
+
+  .hero-actions {
+    gap: 0.8rem;
+  }
+
+  .hero-actions a {
+    width: 100%;
+    text-align: center;
+  }
 }
