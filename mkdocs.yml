@@ -1,0 +1,10 @@
+site_name: Zachary Lui
+
+nav:
+  - Home: index.md
+  - Acupuncture: acupuncture.md
+  - Officiant: officiant.md
+  - Book: book.md
+
+theme:
+  name: material
