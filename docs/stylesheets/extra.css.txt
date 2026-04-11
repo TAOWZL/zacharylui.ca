@@ -1,37 +1,36 @@
 :root {
-  --md-primary-fg-color: #141618;
-  --md-accent-fg-color: #c2a85a;
+  --md-primary-fg-color: #121416;
+  --md-accent-fg-color: #c3a35a;
 
-  --bg-main: #0e1114;
-  --bg-card: #161a1f;
-  --bg-card-2: #1b2127;
+  --bg-main: #0d1012;
+  --bg-surface: #15191d;
+  --bg-surface-2: #1b2025;
 
-  --text-main: #e8e3d8;
-  --text-soft: #cfc7b8;
-  --text-muted: #8e938f;
+  --text-main: #ece4d7;
+  --text-soft: #d2c7b4;
+  --text-muted: #8d938d;
 
-  --gold: #c2a85a;
-  --gold-soft: #e6d3a3;
+  --gold: #c3a35a;
+  --gold-soft: #e2c98d;
 
-  --accent-earth: #2a332b;
-  --accent-depth: #1f2622;
+  --earth-green: #273128;
+  --earth-green-soft: rgba(39, 49, 40, 0.24);
 
-  --border-soft: rgba(255, 255, 255, 0.06);
-  --border-gold: rgba(194, 168, 90, 0.22);
+  --border-soft: rgba(255,255,255,0.06);
+  --border-gold: rgba(195,163,90,0.24);
 
-  --shadow-soft: 0 10px 30px rgba(0, 0, 0, 0.24);
-  --shadow-gold: 0 8px 24px rgba(194, 168, 90, 0.22);
+  --shadow-soft: 0 10px 28px rgba(0,0,0,0.24);
+  --shadow-gold: 0 8px 22px rgba(195,163,90,0.20);
 }
 
-/* Base */
 html {
   scroll-behavior: smooth;
 }
 
 body {
   background:
-    radial-gradient(circle at 20% 10%, rgba(42, 51, 43, 0.24), transparent 38%),
-    radial-gradient(circle at 85% 20%, rgba(194, 168, 90, 0.06), transparent 25%),
+    radial-gradient(circle at 18% 10%, var(--earth-green-soft), transparent 34%),
+    radial-gradient(circle at 82% 16%, rgba(195,163,90,0.06), transparent 22%),
     var(--bg-main);
   color: var(--text-main);
   -webkit-font-smoothing: antialiased;
@@ -40,13 +39,13 @@ body {
 
 /* Header / nav */
 .md-header {
-  background-color: rgba(20, 22, 24, 0.92);
+  background: rgba(18, 20, 22, 0.92);
   backdrop-filter: blur(8px);
   border-bottom: 1px solid var(--border-soft);
 }
 
 .md-tabs {
-  background-color: rgba(20, 22, 24, 0.96);
+  background: rgba(18, 20, 22, 0.96);
   border-bottom: 1px solid var(--border-soft);
 }
 
@@ -74,7 +73,7 @@ body {
   padding-bottom: 3.2rem;
 }
 
-/* Hide generic page title like "Home" so the real hero leads */
+/* Hide generic top page title like Home */
 .md-typeset h1:first-of-type {
   display: none;
 }
@@ -82,32 +81,32 @@ body {
 /* Typography */
 .md-typeset {
   font-size: 17px;
-  line-height: 1.7;
+  line-height: 1.72;
 }
 
 .md-typeset h1 {
-  font-size: 2.6rem;
+  font-size: 2.7rem;
   font-weight: 650;
-  letter-spacing: -0.03em;
-  line-height: 1.08;
+  line-height: 1.06;
+  letter-spacing: -0.035em;
   margin-top: 0.2rem;
   margin-bottom: 1rem;
   color: var(--text-main);
 }
 
 .md-typeset h2 {
-  font-size: 1.45rem;
+  font-size: 1.42rem;
   font-weight: 600;
+  line-height: 1.2;
   margin-top: 2.4rem;
   margin-bottom: 0.8rem;
   color: var(--gold-soft);
-  letter-spacing: -0.01em;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  border-bottom: 1px solid rgba(255,255,255,0.06);
   padding-bottom: 0.4rem;
 }
 
 .md-typeset h3 {
-  font-size: 1.08rem;
+  font-size: 1.06rem;
   font-weight: 600;
   margin-top: 1.6rem;
   margin-bottom: 0.55rem;
@@ -116,8 +115,8 @@ body {
 
 .md-typeset p {
   color: var(--text-soft);
-  margin-bottom: 1rem;
   max-width: 640px;
+  margin-bottom: 1rem;
 }
 
 .md-typeset li {
@@ -143,7 +142,7 @@ body {
 
 /* Hero */
 .hero {
-  padding-top: 4.5rem;
+  padding-top: 4.4rem;
   padding-bottom: 3rem;
   position: relative;
 }
@@ -151,15 +150,11 @@ body {
 .hero::before {
   content: "";
   position: absolute;
-  top: -40px;
-  left: -80px;
-  width: 400px;
-  height: 400px;
-  background: radial-gradient(
-    circle,
-    rgba(194, 168, 90, 0.12),
-    transparent 70%
-  );
+  top: -50px;
+  left: -90px;
+  width: 420px;
+  height: 420px;
+  background: radial-gradient(circle, rgba(195,163,90,0.12), transparent 70%);
   z-index: 0;
 }
 
@@ -178,7 +173,7 @@ body {
   padding: 0.3rem 0.7rem;
   border: 1px solid var(--border-gold);
   border-radius: 999px;
-  background: rgba(194, 168, 90, 0.05);
+  background: rgba(195,163,90,0.05);
 }
 
 .hero p {
@@ -196,26 +191,24 @@ body {
 
 .hero-actions a {
   text-decoration: none;
-  padding: 0.72rem 1.25rem;
+  padding: 0.74rem 1.26rem;
   border-radius: 999px;
   font-size: 0.88rem;
   font-weight: 600;
   transition: all 0.22s ease;
 }
 
-/* Primary CTA */
 .hero-actions a:first-child {
-  background: linear-gradient(135deg, #c2a85a, #e6d3a3);
+  background: linear-gradient(135deg, #c3a35a, #e2c98d);
   color: #111111;
   box-shadow: var(--shadow-gold);
-  border: 1px solid rgba(230, 211, 163, 0.35);
+  border: 1px solid rgba(226,201,141,0.35);
 }
 
-/* Secondary CTA */
 .hero-actions a:last-child {
   border: 1px solid var(--border-gold);
   color: var(--gold);
-  background: rgba(255, 255, 255, 0.01);
+  background: rgba(255,255,255,0.01);
 }
 
 .hero-actions a:hover {
@@ -223,20 +216,20 @@ body {
 }
 
 .hero-actions a:first-child:hover {
-  box-shadow: 0 10px 28px rgba(194, 168, 90, 0.28);
+  box-shadow: 0 10px 28px rgba(195,163,90,0.28);
 }
 
 .hero-actions a:last-child:hover {
-  background: rgba(194, 168, 90, 0.06);
-  border-color: rgba(230, 211, 163, 0.35);
+  background: rgba(195,163,90,0.06);
+  border-color: rgba(226,201,141,0.35);
 }
 
-/* Section cards */
+/* Cards */
 .section-card {
   background: linear-gradient(
     145deg,
-    rgba(255, 255, 255, 0.025),
-    rgba(255, 255, 255, 0.01)
+    rgba(255,255,255,0.024),
+    rgba(255,255,255,0.01)
   );
   backdrop-filter: blur(6px);
   padding: 1.6rem;
@@ -246,7 +239,7 @@ body {
   box-shadow: var(--shadow-soft);
 }
 
-/* CTA band */
+/* CTA */
 .cta-band {
   margin-top: 3rem;
   padding: 1.2rem 1.25rem;
@@ -255,22 +248,22 @@ body {
   border-radius: 14px;
   background: linear-gradient(
     135deg,
-    rgba(194, 168, 90, 0.08),
-    rgba(255, 255, 255, 0.015)
+    rgba(195,163,90,0.08),
+    rgba(255,255,255,0.015)
   );
   color: var(--gold-soft);
   font-weight: 600;
   box-shadow: var(--shadow-soft);
 }
 
-/* Lines / dividers */
+/* Divider */
 .md-typeset hr {
   border: 0;
   height: 1px;
   background: linear-gradient(
     to right,
     transparent,
-    rgba(194, 168, 90, 0.28),
+    rgba(195,163,90,0.28),
     transparent
   );
   margin: 2rem 0;
@@ -297,18 +290,18 @@ body {
   color: var(--gold);
 }
 
-/* Optional nicer blockquotes */
+/* Blockquote */
 .md-typeset blockquote {
-  background: rgba(255, 255, 255, 0.02);
+  background: rgba(255,255,255,0.02);
   border-left: 3px solid var(--gold);
   padding: 0.9rem 1rem;
   border-radius: 0 10px 10px 0;
   color: var(--text-soft);
 }
 
-/* Sidebar cleanup */
-.md-sidebar__inner {
-  padding-top: 0.8rem;
+/* Hide theme footer branding */
+.md-footer-meta {
+  display: none;
 }
 
 /* Mobile */
@@ -326,7 +319,7 @@ body {
   }
 
   .md-typeset h2 {
-    font-size: 1.28rem;
+    font-size: 1.26rem;
   }
 
   .hero {
@@ -344,7 +337,7 @@ body {
   }
 
   .hero::before {
-    left: -120px;
+    left: -130px;
     width: 280px;
     height: 280px;
   }

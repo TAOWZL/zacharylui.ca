@@ -1,11 +1,12 @@
 site_name: Zachary Lui
+site_url: https://zacharylui.ca/
 
 theme:
   name: material
   palette:
     scheme: slate
-    primary: black
-    accent: amber
+    primary: custom
+    accent: custom
 
   font:
     text: Inter
@@ -22,7 +23,6 @@ nav:
   - Acupuncture for Anxiety: anxiety.md
   - Marriage Officiant: officiant.md
   - Writing: writing.md
- 
 
 extra_css:
   - stylesheets/extra.css
