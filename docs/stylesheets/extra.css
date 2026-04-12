@@ -1,280 +1,370 @@
+/* =========================================================
+   ZACHARYLUI.CA
+   Imperial Shanghai / Magician / High-End Ritual Clinic
+   Palette:
+   Red   #7A0C0C
+   Gold  #C6A75E
+   Charcoal #0F0F0F
+   Ivory #EAE3D2
+   ========================================================= */
+
+/* ---------- Base ---------- */
 :root {
-  --zl-bg: #090a0c;
-  --zl-bg-elev: #111418;
-  --zl-bg-soft: #171b20;
-  --zl-panel: rgba(255, 255, 255, 0.03);
-
-  --zl-text: #eee6d8;
-  --zl-text-soft: #b9af9d;
-  --zl-text-muted: #8f8779;
-
-  --zl-red: #6f1e2a;
-  --zl-red-hover: #832634;
-  --zl-red-deep: #56161f;
-
-  --zl-gold: #b08a4a;
-  --zl-gold-light: #c39a59;
-  --zl-gold-soft: rgba(176, 138, 74, 0.14);
-
-  --zl-line: rgba(176, 138, 74, 0.16);
-  --zl-line-strong: rgba(176, 138, 74, 0.30);
-
-  --zl-shadow: 0 16px 40px rgba(0, 0, 0, 0.36);
-
-  --md-default-bg-color: var(--zl-bg);
-  --md-default-fg-color: var(--zl-text);
-  --md-default-fg-color--light: var(--zl-text-soft);
-  --md-default-fg-color--lighter: var(--zl-text-muted);
-
-  --md-primary-fg-color: var(--zl-bg);
-  --md-primary-fg-color--light: var(--zl-bg-elev);
-  --md-primary-fg-color--dark: #060709;
-
-  --md-accent-fg-color: var(--zl-red);
-  --md-typeset-a-color: var(--zl-gold);
+  --zl-red: #7A0C0C;
+  --zl-red-deep: #5E0909;
+  --zl-gold: #C6A75E;
+  --zl-gold-soft: #D7BC7A;
+  --zl-bg: #0F0F0F;
+  --zl-bg-soft: #171717;
+  --zl-panel: #141414;
+  --zl-panel-2: #1B1B1B;
+  --zl-border: #2A2A2A;
+  --zl-text: #EAE3D2;
+  --zl-text-soft: #CFC6B2;
+  --zl-text-muted: #A99F8B;
+  --zl-link: #C6A75E;
+  --zl-link-hover: #E3C983;
+  --zl-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
 }
 
-/* =========================================================
-   BASE
-   ========================================================= */
-
-html, body {
-  background: var(--zl-bg);
-  color: var(--zl-text);
+/* ---------- Overall page ---------- */
+body,
+.md-container,
+.md-main,
+.md-main__inner,
+.md-content,
+.md-content__inner {
+  background: var(--zl-bg) !important;
+  color: var(--zl-text) !important;
 }
 
-body {
-  letter-spacing: 0.01em;
-  text-rendering: optimizeLegibility;
-}
-
-.md-grid {
-  max-width: 1240px;
-}
-
-.md-main {
-  background:
-    linear-gradient(to bottom, rgba(176, 138, 74, 0.03), transparent 12rem),
-    linear-gradient(to bottom, #090a0c, #0b0d10);
-}
-
-/* =========================================================
-   HEADER
-   ========================================================= */
-
+/* ---------- Header ---------- */
 .md-header {
-  background: rgba(9, 10, 12, 0.95) !important;
-  border-bottom: 1px solid var(--zl-line-strong);
-  backdrop-filter: blur(10px);
+  background: linear-gradient(180deg, #160909 0%, #0F0F0F 100%) !important;
+  color: var(--zl-text) !important;
+  border-bottom: 1px solid rgba(198, 167, 94, 0.2);
+  box-shadow: var(--zl-shadow);
 }
 
 .md-header__title,
+.md-header__topic,
+.md-logo,
 .md-header__button {
   color: var(--zl-text) !important;
 }
 
-.md-header__title:hover,
-.md-header__button:hover {
-  color: var(--zl-gold-light) !important;
+/* ---------- Tabs ---------- */
+.md-tabs {
+  background: #130d0d !important;
+  border-bottom: 1px solid rgba(198, 167, 94, 0.15);
 }
 
-/* =========================================================
-   NAVIGATION
-   ========================================================= */
+.md-tabs__link {
+  color: var(--zl-text-soft) !important;
+  opacity: 1 !important;
+}
 
-.md-nav--primary .md-nav__title,
-.md-nav--secondary .md-nav__title {
+.md-tabs__link:hover,
+.md-tabs__link--active {
+  color: var(--zl-gold-soft) !important;
+}
+
+/* ---------- Sidebar ---------- */
+.md-sidebar,
+.md-sidebar__scrollwrap,
+.md-nav,
+.md-nav__list {
+  background: var(--zl-bg) !important;
+}
+
+.md-nav__title {
+  color: var(--zl-gold) !important;
   background: transparent !important;
-  color: var(--zl-gold);
-  border-bottom: 1px solid var(--zl-line);
+  box-shadow: none !important;
+  border-bottom: 1px solid rgba(198, 167, 94, 0.12);
 }
 
 .md-nav__link {
-  color: var(--zl-text-soft);
+  color: var(--zl-text-soft) !important;
 }
 
-.md-nav__link:hover {
-  color: var(--zl-gold-light);
-}
-
+.md-nav__link:hover,
 .md-nav__link--active {
-  color: var(--zl-text);
+  color: var(--zl-gold-soft) !important;
+}
+
+.md-nav__item .md-nav__link--active,
+.md-nav__item .md-nav__link:focus {
   font-weight: 600;
 }
 
-.md-nav__link--active::before {
-  content: "";
-  width: 0.35rem;
-  height: 0.35rem;
-  background: var(--zl-red);
-  border-radius: 50%;
-  display: inline-block;
-  margin-right: 0.4rem;
+/* ---------- Search ---------- */
+.md-search__form {
+  background: #1A1A1A !important;
+  border: 1px solid var(--zl-border);
+  border-radius: 10px;
 }
 
-/* =========================================================
-   TYPOGRAPHY
-   ========================================================= */
+.md-search__input,
+.md-search__input::placeholder {
+  color: var(--zl-text-soft) !important;
+}
 
+.md-search-result,
+.md-search-result__meta {
+  background: var(--zl-panel) !important;
+  color: var(--zl-text) !important;
+}
+
+/* ---------- Content area ---------- */
 .md-typeset {
-  font-size: 0.84rem;
-  line-height: 1.78;
-}
-
-.md-typeset p,
-.md-typeset li {
-  color: var(--zl-text-soft);
-}
-
-.md-typeset strong {
-  color: var(--zl-text);
+  color: var(--zl-text) !important;
 }
 
 .md-typeset h1 {
-  font-size: 2.2rem;
-  border-bottom: 1px solid var(--zl-line-strong);
-  padding-bottom: 0.6rem;
+  color: var(--zl-gold-soft) !important;
+  font-weight: 700;
+  letter-spacing: 0.02em;
 }
 
-.md-typeset h2 {
-  color: var(--zl-gold);
-  margin-top: 2.5rem;
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  color: var(--zl-gold) !important;
+  font-weight: 600;
 }
 
-.md-typeset h3 {
-  margin-top: 1.8rem;
+.md-typeset p,
+.md-typeset li,
+.md-typeset td,
+.md-typeset th,
+.md-typeset label {
+  color: var(--zl-text) !important;
 }
 
-.md-typeset h4 {
-  text-transform: uppercase;
-  color: var(--zl-text-muted);
+/* ---------- Links ---------- */
+.md-typeset a,
+.md-nav__link,
+.md-tabs__link {
+  transition: color 0.2s ease, opacity 0.2s ease;
 }
-
-/* =========================================================
-   LINKS
-   ========================================================= */
 
 .md-typeset a {
-  color: var(--zl-gold);
+  color: var(--zl-link) !important;
+  text-decoration-color: rgba(198, 167, 94, 0.45);
 }
 
 .md-typeset a:hover {
-  color: var(--zl-gold-light);
+  color: var(--zl-link-hover) !important;
+  text-decoration-color: rgba(227, 201, 131, 0.8);
 }
 
-/* =========================================================
-   BUTTONS
-   ========================================================= */
-
+/* ---------- Buttons ---------- */
 .md-button {
-  border-radius: 0.35rem;
-  border: 1px solid var(--zl-line-strong);
-  background: rgba(255,255,255,0.02);
-  color: var(--zl-text);
+  border-radius: 999px !important;
+  padding: 0.7em 1.25em !important;
+  font-weight: 600;
+  transition: all 0.2s ease;
 }
 
-.md-button:hover {
-  border-color: var(--zl-gold);
-  color: var(--zl-gold-light);
+.md-button--primary,
+.md-typeset .md-button {
+  background: var(--zl-gold) !important;
+  border-color: var(--zl-gold) !important;
+  color: #120E08 !important;
 }
 
-.md-button--primary {
-  background: linear-gradient(180deg, var(--zl-red-hover), var(--zl-red-deep));
-  border-color: var(--zl-red);
-  color: #f8f3eb !important;
-  box-shadow: var(--zl-shadow);
+.md-button--primary:hover,
+.md-typeset .md-button:hover {
+  background: var(--zl-gold-soft) !important;
+  border-color: var(--zl-gold-soft) !important;
+  color: #120E08 !important;
 }
 
-.md-button--primary:hover {
-  background: linear-gradient(180deg, #91303f, #631922);
+.md-button:not(.md-button--primary) {
+  background: transparent !important;
+  border: 1px solid var(--zl-gold) !important;
+  color: var(--zl-gold) !important;
 }
 
-/* =========================================================
-   PANELS
-   ========================================================= */
-
-.hero-panel {
-  background:
-    linear-gradient(180deg, rgba(176, 138, 74, 0.07), rgba(255,255,255,0.02));
-  border: 1px solid var(--zl-line-strong);
-  border-radius: 0.65rem;
-  padding: 1.4rem;
-  box-shadow: var(--zl-shadow);
+.md-button:not(.md-button--primary):hover {
+  background: rgba(198, 167, 94, 0.08) !important;
+  color: var(--zl-gold-soft) !important;
+  border-color: var(--zl-gold-soft) !important;
 }
 
-.section-panel {
-  background: var(--zl-panel);
-  border: 1px solid var(--zl-line);
-  border-radius: 0.6rem;
-  padding: 1rem;
+/* ---------- Cards / boxes / admonitions ---------- */
+.md-typeset .admonition,
+.md-typeset details,
+.md-typeset table:not([class]) {
+  background: var(--zl-panel) !important;
+  border: 1px solid var(--zl-border) !important;
+  box-shadow: none !important;
 }
 
-/* =========================================================
-   CARDS
-   ========================================================= */
-
-.grid.cards > ul > li {
-  background: rgba(255,255,255,0.02);
-  border: 1px solid var(--zl-line);
-  border-radius: 0.6rem;
-  transition: 0.2s;
+.md-typeset .admonition-title,
+.md-typeset summary {
+  background: rgba(122, 12, 12, 0.22) !important;
+  color: var(--zl-gold-soft) !important;
+  border-bottom: 1px solid rgba(198, 167, 94, 0.12);
 }
 
-.grid.cards > ul > li:hover {
-  transform: translateY(-2px);
-  border-color: var(--zl-line-strong);
+/* ---------- Tables ---------- */
+.md-typeset table:not([class]) th {
+  background: #181212 !important;
+  color: var(--zl-gold) !important;
+  border-bottom: 1px solid var(--zl-border) !important;
 }
 
-/* =========================================================
-   TABLES
-   ========================================================= */
-
-table {
-  border: 1px solid var(--zl-line);
+.md-typeset table:not([class]) td {
+  background: var(--zl-panel) !important;
+  color: var(--zl-text) !important;
+  border-top: 1px solid rgba(198, 167, 94, 0.08) !important;
 }
 
-th {
-  background: var(--zl-gold-soft);
-  color: var(--zl-gold);
+/* ---------- Code ---------- */
+.md-typeset code,
+.md-typeset pre,
+.highlight,
+.highlighttable {
+  background: #161616 !important;
+  color: var(--zl-text) !important;
+  border: 1px solid var(--zl-border);
 }
 
-/* =========================================================
-   CODE
-   ========================================================= */
-
-code {
-  background: rgba(255,255,255,0.05);
-  border: 1px solid var(--zl-line);
+.md-typeset code {
+  color: var(--zl-gold-soft) !important;
 }
 
-pre {
-  background: #101317;
+/* ---------- Blockquote ---------- */
+.md-typeset blockquote {
+  border-left: 3px solid var(--zl-gold) !important;
+  color: var(--zl-text-soft) !important;
+  background: rgba(198, 167, 94, 0.04);
+  padding: 0.8rem 1rem;
 }
 
-/* =========================================================
-   FOOTER REMOVAL
-   ========================================================= */
+/* ---------- Footer ---------- */
+.md-footer,
+.md-footer-meta {
+  background: #0B0B0B !important;
+  color: var(--zl-text-muted) !important;
+  border-top: 1px solid rgba(198, 167, 94, 0.12);
+}
 
-.md-footer-meta,
+.md-footer a,
+.md-footer-meta a {
+  color: var(--zl-gold) !important;
+}
+
+/* Hide "Made with Material for MkDocs" if still showing */
 .md-footer-meta__inner,
-.md-footer-meta__inner > div {
+.md-copyright {
+  color: var(--zl-text-muted) !important;
+}
+
+.md-powered-by,
+.md-generator,
+.md-copyright__highlight {
   display: none !important;
 }
 
-.md-footer {
-  background: #07080a;
-  border-top: 1px solid var(--zl-line);
-  padding-bottom: 0 !important;
+/* ---------- Top progress / accent blue removals ---------- */
+[data-md-color-scheme="default"],
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #7A0C0C;
+  --md-primary-fg-color--light: #9E3A3A;
+  --md-primary-fg-color--dark: #5E0909;
+  --md-accent-fg-color: #C6A75E;
+  --md-accent-fg-color--transparent: rgba(198, 167, 94, 0.12);
+  --md-default-bg-color: #0F0F0F;
+  --md-default-fg-color: #EAE3D2;
+  --md-default-fg-color--light: #CFC6B2;
+  --md-default-fg-color--lighter: #A99F8B;
+  --md-typeset-a-color: #C6A75E;
 }
 
-/* =========================================================
-   SCROLLBAR
-   ========================================================= */
-
-*::-webkit-scrollbar {
-  width: 10px;
+/* Remove random blue highlights */
+.md-top,
+.md-ellipsis,
+.md-tag,
+.md-clipboard,
+.md-source,
+.md-source__icon,
+.md-icon,
+.md-header-nav__button {
+  color: inherit !important;
 }
 
-*::-webkit-scrollbar-thumb {
-  background: rgba(176, 138, 74, 0.3);
+/* ---------- Hero section polish if homepage uses buttons ---------- */
+.md-typeset .grid.cards > ul > li,
+.md-typeset .card {
+  background: linear-gradient(180deg, #151515 0%, #111111 100%) !important;
+  border: 1px solid rgba(198, 167, 94, 0.14) !important;
+  border-radius: 14px;
+  box-shadow: none !important;
+}
+
+.md-typeset .grid.cards > ul > li:hover,
+.md-typeset .card:hover {
+  border-color: rgba(198, 167, 94, 0.3) !important;
+  transform: translateY(-2px);
+  transition: all 0.2s ease;
+}
+
+/* ---------- Mobile ---------- */
+@media screen and (max-width: 76.234375em) {
+  .md-nav--primary .md-nav__title {
+    background: #120D0D !important;
+    color: var(--zl-gold) !important;
+  }
+
+  .md-nav--primary .md-nav__item {
+    background: var(--zl-bg) !important;
+  }
+
+  .md-header {
+    background: #110C0C !important;
+  }
+}
+
+/* ---------- Selection ---------- */
+::selection {
+  background: rgba(198, 167, 94, 0.28);
+  color: var(--zl-text);
+}
+
+/* ---------- Horizontal rules ---------- */
+.md-typeset hr {
+  border-bottom: 1px solid rgba(198, 167, 94, 0.16) !important;
+}
+
+/* ---------- Images ---------- */
+.md-typeset img {
+  border-radius: 10px;
+}
+
+/* ---------- Strong / emphasis ---------- */
+.md-typeset strong {
+  color: var(--zl-gold-soft) !important;
+}
+
+/* ---------- Remove overly bright surfaces ---------- */
+.md-typeset .tabbed-set > input:checked + label,
+.md-typeset .tabbed-labels > label:hover {
+  color: var(--zl-gold-soft) !important;
+  border-color: var(--zl-gold) !important;
+}
+
+.md-typeset .tabbed-content,
+.md-typeset .tabbed-set > label {
+  background: transparent !important;
+}
+
+/* ---------- Smooth feel ---------- */
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
