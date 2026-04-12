@@ -1,49 +1,126 @@
+# Zachary Lui
+
+*Systems for body, mind, and pattern*
+
+Clinical precision. Structured transformation. Direct results.
+
+[Book a Session](acupuncture.md){ .md-button .md-button--primary }
+[View Services](#areas-of-work){ .md-button }
+
 ---
-hide:
-  - title
+
+## Areas of Work
+
+### Body
+
+**Acupuncture**  
+Anxiety. Burnout. Nervous system regulation.  
+[Learn More](acupuncture.md)
+
+**Qigong**  
+Internal structure. Regulation. Training.  
+[Learn More](qigong.md)
+
 ---
 
-<div class="hero">
-  <h1>Acupuncture for Anxiety &amp; Burnout</h1>
-  <p>If your system feels constantly “on,” this work is for you.</p>
-  <p class="subtext">Used by professionals dealing with high stress, burnout, and chronic overload.</p>
-  <a href="./anxiety/" class="button-link">Book a Session</a>
-</div>
+### Mind
 
-## Who this is for
+**Reiki**  
+Downregulation. Emotional reset.  
+[Learn More](reiki.md)
 
-This is for people who:
+**Education**  
+Courses. Workshops. Applied systems.  
+[Learn More](education.md)
 
-- can’t shut their mind off
-- wake up tired even after sleep
-- feel wired but exhausted
-- are functioning, but not stable
+---
 
-## What I actually do
+### Pattern
 
-I use structured acupuncture to:
+**Divination**  
+Decision clarity. Pattern recognition.  
+[Learn More](divination.md)
 
-- calm the nervous system  
-- reduce baseline anxiety  
-- restore internal stability  
+**Ritual / Priest Work**  
+Structured transformation. Directed outcomes.  
+[Learn More](ritual.md)
 
-This is direct. Clinical. Measurable.
+**Marriage Officiant**  
+Formal. Grounded. Legally recognized ceremonies.  
+[Learn More](marriage.md)
 
-## Why this works
+---
 
-Most approaches try to manage anxiety.
+## Acupuncture for Anxiety & Burnout
 
-This changes the system itself.
+You’re functioning. But not well.
 
-Not coping.  
-Not managing.  
-Resetting.
+Sleep is off.  
+Stress doesn’t shut down.  
+Focus drops. Recovery is inconsistent.
 
-## Location
+This isn’t just stress.  
+This is nervous system dysregulation.
 
-Toronto — Wuji Xuan Life Wellness  
-255 Broadview Ave
+### What this treatment does
 
-<div style="text-align:center; margin-top:40px;">
-  <a href="./anxiety/" class="button-link">View Treatment Plan</a>
-</div>
+- Downregulates overactive stress response  
+- Improves sleep depth and recovery  
+- Restores emotional stability  
+- Reduces physical tension and fatigue  
+
+You don’t manage symptoms.  
+You change the system.
+
+[Book a Session](acupuncture.md){ .md-button .md-button--primary }
+
+---
+
+## Training & Education
+
+Practical systems. No theory without application.
+
+- Qigong training  
+- Reiki training  
+- Workshops and applied frameworks  
+
+[View Classes](education.md){ .md-button }
+
+---
+
+## The Work
+
+Different methods. Same principle.
+
+Structure determines outcome.
+
+Whether through the body, the mind, or pattern itself,  
+the goal is the same:
+
+Change the system → change the result.
+
+---
+
+## Zachary Lui
+
+Registered Acupuncturist  
+Instructor  
+Ritual practitioner  
+
+Focused on systems that don’t regulate properly.
+
+---
+
+## Upcoming
+
+**Chinese Sorcery Magick Book**
+
+---
+
+## Work With Me
+
+If your system is off, it won’t fix itself.
+
+[Book Acupuncture](acupuncture.md){ .md-button .md-button--primary }
+[Book Divination](divination.md){ .md-button }
+[View Classes](education.md){ .md-button }
