@@ -1,387 +1,541 @@
+/* =========================================================
+   ZacharyLui.ca
+   1920s–30s Shanghai + BaZi-optimized (high ceiling)
+   Dark lacquer, antique gold, controlled seal-red
+   ========================================================= */
+
 :root {
-  --md-primary-fg-color: #0f1216;
-  --md-primary-fg-color--light: #0f1216;
-  --md-primary-fg-color--dark: #0f1216;
-  --md-accent-fg-color: #7ea2e6;
+  /* Core palette */
+  --zl-bg: #0b0d10;
+  --zl-bg-elev: #15181d;
+  --zl-bg-soft: #1b1f25;
+  --zl-surface: rgba(255, 255, 255, 0.03);
 
-  --bg-main: #0f1216;
-  --bg-surface: #171c22;
-  --bg-surface-2: #1d232b;
-  --border: #2b323b;
-  --border-soft: rgba(255, 255, 255, 0.06);
+  --zl-text: #e8e8e8;
+  --zl-text-soft: #a3a7ad;
+  --zl-text-muted: #7f858d;
 
-  --text-main: #f3efe8;
-  --text-soft: #c9c1b5;
-  --text-muted: #9099a6;
+  --zl-red: #7a1f2b;
+  --zl-red-hover: #922738;
+  --zl-gold: #bfa46f;
+  --zl-gold-soft: rgba(191, 164, 111, 0.18);
 
-  --link: #7ea2e6;
-  --link-hover: #a3bdf0;
+  --zl-line: rgba(191, 164, 111, 0.22);
+  --zl-line-strong: rgba(191, 164, 111, 0.38);
+  --zl-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
 
-  --earth-accent: #b89b67;
+  --md-default-bg-color: var(--zl-bg);
+  --md-default-fg-color: var(--zl-text);
+  --md-default-fg-color--light: var(--zl-text-soft);
+  --md-default-fg-color--lighter: var(--zl-text-muted);
+  --md-default-fg-color--lightest: rgba(232, 232, 232, 0.08);
 
-  --shadow-soft: 0 10px 30px rgba(0, 0, 0, 0.22);
-  --shadow-button: 0 10px 24px rgba(126, 162, 230, 0.22);
+  --md-primary-fg-color: var(--zl-bg);
+  --md-primary-fg-color--light: var(--zl-bg-elev);
+  --md-primary-fg-color--dark: #060709;
+
+  --md-accent-fg-color: var(--zl-red);
+  --md-accent-fg-color--transparent: rgba(122, 31, 43, 0.14);
+
+  --md-code-fg-color: #f0e5cf;
+  --md-code-bg-color: #12151a;
+
+  --md-typeset-a-color: var(--zl-gold);
 }
 
-html {
-  scroll-behavior: smooth;
-}
+/* =========================================================
+   Global base
+   ========================================================= */
 
-body,
-.md-main,
-.md-main__inner,
-.md-content,
-.md-content__inner,
-.md-container {
-  background: var(--bg-main) !important;
-  color: var(--text-main);
+html,
+body {
+  background: var(--zl-bg);
+  color: var(--zl-text);
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-.md-header,
-.md-header__inner,
-.md-tabs,
-.md-tabs__list,
-.md-search,
-.md-search__form {
-  background: var(--bg-main) !important;
-  background-image: none !important;
-  box-shadow: none !important;
-}
-
-.md-header {
-  border-bottom: 1px solid var(--border-soft);
-}
-
-.md-tabs {
-  border-top: 1px solid rgba(255, 255, 255, 0.03);
-  border-bottom: 1px solid var(--border-soft);
-}
-
-.md-grid {
-  max-width: 1320px;
-}
-
-.md-main__inner,
-.md-content {
-  max-width: 1180px;
-  margin: 0 auto;
-}
-
-.md-content__inner {
-  padding-top: 1.25rem;
-  padding-bottom: 4rem;
-}
-
-.md-footer-meta,
-.md-breadcrumbs,
-.md-path,
-.md-content__button,
-.md-sidebar--secondary {
-  display: none !important;
-}
-
-.md-header__title {
-  font-weight: 600;
   letter-spacing: 0.01em;
 }
 
+.md-grid {
+  max-width: 1240px;
+}
+
+.md-main {
+  background:
+    linear-gradient(
+      to bottom,
+      rgba(191, 164, 111, 0.03) 0%,
+      rgba(191, 164, 111, 0) 12%
+    ),
+    var(--zl-bg);
+}
+
+/* =========================================================
+   Header / top bar
+   ========================================================= */
+
+.md-header {
+  background: rgba(11, 13, 16, 0.94) !important;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow: none !important;
+  border-bottom: 1px solid var(--zl-line-strong);
+}
+
+.md-header__inner {
+  min-height: 3rem;
+}
+
+.md-header__title,
+.md-header__button,
+.md-header__topic,
+.md-header__ellipsis {
+  color: var(--zl-text) !important;
+}
+
+.md-header__button:hover,
+.md-header__button:focus,
+.md-header__title:hover,
+.md-header__title:focus {
+  color: var(--zl-gold) !important;
+}
+
+/* Removes bright theme feel in tabs if enabled */
+.md-tabs {
+  background: #0f1216 !important;
+  border-bottom: 1px solid var(--zl-line);
+}
+
 .md-tabs__link {
-  color: var(--text-muted) !important;
-  font-weight: 500;
-  transition: color 0.2s ease;
+  color: var(--zl-text-soft) !important;
 }
 
 .md-tabs__link:hover,
 .md-tabs__link--active {
-  color: var(--text-main) !important;
+  color: var(--zl-gold) !important;
 }
 
-.md-search__form {
-  border: 1px solid var(--border-soft);
-  border-radius: 12px;
+/* =========================================================
+   Sidebar / navigation
+   ========================================================= */
+
+.md-sidebar__scrollwrap,
+.md-nav,
+.md-nav__source {
+  background: transparent;
 }
 
-.md-search__input::placeholder {
-  color: var(--text-muted);
+.md-nav--primary .md-nav__title,
+.md-nav--secondary .md-nav__title {
+  color: var(--zl-gold);
+  background: transparent !important;
+  box-shadow: none !important;
+  border-bottom: 1px solid var(--zl-line);
+}
+
+.md-nav__item .md-nav__link {
+  color: var(--zl-text-soft);
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.md-nav__item .md-nav__link:hover,
+.md-nav__item .md-nav__link:focus {
+  color: var(--zl-gold);
+}
+
+.md-nav__item .md-nav__link--active {
+  color: var(--zl-text);
+  font-weight: 600;
+}
+
+.md-nav__item .md-nav__link--active::before {
+  content: "";
+  display: inline-block;
+  width: 0.35rem;
+  height: 0.35rem;
+  margin-right: 0.45rem;
+  border-radius: 50%;
+  background: var(--zl-red);
+  vertical-align: middle;
+}
+
+/* =========================================================
+   Content area
+   ========================================================= */
+
+.md-content {
+  padding-bottom: 3rem;
+}
+
+.md-content__inner {
+  padding-top: 1.2rem;
 }
 
 .md-typeset {
-  font-size: 17px;
-  line-height: 1.78;
-  max-width: 920px;
-  margin: 0 auto;
+  color: var(--zl-text);
+  font-size: 0.82rem;
+  line-height: 1.75;
+}
+
+.md-typeset p,
+.md-typeset li {
+  color: var(--zl-text-soft);
+}
+
+.md-typeset strong,
+.md-typeset b {
+  color: var(--zl-text);
+  font-weight: 650;
+}
+
+/* =========================================================
+   Typography hierarchy
+   ========================================================= */
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+  color: var(--zl-text);
+  font-weight: 600;
+  letter-spacing: 0.015em;
 }
 
 .md-typeset h1 {
-  font-size: 3.35rem;
-  line-height: 1.05;
-  font-weight: 700;
-  letter-spacing: -0.04em;
-  margin: 0 0 1.15rem 0;
-  color: var(--text-main);
-  word-break: normal;
-  overflow-wrap: normal;
+  font-size: 2.1rem;
+  line-height: 1.12;
+  margin: 0 0 1.1rem;
+  padding-bottom: 0.55rem;
+  border-bottom: 1px solid var(--zl-line-strong);
 }
 
 .md-typeset h2 {
-  font-size: 1.6rem;
+  font-size: 1.45rem;
   line-height: 1.2;
-  font-weight: 650;
-  margin-top: 3.25rem;
-  margin-bottom: 1rem;
-  color: var(--text-main);
-  border-bottom: 1px solid var(--border);
-  padding-bottom: 0.5rem;
+  margin-top: 2.4rem;
+  margin-bottom: 0.9rem;
+  color: var(--zl-gold);
 }
 
 .md-typeset h3 {
-  font-size: 1.12rem;
-  font-weight: 600;
+  font-size: 1.08rem;
   margin-top: 1.8rem;
   margin-bottom: 0.6rem;
-  color: var(--text-main);
 }
 
-.md-typeset p {
-  color: var(--text-soft);
-  line-height: 1.82;
-  margin-bottom: 1.15rem;
-  max-width: 760px;
+.md-typeset h4 {
+  font-size: 0.92rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--zl-text-soft);
 }
 
-.md-typeset strong {
-  color: var(--text-main);
-  font-weight: 650;
-}
-
-.md-typeset li {
-  color: var(--text-soft);
-  margin-bottom: 0.5rem;
-}
+/* =========================================================
+   Links
+   ========================================================= */
 
 .md-typeset a {
-  color: var(--link);
-  text-decoration: none;
+  color: var(--zl-gold);
+  text-decoration-color: rgba(191, 164, 111, 0.35);
+  transition: color 0.2s ease, text-decoration-color 0.2s ease;
 }
 
-.md-typeset a:hover {
-  color: var(--link-hover);
-  text-decoration: underline;
+.md-typeset a:hover,
+.md-typeset a:focus {
+  color: #d4b77a;
+  text-decoration-color: rgba(212, 183, 122, 0.72);
 }
 
-.md-typeset ul,
-.md-typeset ol {
-  padding-left: 1.3rem;
-  margin-top: 0.5rem;
+/* =========================================================
+   Buttons
+   ========================================================= */
+
+.md-typeset .md-button {
+  border-radius: 0.35rem;
+  padding: 0.7em 1.15em;
+  border: 1px solid var(--zl-line-strong);
+  color: var(--zl-text);
+  background: transparent;
+  transition: all 0.2s ease;
 }
 
-.md-typeset li::marker {
-  color: var(--earth-accent);
+.md-typeset .md-button:hover,
+.md-typeset .md-button:focus {
+  border-color: var(--zl-gold);
+  color: var(--zl-gold);
+  background: rgba(191, 164, 111, 0.06);
 }
 
-.md-typeset hr {
-  border: none;
-  height: 1px;
-  background: linear-gradient(
-    to right,
-    transparent,
-    #38414b,
-    transparent
-  );
-  margin: 3rem 0;
+.md-typeset .md-button--primary {
+  background: var(--zl-red);
+  border-color: var(--zl-red);
+  color: #f6f1eb !important;
+  box-shadow: var(--zl-shadow);
 }
 
-.hero {
-  padding: 120px 24px 88px;
-  text-align: center;
-  border-bottom: 1px solid var(--border);
-  margin-bottom: 1rem;
+.md-typeset .md-button--primary:hover,
+.md-typeset .md-button--primary:focus {
+  background: var(--zl-red-hover);
+  border-color: var(--zl-red-hover);
+  color: #fff !important;
 }
 
-.hero h1 {
-  font-size: 4rem;
-  line-height: 1.04;
-  margin-bottom: 1.15rem;
-  color: var(--text-main);
-  max-width: 980px;
-  margin-left: auto;
-  margin-right: auto;
-  letter-spacing: -0.045em;
-  word-break: normal;
-  overflow-wrap: normal;
-  text-wrap: balance;
+/* =========================================================
+   Tables
+   ========================================================= */
+
+.md-typeset table:not([class]) {
+  border: 1px solid var(--zl-line);
+  border-radius: 0.4rem;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.015);
 }
 
-.hero p {
-  font-size: 1.16rem;
-  line-height: 1.85;
-  color: var(--text-soft);
-  max-width: 760px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 0.6rem;
+.md-typeset table:not([class]) th {
+  background: rgba(191, 164, 111, 0.08);
+  color: var(--zl-gold);
+  border-bottom: 1px solid var(--zl-line);
 }
 
-.hero .subtext {
-  color: var(--text-muted);
-  margin-top: 0.35rem;
+.md-typeset table:not([class]) td {
+  color: var(--zl-text-soft);
+  border-top: 1px solid rgba(255, 255, 255, 0.04);
 }
 
-.button-link {
-  display: inline-block;
-  background: linear-gradient(135deg, #6f97d8, #5578b8);
-  color: #ffffff !important;
-  padding: 16px 34px;
-  border-radius: 14px;
-  margin-top: 22px;
-  font-weight: 600;
-  font-size: 1.05rem;
-  letter-spacing: 0.01em;
-  transition: background 0.22s ease, transform 0.22s ease, box-shadow 0.22s ease;
-  text-decoration: none !important;
-  box-shadow:
-    0 10px 25px rgba(126, 162, 230, 0.25),
-    0 0 0 1px rgba(255,255,255,0.04) inset;
+/* =========================================================
+   Code blocks / inline code
+   ========================================================= */
+
+.md-typeset code {
+  color: var(--md-code-fg-color);
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(191, 164, 111, 0.08);
+  border-radius: 0.25rem;
+  padding: 0.15em 0.35em;
 }
 
-.button-link:hover {
-  background: linear-gradient(135deg, #8db0ea, #678bcb);
-  transform: translateY(-2px);
-  box-shadow: 0 12px 28px rgba(126, 162, 230, 0.28);
+.highlight pre,
+.md-typeset pre > code {
+  background: #101318 !important;
+  color: #ddd6c6 !important;
+  border: 1px solid rgba(191, 164, 111, 0.1);
+  border-radius: 0.5rem;
 }
 
-.section-box,
-.callout {
-  background: linear-gradient(
-    180deg,
-    var(--bg-surface),
-    var(--bg-surface-2)
-  );
-  border: 1px solid var(--border-soft);
-  border-left: 3px solid var(--earth-accent);
-  border-radius: 12px;
-  padding: 20px;
-  margin: 24px 0;
-  box-shadow: var(--shadow-soft);
+/* =========================================================
+   Blockquotes / admonitions
+   ========================================================= */
+
+.md-typeset blockquote {
+  margin: 1.2rem 0;
+  padding: 0.8rem 1rem;
+  border-left: 3px solid var(--zl-gold);
+  background: rgba(191, 164, 111, 0.05);
+  color: var(--zl-text-soft);
 }
+
+.md-typeset .admonition,
+.md-typeset details {
+  background: rgba(255, 255, 255, 0.025);
+  border: 1px solid var(--zl-line);
+  border-radius: 0.45rem;
+  box-shadow: none;
+}
+
+.md-typeset .admonition-title,
+.md-typeset summary {
+  background: rgba(191, 164, 111, 0.08);
+  color: var(--zl-gold);
+  border-bottom: 1px solid var(--zl-line);
+}
+
+/* Try to neutralize default blue admonitions */
+.md-typeset .admonition.note,
+.md-typeset details.note,
+.md-typeset .admonition.info,
+.md-typeset details.info,
+.md-typeset .admonition.tip,
+.md-typeset details.tip {
+  border-color: var(--zl-line);
+}
+
+.md-typeset .admonition.note > .admonition-title,
+.md-typeset details.note > summary,
+.md-typeset .admonition.info > .admonition-title,
+.md-typeset details.info > summary,
+.md-typeset .admonition.tip > .admonition-title,
+.md-typeset details.tip > summary {
+  background: rgba(191, 164, 111, 0.08);
+  color: var(--zl-gold);
+}
+
+/* =========================================================
+   Search
+   ========================================================= */
+
+.md-search__form {
+  background: rgba(255, 255, 255, 0.04) !important;
+  border: 1px solid var(--zl-line) !important;
+  border-radius: 0.4rem;
+}
+
+.md-search__input,
+.md-search__input::placeholder {
+  color: var(--zl-text-soft) !important;
+}
+
+.md-search-result {
+  background: var(--zl-bg-elev);
+}
+
+.md-search-result__meta {
+  color: var(--zl-text-muted);
+}
+
+.md-search-result__link:hover,
+.md-search-result__link:focus {
+  background: rgba(191, 164, 111, 0.06);
+}
+
+/* =========================================================
+   Footer
+   ========================================================= */
 
 .md-footer {
-  background-color: var(--bg-main) !important;
-  border-top: 1px solid var(--border);
+  background: #090b0e;
+  border-top: 1px solid var(--zl-line);
 }
 
-@media (max-width: 1024px) {
-  .md-main__inner,
-  .md-content {
-    max-width: 920px;
+.md-footer-meta {
+  background: #07080a;
+}
+
+.md-footer,
+.md-footer-meta,
+.md-footer a {
+  color: var(--zl-text-soft) !important;
+}
+
+.md-footer a:hover,
+.md-footer a:focus {
+  color: var(--zl-gold) !important;
+}
+
+/* =========================================================
+   Home page polish
+   Works best if homepage starts with H1 and a short intro
+   ========================================================= */
+
+.md-typeset .hero,
+.md-typeset .intro-panel {
+  background:
+    linear-gradient(180deg, rgba(191, 164, 111, 0.05), rgba(255, 255, 255, 0.02));
+  border: 1px solid var(--zl-line);
+  border-radius: 0.6rem;
+  padding: 1.25rem 1.1rem;
+  box-shadow: var(--zl-shadow);
+}
+
+/* =========================================================
+   Horizontal rules / separators
+   ========================================================= */
+
+.md-typeset hr {
+  border: 0;
+  border-top: 1px solid var(--zl-line);
+  margin: 2rem 0;
+}
+
+/* =========================================================
+   Scrollbar
+   ========================================================= */
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(191, 164, 111, 0.35) rgba(255, 255, 255, 0.04);
+}
+
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+*::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+*::-webkit-scrollbar-thumb {
+  background: rgba(191, 164, 111, 0.28);
+  border-radius: 999px;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: rgba(191, 164, 111, 0.42);
+}
+
+/* =========================================================
+   Mobile optimization
+   ========================================================= */
+
+@media screen and (max-width: 76.2344em) {
+  .md-sidebar--primary {
+    background: rgba(11, 13, 16, 0.98);
   }
 
-  .hero {
-    padding: 96px 20px 72px;
-  }
-
-  .hero h1 {
-    font-size: 3.3rem;
-    max-width: 760px;
+  .md-nav--primary .md-nav__title[for="__drawer"] {
+    background: #0e1115 !important;
+    color: var(--zl-gold) !important;
+    border-bottom: 1px solid var(--zl-line);
   }
 }
 
-@media (max-width: 768px) {
-  .md-grid {
-    max-width: 100%;
-  }
-
-  .md-main__inner,
-  .md-content {
-    max-width: 100%;
-    margin: 0 auto;
-  }
-
-  .md-content__inner {
-    padding: 1rem 1rem 2.4rem;
-  }
-
+@media screen and (max-width: 45em) {
   .md-typeset {
-    font-size: 16px;
-    line-height: 1.68;
-    max-width: 100%;
+    font-size: 0.8rem;
+    line-height: 1.72;
   }
 
-  .md-typeset h1,
-  .hero h1 {
-    font-size: 2.4rem;
-    line-height: 1.03;
-    margin-bottom: 0.9rem;
-    max-width: 100%;
+  .md-typeset h1 {
+    font-size: 1.65rem;
   }
 
   .md-typeset h2 {
-    font-size: 1.35rem;
-    margin-top: 2.4rem;
-    margin-bottom: 0.8rem;
+    font-size: 1.2rem;
   }
 
-  .md-typeset p {
-    font-size: 1rem;
-    line-height: 1.72;
-    max-width: 100%;
+  .md-content__inner {
+    padding-top: 0.8rem;
   }
 
-  .hero {
-    padding: 72px 16px 56px;
-    text-align: left;
-    border-bottom: 1px solid var(--border);
-  }
-
-  .hero p,
-  .hero .subtext {
-    max-width: 100%;
-    margin-left: 0;
-    margin-right: 0;
-  }
-
-  .button-link {
-    display: block;
+  .md-typeset .md-button {
     width: 100%;
     text-align: center;
-    padding: 14px 18px;
-    margin-top: 1rem;
-    font-size: 1rem;
+    margin-bottom: 0.55rem;
   }
+}
 
-  .md-nav--primary .md-nav__title {
-    background: var(--bg-main) !important;
-    color: var(--text-main) !important;
-    box-shadow: none !important;
-  }
+/* =========================================================
+   Extra cleanup for lingering Material blue states
+   ========================================================= */
 
-  .md-nav--primary .md-nav__item {
-    border-top: 1px solid rgba(255, 255, 255, 0.05);
-  }
+a:focus,
+button:focus,
+input:focus,
+textarea:focus,
+summary:focus {
+  outline: 1px solid rgba(191, 164, 111, 0.45);
+  outline-offset: 2px;
+}
 
-  .md-nav--primary .md-nav__link {
-    font-size: 1.05rem;
-    padding-top: 0.9rem;
-    padding-bottom: 0.9rem;
-    color: var(--text-main);
-  }
+.md-top {
+  background: rgba(21, 24, 29, 0.92);
+  color: var(--zl-gold) !important;
+  border: 1px solid var(--zl-line);
+}
 
-  .md-nav--primary .md-nav__link--active {
-    color: var(--link);
-  }
-
-  .md-search__form {
-    border-radius: 10px;
-  }
-
-  .md-typeset ul,
-  .md-typeset ol {
-    padding-left: 1.1rem;
-  }
+.md-top:hover,
+.md-top:focus {
+  background: rgba(191, 164, 111, 0.12);
+  color: #d4b77a !important;
 }
