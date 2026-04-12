@@ -1,60 +1,48 @@
-/* =========================================================
-   ZacharyLui.ca
-   1920s–30s Shanghai + BaZi-optimized (high ceiling)
-   Dark lacquer, antique gold, controlled seal-red
-   ========================================================= */
-
 :root {
-  /* Core palette */
-  --zl-bg: #0b0d10;
-  --zl-bg-elev: #15181d;
-  --zl-bg-soft: #1b1f25;
-  --zl-surface: rgba(255, 255, 255, 0.03);
+  --zl-bg: #090a0c;
+  --zl-bg-elev: #111418;
+  --zl-bg-soft: #171b20;
+  --zl-panel: rgba(255, 255, 255, 0.03);
 
-  --zl-text: #e8e8e8;
-  --zl-text-soft: #a3a7ad;
-  --zl-text-muted: #7f858d;
+  --zl-text: #eee6d8;
+  --zl-text-soft: #b9af9d;
+  --zl-text-muted: #8f8779;
 
-  --zl-red: #7a1f2b;
-  --zl-red-hover: #922738;
-  --zl-gold: #bfa46f;
-  --zl-gold-soft: rgba(191, 164, 111, 0.18);
+  --zl-red: #6f1e2a;
+  --zl-red-hover: #832634;
+  --zl-red-deep: #56161f;
 
-  --zl-line: rgba(191, 164, 111, 0.22);
-  --zl-line-strong: rgba(191, 164, 111, 0.38);
-  --zl-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+  --zl-gold: #b08a4a;
+  --zl-gold-light: #c39a59;
+  --zl-gold-soft: rgba(176, 138, 74, 0.14);
+
+  --zl-line: rgba(176, 138, 74, 0.16);
+  --zl-line-strong: rgba(176, 138, 74, 0.30);
+
+  --zl-shadow: 0 16px 40px rgba(0, 0, 0, 0.36);
 
   --md-default-bg-color: var(--zl-bg);
   --md-default-fg-color: var(--zl-text);
   --md-default-fg-color--light: var(--zl-text-soft);
   --md-default-fg-color--lighter: var(--zl-text-muted);
-  --md-default-fg-color--lightest: rgba(232, 232, 232, 0.08);
 
   --md-primary-fg-color: var(--zl-bg);
   --md-primary-fg-color--light: var(--zl-bg-elev);
   --md-primary-fg-color--dark: #060709;
 
   --md-accent-fg-color: var(--zl-red);
-  --md-accent-fg-color--transparent: rgba(122, 31, 43, 0.14);
-
-  --md-code-fg-color: #f0e5cf;
-  --md-code-bg-color: #12151a;
-
   --md-typeset-a-color: var(--zl-gold);
 }
 
-/* =========================================================
-   Global base
-   ========================================================= */
-
-html,
-body {
+/* Base */
+html, body {
   background: var(--zl-bg);
   color: var(--zl-text);
 }
 
 body {
   letter-spacing: 0.01em;
+  text-rendering: optimizeLegibility;
 }
 
 .md-grid {
@@ -63,28 +51,17 @@ body {
 
 .md-main {
   background:
-    linear-gradient(
-      to bottom,
-      rgba(191, 164, 111, 0.03) 0%,
-      rgba(191, 164, 111, 0) 12%
-    ),
-    var(--zl-bg);
+    linear-gradient(to bottom, rgba(176, 138, 74, 0.03), transparent 12rem),
+    linear-gradient(to bottom, #090a0c, #0b0d10);
 }
 
-/* =========================================================
-   Header / top bar
-   ========================================================= */
-
+/* Header */
 .md-header {
-  background: rgba(11, 13, 16, 0.94) !important;
+  background: rgba(9, 10, 12, 0.95) !important;
+  border-bottom: 1px solid var(--zl-line-strong);
+  box-shadow: none !important;
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
-  box-shadow: none !important;
-  border-bottom: 1px solid var(--zl-line-strong);
-}
-
-.md-header__inner {
-  min-height: 3rem;
 }
 
 .md-header__title,
@@ -94,16 +71,16 @@ body {
   color: var(--zl-text) !important;
 }
 
-.md-header__button:hover,
-.md-header__button:focus,
 .md-header__title:hover,
-.md-header__title:focus {
-  color: var(--zl-gold) !important;
+.md-header__button:hover,
+.md-header__title:focus,
+.md-header__button:focus {
+  color: var(--zl-gold-light) !important;
 }
 
-/* Removes bright theme feel in tabs if enabled */
+/* Tabs */
 .md-tabs {
-  background: #0f1216 !important;
+  background: #0d1014 !important;
   border-bottom: 1px solid var(--zl-line);
 }
 
@@ -112,36 +89,27 @@ body {
 }
 
 .md-tabs__link:hover,
+.md-tabs__link:focus,
 .md-tabs__link--active {
-  color: var(--zl-gold) !important;
+  color: var(--zl-gold-light) !important;
 }
 
-/* =========================================================
-   Sidebar / navigation
-   ========================================================= */
-
-.md-sidebar__scrollwrap,
-.md-nav,
-.md-nav__source {
-  background: transparent;
-}
-
+/* Nav */
 .md-nav--primary .md-nav__title,
 .md-nav--secondary .md-nav__title {
-  color: var(--zl-gold);
   background: transparent !important;
-  box-shadow: none !important;
+  color: var(--zl-gold);
   border-bottom: 1px solid var(--zl-line);
+  box-shadow: none !important;
 }
 
 .md-nav__item .md-nav__link {
   color: var(--zl-text-soft);
-  transition: color 0.2s ease, transform 0.2s ease;
 }
 
 .md-nav__item .md-nav__link:hover,
 .md-nav__item .md-nav__link:focus {
-  color: var(--zl-gold);
+  color: var(--zl-gold-light);
 }
 
 .md-nav__item .md-nav__link--active {
@@ -152,30 +120,19 @@ body {
 .md-nav__item .md-nav__link--active::before {
   content: "";
   display: inline-block;
-  width: 0.35rem;
-  height: 0.35rem;
-  margin-right: 0.45rem;
+  width: 0.36rem;
+  height: 0.36rem;
+  margin-right: 0.46rem;
   border-radius: 50%;
   background: var(--zl-red);
   vertical-align: middle;
 }
 
-/* =========================================================
-   Content area
-   ========================================================= */
-
-.md-content {
-  padding-bottom: 3rem;
-}
-
-.md-content__inner {
-  padding-top: 1.2rem;
-}
-
+/* Typography */
 .md-typeset {
+  font-size: 0.84rem;
+  line-height: 1.78;
   color: var(--zl-text);
-  font-size: 0.82rem;
-  line-height: 1.75;
 }
 
 .md-typeset p,
@@ -189,10 +146,6 @@ body {
   font-weight: 650;
 }
 
-/* =========================================================
-   Typography hierarchy
-   ========================================================= */
-
 .md-typeset h1,
 .md-typeset h2,
 .md-typeset h3,
@@ -203,212 +156,120 @@ body {
 }
 
 .md-typeset h1 {
-  font-size: 2.1rem;
-  line-height: 1.12;
-  margin: 0 0 1.1rem;
-  padding-bottom: 0.55rem;
+  font-size: 2.25rem;
+  line-height: 1.08;
+  margin: 0 0 1rem;
+  padding-bottom: 0.7rem;
   border-bottom: 1px solid var(--zl-line-strong);
 }
 
 .md-typeset h2 {
   font-size: 1.45rem;
   line-height: 1.2;
-  margin-top: 2.4rem;
+  margin-top: 2.6rem;
   margin-bottom: 0.9rem;
   color: var(--zl-gold);
 }
 
 .md-typeset h3 {
   font-size: 1.08rem;
-  margin-top: 1.8rem;
-  margin-bottom: 0.6rem;
+  margin-top: 1.9rem;
+  margin-bottom: 0.55rem;
 }
 
 .md-typeset h4 {
   font-size: 0.92rem;
   text-transform: uppercase;
   letter-spacing: 0.08em;
-  color: var(--zl-text-soft);
+  color: var(--zl-text-muted);
 }
 
-/* =========================================================
-   Links
-   ========================================================= */
-
+/* Links */
 .md-typeset a {
   color: var(--zl-gold);
-  text-decoration-color: rgba(191, 164, 111, 0.35);
-  transition: color 0.2s ease, text-decoration-color 0.2s ease;
+  text-decoration-color: rgba(176, 138, 74, 0.36);
 }
 
 .md-typeset a:hover,
 .md-typeset a:focus {
-  color: #d4b77a;
-  text-decoration-color: rgba(212, 183, 122, 0.72);
+  color: var(--zl-gold-light);
+  text-decoration-color: rgba(195, 154, 89, 0.72);
 }
 
-/* =========================================================
-   Buttons
-   ========================================================= */
-
+/* Buttons */
 .md-typeset .md-button {
   border-radius: 0.35rem;
-  padding: 0.7em 1.15em;
+  padding: 0.72em 1.18em;
   border: 1px solid var(--zl-line-strong);
   color: var(--zl-text);
-  background: transparent;
+  background: rgba(255, 255, 255, 0.02);
   transition: all 0.2s ease;
 }
 
 .md-typeset .md-button:hover,
 .md-typeset .md-button:focus {
   border-color: var(--zl-gold);
-  color: var(--zl-gold);
-  background: rgba(191, 164, 111, 0.06);
+  background: rgba(176, 138, 74, 0.08);
+  color: var(--zl-gold-light);
 }
 
 .md-typeset .md-button--primary {
-  background: var(--zl-red);
+  background: linear-gradient(180deg, var(--zl-red-hover), var(--zl-red-deep));
   border-color: var(--zl-red);
-  color: #f6f1eb !important;
+  color: #f8f3eb !important;
   box-shadow: var(--zl-shadow);
 }
 
 .md-typeset .md-button--primary:hover,
 .md-typeset .md-button--primary:focus {
-  background: var(--zl-red-hover);
-  border-color: var(--zl-red-hover);
+  background: linear-gradient(180deg, #91303f, #631922);
+  border-color: #91303f;
   color: #fff !important;
+  transform: translateY(-1px);
 }
 
-/* =========================================================
-   Tables
-   ========================================================= */
+/* Panels */
+.md-typeset .hero-panel {
+  background:
+    linear-gradient(180deg, rgba(176, 138, 74, 0.07), rgba(255, 255, 255, 0.02));
+  border: 1px solid var(--zl-line-strong);
+  border-radius: 0.65rem;
+  padding: 1.45rem 1.25rem;
+  box-shadow: var(--zl-shadow);
+  margin: 0.4rem 0 1.2rem;
+}
 
-.md-typeset table:not([class]) {
+.md-typeset .section-panel {
+  background: var(--zl-panel);
   border: 1px solid var(--zl-line);
-  border-radius: 0.4rem;
-  overflow: hidden;
-  background: rgba(255, 255, 255, 0.015);
+  border-radius: 0.6rem;
+  padding: 1.1rem 1rem;
+  margin: 1rem 0 1.2rem;
 }
 
-.md-typeset table:not([class]) th {
-  background: rgba(191, 164, 111, 0.08);
-  color: var(--zl-gold);
-  border-bottom: 1px solid var(--zl-line);
-}
-
-.md-typeset table:not([class]) td {
-  color: var(--zl-text-soft);
-  border-top: 1px solid rgba(255, 255, 255, 0.04);
-}
-
-/* =========================================================
-   Code blocks / inline code
-   ========================================================= */
-
-.md-typeset code {
-  color: var(--md-code-fg-color);
-  background: rgba(255, 255, 255, 0.05);
-  border: 1px solid rgba(191, 164, 111, 0.08);
-  border-radius: 0.25rem;
-  padding: 0.15em 0.35em;
-}
-
-.highlight pre,
-.md-typeset pre > code {
-  background: #101318 !important;
-  color: #ddd6c6 !important;
-  border: 1px solid rgba(191, 164, 111, 0.1);
-  border-radius: 0.5rem;
-}
-
-/* =========================================================
-   Blockquotes / admonitions
-   ========================================================= */
-
-.md-typeset blockquote {
-  margin: 1.2rem 0;
-  padding: 0.8rem 1rem;
-  border-left: 3px solid var(--zl-gold);
-  background: rgba(191, 164, 111, 0.05);
-  color: var(--zl-text-soft);
-}
-
-.md-typeset .admonition,
-.md-typeset details {
-  background: rgba(255, 255, 255, 0.025);
+/* Cards */
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid.cards > ol > li {
+  background: linear-gradient(180deg, rgba(255,255,255,0.03), rgba(255,255,255,0.02));
   border: 1px solid var(--zl-line);
-  border-radius: 0.45rem;
-  box-shadow: none;
+  border-radius: 0.65rem;
+  transition: transform 0.2s ease, border-color 0.2s ease;
 }
 
-.md-typeset .admonition-title,
-.md-typeset summary {
-  background: rgba(191, 164, 111, 0.08);
-  color: var(--zl-gold);
-  border-bottom: 1px solid var(--zl-line);
+.md-typeset .grid.cards > ul > li:hover,
+.md-typeset .grid.cards > ol > li:hover {
+  transform: translateY(-2px);
+  border-color: var(--zl-line-strong);
 }
 
-/* Try to neutralize default blue admonitions */
-.md-typeset .admonition.note,
-.md-typeset details.note,
-.md-typeset .admonition.info,
-.md-typeset details.info,
-.md-typeset .admonition.tip,
-.md-typeset details.tip {
-  border-color: var(--zl-line);
-}
-
-.md-typeset .admonition.note > .admonition-title,
-.md-typeset details.note > summary,
-.md-typeset .admonition.info > .admonition-title,
-.md-typeset details.info > summary,
-.md-typeset .admonition.tip > .admonition-title,
-.md-typeset details.tip > summary {
-  background: rgba(191, 164, 111, 0.08);
-  color: var(--zl-gold);
-}
-
-/* =========================================================
-   Search
-   ========================================================= */
-
-.md-search__form {
-  background: rgba(255, 255, 255, 0.04) !important;
-  border: 1px solid var(--zl-line) !important;
-  border-radius: 0.4rem;
-}
-
-.md-search__input,
-.md-search__input::placeholder {
-  color: var(--zl-text-soft) !important;
-}
-
-.md-search-result {
-  background: var(--zl-bg-elev);
-}
-
-.md-search-result__meta {
-  color: var(--zl-text-muted);
-}
-
-.md-search-result__link:hover,
-.md-search-result__link:focus {
-  background: rgba(191, 164, 111, 0.06);
-}
-
-/* =========================================================
-   Footer
-   ========================================================= */
-
+/* Footer */
 .md-footer {
-  background: #090b0e;
+  background: #07080a;
   border-top: 1px solid var(--zl-line);
 }
 
 .md-footer-meta {
-  background: #07080a;
+  background: #050608;
 }
 
 .md-footer,
@@ -419,123 +280,5 @@ body {
 
 .md-footer a:hover,
 .md-footer a:focus {
-  color: var(--zl-gold) !important;
-}
-
-/* =========================================================
-   Home page polish
-   Works best if homepage starts with H1 and a short intro
-   ========================================================= */
-
-.md-typeset .hero,
-.md-typeset .intro-panel {
-  background:
-    linear-gradient(180deg, rgba(191, 164, 111, 0.05), rgba(255, 255, 255, 0.02));
-  border: 1px solid var(--zl-line);
-  border-radius: 0.6rem;
-  padding: 1.25rem 1.1rem;
-  box-shadow: var(--zl-shadow);
-}
-
-/* =========================================================
-   Horizontal rules / separators
-   ========================================================= */
-
-.md-typeset hr {
-  border: 0;
-  border-top: 1px solid var(--zl-line);
-  margin: 2rem 0;
-}
-
-/* =========================================================
-   Scrollbar
-   ========================================================= */
-
-* {
-  scrollbar-width: thin;
-  scrollbar-color: rgba(191, 164, 111, 0.35) rgba(255, 255, 255, 0.04);
-}
-
-*::-webkit-scrollbar {
-  width: 10px;
-  height: 10px;
-}
-
-*::-webkit-scrollbar-track {
-  background: rgba(255, 255, 255, 0.03);
-}
-
-*::-webkit-scrollbar-thumb {
-  background: rgba(191, 164, 111, 0.28);
-  border-radius: 999px;
-}
-
-*::-webkit-scrollbar-thumb:hover {
-  background: rgba(191, 164, 111, 0.42);
-}
-
-/* =========================================================
-   Mobile optimization
-   ========================================================= */
-
-@media screen and (max-width: 76.2344em) {
-  .md-sidebar--primary {
-    background: rgba(11, 13, 16, 0.98);
-  }
-
-  .md-nav--primary .md-nav__title[for="__drawer"] {
-    background: #0e1115 !important;
-    color: var(--zl-gold) !important;
-    border-bottom: 1px solid var(--zl-line);
-  }
-}
-
-@media screen and (max-width: 45em) {
-  .md-typeset {
-    font-size: 0.8rem;
-    line-height: 1.72;
-  }
-
-  .md-typeset h1 {
-    font-size: 1.65rem;
-  }
-
-  .md-typeset h2 {
-    font-size: 1.2rem;
-  }
-
-  .md-content__inner {
-    padding-top: 0.8rem;
-  }
-
-  .md-typeset .md-button {
-    width: 100%;
-    text-align: center;
-    margin-bottom: 0.55rem;
-  }
-}
-
-/* =========================================================
-   Extra cleanup for lingering Material blue states
-   ========================================================= */
-
-a:focus,
-button:focus,
-input:focus,
-textarea:focus,
-summary:focus {
-  outline: 1px solid rgba(191, 164, 111, 0.45);
-  outline-offset: 2px;
-}
-
-.md-top {
-  background: rgba(21, 24, 29, 0.92);
-  color: var(--zl-gold) !important;
-  border: 1px solid var(--zl-line);
-}
-
-.md-top:hover,
-.md-top:focus {
-  background: rgba(191, 164, 111, 0.12);
-  color: #d4b77a !important;
+  color: var(--zl-gold-light) !important;
 }
