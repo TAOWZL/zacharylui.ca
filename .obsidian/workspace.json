@@ -13,14 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
-                "file": "docs/officiant.md",
+                "file": "docs/divination.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
-              "title": "officiant"
+              "title": "divination"
             }
           }
         ]
@@ -201,14 +199,14 @@
   },
   "active": "3a80a8cbee4f4e3b",
   "lastOpenFiles": [
-    "docs/stylesheets/extra.css",
-    "docs/stylesheets/extra.css.txt",
-    "docs/stylesheets/New Text Document.txt",
-    "docs/stylesheets",
-    "docs/New folder",
+    "docs/index.md",
+    "docs/education.md",
+    "docs/divination.md",
     "docs/anxiety.md",
+    "public/images/hero-ritual.png",
+    "public/images/hero-anxiety.png",
+    "PERMISSIONS.md",
     "docs/officiant.md",
-    "docs/writing.md",
     "tsconfig.json",
     "tailwind.config.ts",
     "site.config.ts",
@@ -223,25 +221,13 @@
     "postcss.config.mjs",
     "package.json",
     "package-lock.json",
-    "next.config.mjs",
     "docs/ritual.md",
     "docs/reiki.md",
     "docs/qigong.md",
-    "docs/education.md",
-    "docs/divination.md",
     "EDITING.md",
     "docs/projects.md",
     "docs/writing.md",
-    "docs/index.md",
-    "docs/anxiety.md",
-    "docs/officiant.md",
     "docs/marriage.md",
-    "mkdocs.yml",
-    "docs/CNAME",
-    "docs",
-    "writing/index.html",
-    "writing",
-    "sitemap.xml.gz",
     "assets/images/favicon.png",
     "docs/index.md.md",
     "Welcome.md"
