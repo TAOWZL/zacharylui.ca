@@ -120,7 +120,7 @@ Sessions are available in Toronto for clients who need clear direction before ma
 
 If you need to see the situation clearly before acting:
 
-Book a session.
+[Book your divination session](https://wujixuan.janeapp.com/#/staff_member/1/treatment/3)
 
 ---
 
