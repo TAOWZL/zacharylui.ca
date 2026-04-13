@@ -49,11 +49,11 @@ These are combined based on your presentation. If your anxiety manifests as inso
 
 ## What to expect in treatment
 
-First session runs about 75 minutes. We talk through your pattern — not just symptoms, but when it started, what makes it worse, what your sleep and digestion look like. The body tells a story. I need to hear it before I put needles in.
+First session runs about 60 minutes. We talk through your pattern — not just symptoms, but when it started, what makes it worse, what your sleep and digestion look like. The body tells a story. I need to hear it before I put needles in.
 
-Needles stay in for 25–40 minutes. Most people drop into a deep, still state within the first 10. That's the parasympathetic shift happening in real time.
+Needles stay in for 50 minutes. Most people drop into a deep, still state within the first 10. That's the parasympathetic shift happening in real time.
 
-Typical course for anxiety: 6–10 sessions, weekly to start, then spacing out as the system holds regulation on its own.
+Typical course for anxiety: 10-12 sessions, weekly to start, then spacing out as the system holds regulation on its own.
 
 ## What changes
 

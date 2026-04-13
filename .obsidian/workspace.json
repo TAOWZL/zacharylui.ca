@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/divination.md",
-                "mode": "preview",
+                "file": "docs/reiki.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "divination"
+              "title": "reiki"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/divination.md",
+                "file": "docs/reiki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for divination"
+              "title": "Backlinks for reiki"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/divination.md",
+                "file": "docs/reiki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from divination"
+              "title": "Outgoing links from reiki"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/divination.md",
+                "file": "docs/reiki.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of divination"
+              "title": "Outline of reiki"
             }
           }
         ]
@@ -186,10 +186,15 @@
   },
   "active": "96d2822de934bc25",
   "lastOpenFiles": [
+    "docs/ritual.md",
+    "docs/index.md",
+    "docs/education.md",
     "docs/anxiety.md",
+    "docs/projects.md",
+    "docs/officiant.md",
+    "docs/qigong.md",
     "docs/divination.md",
     "docs/reiki.md",
-    "docs/ritual.md",
     "docs/writing.md"
   ]
 }
