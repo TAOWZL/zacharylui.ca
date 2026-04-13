@@ -24,10 +24,10 @@ export function MarkdownPage({ doc }: Props) {
           <img
             src={cover}
             alt={title}
-            className="h-72 w-full object-cover md:h-96"
+            className="h-72 w-full object-cover object-top md:h-[28rem]"
           />
         ) : (
-          <div className="h-72 w-full bg-charcoal-900 md:h-96" />
+          <div className="h-72 w-full bg-charcoal-900 md:h-[28rem]" />
         )}
         <div className="hero-overlay" />
         <div className="hero-content">

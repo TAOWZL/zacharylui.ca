@@ -1,7 +1,7 @@
 ---
 title: Acupuncture for Anxiety (Toronto)
 description: Acupuncture for anxiety, nervous system regulation, and stress recovery. Zachary Lui, R.Ac, MMQ — Wuji Xuan Life Wellness, Toronto Riverdale.
-cover: /images/hero-anxiety.svg
+cover: /images/hero-anxiety.png
 aliases:
   - Acupuncture
   - acupuncture
@@ -75,6 +75,7 @@ Zachary Lui, R.Ac, MMQ. Registered Acupuncturist and Master of Medical Qigong wi
 
 Wuji Xuan Life Wellness
 255 Broadview, Toronto
+416-595-5525
 (Riverdale)
 
 Community acupuncture: $50/session
