@@ -1,11 +1,19 @@
+---
+title: Zachary Lui
+description: Clinical precision and structured transformation for body, mind, and pattern.
+cover: /images/hero-main.svg
+aliases:
+  - Home
+---
+
 # Zachary Lui
 
 *Systems for body, mind, and pattern*
 
 Clinical precision. Structured transformation. Direct results.
 
-[Book a Session](acupuncture.md){ .md-button .md-button--primary }
-[View Services](#areas-of-work){ .md-button }
+[Book a Session](anxiety.md)
+[View Services](#areas-of-work)
 
 ---
 
@@ -15,7 +23,7 @@ Clinical precision. Structured transformation. Direct results.
 
 **Acupuncture**  
 Anxiety. Burnout. Nervous system regulation.  
-[Learn More](acupuncture.md)
+[Learn More](anxiety.md)
 
 **Qigong**  
 Internal structure. Regulation. Training.  
@@ -47,7 +55,7 @@ Structured transformation. Directed outcomes.
 
 **Marriage Officiant**  
 Formal. Grounded. Legally recognized ceremonies.  
-[Learn More](marriage.md)
+[Learn More](officiant.md)
 
 ---
 
@@ -72,7 +80,7 @@ This is nervous system dysregulation.
 You don’t manage symptoms.  
 You change the system.
 
-[Book a Session](acupuncture.md){ .md-button .md-button--primary }
+[Book a Session](anxiety.md)
 
 ---
 
@@ -84,7 +92,7 @@ Practical systems. No theory without application.
 - Reiki training  
 - Workshops and applied frameworks  
 
-[View Classes](education.md){ .md-button }
+[View Classes](education.md)
 
 ---
 
@@ -121,6 +129,6 @@ Focused on systems that don’t regulate properly.
 
 If your system is off, it won’t fix itself.
 
-[Book Acupuncture](acupuncture.md){ .md-button .md-button--primary }
-[Book Divination](divination.md){ .md-button }
-[View Classes](education.md){ .md-button }
+[Book Acupuncture](anxiety.md)
+[Book Divination](divination.md)
+[View Classes](education.md)
