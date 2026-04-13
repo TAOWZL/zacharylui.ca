@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "docs/divination.md",
+=======
+                "file": "docs/officiant.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "divination"
+=======
+              "title": "officiant"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -199,6 +207,7 @@
   },
   "active": "3a80a8cbee4f4e3b",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "docs/index.md",
     "docs/education.md",
     "docs/divination.md",
@@ -228,6 +237,24 @@
     "docs/projects.md",
     "docs/writing.md",
     "docs/marriage.md",
+=======
+    "docs/projects.md",
+    "docs/writing.md",
+    "docs/index.md",
+    "docs/anxiety.md",
+    "docs/officiant.md",
+    "docs/stylesheets/extra.css",
+    "docs/stylesheets/extra.css.txt",
+    "docs/stylesheets/New Text Document.txt",
+    "docs/stylesheets",
+    "docs/New folder",
+    "docs/marriage.md",
+    "mkdocs.yml",
+    "docs/CNAME",
+    "docs",
+    "writing/index.html",
+    "writing",
+>>>>>>> Stashed changes
     "assets/images/favicon.png",
     "docs/index.md.md",
     "Welcome.md"
