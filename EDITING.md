@@ -67,7 +67,50 @@ Official references:
 - [Obsidian Properties](https://github.com/obsidianmd/obsidian-help/blob/master/en/Editing%20and%20formatting/Properties.md)
 - [Obsidian Flavored Markdown](https://github.com/obsidianmd/obsidian-help/blob/master/en/Editing%20and%20formatting/Obsidian%20Flavored%20Markdown.md)
 
-## 6) Colors and theme
+## 6) Images
+
+### Hero images
+
+Each page can display a hero banner at the top. Set the `cover` frontmatter key to point to an image:
+
+```yaml
+---
+cover: /images/hero-anxiety.png
+---
+```
+
+Hero images are stored in `public/images/`. Current hero images:
+
+| File | Page | Format |
+|------|------|--------|
+| `hero-anxiety.png` | Acupuncture / Anxiety | PNG photo (AI-generated) |
+| `hero-main.svg` | Home | SVG abstract |
+| `hero-officiant.svg` | Marriage Officiant | SVG abstract |
+| `hero-writing.svg` | Writing | SVG abstract |
+
+### Replacing a hero image
+
+1. Place your new image in `public/images/` (PNG, JPG, or SVG).
+2. Update the `cover` value in the page's frontmatter in `docs/` if the filename changed.
+3. Push to `main` — GitHub Actions will rebuild and deploy automatically.
+
+For best results with photos:
+- Use a **wide aspect ratio** (at least 16:9, ideally 21:9 panoramic).
+- Keep the main subject **vertically centered** — the hero crops from the bottom on smaller screens.
+- The hero displays at roughly 288px tall (mobile) to 448px tall (desktop) with `object-cover object-top`, so top-heavy compositions work best.
+
+### Content images
+
+Images used inside markdown body text can go in either location:
+
+- **`public/images/`** — reference as `/images/your-image.png` in markdown.
+- **`docs/`** (alongside markdown) — the post-build script copies non-markdown files from `docs/` to `out/`, so relative paths like `./photo.jpg` or Obsidian embeds `![[photo.jpg]]` will work.
+
+### AI-generated images
+
+AI-generated images depicting real people require written consent. See `PERMISSIONS.md` for the current consent record. Always update that file when adding new AI-generated likenesses.
+
+## 7) Colors and theme
 
 - Tailwind tokens are in `tailwind.config.ts`.
 - Main global styles are in `app/globals.css`.
@@ -76,22 +119,22 @@ Official references:
   - gold accents
   - red CTA accents
 
-## 7) Navigation and layout
+## 8) Navigation and layout
 
 - Global nav is managed in `site.config.ts`.
 - Shared layout is in `app/layout.tsx`.
 - Markdown renderer is in `components/MarkdownPage.tsx`.
 
-## 8) Deployment flow
+## 9) Deployment flow
 
 - Workflow file: `.github/workflows/deploy.yml`.
-- Trigger: pushes to `main` affecting content/app/config files.
+- Trigger: pushes to `main` affecting content, images, app, or config files.
 - Build: `npm ci` then `npm run build`.
 - Output folder: `out/`.
 - Published branch: `gh-pages`.
 - Legacy backup branch: `gh-pages-old`.
 
-## 9) Preserve old gh-pages branch
+## 10) Preserve old gh-pages branch
 
 One-time backup:
 
@@ -102,12 +145,12 @@ git push -u origin gh-pages-old
 git checkout main
 ```
 
-## 10) Rollback options
+## 11) Rollback options
 
 - Repoint GitHub Pages to a prior commit on `gh-pages`, or
 - Restore from `gh-pages-old`.
 
-## 11) Local development
+## 12) Local development
 
 ```bash
 npm install
@@ -122,15 +165,17 @@ Production build:
 npm run build
 ```
 
-## 12) Useful file map
+## 13) Useful file map
 
 - Content: `docs/`
+- Images: `public/images/`
 - Routing and metadata: `app/`
 - Markdown parsing: `lib/content.ts`
 - Renderer: `components/MarkdownPage.tsx`
 - Post-build SEO files: `scripts/postbuild.mjs`
+- Permissions log: `PERMISSIONS.md`
 
-## 13) OFM support and known limitations
+## 14) OFM support and known limitations
 
 Implemented:
 
