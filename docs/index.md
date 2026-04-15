@@ -13,7 +13,7 @@ Sleep is off. Mind doesn’t shut down. Body stays tense.
 
 This is where the system resets.
 
-Serving clients in Toronto.
+Toronto-based acupuncture practice for anxiety and nervous system regulation
 
 [**Book a Session**](https://wujixuan.janeapp.com/#/staff_member/1/t)
 
