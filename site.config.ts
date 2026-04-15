@@ -4,15 +4,7 @@ export const siteConfig = {
   nav: [
     { label: "Home", slug: "" },
     { label: "Acupuncture", slug: "acupuncture" },
-    {
-      label: "Services",
-      slug: "services",
-      children: [
-        { label: "Reiki", slug: "reiki" },
-        { label: "Divination", slug: "divination" },
-        { label: "Ritual", slug: "ritual" }
-      ]
-    },
+    { label: "Services", slug: "services" },
     { label: "Events", slug: "events" },
     { label: "Blog", slug: "blog" },
     { label: "About", slug: "about" }
