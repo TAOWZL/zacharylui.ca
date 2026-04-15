@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/officiant.md",
+                "file": "docs/writing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "officiant"
+              "title": "writing"
             }
           }
         ]
@@ -186,9 +186,9 @@
   },
   "active": "96d2822de934bc25",
   "lastOpenFiles": [
+    "docs/officiant.md",
     "docs/index.md",
     "docs/education.md",
-    "docs/officiant.md",
     "docs/projects.md",
     "docs/qigong.md",
     "docs/reiki.md",
