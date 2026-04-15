@@ -14,8 +14,6 @@ body {
     radial-gradient(circle at 88% 6%, rgba(230, 199, 90, 0.12), transparent 30%),
     #151516;
   @apply text-zinc-100 antialiased;
-  font-size: 18px;
-  line-height: 1.7;
 }
 
 a {
@@ -37,8 +35,7 @@ a:hover {
 /* ── Prose base ───────────────────────────────────────────── */
 
 .prose {
-  @apply prose-invert prose-strong:text-zinc-100 prose-a:text-gold-400;
-  max-width: 720px;
+  @apply prose-invert max-w-none prose-strong:text-zinc-100 prose-a:text-gold-400;
   margin-left: auto;
   margin-right: auto;
 }
@@ -157,19 +154,12 @@ a:hover {
   @apply my-6 rounded-xl border border-charcoal-800;
 }
 
-/* ── Safe readability overrides ─────────────────────────── */
+/* ── Safe readability tweaks ───────────────────────────── */
 
 .prose p {
-  margin-bottom: 1.2rem;
+  margin-bottom: 1.15rem;
 }
 
-.prose h1 {
-  font-size: 2.4rem;
-  line-height: 1.2;
-}
-
-.prose h2 {
-  font-size: 1.5rem;
-  margin-top: 2.5rem;
-}
+.prose {
+  max-width: 760px;
 }
