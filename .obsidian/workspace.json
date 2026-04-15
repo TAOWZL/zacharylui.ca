@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/services.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "services"
+              "title": "index"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "96d2822de934bc25",
   "lastOpenFiles": [
-    "docs/events.md",
     "docs/services.md",
+    "docs/events.md",
     "docs/divination.md",
     "docs/blog.md",
     "docs/acupuncture.md",

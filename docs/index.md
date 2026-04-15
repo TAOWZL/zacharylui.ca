@@ -5,130 +5,73 @@ cover: /images/hero-main.svg
 aliases:
   - Home
 ---
+----
+# Acupuncture in Toronto for Anxiety, Stress, and Burnout
 
-# Zachary Lui
+For anxiety, stress, pain, and nervous system dysregulation.
 
-*Systems for body, mind, and pattern*
+This is a clinical practice supported by methods for emotional regulation and pattern recognition.
 
-Clinical precision. Structured transformation. Direct results.
-
-[Book a Session](acupuncture.md)
-[View Services](#areas-of-work)
-
----
-
-## Areas of Work
-
-### Body
-
-**Acupuncture**  
-Anxiety. Burnout. Nervous system regulation.  
-[Learn More](acupuncture.md)
-
-**Qigong**  
-Internal structure. Regulation. Training.  
-[Learn More](qigong.md)
+[Book Acupuncture](https://wujixuan.janeapp.com/#/staff_member/1)
 
 ---
 
-### Mind
+## How This Work Is Applied
 
-**Reiki**  
-Downregulation. Emotional reset.  
-[Learn More](reiki.md)
+Most people begin with acupuncture.
 
-**Education**  
-Courses. Workshops. Applied systems.  
-[Learn More](events.md)
+It reduces symptoms and stabilizes the system.  
+From there, different methods are used depending on what is actually needed.
 
 ---
 
-### Pattern
+### Emotional Regulation
 
-**Divination**  
-Decision clarity. Pattern recognition.  
-[Learn More](divination.md)
+When the issue is internal state, not structure.
 
-**Ritual / Priest Work**  
-Structured transformation. Directed outcomes.  
-[Learn More](ritual.md)
-
-**Marriage Officiant**  
-Formal. Grounded. Legally recognized ceremonies.  
-[Learn More](officiant.md)
+→ [Reiki](/reiki)
 
 ---
 
-## Acupuncture for Anxiety & Burnout
+### Clarity and Direction
 
-You’re functioning. But not well.
+When the issue is understanding what is happening.
 
-Sleep is off.  
-Stress doesn’t shut down.  
-Focus drops. Recovery is inconsistent.
-
-This isn’t just stress.  
-This is nervous system dysregulation.
-
-### What this treatment does
-
-- Downregulates overactive stress response  
-- Improves sleep depth and recovery  
-- Restores emotional stability  
-- Reduces physical tension and fatigue  
-
-You don’t manage symptoms.  
-You change the system.
-
-[Book a Session](acupuncture.md)
+→ [Divination](/divination)
 
 ---
 
-## Training & Education
+### Ongoing Development
 
-Practical systems. No theory without application.
+When the goal is not just relief, but capacity.
 
-- Qigong training  
-- Reiki training  
-- Workshops and applied frameworks  
-
-[View Classes](events.md)
+→ [Qigong and Classes](/education)
 
 ---
 
-## The Work
+## Advanced Work
 
-Different methods. Same principle.
+In some cases, structured intervention is required.
 
-Structure determines outcome.
+This is assessed and not publicly listed as a standard service.
 
-Whether through the body, the mind, or pattern itself,  
-the goal is the same:
-
-Change the system → change the result.
+[Learn more](/ritual)
 
 ---
 
-## Zachary Lui
+## Not Sure Where to Start
 
-Registered Acupuncturist  
-Instructor  
-Ritual practitioner  
+- Physical symptoms → start with **Acupuncture**  
+- Emotional overwhelm → **Reiki**  
+- Need clarity → **Divination**  
+- Want to build skill → **Classes**
 
-Focused on systems that don’t regulate properly.
-
----
-
-## Upcoming
-
-**Chinese Sorcery Magick Book**
+[View All Services](/services)
 
 ---
 
-## Work With Me
+## Book
 
-If your system is off, it won’t fix itself.
+If you are ready, book directly.
 
-[Book Acupuncture](https://wujixuan.janeapp.com/#/discipline/4/treatment/2)
-[Book Divination](divination.md)
-[View Classes](events.md)
+[Book Now](https://wujixuan.janeapp.com/#/staff_member/1)
