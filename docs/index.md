@@ -6,7 +6,7 @@ aliases:
   - Home
 ---
 ----
-# Acupuncture for Anxiety, Stress, and Nervous System Regulation in Toronto
+## Acupuncture for Anxiety, Stress, and Nervous System Regulation in Toronto
 
 You’re functioning. But not well.  
 Sleep is off. Mind doesn’t shut down. Body stays tense.  
