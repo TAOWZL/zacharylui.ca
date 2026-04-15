@@ -1,6 +1,6 @@
 ---
-title: Acupuncture in Toronto for Anxiety, Stress, and Burnout | Zachary Lui
-description: Acupuncture for anxiety, stress, burnout, and nervous system overload in Toronto. Reiki, divination, and classes for deeper regulation and long-term change.
+title: Acupuncture Toronto for Anxiety & Stress | Zachary Lui
+description: Acupuncture in Toronto for anxiety, stress, and burnout. Clinical treatment supported by Reiki, divination, and training for deeper regulation and long-term change.
 cover: /images/hero-main.svg
 aliases:
   - Home
