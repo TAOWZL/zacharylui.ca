@@ -83,4 +83,4 @@ Private sessions available
 
 ## Book
 
-[Book a Session](https://wujixuan.janeapp.com/)
+[Book a Session](https://wujixuan.janeapp.com/#/discipline/4/treatment/2)

@@ -1,6 +1,7 @@
 ---
 title: Reiki
 description: Reiki for when your system won’t settle
+cover: /images/hero-reiki.png
 ---
 # Reiki
 

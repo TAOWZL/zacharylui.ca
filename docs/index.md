@@ -129,6 +129,6 @@ Focused on systems that don’t regulate properly.
 
 If your system is off, it won’t fix itself.
 
-[Book Acupuncture](anxiety.md)
+[Book Acupuncture](https://wujixuan.janeapp.com/#/discipline/4/treatment/2)
 [Book Divination](divination.md)
 [View Classes](education.md)
