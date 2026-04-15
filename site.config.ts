@@ -3,10 +3,10 @@ export const siteConfig = {
   url: "https://zacharylui.ca",
   nav: [
     { label: "Home", slug: "" },
-    { label: "Acupuncture", slug: "acupuncture" },
+    { label: "Acupuncture", slug: "anxiety" },
     { label: "Services", slug: "services" },
-    { label: "Events", slug: "events" },
-    { label: "Blog", slug: "blog" },
-    { label: "About", slug: "about" }
+    { label: "Rituals", slug: "ritual" },
+    { label: "Classes", slug: "education" },
+    { label: "Writing", slug: "writing" }
   ]
 };
