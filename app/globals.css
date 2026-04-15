@@ -13,9 +13,9 @@ body {
     radial-gradient(circle at 12% 10%, rgba(196, 55, 55, 0.14), transparent 34%),
     radial-gradient(circle at 88% 6%, rgba(230, 199, 90, 0.12), transparent 30%),
     #151516;
+  @apply text-zinc-100 antialiased;
   font-size: 18px;
   line-height: 1.7;
-  @apply text-zinc-100 antialiased;
 }
 
 a {
@@ -39,25 +39,12 @@ a:hover {
 .prose {
   @apply prose-invert prose-strong:text-zinc-100 prose-a:text-gold-400;
   max-width: 720px;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .prose mark {
   @apply rounded bg-gold-500/25 px-1 text-gold-400;
-}
-
-.prose p {
-  margin-bottom: 1.2rem;
-}
-
-.prose h1 {
-  font-size: 2.4rem;
-  line-height: 1.2;
-}
-
-.prose h2 {
-  font-size: 1.5rem;
-  margin-top: 2.5rem;
 }
 
 /* ── Headings h1 – h6 ────────────────────────────────────── */
@@ -89,9 +76,7 @@ a:hover {
 /* ── Paragraphs ───────────────────────────────────────────── */
 
 .para {
-  @apply text-zinc-200;
-  margin-bottom: 1.2rem;
-  line-height: 1.7;
+  @apply mb-5 leading-relaxed text-zinc-200;
 }
 
 /* ── Lists ─────────────────────────────────────────────── */
@@ -151,19 +136,11 @@ a:hover {
 }
 
 .hero-title {
-  @apply max-w-3xl font-semibold text-zinc-50;
-  font-size: 2.6rem;
-  line-height: 1.15;
+  @apply max-w-3xl text-3xl font-semibold leading-tight text-zinc-50 md:text-5xl;
 }
 
 .hero-description {
   @apply max-w-2xl text-base leading-relaxed text-zinc-200 md:text-lg;
-}
-
-@media (min-width: 768px) {
-  .hero-title {
-    font-size: 3.4rem;
-  }
 }
 
 /* ── Content card ──────────────────────────────────────── */
@@ -178,5 +155,21 @@ a:hover {
 
 .content-image {
   @apply my-6 rounded-xl border border-charcoal-800;
+}
+
+/* ── Safe readability overrides ─────────────────────────── */
+
+.prose p {
+  margin-bottom: 1.2rem;
+}
+
+.prose h1 {
+  font-size: 2.4rem;
+  line-height: 1.2;
+}
+
+.prose h2 {
+  font-size: 1.5rem;
+  margin-top: 2.5rem;
 }
 }
