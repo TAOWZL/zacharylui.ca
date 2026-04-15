@@ -1,6 +1,6 @@
 ---
-title: Zachary Lui
-description: Clinical precision and structured transformation for body, mind, and pattern.
+title: Acupuncture in Toronto for Anxiety, Stress, and Burnout | Zachary Lui
+description: Acupuncture for anxiety, stress, burnout, and nervous system overload in Toronto. Reiki, divination, and classes for deeper regulation and long-term change.
 cover: /images/hero-main.svg
 aliases:
   - Home
@@ -8,26 +8,40 @@ aliases:
 ----
 ## Acupuncture in Toronto for Anxiety, Stress, and Burnout
 
-For anxiety, stress, pain, and nervous system dysregulation.
+For anxiety, stress, burnout, and nervous system overload.
 
-This is a clinical practice supported by methods for emotional regulation and pattern recognition.
+For people who are still functioning, but not stable.
+
+Most people try to push through this. It usually gets worse or cycles.
+
+At a certain point, pushing harder stops working.
+
+This is a clinical practice that works with regulation, pattern, and change.
+
+This is not symptom management alone. It is applied change.
 
 [Book Acupuncture](https://wujixuan.janeapp.com/#/staff_member/1)
 
 ---
 
-## How This Work Is Applied
+## Start Here
 
 Most people begin with acupuncture.
 
-It reduces symptoms and stabilizes the system.  
-From there, different methods are used depending on what is actually needed.
+It stabilizes the system, reduces symptoms, and gives you something to work from.  
+From there, the work shifts depending on what is actually happening.
+
+[Learn more about Acupuncture](/anxiety)
 
 ---
 
+## How This Work Progresses
+
+Once symptoms are reduced, the focus changes.
+
 ### Emotional Regulation
 
-When the issue is internal state, not structure.
+When the issue is internal state, not just physical symptoms.
 
 → [Reiki](/reiki)
 
@@ -35,7 +49,7 @@ When the issue is internal state, not structure.
 
 ### Clarity and Direction
 
-When the issue is understanding what is happening.
+When the issue is not knowing what is actually happening.
 
 → [Divination](/divination)
 
@@ -43,7 +57,7 @@ When the issue is understanding what is happening.
 
 ### Ongoing Development
 
-When the goal is not just relief, but capacity.
+When the goal is not just relief, but capacity and control.
 
 → [Qigong and Classes](/education)
 
@@ -51,9 +65,9 @@ When the goal is not just relief, but capacity.
 
 ## Advanced Work
 
-In some cases, structured intervention is required.
+In some cases, more focused intervention is required.
 
-This is assessed and not publicly listed as a standard service.
+This is assessed and offered only when appropriate.
 
 [Learn more](/ritual)
 
@@ -61,10 +75,10 @@ This is assessed and not publicly listed as a standard service.
 
 ## Not Sure Where to Start
 
-- Physical symptoms → start with **Acupuncture**  
-- Emotional overwhelm → **Reiki**  
-- Need clarity → **Divination**  
-- Want to build skill → **Classes**
+- Physical symptoms → start with **Acupuncture**
+- High-functioning but overwhelmed → **Reiki**
+- Stuck, uncertain, or repeating patterns → **Divination**
+- Want long-term capacity and control → **Classes**
 
 [View All Services](/services)
 
