@@ -6,7 +6,7 @@ cover: /images/hero-main.svg
 
 # Projects
 
-## Chinese Sorcery Magick Book
+## Chinese Divination-Magick Book (title to be announced)
 
 In development.
 

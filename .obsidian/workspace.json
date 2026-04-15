@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/reiki.md",
+                "file": "docs/projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "reiki"
+              "title": "projects"
             }
           }
         ]
@@ -186,16 +186,16 @@
   },
   "active": "96d2822de934bc25",
   "lastOpenFiles": [
+    "docs/qigong.md",
+    "docs/reiki.md",
+    "docs/anxiety.md",
+    "docs/divination.md",
     "public/images/hero-reiki.png",
     "docs/ritual.md",
-    "docs/anxiety.md",
-    "docs/reiki.md",
     "docs/index.md",
     "docs/education.md",
     "docs/projects.md",
     "docs/officiant.md",
-    "docs/qigong.md",
-    "docs/divination.md",
     "docs/writing.md"
   ]
 }
