@@ -6,7 +6,7 @@ aliases:
   - Home
 ---
 ----
-# Acupuncture in Toronto for Anxiety, Stress, and Burnout
+## Acupuncture in Toronto for Anxiety, Stress, and Burnout
 
 For anxiety, stress, pain, and nervous system dysregulation.
 
