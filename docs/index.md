@@ -6,17 +6,16 @@ aliases:
   - Home
 ---
 ----
-## Acupuncture in Toronto for Anxiety, Stress, and Burnout
+## Acupuncture and Structured Practice in Toronto
 
 For anxiety, stress, burnout, and nervous system overload.
 
 For people who are still functioning, but not stable.
 
-Most people try to push through this. It usually gets worse or cycles.
-
+Most people try to push through this. It usually gets worse or cycles.  
 At a certain point, pushing harder stops working.
 
-This is a clinical practice that works with regulation, pattern, and change.
+Clinical precision. Structured transformation.
 
 This is not symptom management alone. It is applied change.
 
@@ -35,31 +34,43 @@ From there, the work shifts depending on what is actually happening.
 
 ---
 
-## How This Work Progresses
+## Areas of Work
+
+Different methods. Same underlying problem: regulation, clarity, and change.
+
+### Body
+
+Physical symptoms, tension, and systemic imbalance.
+
+- [Acupuncture](/anxiety)  
+- [Qigong](/education)
+
+---
+
+### Mind
+
+Internal state, emotional regulation, and stability.
+
+- [Reiki](/reiki)  
+- [Education](/education)
+
+---
+
+### Pattern
+
+Direction, repetition, and what is not resolving.
+
+- [Divination](/divination)
+
+---
+
+## Progression
 
 Once symptoms are reduced, the focus changes.
 
-### Emotional Regulation
-
-When the issue is internal state, not just physical symptoms.
-
-→ [Reiki](/reiki)
-
----
-
-### Clarity and Direction
-
-When the issue is not knowing what is actually happening.
-
-→ [Divination](/divination)
-
----
-
-### Ongoing Development
-
-When the goal is not just relief, but capacity and control.
-
-→ [Qigong and Classes](/education)
+- Emotional overwhelm → **Reiki**  
+- Need clarity → **Divination**  
+- Long-term capacity → **Classes**
 
 ---
 
@@ -75,10 +86,10 @@ This is assessed and offered only when appropriate.
 
 ## Not Sure Where to Start
 
-- Physical symptoms → start with **Acupuncture**
-- High-functioning but overwhelmed → **Reiki**
-- Stuck, uncertain, or repeating patterns → **Divination**
-- Want long-term capacity and control → **Classes**
+- Physical symptoms → start with **Acupuncture**  
+- High-functioning but overwhelmed → **Reiki**  
+- Stuck or repeating patterns → **Divination**  
+- Want long-term capacity → **Classes**
 
 [View All Services](/services)
 
