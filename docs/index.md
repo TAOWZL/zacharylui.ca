@@ -12,7 +12,7 @@ aliases:
 
 Clinical precision. Structured transformation. Direct results.
 
-[Book a Session](anxiety.md)
+[Book a Session](acupuncture.md)
 [View Services](#areas-of-work)
 
 ---
@@ -23,7 +23,7 @@ Clinical precision. Structured transformation. Direct results.
 
 **Acupuncture**  
 Anxiety. Burnout. Nervous system regulation.  
-[Learn More](anxiety.md)
+[Learn More](acupuncture.md)
 
 **Qigong**  
 Internal structure. Regulation. Training.  
@@ -39,7 +39,7 @@ Downregulation. Emotional reset.
 
 **Education**  
 Courses. Workshops. Applied systems.  
-[Learn More](education.md)
+[Learn More](events.md)
 
 ---
 
@@ -80,7 +80,7 @@ This is nervous system dysregulation.
 You don’t manage symptoms.  
 You change the system.
 
-[Book a Session](anxiety.md)
+[Book a Session](acupuncture.md)
 
 ---
 
@@ -92,7 +92,7 @@ Practical systems. No theory without application.
 - Reiki training  
 - Workshops and applied frameworks  
 
-[View Classes](education.md)
+[View Classes](events.md)
 
 ---
 
@@ -131,4 +131,4 @@ If your system is off, it won’t fix itself.
 
 [Book Acupuncture](https://wujixuan.janeapp.com/#/discipline/4/treatment/2)
 [Book Divination](divination.md)
-[View Classes](education.md)
+[View Classes](events.md)
