@@ -3,9 +3,18 @@ export const siteConfig = {
   url: "https://zacharylui.ca",
   nav: [
     { label: "Home", slug: "" },
-    { label: "Acupuncture", slug: "anxiety" },
-    { label: "Marriage Officiant", slug: "officiant" },
-    { label: "Projects", slug: "projects" },
-    { label: "Writing", slug: "writing" }
+    { label: "Acupuncture", slug: "acupuncture" },
+    {
+      label: "Services",
+      slug: "services",
+      children: [
+        { label: "Reiki", slug: "reiki" },
+        { label: "Divination", slug: "divination" },
+        { label: "Ritual", slug: "ritual" }
+      ]
+    },
+    { label: "Events", slug: "events" },
+    { label: "Blog", slug: "blog" },
+    { label: "About", slug: "about" }
   ]
 };
