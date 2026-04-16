@@ -6,7 +6,7 @@ aliases:
   - Home
 ---
 ----
-# Acupuncture for Anxiety, Burnout, and Nervous System Reset in Toronto
+## Acupuncture for Anxiety, Burnout, and Nervous System Reset in Toronto
 
 Fix chronic stress, poor sleep, and mental overload at the root.  
 Structured, system-based treatment—not symptom management.
