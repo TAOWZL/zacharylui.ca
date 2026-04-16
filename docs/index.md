@@ -8,19 +8,15 @@ aliases:
 ----
 ## Acupuncture for Anxiety & Nervous System Regulation — Toronto
 
-If your nervous system doesn’t reset,  
-everything repeats.
+If your nervous system doesn’t reset, nothing improves.
 
-Sleep doesn’t restore.  
-Stress carries forward.  
-Tension returns.
-
-This is structured acupuncture in Toronto focused on how your nervous system functions — not temporary relief.
+This is structured acupuncture in Toronto focused on supporting how your nervous system functions — not just how you feel.
 
 Not symptom management.  
-System-level support.
+System regulation.
 
-→ [Book Your First Session](https://wujixuan.janeapp.com/#/staff_member/1/t)
+→ Book Your First Session  
+https://wujixuan.janeapp.com/#/staff_member/1/t
 
 ---
 
@@ -29,21 +25,19 @@ Most people don’t have a stress problem.
 They have a nervous system that no longer resets.
 
 - You’re always “on”  
-- Sleep doesn’t restore you  
-- Tension returns quickly  
-- Anxiety follows predictable patterns  
+- Sleep doesn’t fully shut things down  
+- Your body holds tension without realizing it  
+- Anxiety follows the same patterns  
 
 At this level, more coping strategies stop working.
 
-The system itself needs to be addressed.
-
-Left unchanged, these patterns tend to reinforce over time.
+The system itself may need to be addressed.
 
 ---
 
 ## What This Work Does
 
-This is structured acupuncture for anxiety in Toronto designed to support changes in how your nervous system responds over time.
+This is structured acupuncture for anxiety in Toronto designed to support how your nervous system regulates over time.
 
 Treatment focuses on:
 
@@ -54,120 +48,69 @@ Treatment focuses on:
 
 This is typically where people arrive after other approaches stop holding.
 
-The focus is on building more stable regulation — so changes last beyond the session.
+The goal is not short-term relief.
+
+The goal is to support a system that can return closer to baseline — more consistently.
 
 ---
 
-## What Patients Often Notice
+## What People May Notice Over Time
 
-With consistent acupuncture treatment, many patients report:
+Over time, some people report:
 
-- Easier transition out of high-alert states  
-- More restorative sleep  
-- Less carryover of stress between days  
-- Reduced physical tension over time  
-- Greater ability to respond rather than react  
+- Falling asleep more easily  
+- Waking with less internal pressure  
+- Reduced physical tension throughout the day  
+- Less reactivity to stress  
+- More consistent energy and focus  
 
-These changes build gradually.
-
-The goal is not immediate relief.
-
-The goal is supporting a system that can return to baseline more reliably over time.
+These changes vary from person to person and build with consistent treatment.
 
 ---
 
 ## How Treatment Works
 
-Care follows a structured progression:
+Treatment follows a clear progression:
 
 **1. Assessment**  
 Identify where regulation is not holding.
 
 **2. Regulation**  
-Reduce baseline tension and reactivity.
+Support reduction in baseline tension and nervous system reactivity.
 
 **3. Stabilization**  
-Support consistency between sessions.
+Support changes so they hold between sessions.
 
 **4. Optimization**  
-Improve resilience, focus, and recovery capacity.
+Support resilience, recovery, and overall capacity.
 
-Each session builds on the last.
-
-This is structured acupuncture — not one-off treatment.
-
----
-
-## Acupuncture (Primary Entry Point)
-
-Acupuncture is the primary method used to support nervous system regulation and internal balance.
-
-Sessions are 50 minutes within a 60-minute appointment.
-
-Treatment is cumulative.  
-Consistency plays a key role in how the body responds.
-
-→ [Book Your First Session](https://wujixuan.janeapp.com/#/staff_member/1/t)
+Each session builds on the last.  
+This is structured care — not random treatment.
 
 ---
 
-## Integrated Approach (When Needed)
+## About
 
-Acupuncture is the foundation.
+Zachary Lui is a Registered Acupuncturist (R.Ac) and instructor in Traditional Chinese Medicine.
 
-Other systems are introduced only when they improve long-term outcomes:
-
-- **Reiki** — supports deeper states of relaxation  
-- **Qigong** — develops internal regulation and recovery capacity  
-- **Reflective tools** — used to explore patterns when they repeat  
-
-These are layered in based on what is clinically useful.
+His work focuses on structured treatment of anxiety, stress, and nervous system dysregulation — using repeatable treatment frameworks designed to support consistent change over time.
 
 ---
 
-## About Zachary Lui
+## Services
 
-Master of Medical Qigong  
-Professor of Traditional Chinese Medicine  
-Registered Acupuncturist (R.Ac), Ontario  
-
-Clinical focus: acupuncture for anxiety, stress, and nervous system dysfunction.
-
-Care is structured, repeatable, and focused on long-term change.
-
-Located in Toronto.  
-Serving clients seeking consistent, systems-based care.
+- Acupuncture  
+- Medical Qigong  
+- Reiki  
+- Divination  
 
 ---
 
-## Who This Is For
+## Booking
 
-- Professionals under constant pressure  
-- High-functioning individuals experiencing burnout  
-- People looking for structured, process-based acupuncture care  
+Appointments are available in Toronto.
 
----
+Most patients begin with weekly sessions.
 
-## Who This Is Not For
-
-- One-time relaxation sessions  
-- Passive treatment without engagement  
-- No commitment to a treatment process  
-
----
-
-Individual responses to acupuncture vary.  
-Care is focused on supporting nervous system regulation over time.
-
----
-
-## Start Here
-
-If your nervous system isn’t resetting, the pattern continues — and reinforces.
-
-This work focuses on changing that pattern directly.
-
-Consistency matters.  
-Progress builds session to session.
-
-→ [Book Your First Session](https://wujixuan.janeapp.com/#/staff_member/1/t)
+→ Book Your First Session  
+https://wujixuan.janeapp.com/#/staff_member/1/t
