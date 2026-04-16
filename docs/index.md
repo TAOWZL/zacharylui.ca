@@ -6,120 +6,103 @@ aliases:
   - Home
 ---
 ----
-## Acupuncture for Anxiety, Stress, and Nervous System Regulation in Toronto
+# Acupuncture for Anxiety, Burnout, and Nervous System Reset in Toronto
 
-You’re functioning. But not well.  
-Sleep is off. Mind doesn’t shut down. Body stays tense.  
+Fix chronic stress, poor sleep, and mental overload at the root.  
+Structured, system-based treatment—not symptom management.
 
-This is where the system resets.
-
-Toronto-based acupuncture practice for anxiety and nervous system regulation
-
-[**Book a Session**](https://wujixuan.janeapp.com/#/staff_member/1/t)
+[Book a Session →](https://wujixuan.janeapp.com/#/staff_member/1/t)  
+[Explore Services →](/services/)
 
 ---
 
-## You don’t manage symptoms. You change the system.
+## You’re Not Dealing With Random Symptoms
 
-This work focuses on:
+You’re dealing with a system that’s no longer regulating properly.
 
-- nervous system regulation  
-- stress and anxiety patterns  
-- physical tension and internal overload  
+Most treatments try to relax you.  
+That works temporarily.
 
-Treatment is structured, direct, and results-driven.
+This work is different.
 
----
+We rebuild how your body handles:
+- stress  
+- recovery  
+- emotional load  
 
-## What This Treats
-
-**Anxiety and stress aren’t random. They follow patterns.**
-
-Common presentations:
-
-- high-functioning anxiety  
-- burnout and mental fatigue  
-- poor sleep or light sleep  
-- chronic tension (neck, jaw, chest)  
-- overthinking and inability to shut off  
-
-If your system doesn’t downregulate, symptoms persist.
+So the results hold.
 
 ---
 
-## How It Works
+## What This Helps With
 
-Acupuncture is used to reset regulation pathways.
+This clinic focuses on high-functioning individuals dealing with:
 
-Sessions are designed to:
+- Anxiety and constant overthinking  
+- Burnout and mental fatigue  
+- Sleep disruption and poor recovery  
+- Chronic tension (neck, jaw, shoulders)  
+- Emotional regulation and stress resilience  
 
-- calm the nervous system  
-- reduce internal tension  
-- restore sleep depth  
-- stabilize mental focus  
-
-This is not relaxation alone.  
-It is system-level correction.
+If your system feels “on” all the time,  
+this is where we reset it.
 
 ---
 
-## About Zachary Lui
+## How Treatment Works
 
-- Registered Acupuncturist (R.Ac)  
+Treatment is structured.
+
+Not random. Not guesswork.
+
+Each session targets:
+- Nervous system regulation  
+- Circulation and tension release  
+- System-level recalibration  
+
+Over time, the body stops reacting the same way.
+
+You don’t just feel better.  
+You function differently.
+
+---
+
+## Work With Me
+
+### Acupuncture
+For physical and nervous system regulation  
+→ Anxiety, stress, pain, sleep  
+
+### Reiki
+For deeper system reset and emotional regulation  
+→ When the body won’t turn off  
+
+### Divination
+For clarity and decision-making  
+→ When you’re stuck or looping  
+
+---
+
+## Why This Is Different
+
+- Licensed Acupuncturist (R.Ac)  
 - Medical Qigong Practitioner (MMQ)  
-- Chinese Medicine Instructor  
+- Systems-based treatment approach  
+- Focus on anxiety and burnout cases  
 
-Clinical work focuses on:
+This is not general wellness.
 
-- anxiety and nervous system disorders  
-- internal regulation and recovery  
-- structured treatment planning  
-
-This is not generalized care.  
-Each treatment is intentional and system-based.
-
----
-
-## Results
-
-Clients commonly report:
-
-- deeper, more consistent sleep  
-- reduced anxiety baseline  
-- improved clarity and focus  
-- less physical tension  
-
-Change is often felt within the first few sessions.
+This is targeted work for people who:
+- think a lot  
+- carry pressure  
+- and need their system to actually change  
 
 ---
 
-## Session Structure
+## Located in Toronto
 
-Sessions are 60 minutes.
+In-person sessions available.
 
-Treatment includes:
+If you’re ready to fix the pattern—not manage it:
 
-- assessment of your current state  
-- targeted acupuncture protocol  
-- guided downregulation  
-
-You leave more settled than you came in.
-
----
-
-## Beyond Acupuncture
-
-For deeper work, additional systems are available:
-
-- Reiki — emotional and energetic regulation  
-- Qigong — structured internal training  
-- Divination — pattern clarity and decision support  
-
-These are not separate services.  
-They extend the same framework.
-
----
-
-## If your system isn’t resetting, it will keep repeating the same patterns.
-
-[**Book a Session**](https://wujixuan.janeapp.com/#/staff_member/1/t)
+[Book Your Session →](https://wujixuan.janeapp.com/#/staff_member/1/t)
