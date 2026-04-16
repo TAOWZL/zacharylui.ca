@@ -1,18 +1,21 @@
 ---
-title: Acupuncture for Anxiety & Burnout in Toronto | Zachary Lui
-description: Acupuncture for anxiety, burnout, and nervous system regulation in Toronto. Structured treatment to improve sleep, reduce stress, and restore stability.
+title: Acupuncture for Anxiety Toronto | Nervous System Regulation | Zachary Lui
+description: Acupuncture for anxiety in Toronto focused on nervous system regulation. Structured, process-based care for stress, burnout, and sleep disruption. Book your first session.
 cover: /images/hero-main.svg
 aliases:
   - Home
 ---
 ----
-# Zachary Lui  
 ## Acupuncture for Anxiety & Nervous System Regulation — Toronto
 
-If your nervous system stays stuck in “on,”  
-sleep, stress, and tension don’t resolve — they repeat.
+If your nervous system doesn’t reset,  
+everything repeats.
 
-This is structured acupuncture in Toronto focused on how your nervous system functions — not just how you feel.
+Sleep doesn’t restore.  
+Stress carries forward.  
+Tension returns.
+
+This is structured acupuncture in Toronto focused on how your nervous system functions — not temporary relief.
 
 Not symptom management.  
 System-level support.
@@ -40,7 +43,7 @@ Left unchanged, these patterns tend to reinforce over time.
 
 ## What This Work Does
 
-This is structured acupuncture for anxiety in Toronto designed to support how your nervous system responds over time.
+This is structured acupuncture for anxiety in Toronto designed to support changes in how your nervous system responds over time.
 
 Treatment focuses on:
 
@@ -110,15 +113,15 @@ Consistency plays a key role in how the body responds.
 
 ## Integrated Approach (When Needed)
 
-Acupuncture is the primary entry point.
+Acupuncture is the foundation.
 
-Other systems are layered in only when they strengthen long-term outcomes:
+Other systems are introduced only when they improve long-term outcomes:
 
 - **Reiki** — supports deeper states of relaxation  
 - **Qigong** — develops internal regulation and recovery capacity  
-- **Divination** — used as a reflective tool when patterns repeat  
+- **Reflective tools** — used to explore patterns when they repeat  
 
-These are introduced based on what is clinically useful — not as separate starting points.
+These are layered in based on what is clinically useful.
 
 ---
 
@@ -160,7 +163,7 @@ Care is focused on supporting nervous system regulation over time.
 
 ## Start Here
 
-If your nervous system isn’t resetting, the pattern continues.
+If your nervous system isn’t resetting, the pattern continues — and reinforces.
 
 This work focuses on changing that pattern directly.
 
