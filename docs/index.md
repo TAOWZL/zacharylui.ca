@@ -6,51 +6,48 @@ aliases:
   - Home
 ---
 ----
-## Acupuncture for Anxiety, Burnout & Nervous System Regulation — Toronto
+## Acupuncture for Anxiety & Nervous System Regulation — Toronto
 
-When your system stays stuck in “on,”  
-sleep, tension, and anxiety don’t resolve — they repeat.
+If your nervous system doesn’t reset, progress can be limited.
 
-This is structured acupuncture in Toronto focused on how your nervous system functions over time — not just how you feel in the moment.
+This is acupuncture in Toronto focused on supporting how your nervous system functions — not just how you feel.
 
 Not symptom management.  
 System-level support.
 
-→ [Book Your First Session](https://wujixuan.janeapp.com/#/staff_member/1/t)
+→ [Start Nervous System Treatment](https://wujixuan.janeapp.com/#/staff_member/1/t)
 
 ---
 
 Most people don’t have a stress problem.
 
-They have a system that no longer resets.
+They have a nervous system that may no longer reset effectively.
 
-- You wake up already tense  
-- Sleep doesn’t fully shut things down  
-- Your body stays “on” even when you try to relax  
-- Anxiety follows the same patterns  
+- You’re always “on”  
+- Sleep doesn’t fully restore you  
+- Tension keeps returning  
+- Anxiety follows patterns  
 
-At this stage, more coping strategies stop working.
+At this level, coping strategies may stop working over time.
 
-The system itself needs to be addressed.
+The system itself may need to be addressed.
 
 ---
 
 ## What This Work Does
 
-This is structured acupuncture for anxiety and burnout in Toronto designed to support how your nervous system regulates over time.
+This is structured acupuncture in Toronto designed to support how your nervous system responds over time.
 
 Treatment focuses on:
 
 - Anxiety and chronic stress  
-- Burnout and nervous system fatigue  
+- Burnout and nervous system exhaustion  
 - Sleep disruption  
 - Stress-related physical tension  
 
-This is typically where people arrive after other approaches stop holding.
+Many patients seek this level of care after other approaches stop holding.
 
-The goal is not temporary relief.
-
-The goal is to support a system that can return closer to baseline — more consistently.
+The focus is on supporting more consistent regulation over time.
 
 ---
 
@@ -59,83 +56,60 @@ The goal is to support a system that can return closer to baseline — more cons
 Treatment follows a clear progression:
 
 **1. Assessment**  
-Identify where regulation is not holding.
+Identify where regulation may be disrupted.
 
 **2. Regulation**  
-Lower baseline tension and reactivity.
+Support reduction in baseline tension and reactivity.
 
 **3. Stabilization**  
-Support changes that begin to hold between sessions.
+Help changes hold more consistently between sessions.
 
 **4. Optimization**  
-Improve resilience, recovery, and capacity.
+Support resilience, recovery, and overall system capacity.
 
 Each session builds on the last.  
 This is structured care — not random treatment.
 
 ---
 
-## What Patients Often Notice
+## Results You May Notice
 
-With consistent treatment, many patients report:
+With consistent treatment, patients may notice:
 
-- Falling asleep more easily  
-- Less baseline tension throughout the day  
-- Reduced intensity of stress responses  
-- Improved recovery after demanding days  
+- More restorative sleep  
+- Reduced baseline tension  
+- Less reactivity to stress  
+- Improved recovery after demanding periods  
 
-Individual responses to acupuncture vary.
+Responses vary from person to person.
 
 ---
 
-## Is This a Fit?
+## Who This Is For
 
 This work may be a good fit if:
 
-- You feel constantly “on” or wired  
-- Stress keeps returning even after rest  
+- You feel “on” even when nothing is wrong  
+- Stress patterns keep returning despite effort  
+- Sleep does not fully restore you  
 - You’ve tried multiple approaches without lasting change  
-- You’re looking for a structured, repeatable treatment process  
 
-This may not be the right fit if you are looking for:
-
-- One-time or occasional treatment  
-- Immediate or guaranteed results  
+This is typically where people arrive when surface-level solutions stop holding.
 
 ---
 
-## About
+## About Zachary Lui
 
-Zachary Lui is a Registered Acupuncturist in Ontario.
+Registered Acupuncturist (R.Ac)  
+Professor of Traditional Chinese Medicine  
+Master of Medical Qigong (MMQ)
 
-He is a Professor of Traditional Chinese Medicine and a Master of Medical Qigong.
-
-His work focuses on structured treatment approaches for anxiety, burnout, and nervous system regulation.
-
----
-
-## Services
-
-**Acupuncture**  
-Primary treatment for supporting nervous system regulation.
-
-**Reiki**  
-Supports deeper down-regulation when the system remains highly reactive.
-
-**Medical Qigong**  
-Develops recovery capacity between sessions.
-
-Additional services are integrated based on presentation.
+Practice focused on structured, system-level care for anxiety, stress, and nervous system dysregulation.
 
 ---
 
-## Location
+## Booking
 
-Toronto, Ontario  
-Wuji Xuan Life Wellness
+Appointments are available in Toronto.
 
----
-
-## Start Treatment
-
-→ [Book Your First Session](https://wujixuan.janeapp.com/#/staff_member/1/t)
+→ [Start Nervous System Treatment](https://wujixuan.janeapp.com/#/staff_member/1/t)
