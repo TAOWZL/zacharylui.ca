@@ -6,103 +6,165 @@ aliases:
   - Home
 ---
 ----
-## Acupuncture for Anxiety, Burnout, and Nervous System Reset in Toronto
+# Zachary Lui  
+## Acupuncture for Anxiety & Nervous System Regulation — Toronto
 
-Fix chronic stress, poor sleep, and mental overload at the root.  
-Structured, system-based treatment—not symptom management.
+If your nervous system stays stuck in “on,”  
+sleep, stress, and tension don’t resolve — they repeat.
 
-[Book a Session →](https://wujixuan.janeapp.com/#/staff_member/1/t)  
-[Explore Services →](/services/)
+This is structured acupuncture in Toronto focused on how your nervous system functions — not just how you feel.
 
----
+Not symptom management.  
+System-level support.
 
-## You’re Not Dealing With Random Symptoms
-
-You’re dealing with a system that’s no longer regulating properly.
-
-Most treatments try to relax you.  
-That works temporarily.
-
-This work is different.
-
-We rebuild how your body handles:
-- stress  
-- recovery  
-- emotional load  
-
-So the results hold.
+→ [Book Your First Session](https://wujixuan.janeapp.com/#/staff_member/1/t)
 
 ---
 
-## What This Helps With
+Most people don’t have a stress problem.
 
-This clinic focuses on high-functioning individuals dealing with:
+They have a nervous system that no longer resets.
 
-- Anxiety and constant overthinking  
-- Burnout and mental fatigue  
-- Sleep disruption and poor recovery  
-- Chronic tension (neck, jaw, shoulders)  
-- Emotional regulation and stress resilience  
+- You’re always “on”  
+- Sleep doesn’t restore you  
+- Tension returns quickly  
+- Anxiety follows predictable patterns  
 
-If your system feels “on” all the time,  
-this is where we reset it.
+At this level, more coping strategies stop working.
+
+The system itself needs to be addressed.
+
+Left unchanged, these patterns tend to reinforce over time.
+
+---
+
+## What This Work Does
+
+This is structured acupuncture for anxiety in Toronto designed to support how your nervous system responds over time.
+
+Treatment focuses on:
+
+- Anxiety and chronic stress  
+- Burnout and nervous system exhaustion  
+- Sleep disruption  
+- Stress-related physical tension  
+
+This is typically where people arrive after other approaches stop holding.
+
+The focus is on building more stable regulation — so changes last beyond the session.
+
+---
+
+## What Patients Often Notice
+
+With consistent acupuncture treatment, many patients report:
+
+- Easier transition out of high-alert states  
+- More restorative sleep  
+- Less carryover of stress between days  
+- Reduced physical tension over time  
+- Greater ability to respond rather than react  
+
+These changes build gradually.
+
+The goal is not immediate relief.
+
+The goal is supporting a system that can return to baseline more reliably over time.
 
 ---
 
 ## How Treatment Works
 
-Treatment is structured.
+Care follows a structured progression:
 
-Not random. Not guesswork.
+**1. Assessment**  
+Identify where regulation is not holding.
 
-Each session targets:
-- Nervous system regulation  
-- Circulation and tension release  
-- System-level recalibration  
+**2. Regulation**  
+Reduce baseline tension and reactivity.
 
-Over time, the body stops reacting the same way.
+**3. Stabilization**  
+Support consistency between sessions.
 
-You don’t just feel better.  
-You function differently.
+**4. Optimization**  
+Improve resilience, focus, and recovery capacity.
 
----
+Each session builds on the last.
 
-## Work With Me
-
-### Acupuncture
-For physical and nervous system regulation  
-→ Anxiety, stress, pain, sleep  
-
-### Reiki
-For deeper system reset and emotional regulation  
-→ When the body won’t turn off  
-
-### Divination
-For clarity and decision-making  
-→ When you’re stuck or looping  
+This is structured acupuncture — not one-off treatment.
 
 ---
 
-## Why This Is Different
+## Acupuncture (Primary Entry Point)
 
-- Licensed Acupuncturist (R.Ac)  
-- Medical Qigong Practitioner (MMQ)  
-- Systems-based treatment approach  
-- Focus on anxiety and burnout cases  
+Acupuncture is the primary method used to support nervous system regulation and internal balance.
 
-This is not general wellness.
+Sessions are 50 minutes within a 60-minute appointment.
 
-This is targeted work for people who:
-- think a lot  
-- carry pressure  
-- and need their system to actually change  
+Treatment is cumulative.  
+Consistency plays a key role in how the body responds.
+
+→ [Book Your First Session](https://wujixuan.janeapp.com/#/staff_member/1/t)
 
 ---
 
-## Located in Toronto
+## Integrated Approach (When Needed)
 
-In-person sessions available.
+Acupuncture is the primary entry point.
 
-If you’re ready to fix the pattern—not manage it:
+Other systems are layered in only when they strengthen long-term outcomes:
 
-[Book Your Session →](https://wujixuan.janeapp.com/#/staff_member/1/t)
+- **Reiki** — supports deeper states of relaxation  
+- **Qigong** — develops internal regulation and recovery capacity  
+- **Divination** — used as a reflective tool when patterns repeat  
+
+These are introduced based on what is clinically useful — not as separate starting points.
+
+---
+
+## About Zachary Lui
+
+Master of Medical Qigong  
+Professor of Traditional Chinese Medicine  
+Registered Acupuncturist (R.Ac), Ontario  
+
+Clinical focus: acupuncture for anxiety, stress, and nervous system dysfunction.
+
+Care is structured, repeatable, and focused on long-term change.
+
+Located in Toronto.  
+Serving clients seeking consistent, systems-based care.
+
+---
+
+## Who This Is For
+
+- Professionals under constant pressure  
+- High-functioning individuals experiencing burnout  
+- People looking for structured, process-based acupuncture care  
+
+---
+
+## Who This Is Not For
+
+- One-time relaxation sessions  
+- Passive treatment without engagement  
+- No commitment to a treatment process  
+
+---
+
+Individual responses to acupuncture vary.  
+Care is focused on supporting nervous system regulation over time.
+
+---
+
+## Start Here
+
+If your nervous system isn’t resetting, the pattern continues.
+
+This work focuses on changing that pattern directly.
+
+Consistency matters.  
+Progress builds session to session.
+
+→ [Book Your First Session](https://wujixuan.janeapp.com/#/staff_member/1/t)
