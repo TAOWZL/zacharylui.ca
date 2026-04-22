@@ -1,115 +1,92 @@
 ---
-title: Acupuncture for Anxiety Toronto | Nervous System Regulation | Zachary Lui
-description: Acupuncture for anxiety in Toronto focused on nervous system regulation. Structured, process-based care for stress, burnout, and sleep disruption. Book your first session.
+title: Zachary Lui, R.Ac | Acupuncture, Reiki, Bazi & Qigong in Riverdale Toronto
+description: Acupuncture, Reiki, qigong, tarot, mahjong divination, and ritual work with Zachary Lui, R.Ac, in Riverdale, Toronto. Book online.
 cover: /images/hero-main.svg
 aliases:
   - Home
 ---
 ----
-## Acupuncture for Anxiety & Nervous System Regulation — Toronto
+# Acupuncture, Reiki, Qigong, and Ritual in Riverdale, Toronto
 
-If your nervous system doesn’t reset, progress can be limited.
+Registered Acupuncturist. Master of Medical Qigong. Professor of Traditional Chinese Medicine. Practicing at Wuji Xuan Life Wellness, 255 Broadview Avenue.
 
-This is acupuncture in Toronto focused on supporting how your nervous system functions — not just how you feel.
+Clinical care on one side. Tarot, mahjong, and ritual work on the other. Same practitioner, same standards.
 
-Not symptom management.  
-System-level support.
-
-→ [Start Nervous System Treatment](https://wujixuan.janeapp.com/#/staff_member/1/t)
+[**Book a session**](https://wujixuan.janeapp.com/#/staff_member/1) &nbsp;·&nbsp; [See all services](/services)
 
 ---
 
-Most people don’t have a stress problem.
+## One practitioner. Five ways in.
 
-They have a nervous system that may no longer reset effectively.
+Most people arrive for one thing and stay for another. Acupuncture for anxiety that has not moved. Reiki for a nervous system that will not settle. Qigong to rebuild after burnout. A tarot or mahjong read before a big decision. A ritual for a threshold that deserves one.
 
-- You’re always “on”  
-- Sleep doesn’t fully restore you  
-- Tension keeps returning  
-- Anxiety follows patterns  
-
-At this level, coping strategies may stop working over time.
-
-The system itself may need to be addressed.
+You bring the situation. I read it.
 
 ---
 
-## What This Work Does
+## What I offer
 
-This is structured acupuncture in Toronto designed to support how your nervous system responds over time.
+### Acupuncture
 
-Treatment focuses on:
+Registered clinical practice for anxiety, pain, sleep, digestion, and patterns that have not resolved with other care. Most Ontario extended health plans cover R.Ac treatment.
 
-- Anxiety and chronic stress  
-- Burnout and nervous system exhaustion  
-- Sleep disruption  
-- Stress-related physical tension  
+[Learn more about acupuncture](/anxiety)
 
-Many patients seek this level of care after other approaches stop holding.
+### Reiki
 
-The focus is on supporting more consistent regulation over time.
+Quiet hands-on and distance sessions for the weeks the system will not downshift. Offered as a standalone practice or paired with acupuncture as an integrated session under one roof.
 
----
+[Learn more about Reiki](/reiki)
 
-## How Treatment Works
+### Qigong
 
-Treatment follows a clear progression:
+Private instruction in medical qigong and classical Daoist practice. Small group classes at the clinic. Useful where acupuncture needs a partner practice, or when you want to do some of the work yourself.
 
-**1. Assessment**  
-Identify where regulation may be disrupted.
+[Learn more about qigong](/qigong)
 
-**2. Regulation**  
-Support reduction in baseline tension and reactivity.
+### Tarot and Mahjong
 
-**3. Stabilization**  
-Help changes hold more consistently between sessions.
+Divination for decisions with consequence. Structured, not predictive. A read of the situation, the interference, and the path that best fits your goal. Tarot or mahjong, depending on what the question calls for.
 
-**4. Optimization**  
-Support resilience, recovery, and overall system capacity.
+[Learn more about divination](/divination)
 
-Each session builds on the last.  
-This is structured care — not random treatment.
+### Ritual
+
+Bespoke ritual work from Chinese Esoteric Buddhist, Daoist, and wu lineages. For thresholds, protection, grief, and situations that are not resolving through ordinary means. Screened on intake. Not for everyone, and that is on purpose.
+
+[Learn more about ritual work](/ritual)
 
 ---
 
-## Results You May Notice
+## About Zachary
 
-With consistent treatment, patients may notice:
+Registered Acupuncturist (R.Ac). Master of Medical Qigong through the International Institute of Medical Qigong. Usui Reiki Master. Professor of Traditional Chinese Medicine at the Ontario College of TCM, Eight Branches Academy, and AIM Academy.
 
-- More restorative sleep  
-- Reduced baseline tension  
-- Less reactivity to stress  
-- Improved recovery after demanding periods  
-
-Responses vary from person to person.
+Clinical work draws on classical Chinese medicine. Ritual and divination work draws on Chinese Esoteric Buddhist (唐密), Daoist, and wu (巫) lineages. What holds across all of it is accountability to the actual pattern, not the surface story.
 
 ---
 
-## Who This Is For
+## The clinic
 
-This work may be a good fit if:
+**Wuji Xuan Life Wellness**  
+255 Broadview Avenue, Toronto (Riverdale)  
+Between Gerrard and Dundas, a short walk from Broadview station  
+416-595-5525
 
-- You feel “on” even when nothing is wrong  
-- Stress patterns keep returning despite effort  
-- Sleep does not fully restore you  
-- You’ve tried multiple approaches without lasting change  
-
-This is typically where people arrive when surface-level solutions stop holding.
+Serving Riverdale, Leslieville, Cabbagetown, the Danforth, and downtown Toronto. Receipts issued for R.Ac treatment and accepted by most Ontario extended health plans.
 
 ---
 
-## About Zachary Lui
+## What a first visit looks like
 
-Registered Acupuncturist (R.Ac)  
-Professor of Traditional Chinese Medicine  
-Master of Medical Qigong (MMQ)
-
-Practice focused on structured, system-level care for anxiety, stress, and nervous system dysregulation.
+You book online through Jane. Initial visit runs 75 minutes. We go through your history and what you are actually here for. I take pulses and look at the tongue. Treatment usually involves needling and, where useful, cupping, gua sha, tuina, or qigong therapy. You leave with a working diagnosis in plain language, a treatment arc, and a short practice to take home if it fits.
 
 ---
 
-## Booking
+## Book
 
-Appointments are available in Toronto.
+Online any time through Jane, or by phone at **416-595-5525**.
 
-→ [Start Nervous System Treatment](https://wujixuan.janeapp.com/#/staff_member/1/t)
+[**Book a session**](https://wujixuan.janeapp.com/#/staff_member/1)
+
+Not sure where to start? [See all services](/services) or reach me at the clinic.
