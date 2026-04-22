@@ -83,7 +83,7 @@ Serving Riverdale, Leslieville, Cabbagetown, the Danforth, and downtown Toronto.
 
 ## What a first acupuncture visit looks like
 
-You book online through Jane. Initial visit runs 75 minutes. We go through your history and what you are actually here for. I take pulses and look at the tongue. Treatment usually involves needling and, where useful, cupping, gua sha, tuina, or qigong therapy. You leave with a working diagnosis in plain language, a treatment arc, and a short practice to take home if it fits.
+You book online through Jane. Initial visit runs 60 minutes. We go through your history and what you are actually here for. I take pulses and look at the tongue. Treatment usually involves needling and, where useful, cupping, gua sha, tuina, or qigong therapy. You leave with a working diagnosis in plain language, a treatment arc, and a short practice to take home if it fits.
 
 Other services have their own intake process, outlined on each service page.
 
