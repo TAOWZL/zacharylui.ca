@@ -1,5 +1,5 @@
 ---
-title: Writing
+title: Interviews & Writing
 description: Essays and notes on systems, practice, and transformation.
 cover: /images/hero-writing.svg
 permalink: writing
