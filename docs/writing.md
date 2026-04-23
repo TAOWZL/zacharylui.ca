@@ -5,13 +5,6 @@ cover: /images/hero-writing.svg
 permalink: writing
 ---
 ---
----
-title: Interviews & Writing
-description: Podcast interviews and writing from Zachary Lui on Chinese medicine, qigong, clinical practice, and the territory between clinical and ceremonial work.
-cover: /images/hero-writing.svg
-permalink: writing
----
-
 # Interviews & Writing
 
 Conversations and writing on Chinese medicine, clinical practice, and the territory where older traditions meet modern care.
