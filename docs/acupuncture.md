@@ -6,7 +6,7 @@ aliases:
   - Acupuncture
   - acupuncture
   - acupuncture for anxiety
-permalink: anxiety
+permalink: acupuncture
 ---
 
 # Acupuncture for Anxiety (Toronto)

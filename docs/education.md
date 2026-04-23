@@ -1,6 +1,7 @@
 ---
 title: Education
 description: Workshops and applied systems training.
+permalink: education
 ---
 
 # Education

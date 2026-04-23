@@ -2,6 +2,7 @@
 title: Writing
 description: Essays and notes on systems, practice, and transformation.
 cover: /images/hero-writing.svg
+permalink: writing
 ---
 
 # Writing
