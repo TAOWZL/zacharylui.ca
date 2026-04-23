@@ -7,13 +7,29 @@ permalink: writing
 ----
 # Interviews & Writing
 
-Conversations and writing on Chinese medicine, clinical practice, Chinese metaphysics, and the territory where older traditions meet modern care.
+Press, podcasts, conference presentations, and writing on Chinese medicine, clinical practice, Chinese metaphysics, and the territory where older traditions meet modern care.
 
 ---
 
-## Writing
+## Press & Media
 
-<!-- POSTS:writing -->
+### Toronto Star
+
+**On the fight to protect Traditional Chinese Medicine regulation in Ontario** (2022). Interviewed on proposed changes to Ontario's TCM regulatory framework and what deregulation would mean for public safety and practitioner accountability.  
+[Read](https://torontostar.pressreader.com/article/281526524516223)
+
+### The Globe and Mail
+
+**Best exercises to aid in digestion** (2020). Quoted on qigong and movement practices for digestive health.  
+[Read](https://www.theglobeandmail.com/life/adv/article-best-exercises-to-aid-in-digestion/)
+
+### CBC News Morning
+
+**On Traditional Chinese Medicine regulation in Ontario** (2022). National radio interview on efforts to protect TCM regulation from deregulation.
+
+### The Alan Carter Program, 640 Toronto
+
+**On Traditional Chinese Medicine regulation in Ontario** (2022). National radio interview on proposed changes to Ontario's TCM regulatory framework.
 
 ---
 
@@ -28,11 +44,13 @@ Featured guest appearances on podcasts covering Chinese medicine, qigong, Chines
 
 ### Learn Feng Shui
 
-Two conversations with Candice Berlanga on Chinese metaphysics. 
+Two conversations with Candice Berlanga on Chinese metaphysics.
 
-**Honoring Our Ancestors and Feng Shui for Burial** (2024). On ancestor veneration, funerary feng shui (Yin Feng Shui), and the ritual obligations that hold families across generations. [Listen](https://podcasts.apple.com/us/podcast/honoring-our-ancestors-and-feng-shui-for-burial-with-zac-lui/id1486212016?i=1000632002729) 
+**Honoring Our Ancestors and Feng Shui for Burial** (October 2023). On ancestor veneration, funerary feng shui (Yin Feng Shui), and the ritual obligations that hold families across generations.  
+[Listen](https://podcasts.apple.com/us/podcast/honoring-our-ancestors-and-feng-shui-for-burial-with-zac-lui/id1486212016?i=1000632002729)
 
-**Lucky in Love: Eastern Zodiac Predictions for the Year of the Wood Dragon** (2024). On relationship dynamics, zodiac forecasts, and dominant elements for the year, with perspective from Chinese medicine. [Listen](https://podcasts.apple.com/us/podcast/lucky-in-love-with-zac-lui/id1486212016?i=1000645571536)
+**Lucky in Love: Eastern Zodiac Predictions for the Year of the Wood Dragon** (March 2024). On relationship dynamics, zodiac forecasts, and dominant elements for the year, with perspective from Chinese medicine.  
+[Listen](https://podcasts.apple.com/us/podcast/lucky-in-love-with-zac-lui/id1486212016?i=1000645571536)
 
 ### Black Beryl (formerly Blue Beryl)
 
@@ -58,8 +76,18 @@ Six conversations with Nicholas Duchnowski on clinical TCM practice.
 **Session 15: Medical Qi Gong** (July 2021). On personal qigong practice, prescribing qigong to patients, and using medical qigong as treatment.  
 [Listen](https://podcast.tcmstudy.net/podcast/medical-qi-gong)
 
-**Session 13: Is Community Acupuncture Real Acupuncture?** (2021). On the POCA model, accessibility, and what community acupuncture means for the profession.  
+**Session 13: Is Community Acupuncture Real Acupuncture?** (2021). On the community acupuncture model, accessibility, and what it means for the profession.  
 [Listen](https://podcast.tcmstudy.net/podcast/community-acupuncture)
+
+---
+
+## Conference Presentations
+
+**SaAm Diagnostic Conference** (May 2025). Presenter: "Seasonal Diagnosis with SaAm: Aligning Zodiac Signs, Jieqi and Hexagram." On integrating traditional Korean SaAm acupuncture with classical Chinese calendrical and diagnostic systems.
+
+**World Qigong Summit** (April 2024). Invited presenter as Qigong Master.
+
+**Penn State University** (August 2022). Invited Qigong Master and Lecturer.
 
 ---
 
@@ -69,3 +97,9 @@ Six conversations with Nicholas Duchnowski on clinical TCM practice.
 
 Host of the Professional Association of Traditional Chinese Medicine Ontario's podcast, exploring clinical practice, education, and the evolution of Chinese medicine in Canada. Guests include Nicholas Duchnowski, Yubin Lu, and John Stan.  
 [Listen](https://www.tcmo.ca/category/members-only/podcast/)
+
+---
+
+## Writing
+
+<!-- POSTS:writing -->
