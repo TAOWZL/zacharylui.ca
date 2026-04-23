@@ -13,13 +13,10 @@
     <loc>https://zacharylui.ca/anxiety</loc>
   </url>
   <url>
-    <loc>https://zacharylui.ca/blog</loc>
-  </url>
-  <url>
     <loc>https://zacharylui.ca/divination</loc>
   </url>
   <url>
-    <loc>https://zacharylui.ca/events</loc>
+    <loc>https://zacharylui.ca/education</loc>
   </url>
   <url>
     <loc>https://zacharylui.ca/</loc>
@@ -47,5 +44,8 @@
   </url>
   <url>
     <loc>https://zacharylui.ca/wedding-officiant</loc>
+  </url>
+  <url>
+    <loc>https://zacharylui.ca/writing</loc>
   </url>
 </urlset>
