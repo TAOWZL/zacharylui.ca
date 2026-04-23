@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "events"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "96d2822de934bc25",
   "lastOpenFiles": [
-    "services.md",
     "docs/index.md",
+    "services.md",
     "docs/services.md",
     "docs/events.md",
     "docs/divination.md",
