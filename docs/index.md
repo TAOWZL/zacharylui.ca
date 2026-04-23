@@ -1,6 +1,6 @@
 ---
-title: Zachary Lui, R.Ac | Acupuncture, Reiki, Bazi & Qigong in Riverdale Toronto
-description: Acupuncture, Reiki, qigong, tarot, mahjong divination, and ritual work with Zachary Lui, R.Ac, in Riverdale, Toronto. Book online.
+title: Zachary Lui, R.Ac | Acupuncture, Reiki, Qigong & Ritual in Riverdale Toronto
+description: Acupuncture, Reiki, qigong, tarot and mahjong divination, and ritual work with Zachary Lui, R.Ac, in Riverdale, Toronto. Book online.
 cover: /images/hero-main.svg
 aliases:
   - Home
@@ -8,9 +8,9 @@ aliases:
 ----
 # Acupuncture, Reiki, Qigong, and Ritual in Riverdale, Toronto
 
-Registered Acupuncturist. Master of Medical Qigong. Shaman-Folk Priest. Professor of Traditional Chinese Medicine. Practising at Wuji Xuan Life Wellness, 255 Broadview Avenue.
+Registered Acupuncturist. Master of Medical Qigong. Shaman-Folk Priest. Professor of Traditional Chinese Medicine. Practicing at Wuji Xuan Life Wellness, 255 Broadview Avenue.
 
-Clinical care on one side. Tarot, mahjong, and ritual work on the other. Same practitioner, same standards.
+Clinical care on one side. Tarot, mahjong divination, and ritual work on the other. Same practitioner, same standards.
 
 **Now accepting new patients and clients.**
 
