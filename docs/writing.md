@@ -10,7 +10,6 @@ permalink: writing
 Press, podcasts, conference presentations, and writing on Chinese medicine, clinical practice, Chinese metaphysics, and the territory where older traditions meet modern care.
 
 ---
-
 ## Press & Media
 
 ### Toronto Star
@@ -32,7 +31,6 @@ Press, podcasts, conference presentations, and writing on Chinese medicine, clin
 **On Traditional Chinese Medicine regulation in Ontario** (2022). National radio interview on proposed changes to Ontario's TCM regulatory framework.
 
 ---
-
 ## Podcast Interviews
 
 Featured guest appearances on podcasts covering Chinese medicine, qigong, Chinese metaphysics, Buddhist medicine, and ritual work.
@@ -80,7 +78,6 @@ Six conversations with Nicholas Duchnowski on clinical TCM practice.
 [Listen](https://podcast.tcmstudy.net/podcast/community-acupuncture)
 
 ---
-
 ## Conference Presentations
 
 **SaAm Diagnostic Conference** (May 2025). Presenter: "Seasonal Diagnosis with SaAm: Aligning Zodiac Signs, Jieqi and Hexagram." On integrating traditional Korean SaAm acupuncture with classical Chinese calendrical and diagnostic systems.
