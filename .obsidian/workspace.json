@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/writing.md",
+                "file": "docs/acupuncture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "writing"
+              "title": "acupuncture"
             }
           }
         ]
@@ -184,10 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6789042287634e9",
+  "active": "96d2822de934bc25",
   "lastOpenFiles": [
-    "docs/education.md",
     "docs/writing.md",
+    "docs/education.md",
     "docs/acupuncture.md",
     "docs/index.md",
     "services.md",
