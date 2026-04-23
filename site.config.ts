@@ -6,7 +6,7 @@ export const siteConfig = {
     { label: "Acupuncture", slug: "anxiety" },
     { label: "Services", slug: "services" },
     { label: "Rituals", slug: "ritual" },
-    { label: "Classes", slug: "education" },
-    { label: "Writing", slug: "writing" }
+    { label: "Classes", slug: "events" },
+    { label: "Writing", slug: "blog" }
   ]
 };
