@@ -5,13 +5,6 @@ cover: /images/hero-writing.svg
 permalink: writing
 ---
 ---
----
-title: Interviews & Writing
-description: Podcast interviews and writing from Zachary Lui on Chinese medicine, qigong, Chinese metaphysics, and ritual work.
-cover: /images/hero-writing.svg
-permalink: writing
----
-
 # Interviews & Writing
 
 Conversations and writing on Chinese medicine, clinical practice, Chinese metaphysics, and the territory where older traditions meet modern care.
