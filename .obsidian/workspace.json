@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/writing/test-blog-day-1.md",
+                "file": "docs/writing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test-blog-day-1"
+              "title": "writing"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "96d2822de934bc25",
   "lastOpenFiles": [
-    "docs/writing.md",
     "docs/writing/test-blog-day-1.md",
+    "docs/writing.md",
     "docs/writing",
     "docs/writing/Day 1 blog.md",
     "docs/writing",
