@@ -4,7 +4,6 @@ description: Press, podcast interviews, and conference presentations featuring Z
 cover: /images/hero-writing.svg
 permalink: press
 ---
-
 # Press & Interviews
 
 Featured press coverage, podcast interviews, and conference presentations on Chinese medicine, clinical practice, Chinese metaphysics, and ritual work.
