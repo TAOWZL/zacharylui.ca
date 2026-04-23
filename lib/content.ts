@@ -12,6 +12,7 @@ export type Frontmatter = {
   publish?: boolean;
   image?: string;
   cover?: string;
+  date?: string;
 };
 
 export type Doc = {
@@ -20,6 +21,14 @@ export type Doc = {
   rawContent: string;
   content: string;
   data: Frontmatter;
+};
+
+export type PostSummary = {
+  slug: string;
+  title: string;
+  description: string;
+  date: string;
+  dateDisplay: string;
 };
 
 type ParsedWikilink = {
@@ -221,10 +230,53 @@ function normalizeMarkdownLinks(markdown: string, lookup: Map<string, string>): 
   });
 }
 
+export function getPostsInFolder(folder: string): PostSummary[] {
+  const prefix = folder.replace(/^\//, "").replace(/\/$/, "") + "/";
+  const folderSlug = prefix.slice(0, -1);
+  const docs = getAllDocs();
+
+  return docs
+    .filter((doc) => doc.slug.startsWith(prefix) && doc.slug !== folderSlug)
+    .map((doc): PostSummary => {
+      const date = doc.data.date ?? "";
+      return {
+        slug: doc.slug,
+        title: doc.data.title ?? doc.slug,
+        description: inferDescription(doc),
+        date,
+        dateDisplay: date
+          ? new Date(date).toLocaleDateString("en-CA", {
+              year: "numeric",
+              month: "long",
+              day: "numeric"
+            })
+          : ""
+      };
+    })
+    .sort((a, b) => (a.date < b.date ? 1 : -1));
+}
+
+export function renderPostListMarkdown(folder: string): string {
+  const posts = getPostsInFolder(folder);
+  if (posts.length === 0) return "_No posts yet. Check back soon._";
+
+  return posts
+    .map((post) => {
+      const datePart = post.dateDisplay ? `*${post.dateDisplay}* — ` : "";
+      return `**[${post.title}](/${post.slug})**  \n${datePart}${post.description}`;
+    })
+    .join("\n\n");
+}
+
 export function renderableMarkdown(doc: Doc): string {
   const docs = getAllDocs();
   const lookup = buildLookupMap(docs);
-  const ofmReady = convertCallouts(convertHighlights(stripObsidianComments(doc.content)));
+  let ofmReady = convertCallouts(convertHighlights(stripObsidianComments(doc.content)));
+
+  ofmReady = ofmReady.replace(/<!--\s*POSTS:([^\s-]+)\s*-->/g, (_, folder) => {
+    return renderPostListMarkdown(folder);
+  });
+
   const withWiki = convertWikiLinks(ofmReady, lookup);
   return normalizeMarkdownLinks(withWiki, lookup);
 }
