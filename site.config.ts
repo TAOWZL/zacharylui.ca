@@ -7,6 +7,7 @@ export const siteConfig = {
     { label: "Services", slug: "services" },
     { label: "Rituals", slug: "ritual" },
     { label: "Education", slug: "education" },
-    { label: "Interviews & Writing", slug: "writing" }
+    { label: "Press", slug: "press" },
+    { label: "Writing", slug: "writing" }
   ]
 };
