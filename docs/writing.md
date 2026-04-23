@@ -28,7 +28,7 @@ Conversations and writing on Chinese medicine, clinical practice, Chinese metaph
 
 Featured guest appearances on podcasts covering Chinese medicine, qigong, Chinese metaphysics, Buddhist medicine, and ritual work.
 
-### Qiological
+### Qilogical
 
 **Episode 340: Alchemy, Magic, and Channel Personalities** (January 2024). A conversation with Michael Max on the Five Phases, channel dynamics, and the integration of Buddhist, Daoist, shamanic, and alchemical frameworks into classical Chinese medicine.  
 [Listen](https://qiological.com/podcast/alchemy-magic-and-channel-personalities-zachary-lui/)
