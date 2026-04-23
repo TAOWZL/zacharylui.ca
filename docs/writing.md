@@ -28,13 +28,9 @@ Featured guest appearances on podcasts covering Chinese medicine, qigong, Chines
 
 ### Learn Feng Shui
 
-Two conversations with Candice Berlanga (CandiB) on Chinese metaphysics.
+**Ancestor Worship and Feng Shui for Burial.** On ancestor veneration, funerary feng shui (Yin Feng Shui), and the ritual obligations that hold families across generations. [Find on Learn Feng Shui](https://podcasts.apple.com/us/podcast/learn-feng-shui/id1486212016) 
 
-**Ancestor Worship and Feng Shui for Burial.** On ancestor veneration, funerary feng shui, and the ritual obligations that hold families across generations.  
-[Listen](https://creators.spotify.com/pod/learnfengshui)
-
-**Eastern Zodiac Predictions for Love in 2024: Year of the Wood Dragon.** On relationship dynamics, zodiac forecasts, and dominant elements for the year, with additional perspective from Chinese medicine.  
-[Listen](https://creators.spotify.com/pod/learnfengshui)
+**Eastern Zodiac Predictions for Love: Year of the Wood Dragon.** On relationship dynamics, zodiac forecasts, and dominant elements for 2024, with additional perspective from Chinese medicine. [Find on Learn Feng Shui](https://podcasts.apple.com/us/podcast/learn-feng-shui/id1486212016)
 
 ### Black Beryl (formerly Blue Beryl)
 
