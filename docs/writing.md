@@ -26,7 +26,7 @@ Conversations and writing on Chinese medicine, clinical practice, and the territ
 
 ## Podcast Interviews
 
-### Qiological
+### Qilogical
 
 **Episode 340: Alchemy, Magic, and Channel Personalities.** A conversation with Michael Max on the inner work of acupuncture, working with channel personalities, and where classical Chinese medicine touches the older ritual traditions that preceded it.  
 [Listen](https://qiological.com/podcast/alchemy-magic-and-channel-personalities-zachary-lui/)
