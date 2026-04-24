@@ -32,7 +32,7 @@ People come through this door when they want something to do, not something done
 
 These are contemplative practices, not regulated health services. They sit outside R.Ac scope and aren't a replacement for medical or mental health care.
 
-[Into qigong / neigong →](/qigong)  ·  [Into Reiki →](/reiki)
+[Into Qigong / Neigong →](/qigong)  ·  [Into Reiki →](/reiki)
 
 ---
 
@@ -44,7 +44,7 @@ People come through this door when the thing they're carrying needs ceremony, no
 
 Spiritual work, not healthcare. Sits outside R.Ac scope, not a substitute for medical, mental health, legal, or professional advice of any kind. That line stays clean. Past it, the work is the work.
 
-[Into ritual →](/ritual)  ·  [Into divination coaching →](/divination)
+[Into Ritual →](/ritual)  ·  [Into Divination Coaching →](/divination)
 
 ---
 
