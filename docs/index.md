@@ -61,10 +61,9 @@ Classical Chinese medicine as ongoing cultivation practice, not episodic symptom
 [Book acupuncture](https://wujixuan.janeapp.com/#/staff_member/1)
 
 ---
-
 ## About
 
-My Medical Qigong training and Mao Shan Shang Qing (茅山上清) Daoist priest lineage come through Robert Youngs, who trained under Dr. Jerry Alan Johnson, 80th-generation disciple of Mao Shan Shang Qing and senior abbot of Bian Hua Gong (Temple of Change and Transformation) in Monterey, California. Robert transferred the priest lineage to me directly before his passing. My spiritual master is Andrieh Vitimus, author of *Hands-On Chaos Magic*, through whom I trained as a priest and shaman at the Results Over Image Institute. I also hold practice initiations in Chinese esoteric Buddhism (唐密) and wu (巫) shaman tradition.
+My spiritual master is Andrieh Vitimus, author of *Hands-On Chaos Magic*, through whom I trained as a priest and shaman at the Results Over Image Institute. My Medical Qigong training and Mao Shan Shang Qing (茅山上清) Daoist priest lineage come through Robert Youngs, who trained under Dr. Jerry Alan Johnson, 80th-generation disciple of Mao Shan Shang Qing and senior abbot of Bian Hua Gong (Temple of Change and Transformation) in Monterey, California. Robert transferred the priest lineage to me directly before his passing. I also hold practice initiations in Chinese esoteric Buddhism (唐密) and wu (巫) shaman tradition, and work in broader folk Daoist practice alongside the Mao Shan Shang Qing lineage.
 
 Clinical practice since 2015. Teaching since 2018.
 
