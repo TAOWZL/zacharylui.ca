@@ -6,7 +6,7 @@ permalink: education
 ---
 # Teaching
 
-Teaching TCM and acupuncture in Ontario since 2018. Primarily clinical acupuncture, Tui Na, and the integration of classical theory with clinical practice. Cohorts I teach prepare to register with the profession; the work at the front of the classroom and the work at the clinic table are the same work done in two different rooms.
+Teaching TCM and acupuncture in Ontario since 2018. Courses taught span the clinical foundations, Internal Medicine, hands-on disciplines (Tui Na, qigong therapy, student clinic), and the professional preparation subjects that get new practitioners ready to register. Cohorts I teach prepare to register with the profession; the work at the front of the classroom and the work at the clinic table are the same work done in two different rooms.
 
 ---
 
@@ -22,9 +22,15 @@ Supervised over 300 clinical hours with student cohorts. Class sizes up to 40 st
 
 ---
 
-## What I teach on
+## Courses taught
 
-TCM theory and diagnosis. Classical and clinical acupuncture. Tui Na (Chinese bodywork). Qigong therapy and medical qigong applications. Clinical integration of classical Chinese medicine.
+**Clinical foundations.** TCM Foundations, Acupuncture Diagnosis, Meridian and Acupoints.
+
+**Internal Medicine (內科)** and its sub-disciplines. The core clinical course covering pattern differentiation and treatment across organ systems.
+
+**Hands-on practice.** Tui Na (Chinese bodywork), Qigong therapy, Student Clinic supervision.
+
+**Professional preparation.** Practice Management, Jurisprudence and Ethics, Graduation Preparation for the Pan-Canadian examinations.
 
 ---
 
@@ -35,7 +41,14 @@ TCM theory and diagnosis. Classical and clinical acupuncture. Tui Na (Chinese bo
 
 ---
 
+## Service to the profession
+
+Former Director of Communications on the board of Traditional Chinese Medicine Ontario (TCMO), the provincial professional association for Registered Acupuncturists and Traditional Chinese Medicine Practitioners.
+
+During my term in 2022, helped lead communications for the cross-sector coalition that successfully opposed Schedule 5 of Bill 88 (Working for Workers Act, 2022), legislation that would have repealed the Traditional Chinese Medicine Act and dissolved the profession's regulatory college. Coordinated 14 letters of support from national regulatory bodies, industry organizations, and suppliers, and participated in newspaper and radio interviews including CBC News. The amendment removing Schedule 5 passed in March 2022, preserving the regulatory framework for Traditional Chinese Medicine in Ontario.
+
+---
+
 ## Inquiries
 
 For teaching, lecture, or continuing education inquiries, reach the clinic at **416-595-5525**.
-
