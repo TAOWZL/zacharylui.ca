@@ -1,142 +1,59 @@
 ---
-title: Reiki
-description: Reiki for when your system won’t settle
+title: Reiki | Zachary Lui, Usui Reiki Master Teacher, Toronto
+description: Reiki sessions with Zachary Lui, Usui Reiki Master Teacher, at Wuji Xuan Life Wellness in Riverdale, Toronto.
 cover: /images/hero-reiki.png
+---
 ---
 # Reiki
 
-## Reiki for when your system will not settle
+Reiki sessions with Zachary Lui in Riverdale, Toronto.
 
-Sometimes your system does not downshift.
-
-You step away.  
-You rest.  
-Nothing changes.
-
-You remain wired, tense, or unsettled.
-
-This shows up as:
-
-- constant tension  
-- poor sleep  
-- inability to switch off  
-- mental overactivity that does not stop  
-
-This is for when being unable to settle starts to affect how you function.
-
-Reiki treatment is used here to help your system return to a state where it can regulate properly.
+*Reiki is a contemplative practice, not healthcare. Sits outside R.Ac scope and isn't a replacement for medical or mental health care.*
 
 ---
 
-## When to use this
+## What Reiki is
 
-- persistent tension without clear cause  
-- difficulty settling even at rest  
-- overstimulation or internal agitation  
-- poor recovery after stress  
-- feeling “on” when you should be off  
-
-This is used when the system does not respond to effort.
-
-This work can be applied to physical issues, emotional or mental strain, and spiritual imbalance.
+Reiki (霊気) is a Japanese practice developed by Mikao Usui in the early twentieth century. The practitioner places their hands lightly on or just above the body in a sequence of positions. That's the whole method. It's quiet, it's structured, and it's taught across a short lineage from Usui onward.
 
 ---
 
-## What is happening
+## What a session is
 
-Your system is not transitioning correctly between states.
+You arrive, you lie down fully clothed on a treatment table. I work through the hand positions. Sixty minutes. You can talk or not talk. The room is quiet, low-lit, warm.
 
-It remains activated when it should settle.  
-It does not reset after load.
+People come to Reiki for different reasons. Quiet time that isn't meditation and isn't therapy. Curiosity. A complement to practices they are already doing. None of those are medical indications, and I won't frame them as such.
 
-Over time, this leads to:
+## If it is your first time
 
-- accumulated tension  
-- unstable focus  
-- reduced recovery  
+You don't need to know anything. You don't need to believe anything. You don't need to prepare anything. Come in, lie down, breathe, see what the hour is like. If it's your thing, it'll be your thing. If it isn't, that's useful information too.
 
 ---
 
-## What this work does
+## Distance sessions
 
-Reiki is used to:
-
-- reduce internal agitation  
-- support down-regulation  
-- restore baseline stability  
-- improve recovery after stress  
-
-This is not about adding anything.
-
-This is not relaxation. It is correction of a system that is not settling.
+Distance Reiki runs over phone or video. Same length, same hand-position sequence, no physical contact. People book distance when they're out of town, when travel is hard, or when they just prefer being in their own space for the hour. The work is the work.
 
 ---
 
-## How Reiki sessions are done
+## About the practitioner and lineage
 
-Reiki sessions are 60 minutes.
+Trained in the Usui Reiki lineage through to Master Teacher, the highest level in the tradition.
 
-- 50 minutes treatment  
-- 10 minutes intake and closing  
+Mikao Usui taught different students differently. Most Reiki that reached the West comes through Chujiro Hayashi's clinical branch, emphasizing treatment protocols and hand positions for physical conditions. Other students received what runs closer to spiritual or ceremonial transmission. My lineage comes through the latter strand. My teacher is a practicing priest and shaman, and the lineage runs back through a witch who practiced magic. What you get in a session is still a Reiki session as the form is recognized worldwide. What sits behind it is the magical and spiritual line of the tradition rather than the clinical one.
 
-You are in a resting position.
-
-Contact is light or minimal.
-
-The session is structured to allow your system to settle without force or input.
-
-No active effort is required from you.
+Reiki is offered as a distinct practice from the clinical acupuncture work. The two are not combined within a single session.
 
 ---
 
-## What to expect
+## Fees
 
-During a Reiki session:
-
-- your system begins to slow  
-- internal tension reduces  
-- breathing becomes more stable  
-
-After a Reiki treatment, most people notice:
-
-- improved calm  
-- better sleep  
-- clearer mental state  
+See the [services page](/services) for current rates.
 
 ---
 
-## Why this matters
+## Book
 
-If the system cannot reset, problems compound.
+Online through Jane, or **416-595-5525**.
 
-- performance drops  
-- stress accumulates  
-- small issues worsen over time  
-
-Reiki restores the system’s ability to reset.
-
----
-
-## This is not
-
-- stimulation  
-- emotional processing  
-- performance enhancement  
-
-Reiki is used here for system regulation and recovery.
-
----
-
-## Reiki treatment in Toronto
-
-This Reiki treatment is available in Toronto for clients experiencing stress, nervous system dysregulation, or difficulty settling.
-
-Sessions are provided in a quiet setting designed to allow the system to downshift and recover.
-
----
-
-## Book a session
-
-If your system is not settling and you need it to reset:
-
-[Book your Reiki session](https://wujixuan.janeapp.com/#/staff_member/1/treatment/4){ .md-button .md-button--primary }
+[**Book a session**](https://wujixuan.janeapp.com/#/staff_member/1)
