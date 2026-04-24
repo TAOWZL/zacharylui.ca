@@ -1,72 +1,86 @@
----
-title: Zachary Lui, R.Ac | Acupuncture, Reiki, Qigong & Ritual in Riverdale Toronto
-description: Acupuncture, Reiki, qigong, tarot and mahjong divination, and ritual work with Zachary Lui, R.Ac, in Riverdale, Toronto. Book online.
+title: "Zachary Lui | Chinese Medicine, Ritual, and Divination in Toronto"
+description: "Chinese medicine, ritual, and divination practice in Riverdale, Toronto. For serious practitioners and clients with cultivated inner lives. Registered Acupuncturist, initiated priest and shaman in Chinese esoteric Buddhist, Daoist, and wu lineages."
 cover: /images/hero-main.svg
+cover_alt: "Zachary Lui, Registered Acupuncturist, priest, and shaman in Riverdale, Toronto"
 aliases:
   - Home
 ---
-----
-# Acupuncture, Reiki, Qigong, and Ritual in Riverdale, Toronto
 
-Registered Acupuncturist. Master of Medical Qigong. Shaman-Folk Priest. Professor of Traditional Chinese Medicine. Practicing at Wuji Xuan Life Wellness, 255 Broadview Avenue.
+# Chinese Medicine, Ritual, and Divination
 
-Clinical care on one side. Tarot, mahjong divination, and ritual work on the other. Same practitioner, same standards.
+Practice for serious practitioners and clients with cultivated inner lives.
 
-**Now accepting new patients and clients.**
+Registered Acupuncturist. Master of Medical Qigong. Professor of Traditional Chinese Medicine at three Toronto colleges. Initiated priest and shaman in Chinese esoteric Buddhist (唐密), Daoist, and wu (巫) lineages. Toronto, since 2015.
 
-[**Book a session**](https://wujixuan.janeapp.com/#/staff_member/1) &nbsp;·&nbsp; [See all services](/services)
+New serious clients typically begin with a divination consultation, after which we decide together what kind of ongoing work makes sense. Clinical acupuncture is available as a separate professional service, directly bookable.
 
----
-
-## One practitioner. Five ways in.
-
-Most people arrive for one thing and stay for another. Acupuncture for anxiety that has not moved. Reiki for a nervous system that will not settle. Qigong to rebuild after burnout. A tarot or mahjong read before a big decision. A ritual for a threshold that deserves one.
-
-You bring the situation. I read it.
+[**Book a divination consultation**](https://wujixuan.janeapp.com/#/staff_member/1) · [**Book acupuncture**](https://wujixuan.janeapp.com/#/staff_member/1) · [Read the approach](/approach)
 
 ---
 
-## What I offer
+## The work
 
-### Acupuncture
+Chinese medicine, ritual, and divination were one discipline before the modern regulatory era separated them. This practice treats them as they were: an integrated body of work for the care of the body, the spirit, and the situations a person finds themselves in.
 
-Clinical acupuncture under Ontario regulation. For anxiety, pain, sleep, digestion, and patterns that have not resolved with other care. Most Ontario extended health plans cover R.Ac treatment.
+The underlying work is priestcraft and shamanism. The regulatory separations between clinical medicine and spiritual practice are real, and I respect them. But the discipline is one.
 
-[Learn more about acupuncture](/anxiety)
+Clients come for different reasons. Some are working magicians who want peer-level consultation. Some are serious meditators, depth-psychology practitioners, or therapists who want their bodywork to meet the rest of their practice. Some are practitioners in other traditions seeking lineage-level engagement with Chinese methods.
 
-### Reiki
+What holds across all of them is that this isn't a walk-in clinic. It's an operating practice. Clients bring their own seriousness to it.
 
-Quiet hands-on and distance sessions for the weeks the system will not downshift. Offered as a standalone practice or paired with acupuncture as an integrated session under one roof.
+---
 
-[Learn more about Reiki](/reiki)
+## Offerings
 
-### Qigong
+### Divination consultation
 
-Private instruction in medical qigong and classical Daoist practice. Small group classes at the clinic. Useful where acupuncture needs a partner practice, or when you want to do some of the work yourself.
+Tarot with mediumship or mahjong divination, depending on the question. Sixty minutes, $175 + tax. The entry point for most new serious clients. Works as standalone consultation for decisions with consequence, or as intake for ritual engagement.
 
-[Learn more about qigong](/qigong)
+Readings operate from the same lineage framework as the ritual work: classical Chinese cosmology anchored in concrete decision-making, not predictive entertainment.
 
-### Tarot and Mahjong
-
-Divination for decisions with consequence. Structured, not predictive. A read of the situation, the interference, and the path that best fits your goal. Tarot or mahjong, depending on what the question calls for.
-
-[Learn more about divination](/divination)
+[Book a session](https://wujixuan.janeapp.com/#/staff_member/1)
 
 ### Ritual
 
-Ritual work from Chinese Esoteric Buddhist, Daoist, and Wu lineages. For thresholds, protection, grief, and situations that are not resolving through ordinary means. Screened on intake. Not for everyone, and that is on purpose.
+Priest and shaman work for situations that call for it. Operating ritual rooted in Chinese esoteric Buddhist (唐密), Daoist, and wu (巫) shaman lineages. For thresholds, protection, ancestral obligation, and work that does not resolve through ordinary means.
 
-[Learn more about ritual work](/ritual)
+New ritual engagements begin with a divination consultation. The reading determines whether ritual work is appropriate and, if so, its scope. Ritual engagements begin at $1,500 and scale from there.
 
-**Sessions from $50 (community acupuncture) to premium integrated work.** See [services](/services) for full details.
+[Book a divination consultation](https://wujixuan.janeapp.com/#/staff_member/1)
+
+### Reiki sessions
+
+Reiki transmitted at the lineage level Usui reserved for priests, magicians, and witches — not the wellness-industry version. Energy transmission for nervous system conditions, Shen disturbance, and deep conditions where needling alone isn't the right approach. Often combined with acupuncture in ongoing treatment.
+
+Sixty minutes, $115 + tax. Available to existing clients and to new clients through consultation.
+
+[Book a session](https://wujixuan.janeapp.com/#/staff_member/1)
+
+### Ongoing retainer relationships
+
+For clients who want ongoing divination, ritual, and cultivation work across a year rather than session-by-session. Application-based. Limited intake.
+
+[Apply for consultation](/apply)
+
+### Clinical acupuncture
+
+Classical Chinese medicine as ongoing cultivation practice, not episodic symptom management. Covered by most Ontario extended health plans. Available directly to new patients and existing clients.
+
+[Book acupuncture](https://wujixuan.janeapp.com/#/staff_member/1)
 
 ---
 
-## About Zachary
+## About
 
-Registered Acupuncturist (R.Ac). Master of Medical Qigong through the International Institute of Medical Qigong. Usui Reiki Master Teacher. Shaman-Folk Priest trained through the Results Over Image Institute under Andrieh Vitimus. Professor of Traditional Chinese Medicine at the Ontario College of TCM, Eight Branches Academy, and AIM Academy. Practicing clinically in Toronto since 2015 and teaching since 2018.
+My spiritual master is Andrieh Vitimus, author of *Hands-On Chaos Magic*, through whom I trained as a priest and shaman at the Results Over Image Institute. I hold practice initiations in three Chinese currents: esoteric Buddhism (唐密), Daoist ritual, and wu (巫) shaman tradition. All four inform my ritual and clinical work.
 
-Clinical work draws on classical Chinese medicine. Ritual and divination work draws on Chinese Esoteric Buddhist (唐密), Daoist, and Wu (巫) lineages. What holds across all of it is accountability to the actual pattern, not the surface story.
+Clinical practice since 2015. Teaching since 2018.
+
+Registered Acupuncturist. Master of Medical Qigong through the International Institute of Medical Qigong. Professor of Traditional Chinese Medicine at Eight Branches Academy of Eastern Medicine, the Ontario College of Traditional Chinese Medicine, and AIM Academy. Usui Reiki Master Teacher.
+
+Press has included the *Toronto Star*, *Globe and Mail*, CBC News Morning, and The Alan Carter Program on 640 Toronto. Conference presentations include the SaAm Diagnostic Conference, the World Qigong Summit, and Penn State University.
+
+[Full biography](/about) · [Press and interviews](/press) · [Writing](/writing)
 
 ---
 
@@ -77,22 +91,20 @@ Clinical work draws on classical Chinese medicine. Ritual and divination work dr
 Between Gerrard and Dundas, a short walk from Broadview station  
 416-595-5525
 
+Clinical acupuncture is a regulated health profession in Ontario. Ritual and divination work operate as separate practice and are not clinical services.
+
 Serving Riverdale, Leslieville, Cabbagetown, the Danforth, and downtown Toronto. Receipts issued for R.Ac treatment and accepted by most Ontario extended health plans.
 
 ---
 
-## What a first acupuncture visit looks like
+## Start here
 
-You book online through Jane. Initial visit runs 60 minutes. We go through your history and what you are actually here for. I take pulses and look at the tongue. Treatment usually involves needling and, where useful, cupping, gua sha, tuina, or qigong therapy. You leave with a working diagnosis in plain language, a treatment arc, and a short practice to take home if it fits.
+**New serious client or exploring ritual work:** [Book a divination consultation](https://wujixuan.janeapp.com/#/staff_member/1)
 
-Other services have their own intake process, outlined on each service page.
+**Here for acupuncture:** [Book a session](https://wujixuan.janeapp.com/#/staff_member/1) or call 416-595-5525
 
----
+**Existing client:** [Book directly](https://wujixuan.janeapp.com/#/staff_member/1)
 
-## Book
+**Interested in retainer relationship:** [Apply for consultation](/apply)
 
-Online any time through Jane, or by phone at **416-595-5525**.
-
-[**Book a session**](https://wujixuan.janeapp.com/#/staff_member/1)
-
-Not sure where to start? [See all services](/services) or reach me at the clinic.
+**Referring practitioner:** [Contact](/contact)
