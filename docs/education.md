@@ -43,9 +43,9 @@ Supervised over 300 clinical hours with student cohorts. Class sizes up to 40 st
 
 ## Service to the profession
 
-Former Director of Communications on the board of Traditional Chinese Medicine Ontario (TCMO), the provincial professional association for Registered Acupuncturists and Traditional Chinese Medicine Practitioners.
+Former Director of Marketing on the board of Traditional Chinese Medicine Ontario (TCMO), the provincial professional association for Registered Acupuncturists and Traditional Chinese Medicine Practitioners.
 
-During my term in 2022, helped lead communications for the cross-sector coalition that successfully opposed Schedule 5 of Bill 88 (Working for Workers Act, 2022), legislation that would have repealed the Traditional Chinese Medicine Act and dissolved the profession's regulatory college. Coordinated 14 letters of support from national regulatory bodies, industry organizations, and suppliers, and participated in newspaper and radio interviews including CBC News. The amendment removing Schedule 5 passed in March 2022, preserving the regulatory framework for Traditional Chinese Medicine in Ontario.
+During my term in 2022, helped lead marketing and outreach for the cross-sector coalition that successfully opposed Schedule 5 of Bill 88 (Working for Workers Act, 2022), legislation that would have repealed the Traditional Chinese Medicine Act and dissolved the profession's regulatory college. Coordinated 14 letters of support from national regulatory bodies, industry organizations, and suppliers, and participated in newspaper and radio interviews including CBC News. The amendment removing Schedule 5 passed in March 2022, preserving the regulatory framework for Traditional Chinese Medicine in Ontario.
 
 ---
 
