@@ -20,8 +20,6 @@ Commissioned ritual work from Chinese Esoteric Buddhist (唐密), Daoist, and Wu
 
 **Deity petition and offering.** Specific deities, specific courts, specific needs. Not spiritual tourism. You come with a particular question and a particular relationship, or you come to build one. We figure out what fits.
 
-**Grief ritual.** For the losses that don't process through conversation alone.
-
 **Situations that call for ceremony.** The ones where you already know nothing else will do the work.
 
 ---
@@ -47,6 +45,8 @@ Ritual is its own engagement. If you are a patient in the clinical practice and 
 ## Lineages and training
 
 Chinese Esoteric Buddhist (唐密), Daoist, and Wu (巫) lineages. Ritual practice trained through the Results Over Image Institute under Andrieh Vitimus. Ongoing work with specific deities and courts. Doing this work publicly since 2019.
+
+Reiki training is through the spiritual rather than clinical Usui lineage. My Reiki teacher is a practicing priest and shaman, and the line runs back through a witch who practiced magic. Noted here because it belongs with the rest of this work, not with the Reiki sessions offered at the clinic.
 
 ---
 

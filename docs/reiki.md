@@ -40,7 +40,7 @@ Distance Reiki runs over phone or video. Same length, same hand-position sequenc
 
 Trained in the Usui Reiki lineage through to Master Teacher, the highest level in the tradition.
 
-Mikao Usui taught different students differently. Most Reiki that reached the West comes through Chujiro Hayashi's clinical branch, emphasizing treatment protocols and hand positions for physical conditions. Other students received what runs closer to spiritual or ceremonial transmission. My lineage comes through the latter strand. My teacher is a practicing priest and shaman, and the lineage runs back through a witch who practiced magic. What you get in a session is still a Reiki session as the form is recognized worldwide. What sits behind it is the magical and spiritual line of the tradition rather than the clinical one.
+Mikao Usui taught different students differently. Most Reiki that reached the West comes through Chujiro Hayashi's clinical branch, emphasizing treatment protocols and hand positions for physical conditions. Other students received what runs closer to spiritual transmission. My lineage comes through the latter strand. What you get in a session is still Reiki as the form is recognized worldwide. What sits behind it is the spiritual line of the tradition rather than the clinical one.
 
 Reiki is offered as a distinct practice from the clinical acupuncture work. The two are not combined within a single session.
 
