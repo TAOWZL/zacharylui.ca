@@ -1,16 +1,30 @@
 ---
-title: Writing
-description: Essays and notes from Zachary Lui on Chinese medicine, clinical practice, qigong, ritual, and the territory where older traditions meet modern care.
+title: Writing and Podcasting | Zachary Lui
+description: Writing, podcasting, and other public work by Zachary Lui.
 cover: /images/hero-writing.svg
 permalink: writing
 ---
 ---
 # Writing
 
-Essays and notes on Chinese medicine, clinical practice, qigong, ritual, and the territory where older traditions meet modern care. New pieces appear here as they are finished.
+Essays and notes on classical Chinese medicine, qigong, ritual, and practice. Long form, irregular, written for practitioners and interested non-practitioners both.
 
-Looking for podcast interviews and press coverage? See [Press & Interviews](/press).
+Not medical advice. If a piece here touches something you're working with clinically, take it to your own practitioner.
 
 ---
 
-<!-- POSTS:writing -->
+## Essays
+
+*Essays will be published here. In the meantime, the work lives in the practice, in the classroom, and on the podcast.*
+
+<!--
+Essay entries go here in this format:
+
+- **[Essay Title](/writing/essay-slug)**: *Date*. One-sentence description.
+-->
+
+---
+
+## Podcast
+
+**Deeper Down the Rabbit Hole.** Co-host with Andrieh Vitimus. [ddtrh.com](https://ddtrh.com)
