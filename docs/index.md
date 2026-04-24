@@ -2,7 +2,6 @@
 title: Zachary Lui | Riverdale Toronto
 description: Zachary Lui offers acupuncture care, qigong and Reiki practice, and ritual and divination work in Riverdale, Toronto.
 ---
-
 ---
 # Zachary Lui
 
@@ -32,7 +31,7 @@ People come through this door when they want something to do, not something done
 
 These are contemplative practices, not regulated health services. They sit outside R.Ac scope and aren't a replacement for medical or mental health care.
 
-[Into Qigong / Neigong →](/qigong)  ·  [Into Reiki →](/reiki)
+[Into qigong / neigong →](/qigong)  ·  [Into Reiki →](/reiki)
 
 ---
 
@@ -44,13 +43,13 @@ People come through this door when the thing they're carrying needs ceremony, no
 
 Spiritual work, not healthcare. Sits outside R.Ac scope, not a substitute for medical, mental health, legal, or professional advice of any kind. That line stays clean. Past it, the work is the work.
 
-[Into Ritual →](/ritual)  ·  [Into Divination Coaching →](/divination)
+[Into ritual →](/ritual)  ·  [Into divination coaching →](/divination)
 
 ---
 
 ## About
 
-Toronto practitioner, practicing across these traditions since 2008. Clinical practice since 2015, teaching qigong since 2013, teaching TCM and acupuncture since 2018. Registered Acupuncturist (R.Ac) in Ontario. Master of Medical Qigong through the International Institute of Medical Qigong. Usui Reiki Master Teacher. Trained in ritual work in Chinese Esoteric Buddhist (唐密), Daoist, and Wu (巫) lineages.
+Toronto practitioner. Working across these traditions since 2008, in clinical practice since 2015, and in public ritual work since 2016. Teaching qigong since 2013 and TCM and acupuncture since 2018. Registered Acupuncturist (R.Ac) in Ontario. Master of Medical Qigong through the International Institute of Medical Qigong. Mao Shan Shangqing (茅山上清) and folk Daoist lineage holder, received from Robert Youngs. Usui Reiki Master Teacher. Trained in ritual work in Chinese Esoteric Buddhist (唐密) and Wu (巫) lineages.
 
 Faculty and instructor at the Ontario College of Traditional Chinese Medicine, Eight Branches Academy of Eastern Medicine, and Acupuncture & Integrative Medicine Academy.
 

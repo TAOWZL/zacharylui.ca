@@ -52,7 +52,9 @@ Wear clothes you can move in. No equipment needed. Come a few minutes early so y
 
 ## About the practitioner
 
-Trained through the International Institute of Medical Qigong and holding their Master of Medical Qigong credential. Practicing qigong since childhood, with focused serious practice since 2008. Teaching qigong since 2013. Qigong and neigong coaching is offered as a distinct practice from the clinical acupuncture work.
+Trained through the International Institute of Medical Qigong, founded by Jerry Alan Johnson, under the direct instruction of Robert Youngs, Director of IIMQ Canada. Holding Master of Medical Qigong credential.
+
+Practicing qigong since childhood, with focused serious practice since 2008. Teaching qigong since 2013. Qigong and neigong coaching is offered as a distinct practice from the clinical acupuncture work.
 
 ---
 
