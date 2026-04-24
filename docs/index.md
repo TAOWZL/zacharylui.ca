@@ -63,7 +63,7 @@ One practitioner, three doors. Each door has its own intake, its own standards, 
 255 Broadview Avenue, Toronto (Riverdale). Between Gerrard and Dundas, a short walk from Broadview station.  
 416-595-5525
 
-**Queen City Curio**, my shop and spiritual centre.  
+**Queen City Curio**, our shop and spiritual centre.  
 [queencitycurio.ca](https://queencitycurio.ca) for ritual supplies, workshops, weekly rituals, and community events.
 
 ---
