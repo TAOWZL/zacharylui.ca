@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/qigong.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "qigong"
+              "title": "index"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "96d2822de934bc25",
   "lastOpenFiles": [
+    "docs/qigong.md",
     "docs/reiki.md",
     "docs/about.md",
     "docs/education.md",
@@ -194,7 +195,6 @@
     "docs/press.md",
     "docs/projects.md",
     "docs/ritual.md",
-    "docs/qigong.md",
     "qigong.md",
     "docs/services.md",
     "docs/writing.md",
