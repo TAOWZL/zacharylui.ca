@@ -66,7 +66,7 @@ See the [services page](/services) for current rates. Receipts are issued in the
 
 ## Credentials
 
-Zachary Lui is a Registered Acupuncturist (R.Ac) in Ontario. Former Director of Communications on the board of Traditional Chinese Medicine Ontario (TCMO), the professional association representing Registered Acupuncturists and Traditional Chinese Medicine Practitioners in the province. Helped lead the 2022 coalition that preserved Ontario's regulatory framework for TCM through amendments to Bill 88.
+Zachary Lui is a Registered Acupuncturist (R.Ac) in Ontario. Former Director of Marketing on the board of Traditional Chinese Medicine Ontario (TCMO), the professional association representing Registered Acupuncturists and Traditional Chinese Medicine Practitioners in the province. Helped lead the 2022 coalition that preserved Ontario's regulatory framework for TCM through amendments to Bill 88.
 
 ---
 
