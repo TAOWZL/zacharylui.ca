@@ -1,62 +1,61 @@
 ---
-title: Ritual
-description: Esoteric ritual work rooted in Vajrayana force and Primordial Daoist alignment.
+title: Ritual Work | Zachary Lui
+description: Commissioned ritual work from Chinese Esoteric Buddhist, Daoist, and Wu lineages, offered by Zachary Lui in Toronto.
 cover: /images/hero-ritual.png
 ---
+---
+# Ritual Work
 
-# Ritual
+Commissioned ritual work from Chinese Esoteric Buddhist (唐密), Daoist, and Wu (巫) lineages.
 
-Ritual is not performance. It is command.
+*Ritual is spiritual work, not healthcare. Sits outside R.Ac scope, not a substitute for medical, mental health, legal, or other professional care. That line stays clean.*
 
-This work is for people who are done negotiating with confusion, stagnation, and diluted intention. Through disciplined priestcraft, ceremonial precision, and energetic transmission, we move from wishful thinking into lived transformation.
+---
 
-## Lineage and force
+## What I do
 
-Zachary Lui is a **Shaman-Folk Priest**, **Master of Medical Qigong (MMQ)**, and **Reiki Master Teacher** working at the intersection of healing, strategy, and metaphysical power.
+**Protection and cleansing.** Spaces, objects, and situations. Not decorative, not for entertainment.
 
-His training spans:
+**Ancestor work.** Setting up the altar. Tending it. Offerings. Direct engagement with the line you come from, whether you know the names yet or not.
 
-- Eastern metaphysical systems and ritual technologies
-- Results-focused practitioner development through direct study with Andrieh Vitimus at the Results Over Image Institute
-- Years of hands-on leadership running a wellness center and building high-performance training containers
-- International media and teaching presence, including radio co-hosting at [ddtrh.com](https://ddtrh.com)
+**Deity petition and offering.** Specific deities, specific courts, specific needs. Not spiritual tourism. You come with a particular question and a particular relationship, or you come to build one. We figure out what fits.
 
-This is ritual work with backbone: accountable, exacting, and built for visionaries who are ready to carry more power with integrity.
+**Grief ritual.** For the losses that don't process through conversation alone.
 
-## Core focus: Esoteric Buddhism and Primordial Daoism
+**Situations that call for ceremony.** The ones where you already know nothing else will do the work.
 
-### Esoteric Buddhism (Vajrayana-oriented ritual method)
+---
 
-From the esoteric stream comes the doctrine of speed: deity force, mantra charge, mudra-seal, and visualization fused into one concentrated act of transformation. We use ritual as a sacred engine to:
+## How the work begins
 
-- Cut through psychic noise and karmic repetition
-- Stabilize inner authority and unshakeable resolve
-- Align speech, mind, and action into one blade
-- Invoke compassionate wrath when softness has become self-betrayal
+Every piece of ritual work starts with an intake. That conversation is where we decide three things:
 
-### Primordial Daoism (pre-codified alignment work)
+- Whether I am the right practitioner for what you are asking
+- Whether the work you are asking for is the work that actually fits the situation
+- What the scope, timing, materials, and fee look like
 
-From Primordial Daoism comes the return to origin: before distortion, before fragmentation, before false identity. This current is used to:
+Not every request is taken. Some work I don't do. Some work isn't mine to do, it's yours. Some work needs a different practitioner, and if that is the case I will tell you so and point you somewhere useful if I can. You will know the fee and the shape of the work before anything begins and before any material is purchased on your behalf.
 
-- Restore resonance with primordial order
-- Purge stagnant patterns from body and field
-- Rebuild vitality from root, not surface stimulation
-- Re-establish natural timing, flow, and strategic clarity
+---
 
-## Ritual applications
+## How this is different from the clinic
 
-Depending on your intention and capacity, ritual work may include:
+Ritual is its own engagement. If you are a patient in the clinical practice and you also want ritual work, that is a separate intake and a separate relationship. Clinical questions don't become ritual. Ritual doesn't become clinical. Keeping those clean is good for the work and good for you.
 
-- **Threshold and crossing rites** for major life transitions and identity upgrades
-- **Purification and uncrossing rites** to clear persistent interference, exhaustion, and emotional residue
-- **Prosperity and mission rites** to magnetize aligned opportunities and support sustained output
-- **Protection and boundary rites** to fortify your field and stop unnecessary energetic leakage
-- **Creativity ignition rites** to break paralysis and reactivate disciplined artistic force
+---
 
-Every operation is structured, intentional, and adapted to your situation. This is not generic ceremony. It is precision ritual for directed outcomes.
+## Lineages and training
 
-## Who this is for
+Chinese Esoteric Buddhist (唐密), Daoist, and Wu (巫) lineages. Ritual practice trained through the Results Over Image Institute under Andrieh Vitimus. Ongoing work with specific deities and courts. Doing this work publicly since 2019.
 
-This work is especially suited for accountable visionaries, practitioners, founders, and creators who need more than motivation. If you are building something real and your energy, focus, or spiritual authority has fragmented, ritual reorders the system at the root.
+---
 
-You are not here to shrink. You are here to embody the mandate.
+## Fees
+
+Fees are set on intake by the scope of the work. There is no standard rate because the work is not standard. Short and focused runs one way. Long and layered runs another. You will know the fee before anything starts.
+
+---
+
+## Begin the conversation
+
+Ritual begins with an intake conversation, not a booking form. Reach the clinic at **416-595-5525**, or through [Queen City Curio](https://queencitycurio.ca) for ritual supplies, weekly rituals, and community work.

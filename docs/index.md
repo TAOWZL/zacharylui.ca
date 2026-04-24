@@ -49,7 +49,7 @@ Spiritual work, not healthcare. Sits outside R.Ac scope, not a substitute for me
 
 ## About
 
-Toronto practitioner, practicing publicly since 2015 and teaching since 2018. Registered Acupuncturist (R.Ac) in Ontario. Master of Medical Qigong through the International Institute of Medical Qigong. Usui Reiki Master Teacher. Trained in ritual and shamanic work in Chinese Esoteric Buddhist, Daoist, and Wu lineages.
+Toronto practitioner, practicing publicly since 2015 and teaching since 2018. Registered Acupuncturist (R.Ac) in Ontario. Master of Medical Qigong through the International Institute of Medical Qigong. Usui Reiki Master Teacher. Trained in ritual work in Chinese Esoteric Buddhist (唐密), Daoist, and Wu (巫) lineages.
 
 Faculty and instructor at the Ontario College of Traditional Chinese Medicine, Eight Branches Academy of Eastern Medicine, and Acupuncture & Integrative Medicine Academy.
 
@@ -63,7 +63,7 @@ One practitioner, three doors. Each door has its own intake, its own standards, 
 255 Broadview Avenue, Toronto (Riverdale). Between Gerrard and Dundas, a short walk from Broadview station.  
 416-595-5525
 
-**Queen City Curio**, my shop and spiritual centre.  
+**Queen City Curio**, our shop and spiritual centre.  
 [queencitycurio.ca](https://queencitycurio.ca) for ritual supplies, workshops, weekly rituals, and community events.
 
 ---
