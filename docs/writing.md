@@ -4,7 +4,6 @@ description: Writing, podcasting, and other public work by Zachary Lui.
 cover: /images/hero-writing.svg
 permalink: writing
 ---
----
 # Writing
 
 Essays and notes on classical Chinese medicine, qigong, ritual, and practice. Long form, irregular, written for practitioners and interested non-practitioners both.

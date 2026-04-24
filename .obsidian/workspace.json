@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/writing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "writing"
             }
           }
         ]
@@ -186,12 +186,12 @@
   },
   "active": "96d2822de934bc25",
   "lastOpenFiles": [
+    "docs/index.md",
     "docs/qigong.md",
     "docs/reiki.md",
     "docs/about.md",
     "docs/education.md",
     "docs/acupuncture.md",
-    "docs/index.md",
     "docs/press.md",
     "docs/projects.md",
     "docs/ritual.md",
