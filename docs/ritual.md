@@ -14,6 +14,8 @@ Commissioned ritual work from Chinese Esoteric Buddhist (唐密), Daoist, and Wu
 
 ## What I do
 
+**Road opening.** Clearing the path ahead when something is stuck, blocked, or tangled. Work for new ventures, stalled projects, relationships that won't move, and situations where the obstacle isn't obvious but the friction is.
+
 **Healing magic.** Spiritual and energetic work for healing, offered as ritual, distinct from any clinical treatment. Not healthcare. Not a substitute for medical or mental health care.
 
 **Protection and cleansing.** Spaces, objects, and situations. Not decorative, not for entertainment.
@@ -21,6 +23,8 @@ Commissioned ritual work from Chinese Esoteric Buddhist (唐密), Daoist, and Wu
 **Ancestor work.** Setting up the altar. Tending it. Offerings. Direct engagement with the line you come from, whether you know the names yet or not.
 
 **Deity petition and offering.** Specific deities, specific courts, specific needs. Not spiritual tourism. You come with a particular question and a particular relationship, or you come to build one. We figure out what fits.
+
+**Grief ritual.** For the losses that don't process through conversation alone.
 
 **Situations that call for ceremony.** The ones where you already know nothing else will do the work.
 
@@ -60,7 +64,7 @@ Ritual is its own engagement. If you are a patient in the clinical practice and 
 
 **Mao Shan Shangqing (茅山上清) and folk Daoism.** Formal lineage transmission received from Robert Youngs at his passing in 2020. Youngs received the lineage from Jerry Alan Johnson, founder of the International Institute of Medical Qigong. Mao Shan Shangqing is a foundational Daoist ritual tradition, rooted in the Mao mountains and the Shangqing school, with classical lineage going back to the fourth century. Folk Daoism carries the village and household practices alongside the institutional tradition.
 
-**Chinese Esoteric Buddhist (唐密) and Wu (巫) lineages.** Ritual practice additionally trained through the Results Over Image Institute under Andrieh Vitimus. Ongoing work with specific deities and courts. Doing this work publicly since 2016.
+**Chinese Esoteric Buddhist (唐密) and Wu (巫) lineages.** Ritual practice additionally trained through the Results Over Image Institute under Andrieh Vitimus, where I now teach as a trainer. Ongoing work with specific deities and courts. Doing this work publicly since 2016.
 
 **Usui Reiki.** Training is through the spiritual rather than clinical Usui lineage. My Reiki teacher is a practicing priest and shaman, and the line runs back through a witch who practiced magic.
 

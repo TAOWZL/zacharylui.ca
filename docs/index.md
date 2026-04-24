@@ -49,7 +49,7 @@ Spiritual work, not healthcare. Sits outside R.Ac scope, not a substitute for me
 
 ## About
 
-Toronto practitioner. Working across these traditions since 2008, in clinical practice since 2015, and in public ritual work since 2016. Teaching qigong since 2013 and TCM and acupuncture since 2018. Registered Acupuncturist (R.Ac) in Ontario. Master of Medical Qigong through the International Institute of Medical Qigong. Mao Shan Shangqing (茅山上清) and folk Daoist lineage holder, received from Robert Youngs. Usui Reiki Master Teacher. Trained in ritual work in Chinese Esoteric Buddhist (唐密) and Wu (巫) lineages.
+Toronto practitioner. Working across these traditions since 2008, in clinical practice since 2015, and in public ritual work since 2016. Teaching qigong since 2013 and TCM and acupuncture since 2018. Registered Acupuncturist (R.Ac) in Ontario. Master of Medical Qigong through the International Institute of Medical Qigong. Mao Shan Shangqing (茅山上清) and folk Daoist lineage holder, received from Robert Youngs. Usui Reiki Master Teacher. Trained and now teaching in ritual work in Chinese Esoteric Buddhist (唐密) and Wu (巫) lineages at the Results Over Image Institute.
 
 Faculty and instructor at the Ontario College of Traditional Chinese Medicine, Eight Branches Academy of Eastern Medicine, and Acupuncture & Integrative Medicine Academy.
 
