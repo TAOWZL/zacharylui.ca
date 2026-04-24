@@ -2,7 +2,7 @@
 
 Practice for serious practitioners and clients with cultivated inner lives.
 
-Registered Acupuncturist. Master of Medical Qigong. Professor of Traditional Chinese Medicine at three Toronto colleges. Initiated priest and shaman in Chinese esoteric Buddhist (唐密), Daoist, and wu (巫) lineages. Toronto, since 2015.
+Registered Acupuncturist. Master of Medical Qigong. Professor of Traditional Chinese Medicine at three Toronto colleges. Initiated priest and shaman in Chinese esoteric Buddhist (唐密), Mao Shan Shang Qing (茅山上清) Daoist, and wu (巫) lineages. Toronto, since 2015.
 
 New serious clients typically begin with a divination consultation, after which we decide together what kind of ongoing work makes sense. Clinical acupuncture is available as a separate professional service, directly bookable.
 
@@ -14,9 +14,9 @@ New serious clients typically begin with a divination consultation, after which 
 
 Chinese medicine, ritual, and divination were one discipline before the modern regulatory era separated them. This practice treats them as they were: an integrated body of work for the care of the body, the spirit, and the situations a person finds themselves in.
 
-The underlying work is priestcraft, shamanism, and operation. The regulatory separations between clinical medicine and spiritual practice are real, and I respect them. But the discipline is one.
+The underlying work is priestcraft and shamanism. The regulatory separations between clinical medicine and spiritual practice are real, and I respect them. But the discipline is one.
 
-Clients come for different reasons. Some are working magicians who want peer consultation and occasional ritual collaboration. Some are serious meditators, depth-psychology practitioners, or therapists who want their bodywork to meet the rest of their practice. Some are practitioners in other traditions seeking lineage-level engagement with Chinese methods.
+Clients come for different reasons. Some are working magicians who want peer-level consultation. Some are serious meditators, depth-psychology practitioners, or therapists who want their bodywork to meet the rest of their practice. Some are practitioners in other traditions seeking lineage-level engagement with Chinese methods.
 
 What holds across all of them is that this isn't a walk-in clinic. It's an operating practice. Clients bring their own seriousness to it.
 
@@ -34,7 +34,7 @@ Readings operate from the same lineage framework as the ritual work: classical C
 
 ### Ritual
 
-Priest and shaman work for situations that call for it. Operating ritual rooted in Chinese esoteric Buddhist (唐密), Daoist, and wu (巫) shaman lineages, continuously practiced. For thresholds, protection, ancestral obligation, and work that does not resolve through ordinary means.
+Priest and shaman work for situations that call for it. Operating ritual rooted in Chinese esoteric Buddhist (唐密), Mao Shan Shang Qing (茅山上清) Daoist, and wu (巫) shaman lineages, continuously practiced. For thresholds, protection, ancestral obligation, and work that does not resolve through ordinary means.
 
 New ritual engagements begin with a divination consultation. The reading determines whether ritual work is appropriate and, if so, its scope. Ritual engagements begin at $1,500 and scale from there.
 
@@ -64,7 +64,7 @@ Classical Chinese medicine as ongoing cultivation practice, not episodic symptom
 
 ## About
 
-My spiritual master is Andrieh Vitimus, author of *Hands-On Chaos Magic*, through whom I trained as a priest and shaman at the Results Over Image Institute. I hold practice initiations in three Chinese currents: esoteric Buddhism (唐密), Daoist ritual, and wu (巫) shaman tradition. All four inform my ritual and clinical work, and ongoing daily practice keeps them active.
+My Medical Qigong training and Mao Shan Shang Qing (茅山上清) Daoist priest lineage come through Robert Youngs, who trained under Dr. Jerry Alan Johnson, 80th-generation disciple of Mao Shan Shang Qing and senior abbot of Bian Hua Gong (Temple of Change and Transformation) in Monterey, California. Robert transferred the priest lineage to me directly before his passing. My spiritual master is Andrieh Vitimus, author of *Hands-On Chaos Magic*, through whom I trained as a priest and shaman at the Results Over Image Institute. I also hold practice initiations in Chinese esoteric Buddhism (唐密) and wu (巫) shaman tradition.
 
 Clinical practice since 2015. Teaching since 2018.
 
