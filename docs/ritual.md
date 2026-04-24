@@ -3,6 +3,7 @@ title: Ritual Work | Zachary Lui
 description: Commissioned ritual work from Chinese Esoteric Buddhist, Daoist, and Wu lineages, offered by Zachary Lui in Toronto.
 cover: /images/hero-ritual.png
 ---
+---
 # Ritual Work
 
 Commissioned ritual work from Chinese Esoteric Buddhist (唐密), Daoist, and Wu (巫) lineages, plus public ritual events at Queen City Curio.
