@@ -1,11 +1,3 @@
-title: "Zachary Lui | Chinese Medicine, Ritual, and Divination in Toronto"
-description: "Chinese medicine, ritual, and divination practice in Riverdale, Toronto. For serious practitioners and clients with cultivated inner lives. Registered Acupuncturist, initiated priest and shaman in Chinese esoteric Buddhist, Daoist, and wu lineages."
-cover: /images/hero-main.svg
-cover_alt: "Zachary Lui, Registered Acupuncturist, priest, and shaman in Riverdale, Toronto"
-aliases:
-  - Home
----
-
 # Chinese Medicine, Ritual, and Divination
 
 Practice for serious practitioners and clients with cultivated inner lives.
