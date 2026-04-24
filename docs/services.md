@@ -1,133 +1,103 @@
 ---
-title: Services in Toronto
-description: " Acupuncture for anxiety and stress, Reiki for emotional regulation, divination, ritual work, and classes in Toronto with Zachary Lui."
+title: Services and Fees | Zachary Lui
+description: Services and fees for acupuncture, Tui Na, Reiki, qigong instruction, divination, and ritual work with Zachary Lui in Toronto.
 permalink: services
 publish: true
 ---
-----
-# Services in Toronto
+---
+# Services and Fees
 
-Acupuncture, Reiki, Divination, Ritual Work, Qigong, and Classes in Toronto.
-
-This work spans physical treatment, emotional regulation, and spiritual practice.
-
-Pain, stress, burnout, confusion, and transition show up differently, but they are often part of the same pattern.
-
-Choose based on your immediate need.
+All sessions are 60 minutes unless noted. All fees are discussed and confirmed before each session.
 
 ---
 
-## Acupuncture for Anxiety, Stress, and Pain in Toronto
+## Acupuncture
+*Regulated health service in Ontario. Provided under the R.Ac designation.*
 
-Acupuncture is the primary clinical system used in this practice.
+| Service | Fee |
+|---|---|
+| Acupuncture (semi-private) | $97 |
+| Premium acupuncture (one-on-one) | $197 |
+| Tui Na (Chinese therapeutic bodywork) | $120 |
 
-It is used to regulate the nervous system, reduce physical tension, and restore functional balance across physical and emotional states. This is the most direct approach when symptoms are showing up in the body.
+**Acupuncture (semi-private)** sessions are conducted in a shared treatment room divided by curtains for privacy. You get your own full intake, pulse and tongue assessment, and individualized point selection; treatment happens in a space where another patient may also be resting on a table nearby. This is the common lower-fee clinic model, used in community acupuncture practices worldwide.
 
-**Best for:**
+**Premium acupuncture (one-on-one)** is a fully private session in a dedicated treatment room, just you and the practitioner throughout.
 
-- anxiety and nervous system overload  
-- chronic pain and muscular tension  
-- stress and burnout  
-- fatigue and recovery  
-- physical and emotional dysregulation  
+**Tui Na (推拿)** is a traditional Chinese manual therapy using pressing, rolling, kneading, and stretching techniques along meridians and acupoints. Distinct from Western massage, it works with the same TCM framework as acupuncture and is often used alongside or as an alternative to needling for musculoskeletal concerns and patterns where hands-on work fits better than needles.
 
-[Learn more about Acupuncture](/anxiety)  
-[Book Acupuncture](https://wujixuan.janeapp.com/#/staff_member/1)
+Receipts are issued for Registered Acupuncturist services and are accepted by many Ontario extended health plans. Coverage varies. Confirm with your insurer.
 
----
-
-## Reiki in Toronto for Emotional Regulation
-
-Reiki is used for emotional and state regulation.
-
-It works by shifting internal state directly, without requiring physical intervention. This makes it more appropriate when the issue is experiential rather than structural — how you feel, process, and hold stress.
-
-Reiki is often the better starting point when emotional load is high or when the system is too sensitive for more active treatment.
-
-**Best for:**
-
-- emotional regulation  
-- overwhelm and stress response  
-- anxiety states  
-- depletion and internal fatigue  
-- situations where the system needs to settle before deeper work  
-
-[Learn more about Reiki](/reiki)  
-[Book Reiki](https://wujixuan.janeapp.com/#/staff_member/1/treatment/4)
+[Acupuncture](/acupuncture)
 
 ---
 
-## Divination Readings in Toronto
+## Divination coaching
+*Contemplative practice. Not a regulated health service.*
 
-Divination is used to clarify pattern.
+| Service | Fee |
+|---|---|
+| Divination coaching (tarot or mahjong) | $175 + tax |
 
-It is interpretive and structured. The goal is to identify what is happening, what is influencing it, and what direction is available.
-
-This is not abstract. It is used to make decisions clearer.
-
-**Best for:**
-
-- decision-making  
-- pattern recognition  
-- relationship dynamics  
-- life direction and timing  
-- complex or unclear situations  
-
-[Learn more about Divination](/divination)  
-[Book a Reading](https://wujixuan.janeapp.com/#/staff_member/1)
-
-----
-## Ritual Work and Spiritual Services in Toronto  
-  
-Ritual is used to create change when internal work alone is not enough.  
-  
-It is applied in situations involving transition, disruption, or ongoing patterns that are not resolving on their own. This work is deliberate and handled case by case.  
-  
-This is suited for:  
-  
-- periods of transition (ending, starting, or crossing into something new)  
-- recurring patterns that need to be interrupted  
-- protection and boundary work  
-- resolving lingering or unresolved situations  
-- formalizing a shift that needs to hold  
-  
-[Learn more about Ritual Work](/ritual)
-
------
-## Classes
-
-Classes include classical Chinese medicine and neigong-based qigong, along with applied formats such as Tea and Tarot.
-
-Some classes focus on internal training and structure. Others are more social and accessible, where you learn through direct practice, observation, and discussion.
-
-[Explore Classes](/education)
+[Divination](/divination)
 
 ---
 
-## Marriage Officiant Services in Toronto
+## Qigong / Neigong coaching
+*Movement and breath practice. Not a regulated health service.*
 
-Marriage officiant services are expanding.
+| Service | Fee |
+|---|---|
+| Qigong / Neigong coaching | $150 + tax |
 
-This is for couples seeking a ceremony that is grounded, direct, and meaningful, without excess or performance.
-
-[Learn more about Marriage Officiant Services](/officiant)
-
----
-
-## Not Sure What to Book?
-
-Use this as a baseline:
-
-- **Acupuncture** → physical + systemic issues  
-- **Reiki** → emotional regulation + internal state  
-- **Divination** → clarity and direction  
-- **Ritual** → structured change  
-- **Classes** → long-term development  
+[Qigong](/qigong)
 
 ---
 
-## Book a Session
+## Reiki
+*Contemplative practice. Not a regulated health service.*
 
-If you know what you need, book directly.
+| Service | Fee |
+|---|---|
+| Reiki session (in-person) | $115 + tax |
+| Reiki session (distance) | $115 + tax |
 
-[Book Now](https://wujixuan.janeapp.com/#/staff_member/1)
+[Reiki](/reiki)
+
+---
+
+## Ritual work
+*Spiritual practice. Not a regulated health service.*
+
+| Service | Fee |
+|---|---|
+| Commissioned ritual work | $1500 and up |
+
+Commissioned ritual begins with an intake conversation, not a booking. Fees scale from the $1500 starting rate based on scope, timing, and materials. For private questions, most people start with a divination coaching session to determine whether commissioned ritual is the right response. Not every request is accepted.
+
+[Ritual](/ritual)
+
+---
+
+## Public rituals and workshops at Queen City Curio
+*Spiritual practice. Not a regulated health service.*
+
+Weekly rituals, seasonal ceremonies, and themed workshops run at Queen City Curio on a recurring schedule. Open to anyone, no intake required, fees vary by event. This is the lowest-commitment way to encounter the ritual work.
+
+[Queen City Curio events →](https://queencitycurio.ca)
+
+---
+
+## How booking works
+
+**Acupuncture, Tui Na, Reiki, qigong / neigong** → book online through Jane any time. Select the service that fits.
+
+**Divination coaching** → book through Jane or through Queen City Curio's event calendar for scheduled reading nights.
+
+**Commissioned ritual** → email or phone first. Ritual work always begins with an intake conversation before anything is scheduled or booked.
+
+**Public rituals and workshops** → check the [Queen City Curio](https://queencitycurio.ca) schedule.
+
+Cancellations 24 hours in advance. Same-day cancellations and no-shows are charged the full session fee. Running late is fine; if you're more than 15 minutes late without a call, the slot is treated as a no-show.
+
+[**Book a session**](https://wujixuan.janeapp.com/#/staff_member/1) · Clinic: **416-595-5525** · [Queen City Curio](https://queencitycurio.ca)
