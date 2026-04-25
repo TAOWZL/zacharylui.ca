@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "docs/about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "about"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "96d2822de934bc25",
   "lastOpenFiles": [
-    "docs/about.md",
     "CLAUDE.md",
+    "docs/about.md",
     "docs/acupuncture.md",
     "docs/writing.md",
     "docs/ritual.md",
