@@ -71,9 +71,9 @@ Zachary's biographical anchors that appear on the site:
 - Riverdale-based for 6 years (as of April 2026)
 - Grew up between Toronto and Hamilton
 - Two distinct family heritage lines:
-  - **Paternal (Lei 雷, Thunder):** Hong Kong family heritage. Lei family were among the first acupuncturists in San Francisco. Historical credential only on the site; current TCM relatives are NOT named or implied on the site to respect their privacy and avoid surfacing them as part of Zachary's public profile without explicit consent.
-  - **Maternal (Ho King family):** Toronto Chinatown restaurant heritage. Grandfather's recipes are at New Ho King. Civic-cultural heritage.
-- Native tongue: Taishanese. Cantonese: fluent comprehension, working on conversational fluency. Mandarin: in progress. Does not read or write Chinese.
+  - **Paternal (Lui 雷, Thunder; Mandarin pinyin: Lei):** Hong Kong family heritage. Lui family were among the first acupuncturists in San Francisco. Historical credential only on the site; current TCM relatives are NOT named or implied on the site to respect their privacy and avoid surfacing them as part of Zachary's public profile without explicit consent.
+  - **Maternal (Ho King family):** Taishanese heritage, Toronto Chinatown restaurant roots. Grandfather's recipes are at New Ho King. Civic-cultural heritage.
+- Native tongue (maternal line): Taishanese. Cantonese: fluent comprehension, working on conversational fluency. Mandarin: in progress. Does not read or write Chinese.
 - Use **Cantonese romanization** (not Mandarin pinyin) for relational/personal terms — most importantly, "sifu" not "shifu" for 师父. Lineage names (Mao Shan Shangqing, Tang Mi, etc.) keep their Mandarin pinyin since those are globally recognized institutional names.
 
 Both heritage lines surface on the site, but only on /about. The paternal Lei TCM lineage and maternal Ho King connection both belong on /about where biographical context lives. Do not add family lineage content to /acupuncture; the clinical page should focus on training credentials and patient-facing information, not family heritage. Adding family layers to clinical pages tips the page from "credentialed" to "credential-stacked."
