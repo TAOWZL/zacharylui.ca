@@ -64,6 +64,27 @@ Each non-regulated service page (qigong, Reiki, divination, ritual) opens with a
 
 > *[Thing] is [what it is], not healthcare. Sits outside R.Ac scope and isn't a replacement for [relevant professional care].*
 
+## Biographical context for the site
+
+Zachary's biographical anchors that appear on the site:
+
+- Riverdale-based for 6 years (as of April 2026)
+- Grew up between Toronto and Hamilton
+- Two distinct family heritage lines:
+  - **Paternal (Lei 雷, Thunder):** Lei family were among the first acupuncturists in San Francisco. Family is currently in TCM. This is a clinical-credential heritage.
+  - **Maternal (Ho King family):** Toronto Chinatown restaurant heritage. Grandfather's recipes are at New Ho King. This is a civic-cultural heritage.
+- Cantonese: fluent comprehension, working on conversational fluency. Mandarin: in progress. Does not read or write Chinese.
+
+Both heritage lines surface on the site, but only on /about. The paternal Lei TCM lineage and maternal Ho King connection both belong on /about where biographical context lives. Do not add family lineage content to /acupuncture; the clinical page should focus on training credentials and patient-facing information, not family heritage. Adding family layers to clinical pages tips the page from "credentialed" to "credential-stacked."
+
+Biographical content NOT on the site (intentionally private):
+
+- Spiritual ancestral relationships and family priest/scholar lineage
+- Family transmission of Huangdi Neijing
+- Specific clan history beyond what's named above
+
+These remain private practice context, not public credentials. Do not surface them on the site even if asked to expand the bio.
+
 ## Voice calibration by page
 
 Voice varies by page type. Deliberate. Do not flatten.
