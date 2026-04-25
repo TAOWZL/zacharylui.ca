@@ -71,9 +71,10 @@ Zachary's biographical anchors that appear on the site:
 - Riverdale-based for 6 years (as of April 2026)
 - Grew up between Toronto and Hamilton
 - Two distinct family heritage lines:
-  - **Paternal (Lei 雷, Thunder):** Lei family were among the first acupuncturists in San Francisco. Historical credential only on the site; current TCM relatives are NOT named or implied on the site to respect their privacy and avoid surfacing them as part of Zachary's public profile without explicit consent.
+  - **Paternal (Lei 雷, Thunder):** Hong Kong family heritage. Lei family were among the first acupuncturists in San Francisco. Historical credential only on the site; current TCM relatives are NOT named or implied on the site to respect their privacy and avoid surfacing them as part of Zachary's public profile without explicit consent.
   - **Maternal (Ho King family):** Toronto Chinatown restaurant heritage. Grandfather's recipes are at New Ho King. Civic-cultural heritage.
-- Cantonese: fluent comprehension, working on conversational fluency. Mandarin: in progress. Does not read or write Chinese.
+- Native tongue: Taishanese. Cantonese: fluent comprehension, working on conversational fluency. Mandarin: in progress. Does not read or write Chinese.
+- Use **Cantonese romanization** (not Mandarin pinyin) for relational/personal terms — most importantly, "sifu" not "shifu" for 师父. Lineage names (Mao Shan Shangqing, Tang Mi, etc.) keep their Mandarin pinyin since those are globally recognized institutional names.
 
 Both heritage lines surface on the site, but only on /about. The paternal Lei TCM lineage and maternal Ho King connection both belong on /about where biographical context lives. Do not add family lineage content to /acupuncture; the clinical page should focus on training credentials and patient-facing information, not family heritage. Adding family layers to clinical pages tips the page from "credentialed" to "credential-stacked."
 
@@ -126,14 +127,14 @@ Use these as written. Do not embellish or guess.
 **Reiki:**
 - Usui Reiki Master Teacher (highest level)
 - Spiritual rather than clinical Usui lineage
-- Reiki shifu is Andrieh Vitimus (same teacher relationship as ritual/chaos magic). Line runs back through a witch who practiced magic, who was Vitimus's teacher.
-- Use "shifu" framing on /reiki to match the rest of the site (consistency).
+- Reiki sifu is Andrieh Vitimus (same teacher relationship as ritual/chaos magic). Line runs back through a witch who practiced magic, who was Vitimus's teacher.
+- Use "sifu" framing on /reiki to match the rest of the site (consistency).
 
 **Ritual:**
-- Foundation is chaos magic. Methodology comes through Andrieh Vitimus and the Results Over Image Institute, where Zachary continues to study (the relationship is ongoing) and now also teaches as a trainer. Frame as "continues to study" or "continues to learn from," not just "trained" — the shifu relationship is ongoing.
-- **Vitimus is Zachary's shifu (师父)** in the Chinese sense of the lineage teacher relationship. Master / Shifu carries the same weight as guru in Sanskrit traditions: lineage holder, lifelong commitment, transmission of tradition. Used consistently across /homepage, /about, /ritual, and /reiki where Vitimus is named.
+- Foundation is chaos magic. Methodology comes through Andrieh Vitimus and the Results Over Image Institute, where Zachary continues to study (the relationship is ongoing) and now also teaches as a trainer. Frame as "continues to study" or "continues to learn from," not just "trained" — the sifu relationship is ongoing.
+- **Vitimus is Zachary's sifu (师父)** in the Chinese sense of the lineage teacher relationship. Master / Sifu carries the same weight as guru in Sanskrit traditions: lineage holder, lifelong commitment, transmission of tradition. Used consistently across /homepage, /about, /ritual, and /reiki where Vitimus is named.
 - Applied the chaos magic approach across multiple traditions including Chinese Esoteric Buddhist (唐密), Wu (巫), Daoist, and Reiki frameworks. The Tang Mi and Wu study came through the ROII / Vitimus framework, not separate Chinese transmission.
-- Mao Shan Shangqing (茅山上清) and folk Daoist lineage holder, formal Daoist transmission received from Robert Youngs at his passing in 2020. Youngs received from Jerry Alan Johnson. The Daoist transmission came on the basis of the chaos-magic-applied-across-traditions work, not separately. This narrative arc matters: chaos magic foundation, Vitimus as shifu, Daoist lineage as recognition.
+- Mao Shan Shangqing (茅山上清) and folk Daoist lineage holder, formal Daoist transmission received from Robert Youngs at his passing in 2020. Youngs received from Jerry Alan Johnson. The Daoist transmission came on the basis of the chaos-magic-applied-across-traditions work, not separately. This narrative arc matters: chaos magic foundation, Vitimus as sifu, Daoist lineage as recognition.
 - Doing public Ritual work since 2016.
 - "Chaos magic" is named on the site as of April 2026; Zachary is comfortable naming it explicitly.
 
