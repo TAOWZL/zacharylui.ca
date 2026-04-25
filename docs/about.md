@@ -5,9 +5,9 @@ description: Zachary Lui is a Toronto practitioner working across classical Chin
 ---
 # About
 
-Toronto practitioner, Riverdale-based for the past six years. Grew up between Toronto and Hamilton, in a Chinese-Canadian family with traditional Chinese medicine on my father's side and Toronto Chinatown roots on my mother's. The Lui family on my father's side were among the first acupuncturists in San Francisco. On my mother's side, family recipes from my grandfather are at New Ho King in Toronto Chinatown.
+Toronto practitioner, Riverdale-based for the past six years. Grew up between Toronto and Hamilton, in a Chinese-Canadian family with Hong Kong heritage on my father's side and Toronto Chinatown roots on my mother's. The Lei family on my father's side were among the first acupuncturists in San Francisco. On my mother's side, family recipes from my grandfather are at New Ho King in Toronto Chinatown.
 
-Working across classical Chinese medicine and several spiritual traditions. Practicing publicly since 2008, in clinical practice since 2015, and in public ritual work since 2016. Teaching qigong since 2013, teaching TCM and acupuncture since 2018.
+Working across classical Chinese medicine and several spiritual traditions. Practicing publicly since 2008, in clinical practice since 2015, and in public Ritual work since 2016. Teaching Qigong since 2013, teaching TCM and acupuncture since 2018.
 
 Cantonese-speaking patients welcome. Fluent comprehension, working on conversational fluency.
 
@@ -39,7 +39,7 @@ These are contemplative practices, not regulated health services. They sit outsi
 
 ## Ritual and Divination
 
-The work begins in chaos magic. Andrieh Vitimus is my shifu (师父) in this work. I continue to study with him at the Results Over Image Institute, where I now also teach as a trainer. From that foundation, I have applied the approach across multiple traditions, including Chinese Esoteric Buddhist (唐密), Wu (巫), Daoist, and Reiki frameworks, across years of public practice.
+The work begins in chaos magic. Andrieh Vitimus is my sifu (师父) in this work. I continue to study with him at the Results Over Image Institute, where I now also teach as a trainer. From that foundation, I have applied the approach across multiple traditions, including Chinese Esoteric Buddhist (唐密), Wu (巫), Daoist, and Reiki frameworks, across years of public practice.
 
 The Daoist transmission came on the basis of that work. Mao Shan Shangqing (茅山上清) and folk Daoist lineage holder, formal transmission received from Robert Youngs at his passing in 2020. Youngs received the lineage from Jerry Alan Johnson. Mao Shan Shangqing is a foundational Daoist Ritual tradition, rooted in the Mao mountains and the Shangqing school, with classical lineage going back to the fourth century.
 
@@ -51,13 +51,13 @@ Ritual work is spiritual work, not healthcare. Sits outside R.Ac scope, not a su
 
 ## Teaching
 
-Faculty and instructor at the Ontario College of Traditional Chinese Medicine, Eight Branches Academy of Eastern Medicine, and Acupuncture & Integrative Medicine Academy. Courses taught span the clinical foundations, Internal Medicine (內科), hands-on disciplines (Tui Na, qigong therapy, student clinic), and the professional preparation subjects that get new practitioners ready to register.
+Faculty and instructor at the Ontario College of Traditional Chinese Medicine, Eight Branches Academy of Eastern Medicine, and Acupuncture & Integrative Medicine Academy. Courses taught span the clinical foundations, Internal Medicine (內科), hands-on disciplines (Tui Na, Qigong therapy, student clinic), and the professional preparation subjects that get new practitioners ready to register.
 
 Student cohorts at AIM Academy achieved 100% Pan-Canadian exam pass rates in 2024 and 2025.
 
 Invited Qigong Master and Lecturer at Penn State University in 2022. Conference presentations at the Saam Diagnostic Conference (2025) and the World Tai Chi & Qigong Summit (2024).
 
-[Full Teaching page →](/education)
+[Full teaching page →](/education)
 
 ---
 
@@ -79,9 +79,9 @@ Volunteer with the Toronto Chinatown BIA, supporting community events in the nei
 
 ## Writing and podcasting
 
-Co-host of *Deeper Down the Rabbit Hole* with Andrieh Vitimus, a long-running podcast on contemporary esoteric practice, ritual, and tradition. [ddtrh.com](https://ddtrh.com)
+Co-host of *Deeper Down the Rabbit Hole* with Andrieh Vitimus, a long-running podcast on contemporary esoteric practice, Ritual, and tradition. [ddtrh.com](https://ddtrh.com)
 
-Essays and notes on classical Chinese medicine, qigong, ritual, and practice at the [Writing page](/writing). Press coverage, conference presentations, and podcast interviews at the [Press page](/press).
+Essays and notes on classical Chinese medicine, Qigong, Ritual, and practice at the [Writing page](/writing). Press coverage, conference presentations, and podcast interviews at the [Press page](/press).
 
 ---
 
@@ -92,7 +92,7 @@ Essays and notes on classical Chinese medicine, qigong, ritual, and practice at 
 416-595-5525
 
 **Queen City Curio**, the shop and spiritual centre.  
-[queencitycurio.ca](https://queencitycurio.ca) for ritual supplies, workshops, weekly rituals, and community events.
+[queencitycurio.ca](https://queencitycurio.ca) for Ritual supplies, workshops, weekly Rituals, and community events.
 
 ---
 
