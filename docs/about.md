@@ -91,7 +91,7 @@ Essays and notes on classical Chinese medicine, qigong, ritual, and practice at 
 255 Broadview Avenue, Toronto (Riverdale). Between Gerrard and Dundas, a short walk from Broadview station.  
 416-595-5525
 
-**Queen City Curio**, my shop and spiritual centre.  
+**Queen City Curio**, the shop and spiritual centre.  
 [queencitycurio.ca](https://queencitycurio.ca) for ritual supplies, workshops, weekly rituals, and community events.
 
 ---
