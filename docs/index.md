@@ -25,7 +25,7 @@ Clinical care is a regulated health service in Ontario, provided under the R.Ac 
 
 ## Practice to learn
 
-*Qigong / neigong, Reiki*
+*Qigong / Neigong, Reiki*
 
 People come through this door when they want something to do, not something done to them. Qigong and neigong are the long form: external movement and internal cultivation, taught across weeks and months. Reiki is the shorter form: structured quiet time, hands-on or at distance.
 
