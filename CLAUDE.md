@@ -6,15 +6,15 @@ Context for maintaining zacharylui.ca. Read this before editing any page.
 
 ## What this site is
 
-A static Jekyll site on GitHub Pages for Zachary Lui, a Toronto-based practitioner working across classical Chinese medicine, qigong / neigong, Reiki, ritual, and divination coaching. The site represents all of these services. It is not an acupuncture-first site and should not be edited into one.
+A static Jekyll site on GitHub Pages for Zachary Lui, a Toronto-based practitioner working across classical Chinese medicine, Qigong / Neigong, Reiki, Ritual, and Divination Coaching. The site represents all of these services. It is not an acupuncture-first site and should not be edited into one.
 
 ## Architecture: three doors
 
 The homepage organizes services into three gateways, not a flat service list. This is deliberate. Do not flatten it.
 
 1. **Clinical care** → acupuncture, Tui Na. Regulated health service.
-2. **Practice to learn** → qigong / neigong coaching, Reiki. Contemplative practices.
-3. **Ritual and divination** → commissioned ritual, divination coaching, public events at QCC. Spiritual work.
+2. **Practice to learn** → Qigong / Neigong Coaching, Reiki. Contemplative practices.
+3. **Ritual and Divination** → commissioned ritual, divination coaching, public events at QCC. Spiritual work.
 
 Each gateway on the homepage carries its own scope disclosure in voice. Sub-pages within a gateway carry one short italicized scope line of their own rather than a legal-box disclaimer. This keeps compliance visible without puncturing voice at every page.
 
@@ -28,9 +28,9 @@ Acupuncture is one door among three, not the primary draw. The R.Ac designation 
 - `about.md` — full practitioner bio organized by three doors plus service to profession plus press hub
 - `acupuncture.md` — regulated scope, includes Jin Zhang/UNESCO study, TCMO advocacy
 - `services.md` — fee schedule, all current Jane rates filled in
-- `qigong.md` — qigong / neigong coaching, IIMQ training under Robert Youngs, meta-pov framing
+- `qigong.md` — Qigong / Neigong Coaching, IIMQ training under Robert Youngs, meta-pov framing
 - `reiki.md` — Usui Reiki, spiritual rather than clinical Usui lineage
-- `divination.md` — divination coaching, tarot and mahjong as frame
+- `divination.md` — Divination Coaching, tarot and mahjong as frame
 - `ritual.md` — commissioned ritual, $1500 starting, Mao Shan Shangqing lineage from Robert Youngs, Vitimus/ROII trainer credit, Reiki witch lineage
 - `education.md` — teaching credits, courses taught, conferences (Penn State 2022, World Tai Chi & Qigong Summit 2024, Saam Diagnostic Conference 2025)
 - `writing.md` — essay landing page (currently empty), DDTRH credit
@@ -60,7 +60,7 @@ Hard rules:
 
 ## Scope line for non-regulated pages
 
-Each non-regulated service page (qigong, Reiki, divination, ritual) opens with a one-line italicized scope statement written in voice, not legalese. Format:
+Each non-regulated service page (Qigong, Reiki, Divination, Ritual) opens with a one-line italicized scope statement written in voice, not legalese. Format:
 
 > *[Thing] is [what it is], not healthcare. Sits outside R.Ac scope and isn't a replacement for [relevant professional care].*
 
@@ -91,18 +91,19 @@ Voice varies by page type. Deliberate. Do not flatten.
 
 - **Acupuncture, services, privacy, 404:** Sober, clinical, professional. Where a regulator looks. Plain facts.
 - **Homepage and About:** Practitioner voice with compliance discipline. Carries the three-doors structure and voice-mode scope disclosures.
-- **Ritual and divination pages:** Full Andrieh Vitimus voice. Sensory, direct, no softeners, screens plainly. Voice is itself a screening mechanism here.
-- **Reiki and qigong pages:** Direct but accessible. Beginners are a real audience. Each includes a "first visit / first class" passage for warmth.
+- **Ritual and Divination pages:** Full Andrieh Vitimus voice. Sensory, direct, no softeners, screens plainly. Voice is itself a screening mechanism here.
+- **Reiki and Qigong pages:** Direct but accessible. Beginners are a real audience. Each includes a "first visit / first class" passage for warmth.
 - **Education and press pages:** Tight, factual. Not LinkedIn or PR.
 
-Flattening voice on the ritual and divination pages costs the clients who would actually benefit. Don't.
+Flattening voice on the Ritual and Divination pages costs the clients who would actually benefit. Don't.
 
 ## Content conventions
 
 - **No em dashes.** Commas, colons, periods.
+- **Capitalization:** Use Title Case for practice and modality names: Qigong, Neigong, Reiki, Tui Na, Ritual, Rituals, Divination Coaching, Acupuncture (when used as a modality reference). Lowercase only when grammatically required mid-sentence as a general noun (rare). Apply across all pages including footer, meta descriptions, and CLAUDE.md.
 - No marketing softeners.
 - Plain language. TCM jargon only where load-bearing, with brief translation.
-- Chinese characters used in line where audience expects them: 唐密, 巫, 茅山上清, 內科, 推拿, 氣功, 內功, 霊気. Generally in spiritual TCM, ritual, qigong, and acupuncture pages. Not on services or privacy pages.
+- Chinese characters used in line where audience expects them: 唐密, 巫, 茅山上清, 內科, 推拿, 氣功, 內功, 霊気. Generally in spiritual TCM, Ritual, Qigong, and Acupuncture pages. Not on services or privacy pages.
 - "TCM pattern assessment," not "diagnosis," on acupuncture pages.
 - Never "cure," "heal," or "treat" a specific medical condition.
 
@@ -119,8 +120,8 @@ Use these as written. Do not embellish or guess.
 **Qigong / Neigong:**
 - Master of Medical Qigong, IIMQ (founded by Jerry Alan Johnson)
 - Direct instruction under Robert Youngs, Director of IIMQ Canada
-- Practicing qigong since childhood, focused since 2008
-- Teaching qigong since 2013
+- Practicing Qigong since childhood, focused since 2008
+- Teaching Qigong since 2013
 
 **Reiki:**
 - Usui Reiki Master Teacher (highest level)
@@ -133,7 +134,7 @@ Use these as written. Do not embellish or guess.
 - **Vitimus is Zachary's shifu (师父)** in the Chinese sense of the lineage teacher relationship. Master / Shifu carries the same weight as guru in Sanskrit traditions: lineage holder, lifelong commitment, transmission of tradition. Used consistently across /homepage, /about, /ritual, and /reiki where Vitimus is named.
 - Applied the chaos magic approach across multiple traditions including Chinese Esoteric Buddhist (唐密), Wu (巫), Daoist, and Reiki frameworks. The Tang Mi and Wu study came through the ROII / Vitimus framework, not separate Chinese transmission.
 - Mao Shan Shangqing (茅山上清) and folk Daoist lineage holder, formal Daoist transmission received from Robert Youngs at his passing in 2020. Youngs received from Jerry Alan Johnson. The Daoist transmission came on the basis of the chaos-magic-applied-across-traditions work, not separately. This narrative arc matters: chaos magic foundation, Vitimus as shifu, Daoist lineage as recognition.
-- Doing public ritual work since 2016.
+- Doing public Ritual work since 2016.
 - "Chaos magic" is named on the site as of April 2026; Zachary is comfortable naming it explicitly.
 
 **Teaching:**
@@ -169,7 +170,7 @@ Zachary is considering municipal political ambition (Toronto), possibly higher. 
 - Jin Zhang UNESCO framing protects the imperial-court reference
 - Private/governance credentials: TCMO Director, 14 support letters, named media interviews
 - Penn State invited lectureship surfaced
-- Owned posture on DDTRH and ritual practice rather than concealment
+- Owned posture on DDTRH and Ritual practice rather than concealment
 
 For a future campaign, the press page is the campaign-research-ready record. /about is the journalist landing page.
 
