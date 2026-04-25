@@ -3,10 +3,6 @@ title: About | Zachary Lui
 description: Zachary Lui is a Toronto practitioner working across classical Chinese medicine, qigong, Reiki, and ritual traditions. Registered Acupuncturist, teacher, and former Director of Marketing at Traditional Chinese Medicine Ontario.
 ---
 ---
-title: About | Zachary Lui
-description: Zachary Lui is a Toronto practitioner working across classical Chinese medicine, qigong, Reiki, and ritual traditions. Registered Acupuncturist, teacher, and former Director of Marketing at Traditional Chinese Medicine Ontario.
----
-
 # About
 
 Toronto practitioner, working across classical Chinese medicine and several spiritual traditions. Practicing publicly since 2008, in clinical practice since 2015, and in public ritual work since 2016. Teaching qigong since 2013, teaching TCM and acupuncture since 2018.
