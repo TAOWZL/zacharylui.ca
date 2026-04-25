@@ -14,8 +14,6 @@ Commissioned ritual work from Chinese Esoteric Buddhist (唐密), Daoist, and Wu
 
 ## What I do
 
-**Road opening.** Clearing the path ahead when something is stuck, blocked, or tangled. Work for new ventures, stalled projects, relationships that won't move, and situations where the obstacle isn't obvious but the friction is.
-
 **Healing magic.** Spiritual and energetic work for healing, offered as ritual, distinct from any clinical treatment. Not healthcare. Not a substitute for medical or mental health care.
 
 **Protection and cleansing.** Spaces, objects, and situations. Not decorative, not for entertainment.
@@ -23,8 +21,6 @@ Commissioned ritual work from Chinese Esoteric Buddhist (唐密), Daoist, and Wu
 **Ancestor work.** Setting up the altar. Tending it. Offerings. Direct engagement with the line you come from, whether you know the names yet or not.
 
 **Deity petition and offering.** Specific deities, specific courts, specific needs. Not spiritual tourism. You come with a particular question and a particular relationship, or you come to build one. We figure out what fits.
-
-**Grief ritual.** For the losses that don't process through conversation alone.
 
 **Situations that call for ceremony.** The ones where you already know nothing else will do the work.
 
