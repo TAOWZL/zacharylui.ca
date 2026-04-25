@@ -55,9 +55,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </div>
           </header>
           <main className="flex-1">{children}</main>
-          <footer className="mt-16 rounded-2xl border border-charcoal-800 bg-charcoal-900/55 p-4 text-sm text-zinc-400">
-            <p>Built from markdown notes, deployed with GitHub Pages.</p>
-          </footer>
         </div>
       </body>
     </html>
