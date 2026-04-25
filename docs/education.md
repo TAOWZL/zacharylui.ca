@@ -36,8 +36,11 @@ Supervised over 300 clinical hours with student cohorts. Class sizes up to 40 st
 
 ## Speaking
 
-2025 SaAm Acupuncture Conference, recognized contributor.  
-2024 World Tai Chi & Qigong Summit, presenter.
+**Saam Diagnostic Conference**, May 2025. Presented *Seasonal Diagnosis with SaAm: Aligning Zodiac Signs, Jieqi, and Hexagram.*
+
+**World Qigong Summit**, April 2024. Presented as Qigong Master.
+
+**Penn State University**, August 2022. Invited Qigong Master and Lecturer.
 
 ---
 
