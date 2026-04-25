@@ -5,7 +5,11 @@ description: Zachary Lui is a Toronto practitioner working across classical Chin
 ---
 # About
 
-Toronto practitioner, working across classical Chinese medicine and several spiritual traditions. Practicing publicly since 2008, in clinical practice since 2015, and in public ritual work since 2016. Teaching qigong since 2013, teaching TCM and acupuncture since 2018.
+Toronto practitioner, Riverdale-based for the past six years. Grew up between Toronto and Hamilton, in a Chinese-Canadian family with traditional Chinese medicine on my father's side and Toronto Chinatown roots on my mother's. The Lei family on my father's side were among the first acupuncturists in San Francisco; the work continues in the family today. On my mother's side, family recipes from my grandfather are at New Ho King in Toronto Chinatown.
+
+Working across classical Chinese medicine and several spiritual traditions. Practicing publicly since 2008, in clinical practice since 2015, and in public ritual work since 2016. Teaching qigong since 2013, teaching TCM and acupuncture since 2018.
+
+Cantonese-speaking patients welcome. Fluent comprehension, working on conversational fluency.
 
 One practitioner, three doors. Each door has its own intake, its own standards, its own scope. Accountability to the pattern in front of us, not the surface story, holds across all three.
 
@@ -21,7 +25,7 @@ The approach is classical Chinese medicine, grounded in the traditional pattern-
 
 ---
 
-## Qigong, Neigong, and Reiki
+## Qigong, neigong, and Reiki
 
 Master of Medical Qigong through the International Institute of Medical Qigong, founded by Jerry Alan Johnson, under the direct instruction of Robert Youngs, Director of IIMQ Canada. Practicing qigong since childhood, with focused serious practice since 2008.
 
@@ -33,7 +37,7 @@ These are contemplative practices, not regulated health services. They sit outsi
 
 ---
 
-## Ritual and Divination
+## Ritual and divination
 
 The work begins in chaos magic. Andrieh Vitimus is my shifu (师父) in this work, and I trained and now teach as a trainer at his Results Over Image Institute. From that foundation, I have applied the approach across multiple traditions, including Chinese Esoteric Buddhist (唐密), Wu (巫), Daoist, and Reiki frameworks, across years of public practice.
 
@@ -64,6 +68,12 @@ Former Director of Marketing on the board of Traditional Chinese Medicine Ontari
 In 2022, helped lead marketing and outreach for the cross-sector coalition that successfully opposed Schedule 5 of Bill 88 (Working for Workers Act, 2022), legislation that would have repealed the Traditional Chinese Medicine Act and dissolved the profession's regulatory college within days of passage. Coordinated 14 letters of support from national regulatory bodies, industry organizations, and suppliers, and was personally interviewed by the Toronto Star, CBC News Morning, and The Alan Carter Program on 640 Toronto. The amendment removing Schedule 5 passed in March 2022, preserving the regulatory framework for Traditional Chinese Medicine in Ontario.
 
 [Full press coverage and interview record →](/press)
+
+---
+
+## Community
+
+Volunteer with the Toronto Chinatown BIA, supporting community events in the neighborhood my family has been part of for generations.
 
 ---
 

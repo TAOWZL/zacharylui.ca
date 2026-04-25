@@ -144,9 +144,11 @@ Use these as written. Do not embellish or guess.
 - World Tai Chi & Qigong Summit, April 2024
 - Saam Diagnostic Conference, May 2025
 
-**Service to profession:**
+**Service to the profession and community:**
 - Former Director of Marketing, TCMO board (within last two years)
 - Bill 88 advocacy 2022: 14 letters of support coordinated, personal interviews on Toronto Star, CBC News Morning, 640 Toronto Alan Carter Program, Schedule 5 amended out March 2022
+- Toronto Chinatown BIA volunteer, ongoing community event support tied to maternal family's Chinatown roots
+- Note: Queen City Curio is a business that runs paid events, not a community service organization. Don't frame QCC events as community work or volunteering on the site.
 
 **Podcast:**
 - Co-host, Deeper Down the Rabbit Hole (DDTRH), with Andrieh Vitimus
