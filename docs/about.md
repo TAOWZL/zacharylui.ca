@@ -3,6 +3,7 @@ title: About | Zachary Lui
 description: Zachary Lui is a Toronto practitioner working across classical Chinese medicine, qigong, Reiki, and ritual traditions. Registered Acupuncturist, teacher, and former Director of Marketing at Traditional Chinese Medicine Ontario.
 ---
 ---
+
 # About
 
 Toronto practitioner, Riverdale-based for the past six years. Grew up between Toronto and Hamilton, in a Chinese-Canadian family with Hong Kong heritage on my father's side and Toronto Chinatown roots on my mother's. The Lui family on my father's side were among the first acupuncturists in San Francisco. On my mother's side, family recipes from my grandfather are at New Ho King in Toronto Chinatown.
