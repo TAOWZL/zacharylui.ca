@@ -71,8 +71,8 @@ Zachary's biographical anchors that appear on the site:
 - Riverdale-based for 6 years (as of April 2026)
 - Grew up between Toronto and Hamilton
 - Two distinct family heritage lines:
-  - **Paternal (Lei 雷, Thunder):** Lei family were among the first acupuncturists in San Francisco. Family is currently in TCM. This is a clinical-credential heritage.
-  - **Maternal (Ho King family):** Toronto Chinatown restaurant heritage. Grandfather's recipes are at New Ho King. This is a civic-cultural heritage.
+  - **Paternal (Lei 雷, Thunder):** Lei family were among the first acupuncturists in San Francisco. Historical credential only on the site; current TCM relatives are NOT named or implied on the site to respect their privacy and avoid surfacing them as part of Zachary's public profile without explicit consent.
+  - **Maternal (Ho King family):** Toronto Chinatown restaurant heritage. Grandfather's recipes are at New Ho King. Civic-cultural heritage.
 - Cantonese: fluent comprehension, working on conversational fluency. Mandarin: in progress. Does not read or write Chinese.
 
 Both heritage lines surface on the site, but only on /about. The paternal Lei TCM lineage and maternal Ho King connection both belong on /about where biographical context lives. Do not add family lineage content to /acupuncture; the clinical page should focus on training credentials and patient-facing information, not family heritage. Adding family layers to clinical pages tips the page from "credentialed" to "credential-stacked."
@@ -148,7 +148,7 @@ Use these as written. Do not embellish or guess.
 - Former Director of Marketing, TCMO board (within last two years)
 - Bill 88 advocacy 2022: 14 letters of support coordinated, personal interviews on Toronto Star, CBC News Morning, 640 Toronto Alan Carter Program, Schedule 5 amended out March 2022
 - Toronto Chinatown BIA volunteer, ongoing community event support tied to maternal family's Chinatown roots
-- Note: Queen City Curio is a business that runs paid events, not a community service organization. Don't frame QCC events as community work or volunteering on the site.
+- Note: Queen City Curio is co-owned by Zachary and Andrieh Vitimus. On the site, frame neutrally as "the shop and spiritual centre" without ownership claims, rather than "my shop" (inaccurate, sole-ownership implied) or "the shop I co-own with Andrieh Vitimus" (accurate but adds another Vitimus mention to the homepage). QCC runs paid events and is a business; not framed as community service or volunteering on the site.
 
 **Podcast:**
 - Co-host, Deeper Down the Rabbit Hole (DDTRH), with Andrieh Vitimus
