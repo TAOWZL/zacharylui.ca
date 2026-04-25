@@ -3,6 +3,8 @@ title: Reiki | Zachary Lui, Usui Reiki Master Teacher, Toronto
 description: Reiki sessions with Zachary Lui, Usui Reiki Master Teacher, at Wuji Xuan Life Wellness in Riverdale, Toronto.
 cover: /images/hero-reiki.png
 ---
+---
+
 # Reiki
 
 Reiki sessions with Zachary Lui in Riverdale, Toronto.
@@ -40,6 +42,8 @@ Distance Reiki runs over phone or video. Same length, same hand-position sequenc
 Trained in the Usui Reiki lineage through to Master Teacher, the highest level in the tradition.
 
 Mikao Usui taught different students differently. Most Reiki that reached the West comes through Chujiro Hayashi's clinical branch, emphasizing treatment protocols and hand positions for physical conditions. Other students received what runs closer to spiritual transmission. My lineage comes through the latter strand. What you get in a session is still Reiki as the form is recognized worldwide. What sits behind it is the spiritual line of the tradition rather than the clinical one.
+
+My Reiki shifu (师父) is Andrieh Vitimus, a practicing priest and shaman. The line runs back through a witch who practiced magic, who was his teacher. This is a distinct training relationship from the clinical-style Reiki that's most commonly taught.
 
 Reiki is offered as a distinct practice from the clinical acupuncture work. The two are not combined within a single session.
 
