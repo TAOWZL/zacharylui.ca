@@ -58,13 +58,13 @@ Ritual is its own engagement. If you are a patient in the clinical practice and 
 
 ## Lineages and training
 
-The work begins in chaos magic. Andrieh Vitimus is my shifu (师父) in this work, the Chinese frame I use for the teacher relationship that holds across years and across traditions. The methodology comes through him and the Results Over Image Institute, where I trained and now teach as a trainer. From that foundation, I have applied the approach across multiple traditions, including Chinese Esoteric Buddhist (唐密), Wu (巫), Daoist, and Reiki frameworks, across years of public practice.
+The work begins in chaos magic. Andrieh Vitimus is my shifu (师父) in this work, the Chinese frame I use for the teacher relationship that holds across years and across traditions. The methodology comes through him and the Results Over Image Institute, where I continue to study and now also teach as a trainer. From that foundation, I have applied the approach across multiple traditions, including Chinese Esoteric Buddhist (唐密), Wu (巫), Daoist, and Reiki frameworks, across years of public practice.
 
-The Daoist transmission came on the basis of that work. **Mao Shan Shangqing (茅山上清) and folk Daoist lineage holder**, formal transmission received from Robert Youngs at his passing in 2020. Youngs received the lineage from Jerry Alan Johnson, founder of the International Institute of Medical Qigong. Mao Shan Shangqing is a foundational Daoist ritual tradition, rooted in the Mao mountains and the Shangqing school, with classical lineage going back to the fourth century. Folk Daoism carries the village and household practices alongside the institutional tradition.
+The Daoist transmission came on the basis of that work. **Mao Shan Shangqing (茅山上清) and folk Daoist lineage holder**, formal transmission received from Robert Youngs at his passing in 2020. Youngs received the lineage from Jerry Alan Johnson, founder of the International Institute of Medical Qigong. Mao Shan Shangqing is a foundational Daoist Ritual tradition, rooted in the Mao mountains and the Shangqing school, with classical lineage going back to the fourth century. Folk Daoism carries the village and household practices alongside the institutional tradition.
 
 **Usui Reiki.** Training is through the spiritual rather than clinical Usui lineage. Vitimus is also my Reiki shifu, and the line runs back through a witch who practiced magic, who was his teacher.
 
-Doing public ritual work since 2016. Ongoing work with specific deities and courts across the traditions named above.
+Doing public Ritual work since 2016. Ongoing work with specific deities and courts across the traditions named above.
 
 ---
 
