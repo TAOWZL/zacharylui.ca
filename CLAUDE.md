@@ -130,7 +130,7 @@ Use these as written. Do not embellish or guess.
 - Use "shifu" framing on /reiki to match the rest of the site (consistency).
 
 **Ritual:**
-- Foundation is chaos magic. Methodology trained through the Results Over Image Institute under Andrieh Vitimus, where Zachary now teaches as a trainer.
+- Foundation is chaos magic. Methodology comes through Andrieh Vitimus and the Results Over Image Institute, where Zachary continues to study (the relationship is ongoing) and now also teaches as a trainer. Frame as "continues to study" or "continues to learn from," not just "trained" — the shifu relationship is ongoing.
 - **Vitimus is Zachary's shifu (师父)** in the Chinese sense of the lineage teacher relationship. Master / Shifu carries the same weight as guru in Sanskrit traditions: lineage holder, lifelong commitment, transmission of tradition. Used consistently across /homepage, /about, /ritual, and /reiki where Vitimus is named.
 - Applied the chaos magic approach across multiple traditions including Chinese Esoteric Buddhist (唐密), Wu (巫), Daoist, and Reiki frameworks. The Tang Mi and Wu study came through the ROII / Vitimus framework, not separate Chinese transmission.
 - Mao Shan Shangqing (茅山上清) and folk Daoist lineage holder, formal Daoist transmission received from Robert Youngs at his passing in 2020. Youngs received from Jerry Alan Johnson. The Daoist transmission came on the basis of the chaos-magic-applied-across-traditions work, not separately. This narrative arc matters: chaos magic foundation, Vitimus as shifu, Daoist lineage as recognition.

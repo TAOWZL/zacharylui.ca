@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/ritual.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ritual"
+              "title": "CLAUDE"
             }
           }
         ],
@@ -201,9 +201,9 @@
   },
   "active": "4fbb6db3cfa95d08",
   "lastOpenFiles": [
+    "docs/ritual.md",
     "docs/about.md",
     "CLAUDE.md",
-    "docs/ritual.md",
     "docs/writing/test-blog-day-1.md",
     "docs/index.md",
     "divination.md",
