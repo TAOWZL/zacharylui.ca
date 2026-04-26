@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/ritual.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ritual"
+              "title": "index"
             }
           }
         ],
@@ -201,6 +201,7 @@
   },
   "active": "4ea8a1a80dd00f69",
   "lastOpenFiles": [
+    "docs/ritual.md",
     "docs/acupuncture.md",
     "layout.tsx",
     "docs/divination.md",
@@ -211,7 +212,6 @@
     "docs/projects.md",
     "docs/qigong.md",
     "docs/reiki.md",
-    "docs/ritual.md",
     "docs/services.md",
     "docs/writing.md",
     "docs/about.md",
