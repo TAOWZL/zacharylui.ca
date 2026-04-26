@@ -28,6 +28,7 @@ export const viewport: Viewport = {
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
+  const navItems = siteConfig.nav;
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "ProfessionalService",
@@ -47,7 +48,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 <span className="text-gold-400">Zachary</span> Lui
               </a>
               <nav aria-label="Primary" className="flex flex-wrap items-center gap-2">
-                {XXMAPXX((item) => (
+                {navItems.map((item) => (
                   
                     key={item.slug || "home"}
                     href={item.slug ? `/${item.slug}` : "/"}
