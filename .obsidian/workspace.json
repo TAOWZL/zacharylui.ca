@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/writing/test-blog-day-1.md",
+                "file": "docs/about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test-blog-day-1"
+              "title": "about"
             }
           }
         ],
@@ -179,13 +179,23 @@
               "icon": "lucide-list",
               "title": "Outline of reiki"
             }
+          },
+          {
+            "id": "1d353eb647fe9e0f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,6 +211,7 @@
   },
   "active": "4ea8a1a80dd00f69",
   "lastOpenFiles": [
+    "docs/writing/test-blog-day-1.md",
     "docs/acupuncture.md",
     "docs/press.md",
     "docs/projects.md",
@@ -216,7 +227,6 @@
     "docs/divination.md",
     "docs/qigong.md",
     "CLAUDE.md",
-    "docs/writing/test-blog-day-1.md",
     "divination.md",
     "qigong.md",
     "services.md",

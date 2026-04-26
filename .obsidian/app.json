@@ -1,4 +1,15 @@
 {
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "*.tsx",
+    "*.ts",
+    "*.js",
+    "app/",
+    "components/",
+    "lib/",
+    "scripts/",
+    "public/",
+    ".github/"
+  ]
 }
