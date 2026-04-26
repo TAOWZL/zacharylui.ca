@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/about.md",
+                "file": "docs/projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "projects"
             }
           }
         ],
@@ -201,6 +201,7 @@
   },
   "active": "4ea8a1a80dd00f69",
   "lastOpenFiles": [
+    "docs/about.md",
     "docs/index.md",
     "docs/ritual.md",
     "docs/writing.md",
@@ -214,7 +215,6 @@
     "docs/press.md",
     "docs/projects.md",
     "docs/qigong.md",
-    "docs/about.md",
     "CLAUDE.md",
     "docs/writing/test-blog-day-1.md",
     "divination.md",
