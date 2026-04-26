@@ -19,7 +19,7 @@ People come through this door for pain, sleep concerns, digestive complaints, st
 
 Clinical care is a regulated health service in Ontario, provided under the R.Ac designation.
 
-[Into acupuncture →](/acupuncture)
+[Into Acupuncture →](/acupuncture)
 
 ---
 
@@ -39,7 +39,7 @@ These are contemplative practices, not regulated health services. They sit outsi
 
 *Ceremony, Divination Coaching*
 
-People come through this door when the thing they're carrying needs ceremony, not conversation, or when a decision calls for a structure that isn't their own head. Ritual from Chinese Esoteric Buddhist (唐密), Daoist, and Wu (巫) lineages. Divination coaching as a structured reading of the question in front of you, using tarot or mahjong. Screened on intake. Not every request is taken. That is on purpose.
+People come through this door when the thing they're carrying needs ceremony, not conversation, or when a decision calls for a structure that isn't their own head. Ritual from Chinese Esoteric Buddhist (唐密), Daoist, and Wu (巫) lineages. Divination Coaching as a structured reading of the question in front of you, using tarot or mahjong. Screened on intake. Not every request is taken. That is on purpose.
 
 Spiritual work, not healthcare. Sits outside R.Ac scope, not a substitute for medical, mental health, legal, or professional advice of any kind. That line stays clean. Past it, the work is the work.
 
@@ -60,8 +60,8 @@ One practitioner, three doors. Each door has its own intake, its own standards, 
 ## Where I work
 
 **Wuji Xuan Life Wellness**, the clinic.  
-255 Broadview Avenue, Toronto (Riverdale). Between Gerrard and Dundas, a short walk from Broadview station.  
-416-595-5525
+[255 Broadview Avenue](https://maps.google.com/?q=255+Broadview+Avenue+Toronto+ON), Toronto (Riverdale). Between Gerrard and Dundas, a short walk from Broadview station.  
+[416-595-5525](tel:+14165955525)
 
 **Queen City Curio**, the shop and spiritual centre.  
 [queencitycurio.ca](https://queencitycurio.ca) for Ritual supplies, workshops, weekly Rituals, and community events.
@@ -70,7 +70,7 @@ One practitioner, three doors. Each door has its own intake, its own standards, 
 
 ## Book
 
-Online through Jane, or **416-595-5525**.
+Online through Jane, or **[416-595-5525](tel:+14165955525)**.
 
 [**Book a session**](https://wujixuan.janeapp.com/#/staff_member/1)
 
