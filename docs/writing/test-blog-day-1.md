@@ -9,4 +9,4 @@ permalink: writing/test-day-1
 
 If you can read this at zacharylui.ca/writing/test-day-1, the blog routing works.
 
-First real post coming soon.
+First real post coming soon. dasdsasd

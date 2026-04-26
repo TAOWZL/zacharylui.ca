@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/projects.md",
+                "file": "docs/writing/test-blog-day-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "projects"
+              "title": "test-blog-day-1"
             }
           }
         ],
@@ -201,6 +201,9 @@
   },
   "active": "4ea8a1a80dd00f69",
   "lastOpenFiles": [
+    "docs/acupuncture.md",
+    "docs/press.md",
+    "docs/projects.md",
     "docs/about.md",
     "docs/index.md",
     "docs/ritual.md",
@@ -209,11 +212,8 @@
     "docs/reiki.md",
     "docs/officiant.md",
     "docs/education.md",
-    "docs/acupuncture.md",
     "layout.tsx",
     "docs/divination.md",
-    "docs/press.md",
-    "docs/projects.md",
     "docs/qigong.md",
     "CLAUDE.md",
     "docs/writing/test-blog-day-1.md",
