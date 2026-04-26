@@ -48,8 +48,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 <span className="text-gold-400">Zachary</span> Lui
               </a>
               <nav aria-label="Primary" className="flex flex-wrap items-center gap-2">
-                 {navItems.map((item) => (
-                   <a
+                {navItems.map((item) => (
+                  <a
                     key={item.slug || "home"}
                     href={item.slug ? `/${item.slug}` : "/"}
                     className="inline-flex min-h-[44px] items-center rounded-md border border-charcoal-800 bg-charcoal-950/70 px-4 py-2 text-sm text-zinc-200 no-underline hover:border-gold-600 hover:text-gold-400"
