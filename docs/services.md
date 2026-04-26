@@ -4,7 +4,7 @@ description: Services and fees for acupuncture, Tui Na, Reiki, qigong instructio
 permalink: services
 publish: true
 ---
----
+
 # Services and Fees
 
 All sessions are 60 minutes unless noted. All fees are discussed and confirmed before each session.
