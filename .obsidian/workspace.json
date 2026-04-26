@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/writing.md",
+                "file": "docs/ritual.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "writing"
+              "title": "ritual"
             }
           }
         ],
@@ -201,6 +201,7 @@
   },
   "active": "4ea8a1a80dd00f69",
   "lastOpenFiles": [
+    "docs/writing.md",
     "docs/services.md",
     "docs/ritual.md",
     "docs/reiki.md",
@@ -213,7 +214,6 @@
     "docs/press.md",
     "docs/projects.md",
     "docs/qigong.md",
-    "docs/writing.md",
     "docs/about.md",
     "CLAUDE.md",
     "docs/writing/test-blog-day-1.md",
