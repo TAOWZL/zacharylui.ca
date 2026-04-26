@@ -4,7 +4,7 @@ description: Essays and notes on classical Chinese medicine, qigong, ritual, and
 cover: /images/hero-writing.svg
 permalink: writing
 ---
----
+
 # Writing
 
 Long-form essays and notes on classical Chinese medicine, qigong, ritual, and the territory where older traditions meet modern practice. Written for practitioners and serious lay readers, irregular, no editorial calendar.

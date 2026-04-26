@@ -8,7 +8,7 @@ aliases:
   - acupuncture for anxiety
 permalink: acupuncture
 ---
----
+
 # Acupuncture
 
 Registered acupuncture care at Wuji Xuan Life Wellness in Riverdale, Toronto. First visits welcome. Returning patients can book straight through Jane.
