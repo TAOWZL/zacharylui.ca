@@ -47,7 +47,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 <span className="text-gold-400">Zachary</span> Lui
               </a>
               <nav aria-label="Primary" className="flex flex-wrap items-center gap-2">
-                {siteConfig.nav.map((item) => (
+                {XXMAPXX((item) => (
                   
                     key={item.slug || "home"}
                     href={item.slug ? `/${item.slug}` : "/"}
