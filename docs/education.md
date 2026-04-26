@@ -3,7 +3,6 @@ title: Teaching | Zachary Lui, R.Ac
 description: Teaching and faculty experience of Zachary Lui in traditional Chinese medicine and acupuncture in Ontario.
 permalink: education
 ---
-
 # Teaching
 
 Teaching TCM and acupuncture in Ontario since 2018. Courses taught span the clinical foundations, Internal Medicine, hands-on disciplines (Tui Na, qigong therapy, student clinic), and the professional preparation subjects that get new practitioners ready to register. Cohorts I teach prepare to register with the profession; the work at the front of the classroom and the work at the clinic table are the same work done in two different rooms.
