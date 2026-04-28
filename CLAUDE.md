@@ -32,6 +32,7 @@ Acupuncture is one door among three, not the primary draw. The R.Ac designation 
 - `reiki.md` — Usui Reiki, spiritual rather than clinical Usui lineage
 - `divination.md` — Divination Coaching, tarot and mahjong as frame
 - `ritual.md` — commissioned ritual, $1500 starting, Mao Shan Shangqing lineage from Robert Youngs, Vitimus/ROII trainer credit, Reiki witch lineage
+- `officiant.md` — Marriage Officiant page, fast civil signings primary positioning
 - `education.md` — teaching credits, courses taught, conferences (Penn State 2022, World Tai Chi & Qigong Summit 2024, Saam Diagnostic Conference 2025)
 - `writing.md` — essay landing page (currently empty), DDTRH credit
 - `press.md` — press, podcast interviews (10+ verified), conference presentations, podcast hosting (DDTRH + TCMO Podcast), Bill 88 advocacy
@@ -151,6 +152,17 @@ Use these as written. Do not embellish or guess.
 - Bill 88 advocacy 2022: 14 letters of support coordinated, personal interviews on Toronto Star, CBC News Morning, 640 Toronto Alan Carter Program, Schedule 5 amended out March 2022
 - Toronto Chinatown BIA volunteer, ongoing community event support tied to maternal family's Chinatown roots
 - Note: Queen City Curio is co-owned by Zachary and Andrieh Vitimus. On the site, frame neutrally as "the shop and spiritual centre" without ownership claims, rather than "my shop" (inaccurate, sole-ownership implied) or "the shop I co-own with Andrieh Vitimus" (accurate but adds another Vitimus mention to the homepage). QCC runs paid events and is a business; not framed as community service or volunteering on the site.
+
+**Marriage Officiant:**
+- Registered marriage officiant in the Province of Ontario (received "blue book" April 2026)
+- Authority on the /officiant page is framed as **Wu (巫)** — the broader, older, more inclusive frame for marriage work. Do NOT name "Daoist priest" or "Mao Shan Shangqing" on the officiant page; those credentials live on /ritual where the audience wants lineage credentials. Officiant page audience wants competent + spiritually grounded + non-sectarian feel.
+- Specialty: Chinese ceremony with Cantonese cultural literacy. Cross-tradition capable for Pagan, interfaith via chaos magic methodology. Ceremonies conducted in English; comprehension of Cantonese for cultural moments only — no full ceremonies in Cantonese.
+- Vietnamese: ONE ceremony performed as a priest (not as a registered officiant), no language fluency. Do NOT claim Vietnamese specialty on the page. If asked, can hold space for Vietnamese cultural elements but the family must bring their own language and protocol expertise.
+- Studio-only appointments. No travel for ceremonies.
+- Pricing: Civil signing $297 + HST, urgent (under-48-hour) signing $497 + HST, brief ceremony $497 + HST, custom ceremony $997+ HST, witnesses $50 + HST per pair, $200 + HST urgency surcharge for brief/custom.
+- Invoicing: Through Wuji Xuan Life Wellness via Stripe (one HST account, one set of books). Verify with accountant whether religious officiant income should flow through Wuji Xuan or be treated as personal T2125 — default is Wuji Xuan unless accountant advises otherwise.
+- Booking via admin@wujixuan.org, not a personal email. Email-based booking, not Jane (officiation is one-time-per-couple work; Jane's recurring-booking model is wrong fit).
+- Marketing copy emphasizes the fast civil signing as primary entry point; ceremony tiers as upsell. "I don't push ceremony on people who came for a signing" is the core positioning line. Confidentiality language ("I don't ask why") for couples in awkward situations (immigration, family conflict, second marriages).
 
 **Podcast:**
 - Co-host, Deeper Down the Rabbit Hole (DDTRH), with Andrieh Vitimus

@@ -31,23 +31,23 @@ Receipts are issued for Registered Acupuncturist services and are accepted by ma
 
 ---
 
-## Divination coaching
+## Divination Coaching
 *Contemplative practice. Not a regulated health service.*
 
 | Service | Fee |
 |---|---|
-| Divination coaching (tarot or mahjong) | $175 + tax |
+| Divination Coaching (tarot or mahjong) | $175 + tax |
 
 [Divination](/divination)
 
 ---
 
-## Qigong / Neigong coaching
+## Qigong / Neigong Coaching
 *Movement and breath practice. Not a regulated health service.*
 
 | Service | Fee |
 |---|---|
-| Qigong / Neigong coaching | $150 + tax |
+| Qigong / Neigong Coaching | $150 + tax |
 
 [Qigong](/qigong)
 
@@ -70,32 +70,51 @@ Receipts are issued for Registered Acupuncturist services and are accepted by ma
 
 | Service | Fee |
 |---|---|
-| Commissioned ritual work | $1500 and up |
+| Commissioned Ritual work | $1500 and up |
 
-Commissioned ritual begins with an intake conversation, not a booking. Fees scale from the $1500 starting rate based on scope, timing, and materials. For private questions, most people start with a divination coaching session to determine whether commissioned ritual is the right response. Not every request is accepted.
+Commissioned Ritual begins with an intake conversation, not a booking. Fees scale from the $1500 starting rate based on scope, timing, and materials. For private questions, most people start with a Divination Coaching session to determine whether commissioned Ritual is the right response. Not every request is accepted.
 
 [Ritual](/ritual)
 
 ---
 
-## Public rituals and workshops at Queen City Curio
+## Public Rituals and workshops at Queen City Curio
 *Spiritual practice. Not a regulated health service.*
 
-Weekly rituals, seasonal ceremonies, and themed workshops run at Queen City Curio on a recurring schedule. Open to anyone, no intake required, fees vary by event. This is the lowest-commitment way to encounter the ritual work.
+Weekly Rituals, seasonal ceremonies, and themed workshops run at Queen City Curio on a recurring schedule. Open to anyone, no intake required, fees vary by event. This is the lowest-commitment way to encounter the Ritual work.
 
 [Queen City Curio events →](https://queencitycurio.ca)
 
 ---
 
+## Marriage Officiation
+*Religious officiation. Not a regulated health service.*
+
+| Service | Fee |
+|---|---|
+| Civil signing | $297 + HST |
+| Same-day or next-day signing | $497 + HST |
+| Brief ceremony | $497 + HST |
+| Custom ceremony | $997 + HST and up |
+| Witnesses provided (if needed) | $50 + HST |
+
+Registered marriage officiant in the Province of Ontario. Studio appointments only. Specialty in Chinese ceremony with Cantonese cultural literacy; also Pagan, interfaith, and other traditions.
+
+[Marriage Officiant](/officiant)
+
+---
+
 ## How booking works
 
-**Acupuncture, Tui Na, Reiki, qigong / neigong** → book online through Jane any time. Select the service that fits.
+**Acupuncture, Tui Na, Reiki, Qigong / Neigong** → book online through Jane any time. Select the service that fits.
 
-**Divination coaching** → book through Jane or through Queen City Curio's event calendar for scheduled reading nights.
+**Divination Coaching** → book through Jane or through Queen City Curio's event calendar for scheduled reading nights.
 
 **Commissioned ritual** → email or phone first. Ritual work always begins with an intake conversation before anything is scheduled or booked.
 
-**Public rituals and workshops** → check the [Queen City Curio](https://queencitycurio.ca) schedule.
+**Marriage officiation** → email admin@wujixuan.org. Same-day and next-day appointments are sometimes possible — write URGENT in the subject line for under-48-hour requests. See the [Marriage Officiant page](/officiant) for details.
+
+**Public Rituals and workshops** → check the [Queen City Curio](https://queencitycurio.ca) schedule.
 
 Cancellations 24 hours in advance. Same-day cancellations and no-shows are charged the full session fee. Running late is fine; if you're more than 15 minutes late without a call, the slot is treated as a no-show.
 
