@@ -106,7 +106,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               </nav>
             </div>
 
-            <p className="mt-8 max-w-3xl text-xs leading-relaxed text-zinc-400">
+            <p className="mt-8 mx-auto max-w-3xl text-xs leading-relaxed text-zinc-400">
               Acupuncture is a regulated health service in Ontario, provided by Zachary Lui, Registered Acupuncturist (R.Ac), under the{" "}
               <a
                 href="https://www.ctcmpao.on.ca/publicregistersrc/"
