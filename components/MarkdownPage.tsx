@@ -16,28 +16,26 @@ export function MarkdownPage({ doc }: Props) {
   const title = doc.data.title ?? "Zachary Lui";
   const description = doc.data.description;
   const cover = doc.data.cover ?? doc.data.image;
+  const hasHero = Boolean(cover);
 
   return (
     <section className="space-y-8">
-      <article className="hero-shell">
-        {cover ? (
+      {hasHero ? (
+        <article className="hero-shell">
           <img
             src={cover}
             alt={title}
             className="h-72 w-full object-cover object-top md:h-[28rem]"
           />
-        ) : (
-          <div className="h-72 w-full bg-charcoal-900 md:h-[28rem]" />
-        )}
-        <div className="hero-overlay" />
-        <div className="hero-content">
-          <p className="hero-kicker">Zachary Lui</p>
-          <h1 className="hero-title">{title}</h1>
-          {description ? <p className="hero-description">{description}</p> : null}
-        </div>
-      </article>
+          <div className="hero-overlay" />
+          <div className="hero-content">
+            <h1 className="hero-title">{title}</h1>
+            {description ? <p className="hero-description">{description}</p> : null}
+          </div>
+        </article>
+      ) : null}
 
-      <article className="content-shell prose prose-lg">
+      <article className="content-shell prose prose-lg max-w-none">
         <ReactMarkdown
           remarkPlugins={[remarkGfm, remarkMath]}
           rehypePlugins={[
@@ -46,9 +44,8 @@ export function MarkdownPage({ doc }: Props) {
             [rehypeAutolinkHeadings, { behavior: "append", properties: { className: ["anchor-link"] } }]
           ]}
           components={{
-            h1: ({ children, id }) => (
-              <h1 id={id} className="heading-1">{children}</h1>
-            ),
+            h1: ({ children, id }) =>
+              hasHero ? null : <h1 id={id} className="heading-1">{children}</h1>,
             h2: ({ children, id }) => (
               <h2 id={id} className="heading-2">{children}</h2>
             ),
