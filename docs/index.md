@@ -2,11 +2,12 @@
 title: Zachary Lui | Riverdale Toronto
 description: Zachary Lui offers acupuncture care, qigong and Reiki practice, and ritual and divination work in Riverdale, Toronto.
 ---
+---
 # Zachary Lui
 
 Working with people on the things that call for more than one kind of attention. Three doors into the work.
 
-[**Book**](https://wujixuan.janeapp.com/#/staff_member/1)  ·  [Services & fees](/services)
+[**Book**](https://wujixuan.janeapp.com/#/staff_member/1) · [Services & fees](/services)
 
 ---
 
@@ -26,11 +27,11 @@ Clinical care is a regulated health service in Ontario, provided under the R.Ac 
 
 *Qigong / Neigong, Reiki*
 
-People come through this door when they want something to do, not something done to them. Qigong and Neigong are the long form: external movement and internal cultivation, taught across weeks and months. Reiki is the shorter form: structured quiet time, hands-on or at distance.
+People come through this door when they want something to do, not something done to them. Qigong and Neigong are the long form: external movement and internal cultivation, taught across weeks and months. Reiki is the shorter form: a tiered transmission lineage in the Usui line. Sessions are how most people meet the work before training in it.
 
 These are contemplative practices, not regulated health services. They sit outside R.Ac scope and aren't a replacement for medical or mental health care.
 
-[Into Qigong / Neigong →](/qigong)  ·  [Into Reiki →](/reiki)
+[Into Qigong / Neigong →](/qigong) · [Into Reiki →](/reiki)
 
 ---
 
@@ -42,7 +43,7 @@ People come through this door when the thing they're carrying needs ceremony, no
 
 Spiritual work, not healthcare. Sits outside R.Ac scope, not a substitute for medical, mental health, legal, or professional advice of any kind. That line stays clean. Past it, the work is the work.
 
-[Into Ritual →](/ritual)  ·  [Into Divination Coaching →](/divination)
+[Into Ritual →](/ritual) · [Into Divination Coaching →](/divination)
 
 ---
 
@@ -60,7 +61,7 @@ One practitioner, three doors. Each door has its own intake, its own standards, 
 
 **Wuji Xuan Life Wellness**, the clinic.  
 [255 Broadview Avenue](https://maps.google.com/?q=255+Broadview+Avenue+Toronto+ON), Toronto (Riverdale). Between Gerrard and Dundas, a short walk from Broadview station.  
-[416-595-5525](tel:+14165955525)
+416-595-5525
 
 **Queen City Curio**, the shop and spiritual centre.  
 [queencitycurio.ca](https://queencitycurio.ca) for Ritual supplies, workshops, weekly Rituals, and community events.
@@ -69,8 +70,8 @@ One practitioner, three doors. Each door has its own intake, its own standards, 
 
 ## Book
 
-Online through Jane, or **[416-595-5525](tel:+14165955525)**.
+Online through Jane, or **416-595-5525**.
 
 [**Book a session**](https://wujixuan.janeapp.com/#/staff_member/1)
 
-[Services & fees](/services)  ·  [Writing](/writing)  ·  [Teaching](/education)
+[Services & fees](/services) · [Writing](/writing) · [Teaching](/education)
