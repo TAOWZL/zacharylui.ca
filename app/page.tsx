@@ -1,8 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { getDocBySlug } from "@/lib/content";
+import { getDocBySlug, inferDescription } from "@/lib/content";
 import { MarkdownPage } from "@/components/MarkdownPage";
-import { inferDescription } from "@/lib/content";
 
 export function generateMetadata(): Metadata {
   const doc = getDocBySlug("");
