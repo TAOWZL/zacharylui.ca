@@ -35,7 +35,7 @@ export function MarkdownPage({ doc }: Props) {
         </article>
       ) : null}
 
-      <article className="content-shell prose prose-lg max-w-none">
+      <article className="prose prose-lg max-w-none">
         <ReactMarkdown
           remarkPlugins={[remarkGfm, remarkMath]}
           rehypePlugins={[
