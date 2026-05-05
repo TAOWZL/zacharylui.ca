@@ -16,7 +16,7 @@ Registered Acupuncturist, ordained Daoist priest, and Wu (巫) in Riverdale Toro
 
 People come through this door for pain, sleep concerns, digestive complaints, stress, cycle questions, and general wellness. Registered acupuncture at the clinic. Sessions include a TCM pattern assessment and a plan discussed before anything happens. Many Ontario extended health plans include coverage for Registered Acupuncturist services.
 
-Clinical care is a regulated health service in Ontario, provided under the R.Ac designation.
+Clinical care is a regulated health service in Ontario, provided under the Registered Acupuncturist (R.Ac) designation.
 
 [Into Acupuncture →](https://zacharylui.ca/acupuncture)
 
