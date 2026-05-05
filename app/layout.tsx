@@ -1,132 +1,165 @@
-import type { Metadata } from "next";
-import "./globals.css";
-import { siteConfig } from "@/site.config";
+@import "katex/dist/katex.min.css";
 
-export const metadata: Metadata = {
-  metadataBase: new URL(siteConfig.url),
-  title: {
-    default: "Zachary Lui",
-    template: "%s | Zachary Lui"
-  },
-  description: "Systems for body, mind, and pattern.",
-  openGraph: {
-    type: "website",
-    title: "Zachary Lui",
-    description: "Systems for body, mind, and pattern.",
-    url: siteConfig.url
-  },
-  robots: {
-    index: true,
-    follow: true
-  }
-};
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "ProfessionalService",
-    name: "Zachary Lui",
-    url: siteConfig.url,
-    areaServed: "Toronto",
-    description: "Systems for body, mind, and pattern."
-  };
+:root {
+  color-scheme: dark;
+}
 
-  const year = new Date().getFullYear();
+body {
+  background:
+    radial-gradient(circle at 12% 10%, rgba(196, 55, 55, 0.14), transparent 34%),
+    radial-gradient(circle at 88% 6%, rgba(230, 199, 90, 0.12), transparent 30%),
+    #151516;
+  @apply text-zinc-100 antialiased;
+}
 
-  return (
-    <html lang="en">
-      <body>
-        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-        <div className="mx-auto flex min-h-screen w-full max-w-6xl flex-col px-4 py-8 sm:px-6 lg:px-8">
-          <header className="mb-10 rounded-2xl border border-charcoal-700 bg-charcoal-900 p-4 shadow-2xl shadow-black/80 backdrop-blur md:p-6">
-            <div className="flex flex-wrap items-center justify-between gap-4">
-              <a href="/" className="text-xl font-semibold tracking-wide text-zinc-100 visited:text-zinc-100 no-underline md:text-2xl">
-                <span className="text-gold-400">Zachary</span> Lui
-              </a>
-              <nav className="flex flex-wrap items-center gap-2">
-                {siteConfig.nav.map((item) => (
-                  <a
-                    key={item.slug || "home"}
-                    href={item.slug ? `/${item.slug}` : "/"}
-                    className="rounded-md border border-charcoal-800 bg-charcoal-950/70 px-3 py-1.5 text-sm text-zinc-200 visited:text-zinc-200 no-underline hover:border-gold-600 hover:text-gold-400"
-                  >
-                    {item.label}
-                  </a>
-                ))}
-              </nav>
-            </div>
-          </header>
+a {
+  @apply text-gold-400 transition-colors;
+}
 
-          <main className="flex-1">{children}</main>
+a:hover {
+  @apply text-gold-500;
+}
 
-          <footer className="mt-16 rounded-2xl border border-charcoal-700 bg-charcoal-900 p-6 text-sm text-zinc-300 shadow-2xl shadow-black/80 md:p-8">
-            <div className="grid gap-8 md:grid-cols-2">
-              <div className="space-y-1">
-                <p className="font-semibold text-zinc-100">Zachary Lui, R.Ac</p>
-                <p>Wuji Xuan Life Wellness</p>
-                <p>
-                  <a
-                    href="https://maps.google.com/?q=255+Broadview+Avenue+Toronto+ON"
-                    className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400"
-                  >
-                    255 Broadview Avenue, Toronto ON
-                  </a>
-                </p>
-                <p>
-                  <a href="tel:+14165955525" className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400">
-                    416-595-5525
-                  </a>
-                </p>
-                <p className="pt-3 text-xs text-zinc-500">
-                  Related:{" "}
-                  <a
-                    href="https://queencitycurio.ca"
-                    rel="noopener"
-                    className="text-zinc-400 visited:text-zinc-400 no-underline hover:text-gold-400"
-                  >
-                    Queen City Curio
-                  </a>
-                </p>
-              </div>
+.button-link {
+  @apply inline-flex min-h-[44px] items-center rounded-md border border-gold-600/60 bg-charcoal-900/80 px-5 py-3 text-sm font-medium text-gold-400 no-underline backdrop-blur;
+}
 
-              <nav aria-label="Footer" className="space-y-2">
-                <p className="font-semibold text-zinc-100">Practice</p>
-                <ul className="grid grid-cols-2 gap-x-4 gap-y-1">
-                  <li><a href="/acupuncture" className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400">Acupuncture</a></li>
-                  <li><a href="/qigong" className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400">Qigong / Neigong</a></li>
-                  <li><a href="/reiki" className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400">Reiki</a></li>
-                  <li><a href="/ritual" className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400">Ritual</a></li>
-                  <li><a href="/divination" className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400">Divination Coaching</a></li>
-                  <li><a href="/services" className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400">Services &amp; Fees</a></li>
-                  <li><a href="/writing" className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400">Writing</a></li>
-                  <li><a href="/education" className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400">Teaching</a></li>
-                  <li><a href="/about" className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400">About</a></li>
-                  <li><a href="/press" className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400">Press</a></li>
-                </ul>
-              </nav>
-            </div>
+.button-link-primary {
+  @apply border-red-600 bg-red-700/30 text-zinc-50 hover:bg-red-700/50;
+}
 
-            <p className="mx-auto mt-8 max-w-3xl text-xs leading-relaxed text-zinc-400">
-              Acupuncture is a regulated health service in Ontario, provided by Zachary Lui, Registered Acupuncturist (R.Ac), under the{" "}
-              <a
-                href="https://www.ctcmpao.on.ca/publicregistersrc/"
-                rel="noopener"
-                className="text-zinc-300 visited:text-zinc-300 underline decoration-charcoal-700 hover:text-gold-400"
-              >
-                College of Traditional Chinese Medicine Practitioners and Acupuncturists of Ontario
-              </a>
-              . Reiki, Qigong and Neigong instruction, Divination Coaching, and Ritual work are offered separately and are not regulated healthcare services in Ontario. Nothing on this site is a substitute for medical, mental health, legal, or professional advice.
-            </p>
+/* ── Prose base ───────────────────────────────────────────── */
 
-            <div className="mt-6 flex flex-wrap items-center justify-between gap-2 border-t border-charcoal-800 pt-4 text-xs text-zinc-500">
-              <p>&copy; {year} Zachary Lui. All rights reserved.</p>
-              <p>
-                <a href="/privacy" className="text-zinc-500 visited:text-zinc-500 no-underline hover:text-gold-400">Privacy</a>
-              </p>
-            </div>
-          </footer>
-        </div>
-      </body>
-    </html>
-  );
+.prose {
+  @apply prose-invert max-w-none prose-strong:text-zinc-100 prose-a:text-gold-400;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.prose mark {
+  @apply rounded bg-gold-500/25 px-1 text-gold-400;
+}
+
+/* ── Headings h1 – h6 ────────────────────────────────────── */
+
+.heading-1 {
+  @apply mt-10 mb-4 text-3xl font-bold leading-tight text-zinc-50 md:text-4xl;
+}
+
+.heading-2 {
+  @apply mt-8 mb-4 border-b border-charcoal-800 pb-2 text-2xl font-semibold leading-snug text-gold-400 md:mt-12 md:text-3xl;
+}
+
+.heading-3 {
+  @apply mt-8 mb-3 text-2xl font-semibold text-zinc-100 md:text-3xl;
+}
+
+.heading-4 {
+  @apply mt-6 mb-2 text-xl font-semibold text-zinc-200;
+}
+
+.heading-5 {
+  @apply mt-5 mb-2 text-base font-semibold uppercase tracking-wide text-gold-500;
+}
+
+.heading-6 {
+  @apply mt-4 mb-1 text-sm font-medium uppercase tracking-wider text-zinc-400;
+}
+
+/* ── Paragraphs ───────────────────────────────────────────── */
+
+.para {
+  @apply mb-5 text-lg leading-relaxed text-zinc-200 md:text-xl;
+}
+
+/* ── Lists ─────────────────────────────────────────────── */
+
+.list-disc-custom {
+  @apply mb-6 mt-2 space-y-2 pl-6 text-lg text-zinc-200 md:text-xl;
+}
+
+.list-disc-custom li {
+  @apply pl-1;
+}
+
+.list-disc-custom li::marker {
+  @apply text-gold-500;
+}
+
+.list-decimal-custom {
+  @apply mb-6 mt-2 list-decimal space-y-2 pl-6 text-lg text-zinc-200 md:text-xl;
+}
+
+.list-decimal-custom li {
+  @apply pl-1;
+}
+
+.list-decimal-custom li::marker {
+  @apply text-gold-500;
+}
+
+/* ── Section dividers (hr) ────────────────────────────────── */
+
+.section-divider {
+  @apply my-10 border-t border-charcoal-800;
+}
+
+/* ── Anchor links from rehype-autolink ────────────────────── */
+
+.anchor-link {
+  @apply ml-2 inline-block px-2 py-1 text-zinc-600 no-underline transition-colors hover:text-gold-400;
+}
+
+/* ── Hero ──────────────────────────────────────────────── */
+
+.hero-shell {
+  @apply relative overflow-hidden rounded-2xl border border-charcoal-800 shadow-2xl shadow-black/40;
+}
+
+.hero-overlay {
+  @apply absolute inset-0 bg-gradient-to-tr from-black/70 via-charcoal-950/50 to-transparent;
+}
+
+.hero-content {
+  @apply absolute bottom-0 left-0 right-0 space-y-3 p-4 sm:p-6 md:space-y-4 md:p-10;
+}
+
+.hero-kicker {
+  @apply inline-flex rounded-full border border-gold-500/50 bg-charcoal-900/75 px-3 py-1 text-xs uppercase tracking-[0.2em] text-gold-400;
+}
+
+.hero-title {
+  @apply max-w-3xl text-3xl font-semibold leading-tight text-zinc-50 md:text-5xl lg:text-6xl;
+}
+
+.hero-description {
+  @apply max-w-2xl text-lg leading-relaxed text-zinc-200 md:text-xl;
+}
+
+/* ── Content card ──────────────────────────────────────── */
+
+.content-shell {
+  @apply rounded-2xl border border-zinc-700 bg-charcoal-900 p-4 shadow-2xl shadow-black/80 backdrop-blur sm:p-6 md:p-10;
+}
+
+.content-shell > .heading-1:first-of-type {
+  @apply sr-only;
+}
+
+.content-image {
+  @apply my-6 rounded-xl border border-charcoal-800;
+}
+
+/* ── Safe readability tweaks ───────────────────────────── */
+
+.prose p {
+  margin-bottom: 1.25rem;
+}
+
+.prose {
+  max-width: none;
 }
