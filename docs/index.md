@@ -1,6 +1,6 @@
 ---
 title: Zachary Lui | Riverdale Toronto
-description: Zachary Lui offers acupuncture, qigong, Reiki, and ritual work in Riverdale, Toronto.
+description: Registered acupuncture, contemplative practice, and ritual work in Riverdale, Toronto. One practitioner, three doors.
 ---
 # Zachary Lui
 
