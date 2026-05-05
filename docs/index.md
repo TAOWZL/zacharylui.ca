@@ -22,7 +22,7 @@ Clinical care is a regulated health service in Ontario, provided under the R.Ac 
 
 ---
 
-## Practice
+## Cultivation
 
 *Qigong / Neigong, Reiki*
 
