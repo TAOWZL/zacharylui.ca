@@ -1,203 +1,57 @@
-# CLAUDE.md
+Project: zacharylui.ca, Jekyll static site on GitHub Pages. Maintainer is Zachary Lui, practicing across Acupuncture, Qigong/Neigong, Reiki, Ritual, and Divination Coaching. CLAUDE.md in repo root is authoritative. Read it first. Every rule there overrides anything in this brief.
 
-Context for maintaining zacharylui.ca. Read this before editing any page.
+Goal of this pass: structured upgrade across SEO infrastructure, trust signals, CTAs, IA, and brand consistency. Site sits ~8.2/10 average. Strongest at voice and CTCMPAO scope discipline (don't touch). Weakest at SEO infrastructure and CTAs.
 
----
+Read CLAUDE.md first. Then read index.md, _includes/footer.html, and the head include (or _config.yml if head metadata lives there). List current site structure and any deviations from CLAUDE.md you notice. Pause for review before any edits.
 
-## What this site is
+Hard constraints from CLAUDE.md to respect throughout:
+- Acupuncture is one of three doors, not the primary draw. Don't weight SEO toward it.
+- R.Ac is the only authorized title. No "Professor," no "Specialist," no "Senior." Use "faculty" or "instructor" for teaching roles.
+- No testimonials, including anonymized. Journalism quotes (Toronto Star, CBC, 640 Toronto re: Bill 88) are journalism and acceptable; patient quotes are not.
+- No em dashes anywhere in site copy. Commas, colons, periods.
+- CTCMPAO name only in footer disclaimer and on privacy page. Do not reintroduce in other body copy. JSON-LD sameAs to the public register is structured data not body copy, but pause and ask Zachary before adding.
+- "TCM pattern assessment" not "diagnosis." Never "cure," "heal," or "treat" a specific condition.
 
-A static Jekyll site on GitHub Pages for Zachary Lui, a Toronto-based practitioner working across classical Chinese medicine, Qigong / Neigong, Reiki, Ritual, and Divination Coaching. The site represents all of these services. It is not an acupuncture-first site and should not be edited into one.
+1. SEO infrastructure (highest impact)
+- JSON-LD on homepage: LocalBusiness plus HealthAndBeautyBusiness as appropriate. NAP is Wuji Xuan Life Wellness, 255 Broadview Avenue, Toronto ON, 416-595-5525. Geo coordinates, opening hours (ask if not in repo). Services array reflects all three doors, not acupuncture only. sameAs: queencitycurio.ca. Pause before adding CTCMPAO register link given the body-copy rule.
+- Per-page unique meta titles and descriptions. Homepage current description is generic. Each modality page needs a description naming the modality, location, and intended audience.
+- OG and Twitter card images at 1200×630. If no branded asset in /assets, propose a typographic version using existing site colors and pause for review.
+- sitemap.xml, robots.txt, canonical tags on every page.
+- Internal linking audit. Each modality page should link laterally to the other modalities and back to /services and /about.
+- Local keyword integration balanced across all three doors, not acupuncture-stuffed. Candidates to weave where voice tolerates: "Riverdale acupuncture," "Toronto Qigong instructor," "Toronto Daoist priest," "Toronto Reiki sifu" (use "sifu" per CLAUDE.md convention, not "master"). One or two per page max.
+- Image alt text audit.
 
-## Architecture: three doors
+2. Trust signals
+- Move "practicing publicly since 2008" higher on homepage if not already prominent.
+- On /about, surface Bill 88 advocacy higher. CLAUDE.md identifies it as the strongest political/regulatory credential.
+- Consider a Bill 88 journalism attribution line on the homepage (Toronto Star / CBC / 640 Toronto Alan Carter Program). Test voice fit. If it reads marketing-y, skip.
+- Insurance specifics under Clinical care: current copy says "Many Ontario extended health plans include coverage for Registered Acupuncturist services." Add direct-billing carriers ONLY if Jane is configured for direct billing. Verify with Zachary before adding.
+- Add a "what to expect on a first visit" line under Clinical care, matching the warmth pattern Reiki and Qigong pages already use. Stay in "TCM pattern assessment" language. No condition lists.
 
-The homepage organizes services into three gateways, not a flat service list. This is deliberate. Do not flatten it.
+3. CTAs
+- Hero gets one primary CTA ("Book"). Move "Services & fees" to a secondary line, smaller treatment.
+- Sticky bottom-bar Book + Call on mobile.
+- Confirm all phone number references use tel: links.
 
-1. **Clinical care** → acupuncture, Tui Na. Regulated health service.
-2. **Practice to learn** → Qigong / Neigong Coaching, Reiki. Contemplative practices.
-3. **Ritual and Divination** → commissioned ritual, divination coaching, public events at QCC. Spiritual work.
+4. Information architecture
+- Verify second-door heading. CLAUDE.md describes it conceptually as "Practice to learn"; rendered homepage currently shows "Practice." Ask Zachary which is canonical before changing.
+- Optional triage line near top of homepage. Test voice fit before committing. If used: "Pain or sleep? Clinical care. Want to train? Practice. Need ceremony? Ritual and Divination." Third door uses full name.
 
-Each gateway on the homepage carries its own scope disclosure in voice. Sub-pages within a gateway carry one short italicized scope line of their own rather than a legal-box disclaimer. This keeps compliance visible without puncturing voice at every page.
+5. Brand consistency sweep
+- Audit "registered acupuncture" lowercase usage in Clinical care against the Title Case rule.
+- Sweep all meta descriptions, OG titles, page titles, footer, and CLAUDE.md against the Title Case rule.
+- Em dash sweep across all site markdown and includes. Replace with commas, colons, or periods as appropriate. (CLAUDE.md itself can keep em dashes; rule is for site copy.)
 
-## Positioning
+Don't touch:
+- Voice calibration by page. Clinical pages stay sober. Ritual and Divination stay full Vitimus voice. Reiki and Qigong stay accessible. Don't flatten.
+- Scope and regulatory disclaimers.
+- Three-doors structure. Do not flatten into a service list.
+- Hero copy beyond CTA tightening.
+- Family heritage content beyond what's already on /about. CLAUDE.md is explicit about what stays private.
 
-Acupuncture is one door among three, not the primary draw. The R.Ac designation appears on the acupuncture page, on the services page next to the acupuncture listing, in the about page, and in the footer. It does not appear in the homepage H1 or in non-acupuncture service contexts.
-
-## File structure
-
-- `index.md` — homepage, three doors, trimmed About summary linking to /about
-- `about.md` — full practitioner bio organized by three doors plus service to profession plus press hub
-- `acupuncture.md` — regulated scope, includes Jin Zhang/UNESCO study, TCMO advocacy
-- `services.md` — fee schedule, all current Jane rates filled in
-- `qigong.md` — Qigong / Neigong Coaching, IIMQ training under Robert Youngs, meta-pov framing
-- `reiki.md` — Usui Reiki, spiritual rather than clinical Usui lineage
-- `divination.md` — Divination Coaching, tarot and mahjong as frame
-- `ritual.md` — commissioned ritual, $1500 starting, Mao Shan Shangqing lineage from Robert Youngs, Vitimus/ROII trainer credit, Reiki witch lineage
-- `officiant.md` — Marriage Officiant page, fast civil signings primary positioning
-- `education.md` — teaching credits, courses taught, conferences (Penn State 2022, World Tai Chi & Qigong Summit 2024, Saam Diagnostic Conference 2025)
-- `writing.md` — essay landing page (currently empty), DDTRH credit
-- `press.md` — press, podcast interviews (10+ verified), conference presentations, podcast hosting (DDTRH + TCMO Podcast), Bill 88 advocacy
-- `privacy.md` — privacy policy
-- `404.md` — not found
-- `_includes/footer.html` — sitewide footer with two-row nav and compliance disclaimer
-
-## CTCMPAO compliance pressure points
-
-Zachary is regulated by CTCMPAO. All site content must comply with:
-- CTCMPAO Standard of Practice (7): Advertising
-- O. Reg. 318/12: Professional Misconduct under the Traditional Chinese Medicine Act, 2006
-
-Hard rules:
-
-1. **Titles.** Only R.Ac is authorized. No "Doctor," "Professor," "Specialist," "Senior," "Head," "Chief," or any title implying specialization. "Faculty" and "instructor" are fine for teaching roles.
-2. **Claims.** Every claim about a treatment must be factual, verifiable, and supportable as reasonable professional opinion. No outcome guarantees. No superiority claims.
-3. **Condition language.** "Patients commonly seek acupuncture for..." not "acupuncture for [condition]." The first is verifiable.
-4. **Testimonials.** Prohibited, including anonymized ones. Never add to this site.
-5. **Scope separation.** Non-regulated services must be clearly labeled. R.Ac title and credentials do not appear on non-clinical service pages.
-6. **Fees.** Current, accurate, consistent with Jane. Update both together.
-7. **Prompt payment discounts.** Prohibited under Section 23.
-8. **Solicitation.** No cold-contacting non-patients.
-9. **Anxiety page.** Site deliberately does not carry one. Section 28 risk. Don't add.
-10. **CTCMPAO name.** Appears only in footer compliance disclaimer and on privacy page. Stripped from all other body copy.
-
-## Scope line for non-regulated pages
-
-Each non-regulated service page (Qigong, Reiki, Divination, Ritual) opens with a one-line italicized scope statement written in voice, not legalese. Format:
-
-> *[Thing] is [what it is], not healthcare. Sits outside R.Ac scope and isn't a replacement for [relevant professional care].*
-
-## Biographical context for the site
-
-Zachary's biographical anchors that appear on the site:
-
-- Riverdale-based for 6 years (as of April 2026)
-- Grew up between Toronto and Hamilton
-- Two distinct family heritage lines:
-  - **Paternal (Lui 雷, Thunder; Mandarin pinyin: Lei):** Hong Kong family heritage. Lui family were among the first acupuncturists in San Francisco. Historical credential only on the site; current TCM relatives are NOT named or implied on the site to respect their privacy and avoid surfacing them as part of Zachary's public profile without explicit consent.
-  - **Maternal (Ho King family):** Taishanese heritage. Zachary's grandfather operated Ho King restaurant — originally in Toronto Chinatown, then moved by him to Hamilton (same name, same restaurant, relocated). Zachary grew up in the Hamilton Ho King and worked in the family restaurant for eighteen years. Years later, when New Ho King opened on Spadina under unrelated ownership and was widely assumed to be the family's return to Toronto, Zachary's grandfather joined New Ho King as head chef to protect the family name in Chinatown, teaching the kitchen and sharing recipes (Zachary's father kept his own recipes separately). Godfather's family separately owned multiple successful Chinese restaurants in Toronto including Rickshaw and The Grange. **On the site, only the most compact version is used:** "my grandfather operated Ho King in Toronto Chinatown, and family recipes from his hand are at New Ho King today." The fuller story (Ho King's move to Hamilton, Zachary's 18 years working there, grandfather's protective role at New Ho King, godfather's family's restaurants) stays private and is not surfaced even if asked. Reason: restaurant heritage is strongest as a single concrete detail, not as a comprehensive family history; expanding it tips the page from practitioner site to heritage display.
-- Native tongue (maternal line): Taishanese. Cantonese: fluent comprehension, working on conversational fluency. Mandarin: in progress. Does not read or write Chinese.
-- Use **Cantonese romanization** (not Mandarin pinyin) for relational/personal terms — most importantly, "sifu" not "shifu" for 师父. Lineage names (Mao Shan Shangqing, Tang Mi, etc.) keep their Mandarin pinyin since those are globally recognized institutional names.
-
-Both heritage lines surface on the site, but only on /about. The paternal Lei TCM lineage and maternal Ho King connection both belong on /about where biographical context lives. Do not add family lineage content to /acupuncture; the clinical page should focus on training credentials and patient-facing information, not family heritage. Adding family layers to clinical pages tips the page from "credentialed" to "credential-stacked."
-
-Biographical content NOT on the site (intentionally private):
-
-- Spiritual ancestral relationships and family priest/scholar lineage
-- Family transmission of Huangdi Neijing
-- Specific clan history beyond what's named above
-
-These remain private practice context, not public credentials. Do not surface them on the site even if asked to expand the bio.
-
-## Voice calibration by page
-
-Voice varies by page type. Deliberate. Do not flatten.
-
-- **Acupuncture, services, privacy, 404:** Sober, clinical, professional. Where a regulator looks. Plain facts.
-- **Homepage and About:** Practitioner voice with compliance discipline. Carries the three-doors structure and voice-mode scope disclosures.
-- **Ritual and Divination pages:** Full Andrieh Vitimus voice. Sensory, direct, no softeners, screens plainly. Voice is itself a screening mechanism here.
-- **Reiki and Qigong pages:** Direct but accessible. Beginners are a real audience. Each includes a "first visit / first class" passage for warmth.
-- **Education and press pages:** Tight, factual. Not LinkedIn or PR.
-
-Flattening voice on the Ritual and Divination pages costs the clients who would actually benefit. Don't.
-
-## Content conventions
-
-- **No em dashes.** Commas, colons, periods.
-- **Capitalization:** Use Title Case for practice and modality names: Qigong, Neigong, Reiki, Tui Na, Ritual, Rituals, Divination Coaching, Acupuncture (when used as a modality reference). Lowercase only when grammatically required mid-sentence as a general noun (rare). Apply across all pages including footer, meta descriptions, and CLAUDE.md.
-- No marketing softeners.
-- Plain language. TCM jargon only where load-bearing, with brief translation.
-- Chinese characters used in line where audience expects them: 唐密, 巫, 茅山上清, 內科, 推拿, 氣功, 內功, 霊気. Generally in spiritual TCM, Ritual, Qigong, and Acupuncture pages. Not on services or privacy pages.
-- "TCM pattern assessment," not "diagnosis," on acupuncture pages.
-- Never "cure," "heal," or "treat" a specific medical condition.
-
-## Lineage and credential record (verified)
-
-Use these as written. Do not embellish or guess.
-
-**Clinical:**
-- R.Ac (Ontario) since 2015
-- OCTCM formal TCM training
-- Family-transmitted lineage and imperial-court medical lineage continuing study (frame as "studied," not "claimed")
-- Advanced needling studied with the late Professor Jin Zhang, UNESCO-recognized representative of the Traditional Chinese Acupuncture Intangible Cultural Heritage of Humanity (one class taken, framed as "studied with")
-
-**Qigong / Neigong:**
-- Master of Medical Qigong, IIMQ (founded by Jerry Alan Johnson)
-- Direct instruction under Robert Youngs, Director of IIMQ Canada
-- Practicing Qigong since childhood, focused since 2008
-- Teaching Qigong since 2013
-
-**Reiki:**
-- Usui Reiki Master Teacher (highest level)
-- Spiritual rather than clinical Usui lineage
-- Reiki sifu is Andrieh Vitimus (same teacher relationship as ritual/chaos magic). Line runs back through a witch who practiced magic, who was Vitimus's teacher.
-- Use "sifu" framing on /reiki to match the rest of the site (consistency).
-
-**Ritual:**
-- Foundation is chaos magic. Methodology comes through Andrieh Vitimus and the Results Over Image Institute, where Zachary continues to study (the relationship is ongoing) and now also teaches as a trainer. Frame as "continues to study" or "continues to learn from," not just "trained" — the sifu relationship is ongoing.
-- **Vitimus is Zachary's sifu (师父)** in the Chinese sense of the lineage teacher relationship. Master / Sifu carries the same weight as guru in Sanskrit traditions: lineage holder, lifelong commitment, transmission of tradition. Used consistently across /homepage, /about, /ritual, and /reiki where Vitimus is named.
-- Applied the chaos magic approach across multiple traditions including Chinese Esoteric Buddhist (唐密), Wu (巫), Daoist, and Reiki frameworks. The Tang Mi and Wu study came through the ROII / Vitimus framework, not separate Chinese transmission.
-- Mao Shan Shangqing (茅山上清) and folk Daoist lineage holder, formal Daoist transmission received from Robert Youngs at his passing in 2020. Youngs received from Jerry Alan Johnson. The Daoist transmission came on the basis of the chaos-magic-applied-across-traditions work, not separately. This narrative arc matters: chaos magic foundation, Vitimus as sifu, Daoist lineage as recognition.
-- Doing public Ritual work since 2016.
-- "Chaos magic" is named on the site as of April 2026; Zachary is comfortable naming it explicitly.
-
-**Teaching:**
-- AIM Academy, Eight Branches (2023), OCTCM
-- 100% Pan-Canadian exam pass rates at AIM 2024 and 2025
-- Courses: TCM Foundations, Diagnosis, Meridians and Acupoints, Internal Medicine (內科), Tui Na, Qigong therapy, Student Clinic, Practice Management, Jurisprudence and Ethics, Grad Prep
-- Penn State University, Invited Qigong Master and Lecturer, August 2022
-- World Tai Chi & Qigong Summit, April 2024
-- Saam Diagnostic Conference, May 2025
-
-**Service to the profession and community:**
-- Former Director of Marketing, TCMO board (within last two years)
-- Bill 88 advocacy 2022: 14 letters of support coordinated, personal interviews on Toronto Star, CBC News Morning, 640 Toronto Alan Carter Program, Schedule 5 amended out March 2022
-- Toronto Chinatown BIA volunteer, ongoing community event support tied to maternal family's Chinatown roots
-- Note: Queen City Curio is co-owned by Zachary and Andrieh Vitimus. On the site, frame neutrally as "the shop and spiritual centre" without ownership claims, rather than "my shop" (inaccurate, sole-ownership implied) or "the shop I co-own with Andrieh Vitimus" (accurate but adds another Vitimus mention to the homepage). QCC runs paid events and is a business; not framed as community service or volunteering on the site.
-
-**Marriage Officiant:**
-- Registered marriage officiant in the Province of Ontario (received "blue book" April 2026)
-- Authority on the /officiant page is framed as **Wu (巫)** — the broader, older, more inclusive frame for marriage work. Do NOT name "Daoist priest" or "Mao Shan Shangqing" on the officiant page; those credentials live on /ritual where the audience wants lineage credentials. Officiant page audience wants competent + spiritually grounded + non-sectarian feel.
-- Specialty: Chinese ceremony with Cantonese cultural literacy. Cross-tradition capable for Pagan, interfaith via chaos magic methodology. Ceremonies conducted in English; comprehension of Cantonese for cultural moments only — no full ceremonies in Cantonese.
-- Vietnamese: ONE ceremony performed as a priest (not as a registered officiant), no language fluency. Do NOT claim Vietnamese specialty on the page. If asked, can hold space for Vietnamese cultural elements but the family must bring their own language and protocol expertise.
-- Studio-only appointments. No travel for ceremonies.
-- Pricing: Civil signing $297 + HST, urgent (under-48-hour) signing $497 + HST, brief ceremony $497 + HST, custom ceremony $997+ HST, witnesses $50 + HST per pair, $200 + HST urgency surcharge for brief/custom.
-- Invoicing: Through Wuji Xuan Life Wellness via Stripe (one HST account, one set of books). Verify with accountant whether religious officiant income should flow through Wuji Xuan or be treated as personal T2125 — default is Wuji Xuan unless accountant advises otherwise.
-- Booking via admin@wujixuan.org, not a personal email. Email-based booking, not Jane (officiation is one-time-per-couple work; Jane's recurring-booking model is wrong fit).
-- Marketing copy emphasizes the fast civil signing as primary entry point; ceremony tiers as upsell. "I don't push ceremony on people who came for a signing" is the core positioning line. Confidentiality language ("I don't ask why") for couples in awkward situations (immigration, family conflict, second marriages).
-
-**Podcast:**
-- Co-host, Deeper Down the Rabbit Hole (DDTRH), with Andrieh Vitimus
-- Host, TCMO Podcast
-- Guest interviews on Qiological, Learn Feng Shui (2x), Black Beryl, Drunken Acupuncture (6 episodes)
-
-## DDTRH on the public site
-
-Currently included on /about, /writing, and /press. Earlier rule was to keep DDTRH off the public site for political safety. That rule was reversed: Zachary is "ok with DDTRH" on the site as of April 2026. Keep it. Reasoning: DDTRH is publicly searchable via Andrieh Vitimus, episode directories, and standard podcast platforms. Concealment from the personal site doesn't conceal anything; ownership is the stronger posture.
-
-## Political context
-
-Zachary is considering municipal political ambition (Toronto), possibly higher. The site has been adjusted with this in mind:
-
-- Bill 88 advocacy is the strongest political credential; surfaced on homepage, /about, /education, /press
-- "Shamanic" word removed from homepage; lineage-direct framing kept
-- Imperial physician lineage framing politics-hardened ("medical lineages that served the imperial courts," not "imperial physician lineages")
-- Jin Zhang UNESCO framing protects the imperial-court reference
-- Private/governance credentials: TCMO Director, 14 support letters, named media interviews
-- Penn State invited lectureship surfaced
-- Owned posture on DDTRH and Ritual practice rather than concealment
-
-For a future campaign, the press page is the campaign-research-ready record. /about is the journalist landing page.
-
-## Before publishing any change
-
-1. Check titles. R.Ac only. No Professor, no specialty.
-2. Check claims. Factual, verifiable.
-3. If non-regulated service, confirm the one-line scope statement is present.
-4. If fees changed, confirm Jane is updated to match.
-5. No testimonials, ever.
-6. No em dashes.
-7. If adding a credential, verify against the lineage and credential record above. If something doesn't match, ask Zachary; don't guess.
-8. If adding a press item or podcast appearance, only include items where Zachary was personally a guest or quoted. Coverage of organizations he worked for goes in /press under "Advocacy coverage" framing, not personal press.
-
-## Deployment
-
-Edit markdown locally, commit, push to main. GitHub Pages rebuilds automatically. Use Claude Code locally for editing if possible; gives commit history, which the site has been lacking.
+Output:
+- Walk changes by file in priority order.
+- For copy edits, show before and after.
+- For new files (sitemap, robots, JSON-LD), show full content.
+- Pause after section 1 (SEO) for review before continuing.
+- Don't push or deploy. Show diffs only. Zachary commits.
