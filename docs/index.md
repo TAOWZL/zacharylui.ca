@@ -1,12 +1,12 @@
 ---
 title: Zachary Lui | Riverdale Toronto
-description: Zachary Lui offers acupuncture care, qigong and Reiki practice, and ritual and divination work in Riverdale, Toronto.
+description: Zachary Lui offers acupuncture, qigong, Reiki, and ritual work in Riverdale, Toronto.
 ---
 # Zachary Lui
 
-Working with people on the things that call for more than one kind of attention. Three doors into the work.
+Registered Acupuncturist, ordained Daoist priest, and Wu (巫) in Riverdale Toronto. An operating practice with three doors, not a walk-in clinic.
 
-[**Book**](https://wujixuan.janeapp.com/#/staff_member/1) · [Services & fees](/services)
+[**Book**](https://wujixuan.janeapp.com/#/staff_member/1) · [Services & fees](https://zacharylui.ca/services)
 
 ---
 
@@ -18,11 +18,11 @@ People come through this door for pain, sleep concerns, digestive complaints, st
 
 Clinical care is a regulated health service in Ontario, provided under the R.Ac designation.
 
-[Into Acupuncture →](/acupuncture)
+[Into Acupuncture →](https://zacharylui.ca/acupuncture)
 
 ---
 
-## Practice to learn
+## Practice
 
 *Qigong / Neigong, Reiki*
 
@@ -30,7 +30,7 @@ People come through this door when they want something to do, not something done
 
 These are contemplative practices, not regulated health services. They sit outside R.Ac scope and aren't a replacement for medical or mental health care.
 
-[Into Qigong / Neigong →](/qigong) · [Into Reiki →](/reiki)
+[Into Qigong / Neigong →](https://zacharylui.ca/qigong) · [Into Reiki →](https://zacharylui.ca/reiki)
 
 ---
 
@@ -38,21 +38,21 @@ These are contemplative practices, not regulated health services. They sit outsi
 
 *Ceremony, Divination Coaching*
 
-People come through this door when the thing they're carrying needs ceremony, not conversation, or when a decision calls for a structure that isn't their own head. Ritual from Chinese Esoteric Buddhist (唐密), Daoist, and Wu (巫) lineages. Divination Coaching as a structured reading of the question in front of you, using tarot or mahjong. Screened on intake. Not every request is taken. That is on purpose.
+People come through this door when the thing they're carrying needs ceremony, not conversation, or when a decision calls for a structure that isn't their own head. Ritual work from Mao Shan Shang Qing (茅山上清) Daoist priest training and Chinese folk Wu (巫) practice, including Tangmi (唐密) Esoteric Buddhist ritual. Work begins with a Divination Coaching consultation. Ritual follows if the pattern calls for it. Working magicians at peer level, screened on intake. Not every request is taken. That is on purpose.
 
 Spiritual work, not healthcare. Sits outside R.Ac scope, not a substitute for medical, mental health, legal, or professional advice of any kind. That line stays clean. Past it, the work is the work.
 
-[Into Ritual →](/ritual) · [Into Divination Coaching →](/divination)
+[Into Ritual →](https://zacharylui.ca/ritual) · [Into Divination Coaching →](https://zacharylui.ca/divination)
 
 ---
 
 ## About
 
-Toronto practitioner working across classical Chinese medicine, Qigong, Reiki, and Ritual traditions. Practicing publicly since 2008. From a Chinese-Canadian family with TCM on one side and Toronto Chinatown roots on the other.
+Registered Acupuncturist (R.Ac) and Traditional Chinese Medicine professor in Toronto, working across classical Chinese medicine, Qigong, Reiki, and Ritual traditions. Practicing publicly since 2008. From a Chinese-Canadian family with TCM on one side and Toronto Chinatown roots on the other. Ordained Daoist priest in the Mao Shan Shang Qing (茅山上清) lineage via Robert Youngs, who trained under Dr. Jerry Alan Johnson. Wu (巫) in the Result Over Image lineage of Andrieh Vitimus. Tangmi (唐密) Chinese Esoteric Buddhist practice in the same folk register.
 
 One practitioner, three doors. Each door has its own intake, its own standards, its own scope. Accountability to the pattern in front of us, not the surface story, holds across all three.
 
-[More about Zachary →](/about)
+[More about Zachary →](https://zacharylui.ca/about)
 
 ---
 
@@ -72,5 +72,3 @@ One practitioner, three doors. Each door has its own intake, its own standards, 
 Online through Jane, or **416-595-5525**.
 
 [**Book a session**](https://wujixuan.janeapp.com/#/staff_member/1)
-
-[Services & fees](/services) · [Writing](/writing) · [Teaching](/education)
