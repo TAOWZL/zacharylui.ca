@@ -140,14 +140,72 @@ a:hover {
   @apply max-w-2xl text-lg leading-relaxed text-zinc-200 md:text-xl;
 }
 
-/* ── Content card ──────────────────────────────────────── */
+/* ── Card frames (raw CSS - no Tailwind compilation surface) ─ */
 
 .content-shell {
-  @apply rounded-2xl border border-zinc-700 bg-charcoal-900 p-4 shadow-2xl shadow-black/80 backdrop-blur sm:p-6 md:p-10;
+  border-radius: 1rem;
+  border: 1px solid #3a3a3d;
+  background-color: #1d1d1f;
+  padding: 1rem;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(8px);
+}
+
+@media (min-width: 640px) {
+  .content-shell {
+    padding: 1.5rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .content-shell {
+    padding: 2.5rem;
+  }
 }
 
 .content-shell > .heading-1:first-of-type {
-  @apply sr-only;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+.header-shell {
+  margin-bottom: 2.5rem;
+  border-radius: 1rem;
+  border: 1px solid #3a3a3d;
+  background-color: #1d1d1f;
+  padding: 1rem;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(8px);
+}
+
+@media (min-width: 768px) {
+  .header-shell {
+    padding: 1.5rem;
+  }
+}
+
+.footer-shell {
+  margin-top: 4rem;
+  border-radius: 1rem;
+  border: 1px solid #3a3a3d;
+  background-color: #1d1d1f;
+  padding: 1.5rem;
+  font-size: 0.875rem;
+  color: #d4d4d8;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.8);
+}
+
+@media (min-width: 768px) {
+  .footer-shell {
+    padding: 2rem;
+  }
 }
 
 .content-image {
