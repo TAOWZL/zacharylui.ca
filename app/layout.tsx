@@ -38,7 +38,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
         <div className="mx-auto flex min-h-screen w-full max-w-6xl flex-col px-4 py-8 sm:px-6 lg:px-8">
-          <header className="mb-10 rounded-2xl border border-zinc-700 bg-charcoal-900 p-4 shadow-2xl shadow-black/80 backdrop-blur md:p-6">
+          <header className="header-shell">
             <div className="flex flex-wrap items-center justify-between gap-4">
               <a href="/" className="text-xl font-semibold tracking-wide text-zinc-100 visited:text-zinc-100 no-underline md:text-2xl">
                 <span className="text-gold-400">Zachary</span> Lui
@@ -59,7 +59,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 
           <main className="flex-1">{children}</main>
 
-          <footer className="mt-16 rounded-2xl border border-zinc-700 bg-charcoal-900 p-6 text-sm text-zinc-300 shadow-2xl shadow-black/80 md:p-8">
+          <footer className="footer-shell">
             <div className="grid gap-8 md:grid-cols-2">
               <div className="space-y-1">
                 <p className="font-semibold text-zinc-100">Zachary Lui, R.Ac</p>
@@ -111,7 +111,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <a
                 href="https://www.ctcmpao.on.ca/publicregistersrc/"
                 rel="noopener"
-                className="text-zinc-300 visited:text-zinc-300 underline decoration-charcoal-700 hover:text-gold-400"
+                className="text-zinc-300 visited:text-zinc-300 underline hover:text-gold-400"
               >
                 College of Traditional Chinese Medicine Practitioners and Acupuncturists of Ontario
               </a>
