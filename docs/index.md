@@ -2,11 +2,6 @@
 title: Zachary Lui | Riverdale Toronto
 description: Registered Acupuncture, contemplative practice, and Ritual work in Riverdale, Toronto. One practitioner, three doors.
 ---
----
-title: Zachary Lui | Riverdale Toronto
-description: Registered acupuncture, contemplative practice, and ritual work in Riverdale, Toronto. One practitioner, three doors.
----
-
 # Zachary Lui
 
 Registered Acupuncturist, ordained Daoist priest, and Wu (巫) in Riverdale Toronto. An operating practice with three doors, not a walk-in clinic.
