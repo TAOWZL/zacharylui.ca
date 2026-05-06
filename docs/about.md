@@ -28,7 +28,7 @@ The approach is classical Chinese medicine, grounded in the traditional pattern-
 
 Master of Medical Qigong through the International Institute of Medical Qigong, founded by Jerry Alan Johnson, under the direct instruction of Robert Youngs, Director of IIMQ Canada. Practicing qigong since childhood, with focused serious practice since 2008.
 
-Usui Reiki Master Teacher, trained through the spiritual rather than clinical Usui lineage.
+Usui Reiki Master Teacher trained directly under Andrieh Vitimus, who received the line from a witch. A line of witches, priests, and magicians, holding the full Usui transmission, both spiritual and clinical. The spiritual is the ground the clinical stands on.
 
 These are contemplative practices, not regulated health services. They sit outside R.Ac scope and aren't a replacement for medical or mental health care.
 
@@ -38,7 +38,7 @@ These are contemplative practices, not regulated health services. They sit outsi
 
 ## Ritual and Divination
 
-The work begins in chaos magic. Andrieh Vitimus is my sifu (师父) in this work. I continue to study with him at the Results Over Image Institute, where I now also teach as a trainer. From that foundation, I have applied the approach across multiple traditions, including Chinese Esoteric Buddhist (唐密), Wu (巫), Daoist, and Reiki frameworks, across years of public practice.
+The work begins in chaos magic. Andrieh Vitimus is my sifu (师父) in this work. I continue to study with him at the Results Over Image Institute, where I now also teach as a trainer. From that foundation, I have applied the approach across multiple traditions, including Chinese Esoteric Buddhist (唐密), Wu (巫), Daoist, Reiki and other frameworks, across years of public practice.
 
 The Daoist transmission came on the basis of that work. Mao Shan Shangqing (茅山上清) and folk Daoist lineage holder, formal transmission received from Robert Youngs at his passing in 2020. Youngs received the lineage from Jerry Alan Johnson. Mao Shan Shangqing is a foundational Daoist Ritual tradition, rooted in the Mao mountains and the Shangqing school, with classical lineage going back to the fourth century.
 
