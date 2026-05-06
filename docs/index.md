@@ -22,11 +22,11 @@ Clinical care is a regulated health service in Ontario, provided under the Regis
 
 ---
 
-## Training
+## Training and Treatment
 
 *Qigong / Neigong, Reiki*
 
-People come through this door when they want something to do, not something done to them. Qigong and Neigong are the long form: external movement and internal cultivation, taught across weeks and months. Reiki is the shorter form: a tiered transmission lineage in the Usui line. Sessions are how most people meet the work before training in it.
+People come through this door for traditions outside the regulated clinical scope, either to train in them or to receive sessions. Qigong and Neigong are taught: external movement and internal cultivation, across weeks and months. Reiki is a tiered transmission lineage in the Usui line, available as hands-on sessions and as training. Sessions are required prior to entry into Reiki training.
 
 These are contemplative practices, not regulated health services. They sit outside R.Ac scope and aren't a replacement for medical or mental health care.
 
