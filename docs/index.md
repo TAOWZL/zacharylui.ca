@@ -14,7 +14,7 @@ Registered Acupuncturist, ordained Daoist priest, and shaman (Wu 巫) in Riverda
 
 *Acupuncture*
 
-People come through this door for pain, sleep, digestion, stress, cycle questions, and general wellness. Registered acupuncture grounded in classical TCM pattern differentiation, taught at the same level it's practiced. Every session begins with assessment, and the plan is discussed before anything happens. Many Ontario extended health plans cover Registered Acupuncturist services.
+People come through this door for pain, sleep concerns, digestive complaints, stress, cycle questions, and general wellness. Registered acupuncture at the clinic. Sessions include a TCM pattern assessment and a plan discussed before anything happens. Many Ontario extended health plans include coverage for Registered Acupuncturist services.
 
 Clinical care is a regulated health service in Ontario, provided under the Registered Acupuncturist (R.Ac) designation.
 
@@ -22,11 +22,11 @@ Clinical care is a regulated health service in Ontario, provided under the Regis
 
 ---
 
-## Cultivation
+## Practice to Learn
 
 *Qigong / Neigong, Reiki*
 
-People come through this door when they want something to do, not something done to them. Qigong and Neigong are external movement and internal cultivation, taught across weeks and months. Reiki is lineage transmission, a line of witches, priests, and magicians carrying the full Usui transmission, spiritual and clinical. Not the wellness-industry version. Sessions are how most people meet the work before training in it.
+People come through this door when they want something to do, not something done to them. Qigong and Neigong are the long form: external movement and internal cultivation, taught across weeks and months. Reiki is the shorter form: a tiered transmission lineage in the Usui line. Sessions are how most people meet the work before training in it.
 
 These are contemplative practices, not regulated health services. They sit outside R.Ac scope and aren't a replacement for medical or mental health care.
 
@@ -38,9 +38,7 @@ These are contemplative practices, not regulated health services. They sit outsi
 
 *Ceremony, Divination Coaching*
 
-People come through this door when the thing they're carrying needs ceremony, not conversation, or when a decision calls for a structure that isn't their own head. Ritual work from Mao Shan Shang Qing (茅山上清) Daoist priest training and Chinese folk Wu (巫) practice, including Tangmi (唐密) Esoteric Buddhist ritual. Work begins with a Divination Coaching consultation. Ritual follows if the pattern calls for it. Working magicians at peer level, screened on intake. Not every request is taken. That is on purpose.
-
-Divination Coaching $175. Ritual from $1,500.
+People come through this door when the thing they're carrying needs ceremony, not conversation, or when a decision calls for a structure that isn't their own head. Ritual work from Mao Shan Shang Qing (茅山上清) Daoist priest training and Chinese folk shamanism (Wu 巫), including Tangmi (唐密) Esoteric Buddhist ritual. Work begins with a Divination Coaching consultation. Ritual follows if the pattern calls for it. Working magicians at peer level, screened on intake. Not every request is taken. That is on purpose.
 
 Spiritual work, not healthcare. Sits outside R.Ac scope, not a substitute for medical, mental health, legal, or professional advice of any kind. That line stays clean. Past it, the work is the work.
 
@@ -60,12 +58,9 @@ One practitioner, three doors. Each door has its own intake, its own standards, 
 
 ## Where I work
 
-**Wuji Xuan Life Wellness**, the clinic.  
-[255 Broadview Avenue](https://maps.google.com/?q=255+Broadview+Avenue+Toronto+ON), Toronto (Riverdale). Between Gerrard and Dundas, a short walk from Broadview station.  
-416-595-5525
+**Wuji Xuan Life Wellness** is the clinic, at [255 Broadview Avenue](https://maps.google.com/?q=255+Broadview+Avenue+Toronto+ON) in Riverdale. Between Gerrard and Dundas, a short walk from Broadview station.
 
-**Queen City Curio**, the shop and spiritual centre.  
-[queencitycurio.ca](https://queencitycurio.ca) for Ritual supplies, workshops, weekly Rituals, and community events.
+**Queen City Curio** is the shop and spiritual centre. [queencitycurio.ca](https://queencitycurio.ca) for Ritual supplies, workshops, weekly Rituals, and community events.
 
 ---
 
