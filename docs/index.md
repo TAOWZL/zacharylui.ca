@@ -1,8 +1,8 @@
 ---
 title: Zachary Lui | Riverdale Toronto
-description: Registered Acupuncture, contemplative practice, and Ritual work in Riverdale, Toronto. One practitioner, three doors.
+description: " Registered acupuncture, contemplative practice, and ritual work in Riverdale, Toronto. One practitioner, three doors."
 ---
-## Zachary Lui
+# Zachary Lui
 
 Registered Acupuncturist, ordained Daoist priest, and shaman (Wu 巫) in Riverdale Toronto. An operating practice with three doors, not a walk-in clinic.
 
@@ -26,7 +26,7 @@ Clinical care is a regulated health service in Ontario, provided under the Regis
 
 *Qigong / Neigong, Reiki*
 
-People come through this door when they want something to do, not something done to them. Qigong and Neigong are the long form: external movement and internal cultivation, taught across weeks and months. Reiki is the shorter form: a tiered transmission lineage in the Usui line. Sessions are how most people meet the work before training in it.
+People come through this door when they want something to do, not something done to them. Qigong and Neigong are external movement and internal cultivation, taught across weeks and months. Reiki is lineage transmission, a line of witches, priests, and magicians carrying the full Usui transmission, spiritual and clinical. Not the wellness-industry version. Sessions are how most people meet the work before training in it.
 
 These are contemplative practices, not regulated health services. They sit outside R.Ac scope and aren't a replacement for medical or mental health care.
 
