@@ -2,6 +2,11 @@
 title: Zachary Lui | Riverdale Toronto
 description: Registered Acupuncture, contemplative practice, and Ritual work in Riverdale, Toronto. One practitioner, three doors.
 ---
+---
+title: Zachary Lui | Riverdale Toronto
+description: Registered acupuncture, contemplative practice, and ritual work in Riverdale, Toronto. One practitioner, three doors.
+---
+
 # Zachary Lui
 
 Registered Acupuncturist, ordained Daoist priest, and Wu (巫) in Riverdale Toronto. An operating practice with three doors, not a walk-in clinic.
@@ -48,7 +53,7 @@ Spiritual work, not healthcare. Sits outside R.Ac scope, not a substitute for me
 
 ## About
 
-Registered Acupuncturist (R.Ac) and Traditional Chinese Medicine professor in Toronto. Returning to the Traditional Chinese Medicine Ontario (TCMO) board, May 2026. Working across classical Chinese medicine, Qigong, Reiki, and Ritual traditions. Practicing publicly since 2008. From a Chinese-Canadian family with TCM on one side and Toronto Chinatown roots on the other. Ordained Daoist priest in the Mao Shan Shang Qing (茅山上清) lineage via Robert Youngs. Wu (巫) in the Result Over Image lineage of Andrieh Vitimus.
+Registered Acupuncturist (R.Ac) and Traditional Chinese Medicine professor in Toronto. Returning to the Traditional Chinese Medicine Ontario (TCMO) board, May 2026–present. Working across classical Chinese medicine, Qigong, Reiki, and Ritual traditions. Practicing publicly since 2008. From a Chinese-Canadian family with TCM on one side and Toronto Chinatown roots on the other. Ordained Daoist priest in the Mao Shan Shang Qing (茅山上清) lineage via Robert Youngs. Wu (巫) in the Result Over Image lineage of Andrieh Vitimus.
 
 One practitioner, three doors. Each door has its own intake, its own standards, its own scope. Accountability to the pattern in front of us, not the surface story, holds across all three.
 
@@ -59,4 +64,16 @@ One practitioner, three doors. Each door has its own intake, its own standards, 
 ## Where I work
 
 **Wuji Xuan Life Wellness**, the clinic.  
-[2
+[255 Broadview Avenue](https://maps.google.com/?q=255+Broadview+Avenue+Toronto+ON), Toronto (Riverdale). Between Gerrard and Dundas, a short walk from Broadview station.  
+416-595-5525
+
+**Queen City Curio**, the shop and spiritual centre.  
+[queencitycurio.ca](https://queencitycurio.ca) for Ritual supplies, workshops, weekly Rituals, and community events.
+
+---
+
+## Book
+
+Online through Jane, or **416-595-5525**.
+
+[**Book a session**](https://wujixuan.janeapp.com/#/staff_member/1)
