@@ -1,8 +1,8 @@
 ---
 title: About | Zachary Lui
-description: Zachary Lui is a Toronto practitioner working across classical Chinese medicine, qigong, Reiki, and ritual traditions. Registered Acupuncturist, teacher, and former Director of Marketing at Traditional Chinese Medicine Ontario.
+description: Zachary Lui is a Toronto practitioner working across classical Chinese medicine, qigong, Reiki, and ritual traditions. Registered Acupuncturist, TCM faculty, and returning member of the Traditional Chinese Medicine Ontario board.
 ---
-# About
+## About
 
 Toronto practitioner, Riverdale-based for the past six years. Grew up between Toronto and Hamilton, in a Chinese-Canadian family with Hong Kong heritage on my father's side and Toronto Chinatown roots on my mother's. The Lui family on my father's side were among the first acupuncturists in San Francisco. On my mother's side, my grandfather operated Ho King in Toronto Chinatown, and family recipes from his hand are at New Ho King today.
 
@@ -20,7 +20,7 @@ Registered Acupuncturist (R.Ac) in Ontario. Formal TCM training through the Onta
 
 The approach is classical Chinese medicine, grounded in the traditional pattern-differentiation method and informed by the older transmission lineages that sit behind the modern TCM curriculum.
 
-[Into acupuncture →](/acupuncture)
+[Into acupuncture →](https://zacharylui.ca/acupuncture)
 
 ---
 
@@ -32,7 +32,7 @@ Usui Reiki Master Teacher, trained through the spiritual rather than clinical Us
 
 These are contemplative practices, not regulated health services. They sit outside R.Ac scope and aren't a replacement for medical or mental health care.
 
-[Into Qigong / Neigong →](/qigong)  ·  [Into Reiki →](/reiki)
+[Into Qigong / Neigong →](https://zacharylui.ca/qigong) · [Into Reiki →](https://zacharylui.ca/reiki)
 
 ---
 
@@ -44,7 +44,7 @@ The Daoist transmission came on the basis of that work. Mao Shan Shangqing (茅�
 
 Ritual work is spiritual work, not healthcare. Sits outside R.Ac scope, not a substitute for medical, mental health, legal, or other professional care.
 
-[Into Ritual →](/ritual)  ·  [Into Divination Coaching →](/divination)
+[Into Ritual →](https://zacharylui.ca/ritual) · [Into Divination Coaching →](https://zacharylui.ca/divination)
 
 ---
 
@@ -56,17 +56,17 @@ Student cohorts at AIM Academy achieved 100% Pan-Canadian exam pass rates in 202
 
 Invited Qigong Master and Lecturer at Penn State University in 2022. Conference presentations at the Saam Diagnostic Conference (2025) and the World Tai Chi & Qigong Summit (2024).
 
-[Full teaching page →](/education)
+[Full teaching page →](https://zacharylui.ca/education)
 
 ---
 
 ## Service to the profession
 
-Former Director of Marketing on the board of Traditional Chinese Medicine Ontario (TCMO), the provincial professional association for Registered Acupuncturists and Traditional Chinese Medicine Practitioners.
+Returning to the board of Traditional Chinese Medicine Ontario (TCMO), May 2026–present. The provincial professional association for Registered Acupuncturists and Traditional Chinese Medicine Practitioners. Previously served as Director of Marketing.
 
 In 2022, helped lead marketing and outreach for the cross-sector coalition that successfully opposed Schedule 5 of Bill 88 (Working for Workers Act, 2022), legislation that would have repealed the Traditional Chinese Medicine Act and dissolved the profession's regulatory college within days of passage. Coordinated 14 letters of support from national regulatory bodies, industry organizations, and suppliers, and was personally interviewed by the Toronto Star, CBC News Morning, and The Alan Carter Program on 640 Toronto. The amendment removing Schedule 5 passed in March 2022, preserving the regulatory framework for Traditional Chinese Medicine in Ontario.
 
-[Full press coverage and interview record →](/press)
+[Full press coverage and interview record →](https://zacharylui.ca/press)
 
 ---
 
@@ -80,7 +80,7 @@ Volunteer with the Toronto Chinatown BIA, supporting community events in the nei
 
 Co-host of *Deeper Down the Rabbit Hole* with Andrieh Vitimus, a long-running podcast on contemporary esoteric practice, Ritual, and tradition. [ddtrh.com](https://ddtrh.com)
 
-Essays and notes on classical Chinese medicine, Qigong, Ritual, and practice at the [Writing page](/writing). Press coverage, conference presentations, and podcast interviews at the [Press page](/press).
+Essays and notes on classical Chinese medicine, Qigong, Ritual, and practice at the [Writing page](https://zacharylui.ca/writing). Press coverage, conference presentations, and podcast interviews at the [Press page](https://zacharylui.ca/press).
 
 ---
 
@@ -101,4 +101,4 @@ Online through Jane, or **416-595-5525**.
 
 [**Book a session**](https://wujixuan.janeapp.com/#/staff_member/1)
 
-[Services & fees](/services)
+[Services & fees](https://zacharylui.ca/services)
