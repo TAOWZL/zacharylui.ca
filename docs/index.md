@@ -60,7 +60,7 @@ Spiritual work, not healthcare. Sits outside R.Ac scope, not a substitute for me
 
 ## About
 
-Registered Acupuncturist (R.Ac) and Traditional Chinese Medicine professor in Toronto, working across classical Chinese medicine, Qigong, Reiki, and Ritual traditions. Practicing publicly since 2008. From a Chinese-Canadian family with TCM on one side and Toronto Chinatown roots on the other. Ordained Daoist priest in the Mao Shan Shang Qing (茅山上清) lineage via Robert Youngs, who trained under Dr. Jerry Alan Johnson. Wu (巫) in the Result Over Image lineage of Andrieh Vitimus. Tangmi (唐密) Chinese Esoteric Buddhist practice in the same folk register.
+Registered Acupuncturist (R.Ac) and Traditional Chinese Medicine professor in Toronto. Returning to the Traditional Chinese Medicine Ontario (TCMO) board, May 2026. Working across classical Chinese medicine, Qigong, Reiki, and Ritual traditions. Practicing publicly since 2008. From a Chinese-Canadian family with TCM on one side and Toronto Chinatown roots on the other. Ordained Daoist priest in the Mao Shan Shang Qing (茅山上清) lineage via Robert Youngs, who trained under Dr. Jerry Alan Johnson. Wu (巫) in the Result Over Image lineage of Andrieh Vitimus. Tangmi (唐密) Chinese Esoteric Buddhist practice in the same folk register.
 
 One practitioner, three doors. Each door has its own intake, its own standards, its own scope. Accountability to the pattern in front of us, not the surface story, holds across all three.
 
