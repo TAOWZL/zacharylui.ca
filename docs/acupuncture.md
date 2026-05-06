@@ -1,7 +1,7 @@
 ---
 title: Acupuncture in Riverdale Toronto | Zachary Lui, R.Ac
 description: Registered acupuncture care with Zachary Lui, R.Ac, at Wuji Xuan Life Wellness in Riverdale, Toronto.
-cover: /images/hero-anxiety.png
+cover: /images/hero-acupuncture.png
 aliases:
   - Acupuncture
   - acupuncture
