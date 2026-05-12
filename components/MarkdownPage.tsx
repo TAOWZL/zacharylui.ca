@@ -7,18 +7,16 @@ import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import rehypeKatex from "rehype-katex";
 import type { Doc } from "@/lib/content";
 import { renderableMarkdown } from "@/lib/content";
-
 type Props = {
   doc: Doc;
 };
-
 export function MarkdownPage({ doc }: Props) {
   const markdown = renderableMarkdown(doc);
   const title = doc.data.title ?? "Zachary Lui";
   const description = doc.data.description;
   const cover = doc.data.cover ?? doc.data.image;
   const hasHero = Boolean(cover);
-
+  const showNewsletter = doc.data.showNewsletter === true;
   return (
     <section className="space-y-8">
       {hasHero ? (
@@ -35,7 +33,6 @@ export function MarkdownPage({ doc }: Props) {
           </div>
         </article>
       ) : null}
-
       <article className="content-shell prose prose-lg max-w-none">
         <ReactMarkdown
           remarkPlugins={[remarkGfm, remarkMath]}
@@ -96,6 +93,7 @@ export function MarkdownPage({ doc }: Props) {
           {markdown}
         </ReactMarkdown>
       </article>
+      {showNewsletter ? <NewsletterSignup /> : null}
     </section>
   );
 }
