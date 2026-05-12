@@ -7,9 +7,6 @@ cover: /images/01_mahjong.png
 tags:
 categories: Classical Chinese Medicine
 ---
-showNewsletter: true
----
-
 *A clinical reading. Not a horoscope. The same act, different name.*
 
 # Classical Chinese Medicine vs Traditional Chinese Medicine: The Magick They Cut Out
