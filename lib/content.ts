@@ -13,6 +13,7 @@ export type Frontmatter = {
   image?: string;
   cover?: string;
   date?: string;
+  showNewsletter?: boolean;
 };
 
 export type Doc = {
