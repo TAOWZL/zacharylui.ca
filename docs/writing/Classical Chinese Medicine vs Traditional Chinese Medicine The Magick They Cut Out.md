@@ -31,7 +31,7 @@ She told me she was preparing to start a business. Sound healing. She'd been tra
 
 ![Korean red ginseng, yang fire medicine](https://zacharylui.ca/images/02_red_ginseng.png)
 
-I told her to take a small sip of red ginseng before she practiced. Korean mountain ginseng for a Korean mountain woman. Yang for the strength she'd been refusing.
+I told her to take a small sip of red ginseng before she practiced. Korean mountain ginseng for a Korean mountain woman. Resonance with the line. Yang for the strength she'd been refusing.
 
 She left with the reading.
 
@@ -85,6 +85,8 @@ Third, the strategic layer. Acupuncture is the military: tactics, immediate enga
 
 Lineage and apprenticeship are cheat codes. They don't play the game for you. You still have to put in the hours.
 
+Every pre-modern medicine had ritual layers. European doctors did astrology. Persian medicine read star charts. The difference here is what the layers were doing. In classical CM, the cultivation infrastructure wasn't decoration around the medicine. It was practitioner-attunement that made the needles and herbs land harder. The reform cut the infrastructure. The needling stayed. The thing that made it work didn't. Two practitioners can use the same point selection and get different results. The cultivation is the difference.
+
 I teach what the curriculum names. I practice what the curriculum hides. The buffet is open, the food is safe, you'll get results.
 
 This book is the rest.
@@ -101,13 +103,13 @@ Chinese medicine has a marketing problem. The textbook says 4,000 years old. The
 
 ### The Hidden Words Inside the Language
 
-This is what [Edward T. Hall](https://en.wikipedia.org/wiki/Edward_T._Hall) called high-context culture. The meaning sits behind the words.
+Chinese culture doesn't state the obvious. The meaning sits behind the words. [Edward T. Hall](https://en.wikipedia.org/wiki/Edward_T._Hall) called it high-context culture.
 
 If you don't tap the table when someone pours your tea, it shows you were raised wrong.
 
 Tap the table with two fingers when someone pours tea. That says thank you AND I'd like more, in one gesture, no words.
 
-So when the language says *acupuncturist*, hidden inside is *exorcist with little swords*.
+That's the everyday version. The lineage version goes deeper. So when the language says *acupuncturist*, hidden inside is *exorcist with little swords*.
 
 *Herbologist*, hidden inside is *herbal magician working a collective of plants*.
 
@@ -115,7 +117,7 @@ So when the language says *acupuncturist*, hidden inside is *exorcist with littl
 
 *Vet*, hidden inside is *the doctor with the Doolittle intuition for animals*.
 
-The big words don't get spoken. Everyone agreed long ago not to say them out loud. A Chinese kid hears *go see the herbalist* and is hearing *go see the herbal magician*. Like Latin culture saying *I'm going to the Botanica*. Same kind of statement.
+The big words don't get spoken. Everyone agreed long ago not to say them out loud. A Chinese kid hears *you're sick, go see the herbalist*. The herbalist restores what's out of balance using energy metaphors: your yin is off, too much heat in this area. That's herbal magick: working with the spirit or energy of a plant to give someone a quality they lack. Like Latin culture saying *I'm going to the Botanica*. Same kind of statement.
 
 ### Sun Simiao Wrote It Plain
 
@@ -125,7 +127,7 @@ Tang dynasty, [Sun Simiao](https://en.wikipedia.org/wiki/Sun_Simiao) writes trea
 
 In the same paragraph he gives you the dosage, he tells you to call the spirit: visualize the yellow mist, do the mudra, recite the mantra. Liver problem? Look at the rising sun, do the mudra, draw it into your organs.
 
-He gives no craps.
+He gives no craps. He's not the outlier either. The same pattern runs through the Daoist canon's medical sections and Ge Hong's Baopuzi. Most of them coded it. Sun Simiao didn't.
 
 The English translations clean it up because the translators couldn't make heads or tails of these elements, and it's hard to translate culture. Western practitioners read the cleaned text and conclude classical CM was always dry.
 
@@ -153,11 +155,11 @@ The body is the table, and the table is the universe.
 
 The boring parts of the curriculum are magick too. Wax on, wax off. Karate Kid had it right. Your basics are your basics.
 
-Yin-yang from module one is its own divinatory system. Balance Method is built on it.
+Yin-yang from module one is its own divinatory and treatment system. Balance Method Acupuncture is built upon it.
 
 Five phases: the generation cycle is a ritual to build something forward, the control cycle is a ritual to restrain or cut.
 
-Seven emotions is a stat check on your zoo. They're embodied; if you don't watch them they run things from the shadows.
+Seven emotions is a stat check on yourself, your masks, your internal selves. They're embodied; if you don't watch them they run things from the shadows.
 
 Board exam calls all of this theory. It's been working lenses of practical magic for two thousand years. Theoretical because the school can't take you through the immersion. In qigong training you experience it directly.
 
