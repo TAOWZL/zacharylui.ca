@@ -23,7 +23,7 @@ It was time for the red pill, blue pill moment. The ancestresses don't wait fore
 
 She told me she was preparing to start a business. Sound healing. She'd been training for years and didn't feel ready. I told her she was never going to feel ready, that's not how this works. And sound healing was the same work Korean shamans have been doing with drums and chants for thousands of years. Same practice, different language.
 
-<img src="/images/02_red_ginseng.png" alt="Korean red ginseng — yang fire medicine" style="aspect-ratio: 16/9; object-fit: cover; width: 100%; height: auto; border-radius: 0.375rem; display: block; margin: 1.5rem auto;">
+![Korean red ginseng — yang fire medicine](/images/02_ginseng.png)
 
 I told her to take a small sip of red ginseng before she practiced. Korean mountain ginseng for a Korean mountain woman. Yang for the strength she'd been refusing.
 
@@ -43,7 +43,7 @@ In Canada, the training is two years for acupuncture, three years for traditiona
 
 Either way, you memorize 361 acupoints. They sit on the 12 primary channels plus 2 of the 8 extraordinary vessels (奇经八脉 *qí jīng bā mài*) that carry their own points: Du Mai and Ren Mai. The other 6 extraordinary vessels don't carry their own points. All 8 extraordinary vessels get basic-level coverage: opening and closing points, pathways, and symptomatology. Acupoints get coded by abbreviation (LI4, ST36, LV3), not by their pinyin names (He Gu, Zu San Li, Tai Chong). Plus 48 extra points (奇穴 *qíxué*) that sit off-channel. Plus microsystems: auricular, scalp, Korean hand, sometimes facial. The acupoint names carry the meaning. The codes don't.
 
-<img src="/images/03_meridian.png" alt="Twelve meridian channels acupoint chart" style="aspect-ratio: 16/9; object-fit: cover; width: 100%; height: auto; border-radius: 0.375rem; display: block; margin: 1.5rem auto;">
+![Twelve meridian channels acupoint chart](/images/03_meridian.png)
 
 You learn theory and diagnostics: the four examinations (looking, listening, asking, palpation), point location, channel theory, foundations of yin-yang and five phases, zangfu pattern diagnostics, etiology and pathology. You learn clinical subjects: internal medicine, gynecology, pediatrics, dermatology, orthopedics. You learn the modalities: needling techniques, moxibustion, cupping, gua sha, tuina, occasional bone-setting (banfa), TCM food therapy, plus qigong and tai chi (typically Yang style) as physical education. Then you put it together in student clinic. At the schools I've taught at, that's somewhere between 540 and 840 hours treating real patients under supervision before graduation.
 
@@ -53,7 +53,7 @@ The standard intake is the 10 questions formalized by Ming dynasty physician Zha
 
 ### What Got Cut During the Post-War Reform
 
-<img src="/images/04_pharmacy.png" alt="Classical Chinese herbal apothecary interior" style="aspect-ratio: 16/9; object-fit: cover; width: 100%; height: auto; border-radius: 0.375rem; display: block; margin: 1.5rem auto;">
+![Classical Chinese herbal apothecary interior](/images/04_pharmacy.png)
 
 So this isn't how Chinese medicine always looked. The version most people encounter now is the post-war reform. Mid-20th century, the political turn brought a materialist worldview that pushed everything classical out. Daoist ritual, Buddhist ritual, astrology, feng shui, all considered superstition. Texts were lost. Practitioners were silenced. The medicine survived because the new system needed to feed millions of people and couldn't afford to throw out the herbal pharmacy. So the reformers kept what was biomedical-compatible and cut what wasn't. They reformatted it for hospitals and exam boards. That became the modern profession. Familiar enough to register as medicine, exotic enough to file as alternative. Like the panda. Technically a bear, marketed as something else.
 
@@ -67,7 +67,7 @@ What got cut had three layers.
 
 First, infrastructure. The cultivation requirement on the practitioner. Classical CM assumes the practitioner is doing their own internal work — qigong, meditation, ritual hygiene, dietary discipline — because the work runs through your body. Some days it's a lot, depending on what the client is going through. A car won't run without gas. Without cultivation, the work doesn't run. The modern curriculum makes cultivation optional. Most students treat it as a side hobby. Then they wonder why their treatments don't land.
 
-<img src="/images/05_zodiac.png" alt="Twelve zodiac wheel calendrical system" style="aspect-ratio: 16/9; object-fit: cover; width: 100%; height: auto; border-radius: 0.375rem; display: block; margin: 1.5rem auto;">
+![Twelve zodiac wheel calendrical system](/images/05_zodiac.png)
 
 ### The Narrative Layer Modern TCM Strips
 
@@ -113,7 +113,7 @@ The big words don't get spoken. Everyone agreed long ago not to say them out lou
 
 ### Sun Simiao Wrote It Plain
 
-<img src="/images/06_sun_simiao.png" alt="Portrait of Sun Simiao, the Tang dynasty King of Medicine 藥王" style="aspect-ratio: 16/9; object-fit: cover; width: 100%; height: auto; border-radius: 0.375rem; display: block; margin: 1.5rem auto;">
+![Portrait of Sun Simiao, the Tang dynasty King of Medicine 藥王](/images/06_sun_simiao.png)
 
 Tang dynasty, [Sun Simiao](https://en.wikipedia.org/wiki/Sun_Simiao) writes treatises. Called the King of Medicine 藥王, he outright breaks the secrets.
 
@@ -143,7 +143,7 @@ The body is the table, and the table is the universe.
 
 ### Even the Boring Curriculum Is Magick
 
-<img src="/images/07_moxibustion.png" alt="Moxibustion materials in a classical apothecary still-life" style="aspect-ratio: 16/9; object-fit: cover; width: 100%; height: auto; border-radius: 0.375rem; display: block; margin: 1.5rem auto;">
+![Moxibustion materials in a classical apothecary still-life](/images/07_moxibustion.png)
 
 The boring parts of the curriculum are magick too. Wax on, wax off. Karate Kid had it right. Your basics are your basics.
 
@@ -157,7 +157,7 @@ Board exam calls all of this theory. It's been working lenses of practical magic
 
 ### When the Stakes Are Real
 
-<img src="/images/08_huoshenshan.png" alt="Huoshenshan 火神山 Fire God Mountain Hospital, Wuhan 2020" style="aspect-ratio: 16/9; object-fit: cover; width: 100%; height: auto; border-radius: 0.375rem; display: block; margin: 1.5rem auto;">
+![Huoshenshan 火神山 Fire God Mountain Hospital, Wuhan 2020](/images/08_huoshenshan.png)
 
 Mao said publicly he didn't believe in Chinese medicine. The folk record says he kept Daoist priest bodyguards on campaign and used qimen dunjia (奇門遁甲), the war-magic calculation system.
 
