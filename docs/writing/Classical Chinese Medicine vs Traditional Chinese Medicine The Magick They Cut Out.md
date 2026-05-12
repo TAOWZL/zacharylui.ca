@@ -29,7 +29,7 @@ It was time for the red pill, blue pill moment. The ancestresses don't wait fore
 
 She told me she was preparing to start a business. Sound healing. She'd been training for years and didn't feel ready. I told her she was never going to feel ready, that's not how this works. And sound healing was the same work Korean shamans have been doing with drums and chants for thousands of years. Same practice, different language.
 
-![Korean red ginseng, yang fire medicine](https://zacharylui.ca/images/02_red_ginseng.png)
+![Korean red ginseng, yang fire medicine](https://zacharylui.ca/images/02_ginseng.png)
 
 I told her to take a small sip of red ginseng before she practiced. Korean mountain ginseng for a Korean mountain woman. Yang for the strength she'd been refusing.
 
@@ -119,7 +119,7 @@ The big words don't get spoken. Everyone agreed long ago not to say them out lou
 
 ### Sun Simiao Wrote It Plain
 
-![Portrait of Sun Simiao, the Tang dynasty King of Medicine 藥王](https://zacharylui.ca/images/06_sunsimiao.png)
+![Portrait of Sun Simiao, the Tang dynasty King of Medicine 藥王](https://zacharylui.ca/images/06_sun_simiao.png)
 
 Tang dynasty, [Sun Simiao](https://en.wikipedia.org/wiki/Sun_Simiao) writes treatises. Called the King of Medicine 藥王, he outright breaks the secrets.
 
@@ -207,4 +207,4 @@ Yes, but you have to look for it specifically. Many practitioners trained in TCM
 
 How the four examinations work as a divinatory system. Why the body can't lie like the mouth can. What the practitioner actually reads when they take your pulse, looks at your tongue, and asks you ten questions.
 
-**Subscribe to get the next chapter when it drops.**
+**[Subscribe to get the next chapter when it drops.](https://zachary-lui.kit.com/f6fa3a92ab)**
