@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/writing/Classical Chinese Medicine vs Traditional Chinese Medicine The Magick They Cut Out.md",
+                "file": "docs/writing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classical Chinese Medicine vs Traditional Chinese Medicine The Magick They Cut Out"
+              "title": "writing"
             }
           }
         ]
@@ -196,6 +196,9 @@
   },
   "active": "f2ac6333ee44541e",
   "lastOpenFiles": [
+    "docs/writing/Classical Chinese Medicine vs Traditional Chinese Medicine The Magick They Cut Out.md",
+    "docs/writing.md",
+    "docs/about.md",
     "public/images/08_huoshenshan.png",
     "public/images/07_moxibustion.png",
     "public/images/06_sunsimiao.png",
@@ -205,16 +208,13 @@
     "public/images/02_red_ginseng.png",
     "public/images/01_mahjong.png",
     "docs/acupuncture.md",
-    "docs/writing/Classical Chinese Medicine vs Traditional Chinese Medicine The Magick They Cut Out.md",
     "docs/index.md",
     "docs/projects.md",
     "docs/qigong.md",
     "public/images/hero-acupuncture.svg",
     "public/images/hero-acupuncture.png",
-    "docs/about.md",
     "CLAUDE.md",
     "docs/services.md",
-    "docs/writing.md",
     "docs/officiant.md",
     "docs/press.md",
     "docs/officiant 1.md",
@@ -231,7 +231,6 @@
     "PERMISSIONS.md",
     "docs/writing",
     "docs/writing/Day 1 blog.md",
-    "docs/writing",
-    "public/images/hero-reiki.png"
+    "docs/writing"
   ]
 }
