@@ -6,6 +6,8 @@ permalink: classical-chinese-medicine-magick
 cover: /images/01_mahjong.png
 tags:
 categories: Classical Chinese Medicine
+publish: true
+showNewsletter: "true"
 ---
 *A clinical reading. Not a horoscope. The same act, different name.*
 
