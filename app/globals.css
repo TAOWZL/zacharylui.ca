@@ -221,19 +221,25 @@ a:hover {
 .prose {
   max-width: none;
 }
-/* Constrain body images to 16:9 for visual consistency across the post */
-article img:not(.hero-image) {
+/* Constrain all body images in blog posts to 16:9 */
+article img,
+main img {
   aspect-ratio: 16 / 9;
   object-fit: cover;
   object-position: center;
   width: 100%;
   height: auto;
   border-radius: 0.375rem;
+  margin: 1.5rem auto;
+  display: block;
 }
 
-/* Cover/hero image keeps its native sizing as defined by the site layout */
+/* Don't constrain cover/hero images */
 .hero img,
-header img {
+header img,
+nav img,
+footer img {
   aspect-ratio: auto;
-  object-fit: cover;
+  border-radius: 0;
+  margin: 0;
 }
