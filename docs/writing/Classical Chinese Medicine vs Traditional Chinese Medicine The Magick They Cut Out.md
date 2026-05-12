@@ -113,7 +113,7 @@ The big words don't get spoken. Everyone agreed long ago not to say them out lou
 
 ### Sun Simiao Wrote It Plain
 
-![Portrait of Sun Simiao, the Tang dynasty King of Medicine 藥王](/images/06_sun_simiao.png)
+![Portrait of Sun Simiao, the Tang dynasty King of Medicine 藥王](/images/06_sunsimiao.png)
 
 Tang dynasty, [Sun Simiao](https://en.wikipedia.org/wiki/Sun_Simiao) writes treatises. Called the King of Medicine 藥王, he outright breaks the secrets.
 
