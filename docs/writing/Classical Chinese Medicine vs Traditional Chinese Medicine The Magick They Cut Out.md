@@ -8,9 +8,8 @@ tags:
 categories: Classical Chinese Medicine
 ---
 *A clinical reading. Not a horoscope. The same act, different name.*
-# Classical Chinese Medicine vs Traditional Chinese Medicine: The Magick They Cut Out
 
-![Mahjong tiles on a wooden table — same game, also a divinatory tool](/images/01_mahjong.png)
+# Classical Chinese Medicine vs Traditional Chinese Medicine: The Magick They Cut Out
 
 ## A Mahjong Reading That Wasn't Fortune-Telling
 
@@ -202,9 +201,7 @@ Yes, but you have to look for it specifically. Many practitioners trained in TCM
 
 How the four examinations work as a divinatory system. Why the body can't lie like the mouth can. What the practitioner actually reads when they take your pulse, looks at your tongue, and asks you ten questions.
 
-**Subscribe to get the next chapter when it drops.**
-
-<script async src="https://eomail5.com/form/bc7c4ff0-4db4-11f1-9e8f-c1b8e3b23abc.js" data-form="bc7c4ff0-4db4-11f1-9e8f-c1b8e3b23abc"></script>
+[**Subscribe to get the next chapter when it drops →**](https://eomail5.com/web/bc7c4ff0-4db4-11f1-9e8f-c1b8e3b23abc)
 
 ---
 
