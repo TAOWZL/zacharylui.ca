@@ -1,6 +1,6 @@
 ---
 title: "Classical Chinese Medicine vs Traditional Chinese Medicine: The Magick They Cut Out"
-description: Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got cut and why classical CM is what you want.
+description: Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got cut and why the magick was the medicine.
 date: 2026-05-11
 permalink: classical-chinese-medicine-magick
 cover: /images/01_mahjong.png
@@ -9,9 +9,13 @@ categories: Classical Chinese Medicine
 publish: true
 showNewsletter: "true"
 ---
+# Classical Chinese Medicine vs Traditional Chinese Medicine: The Magick They Cut Out
+
+Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got cut and why the magick was the medicine.
+
 *A clinical reading. Not a horoscope. The same act, different name.*
 
-# Classical Chinese Medicine vs Traditional Chinese Medicine: The Magick They Cut Out
+![Mahjong tiles on a wooden table, same game, also a divinatory tool](https://zacharylui.ca/images/01_mahjong.png)
 
 ## A Mahjong Reading That Wasn't Fortune-Telling
 
@@ -25,7 +29,7 @@ It was time for the red pill, blue pill moment. The ancestresses don't wait fore
 
 She told me she was preparing to start a business. Sound healing. She'd been training for years and didn't feel ready. I told her she was never going to feel ready, that's not how this works. And sound healing was the same work Korean shamans have been doing with drums and chants for thousands of years. Same practice, different language.
 
-![Korean red ginseng — yang fire medicine](/images/02_red_ginseng.png)
+![Korean red ginseng, yang fire medicine](https://zacharylui.ca/images/02_red_ginseng.png)
 
 I told her to take a small sip of red ginseng before she practiced. Korean mountain ginseng for a Korean mountain woman. Yang for the strength she'd been refusing.
 
@@ -45,7 +49,7 @@ In Canada, the training is two years for acupuncture, three years for traditiona
 
 Either way, you memorize 361 acupoints. They sit on the 12 primary channels plus 2 of the 8 extraordinary vessels (奇经八脉 *qí jīng bā mài*) that carry their own points: Du Mai and Ren Mai. The other 6 extraordinary vessels don't carry their own points. All 8 extraordinary vessels get basic-level coverage: opening and closing points, pathways, and symptomatology. Acupoints get coded by abbreviation (LI4, ST36, LV3), not by their pinyin names (He Gu, Zu San Li, Tai Chong). Plus 48 extra points (奇穴 *qíxué*) that sit off-channel. Plus microsystems: auricular, scalp, Korean hand, sometimes facial. The acupoint names carry the meaning. The codes don't.
 
-![Twelve meridian channels acupoint chart](/images/03_meridian.png)
+![Twelve meridian channels acupoint chart](https://zacharylui.ca/images/03_meridian.png)
 
 You learn theory and diagnostics: the four examinations (looking, listening, asking, palpation), point location, channel theory, foundations of yin-yang and five phases, zangfu pattern diagnostics, etiology and pathology. You learn clinical subjects: internal medicine, gynecology, pediatrics, dermatology, orthopedics. You learn the modalities: needling techniques, moxibustion, cupping, gua sha, tuina, occasional bone-setting (banfa), TCM food therapy, plus qigong and tai chi (typically Yang style) as physical education. Then you put it together in student clinic. At the schools I've taught at, that's somewhere between 540 and 840 hours treating real patients under supervision before graduation.
 
@@ -55,11 +59,11 @@ The standard intake is the 10 questions formalized by Ming dynasty physician Zha
 
 ### What Got Cut During the Post-War Reform
 
-![Classical Chinese herbal apothecary interior](/images/04_pharmacy.png)
+![Classical Chinese herbal apothecary interior](https://zacharylui.ca/images/04_pharmacy.png)
 
 So this isn't how Chinese medicine always looked. The version most people encounter now is the post-war reform. Mid-20th century, the political turn brought a materialist worldview that pushed everything classical out. Daoist ritual, Buddhist ritual, astrology, feng shui, all considered superstition. Texts were lost. Practitioners were silenced. The medicine survived because the new system needed to feed millions of people and couldn't afford to throw out the herbal pharmacy. So the reformers kept what was biomedical-compatible and cut what wasn't. They reformatted it for hospitals and exam boards. That became the modern profession. Familiar enough to register as medicine, exotic enough to file as alternative. Like the panda. Technically a bear, marketed as something else.
 
-The classical material didn't disappear. Practitioners with lineage transmission migrated — to Taiwan, Hong Kong, Singapore, North America, Europe. They kept teaching the older material outside the mainland framework. Rural pockets in Yunnan and Sichuan held onto regional practice. Diaspora communities preserved what the reform stripped. Today a Western-trained practitioner who studies with a real lineage holder often has more access to classical material than a mainland Chinese MD whose training was integrative from the start.
+The classical material didn't disappear. Practitioners with lineage transmission migrated to Taiwan, Hong Kong, Singapore, North America, Europe. They kept teaching the older material outside the mainland framework. Rural pockets in Yunnan and Sichuan held onto regional practice. Diaspora communities preserved what the reform stripped. Today a Western-trained practitioner who studies with a real lineage holder often has more access to classical material than a mainland Chinese MD whose training was integrative from the start.
 
 > ## "The only practice that could keep them alive was the classical one they were trying to leave behind."
 
@@ -67,9 +71,9 @@ The classical material didn't disappear. Practitioners with lineage transmission
 
 What got cut had three layers.
 
-First, infrastructure. The cultivation requirement on the practitioner. Classical CM assumes the practitioner is doing their own internal work — qigong, meditation, ritual hygiene, dietary discipline — because the work runs through your body. Some days it's a lot, depending on what the client is going through. A car won't run without gas. Without cultivation, the work doesn't run. The modern curriculum makes cultivation optional. Most students treat it as a side hobby. Then they wonder why their treatments don't land.
+First, infrastructure. The cultivation requirement on the practitioner. Classical CM assumes the practitioner is doing their own internal work: qigong, meditation, ritual hygiene, dietary discipline. The work runs through your body. Some days it's a lot, depending on what the client is going through. A car won't run without gas. Without cultivation, the work doesn't run. The modern curriculum makes cultivation optional. Most students treat it as a side hobby. Then they wonder why their treatments don't land.
 
-![Twelve zodiac wheel calendrical system](/images/05_zodiac.png)
+![Twelve zodiac wheel calendrical system](https://zacharylui.ca/images/05_zodiac.png)
 
 ### The Narrative Layer Modern TCM Strips
 
@@ -77,11 +81,11 @@ Second, the narrative layer of the medicine. Bai Hu Tang isn't "White Tiger Deco
 
 ### The Strategic Layer They Don't Teach
 
-Third, the strategic layer. Acupuncture is the military: tactics, immediate engagement, point-by-point. Herbal medicine is the government: grand strategy, long horizons. Formulas are organized by jun-chen-zuo-shi (君臣佐使) — sovereign, minister, assistant, courier. The formulas are governments of those individuals working together. Guanzi said it: a one-year plan, plant grains. A ten-year plan, plant trees. A lifetime plan, cultivate people.
+Third, the strategic layer. Acupuncture is the military: tactics, immediate engagement, point-by-point. Herbal medicine is the government: grand strategy, long horizons. Formulas are organized by jun-chen-zuo-shi (君臣佐使): sovereign, minister, assistant, courier. The formulas are governments of those individuals working together. Guanzi said it: a one-year plan, plant grains. A ten-year plan, plant trees. A lifetime plan, cultivate people.
 
 Lineage and apprenticeship are cheat codes. They don't play the game for you. You still have to put in the hours.
 
-I teach the standardized version. I practice the classical version. The buffet is open, the food is safe, you'll get results, just not the Forbidden Kingdom results.
+I teach what the curriculum names. I practice what the curriculum hides. The buffet is open, the food is safe, you'll get results.
 
 This book is the rest.
 
@@ -115,7 +119,7 @@ The big words don't get spoken. Everyone agreed long ago not to say them out lou
 
 ### Sun Simiao Wrote It Plain
 
-![Portrait of Sun Simiao, the Tang dynasty King of Medicine 藥王](/images/06_sunsimiao.png)
+![Portrait of Sun Simiao, the Tang dynasty King of Medicine 藥王](https://zacharylui.ca/images/06_sunsimiao.png)
 
 Tang dynasty, [Sun Simiao](https://en.wikipedia.org/wiki/Sun_Simiao) writes treatises. Called the King of Medicine 藥王, he outright breaks the secrets.
 
@@ -131,11 +135,11 @@ It was never dry. Read the Chinese: the vividness is right there on the page.
 
 The diagnosis itself is the magick.
 
-Pulse, tongue, pattern differentiation: that's not a chemistry report, that's closer to art. What you're holding when you write it up is a report card on someone's life.
+Pulse, tongue, pattern differentiation: that's not a chemistry report, that's closer to art. What you're holding when you write it up is a report card on someone's life. Read it that way:
 
 Shoulder pain is a relationship.
 
-Menstrual issues are self-esteem issues about not being nourished.
+Menstrual issues are self-esteem about not being nourished.
 
 Lower back pain is the world being too heavy.
 
@@ -145,7 +149,7 @@ The body is the table, and the table is the universe.
 
 ### Even the Boring Curriculum Is Magick
 
-![Moxibustion materials in a classical apothecary still-life](/images/07_moxibustion.png)
+![Moxibustion materials in a classical apothecary still-life](https://zacharylui.ca/images/07_moxibustion.png)
 
 The boring parts of the curriculum are magick too. Wax on, wax off. Karate Kid had it right. Your basics are your basics.
 
@@ -159,7 +163,7 @@ Board exam calls all of this theory. It's been working lenses of practical magic
 
 ### When the Stakes Are Real
 
-![Huoshenshan 火神山 Fire God Mountain Hospital, Wuhan 2020](/images/08_huoshenshan.png)
+![Huoshenshan 火神山 Fire God Mountain Hospital, Wuhan 2020](https://zacharylui.ca/images/08_huoshenshan.png)
 
 Mao said publicly he didn't believe in Chinese medicine. The folk record says he kept Daoist priest bodyguards on campaign and used qimen dunjia (奇門遁甲), the war-magic calculation system.
 
@@ -169,7 +173,7 @@ The same split runs through the textbooks now, and it surfaces in the moments th
 
 State medicine, formally materialist, was naming buildings the old way when the stakes were real.
 
-So when we get to the chapters on bazi diagnostics, ritual intervention, and channel narratives — the procession of figures each meridian carries, the acupoints that describe their journey — don't file any of that under the magick department.
+So when we get to the chapters on bazi diagnostics, ritual intervention, and channel narratives, don't file any of that under the magick department. The procession of figures each meridian carries, the acupoints that describe their journey.
 
 File it under medicine.
 
@@ -183,7 +187,7 @@ Magic and medicine are one; the universe and the body are one. The book view is 
 
 ### What is classical Chinese medicine?
 
-Classical Chinese medicine is the pre-1949 tradition that includes herbal pharmacy, acupuncture, moxibustion, divination, ritual intervention, channel narratives, and lineage cultivation as a unified practice. The diagnostic and treatment frameworks are the same ones still in use today — pulse, tongue, pattern differentiation, formulas, point selection — but they sit inside a worldview that includes spirit-level diagnostics, talismans and mantras, calendrical timing, and the practitioner's own internal cultivation as part of the medicine. It's not "TCM plus woo." The ritual and narrative layers were structural, not optional.
+Classical Chinese medicine is the pre-1949 tradition that includes herbal pharmacy, acupuncture, moxibustion, divination, ritual intervention, channel narratives, and lineage cultivation as a unified practice. The diagnostic and treatment frameworks are the same ones still in use today: pulse, tongue, pattern differentiation, formulas, point selection. But they sit inside a worldview that includes spirit-level diagnostics, talismans and mantras, calendrical timing, and the practitioner's own internal cultivation as part of the medicine. It's not "TCM plus woo." The ritual and narrative layers were structural, not optional.
 
 ### What is the difference between classical Chinese medicine and traditional Chinese medicine?
 
@@ -203,10 +207,4 @@ Yes, but you have to look for it specifically. Many practitioners trained in TCM
 
 How the four examinations work as a divinatory system. Why the body can't lie like the mouth can. What the practitioner actually reads when they take your pulse, looks at your tongue, and asks you ten questions.
 
----
-
-## About the author
-
-Zachary Lui is a Registered Acupuncturist (R.Ac), Master of Medical Qigong, and Mao Shan Shangqing (茅山上清) Daoist lineage holder based in Toronto, with active practice across Wu (巫) and Chinese Esoteric Buddhist (唐密) frameworks. He trained at the Ontario College of Traditional Chinese Medicine and at IIMQ Canada under Robert Youngs, and apprentices in magick with [Andrieh Vitimus](https://andriehvitimus.com), his sifu. Faculty at three CTCMPAO-accredited schools, returning board director at Traditional Chinese Medicine Ontario (TCMO), and co-host of *[Deeper Down the Rabbit Hole](https://ddtrh.com)*.
-
-[**Full bio →**](https://zacharylui.ca/about) | [**Book a session at Wuji Xuan →**](https://wujixuan.janeapp.com/#/staff_member/1)
+**Subscribe to get the next chapter when it drops.**
