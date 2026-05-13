@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "910a11ce20a38645",
+        "id": "5b409dbb49dae564",
         "type": "tabs",
         "children": [
           {
-            "id": "f2ac6333ee44541e",
+            "id": "8ff730b6e6fc4b93",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -194,10 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2ac6333ee44541e",
+  "active": "8ff730b6e6fc4b93",
   "lastOpenFiles": [
-    "docs/writing.md",
     "docs/writing/Chapter 1.md",
+    "docs/writing/Chapter 2.md",
+    "docs/writing/Untitled.md",
+    "docs/writing.md",
     "classical-chinese-medicine-magick.md",
     "components/NewsletterSignup.tsx",
     "docs/about.md",
