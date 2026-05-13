@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/writing/Chapter 1.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1"
+              "title": "index"
             }
           }
         ]
@@ -196,14 +196,14 @@
   },
   "active": "8ff730b6e6fc4b93",
   "lastOpenFiles": [
+    "docs/about.md",
+    "docs/writing/Chapter 1.md",
     "docs/index.md",
     "docs/writing.md",
-    "docs/writing/Chapter 1.md",
     "docs/writing/Chapter 2.md",
     "docs/writing/Untitled.md",
     "classical-chinese-medicine-magick.md",
     "components/NewsletterSignup.tsx",
-    "docs/about.md",
     "public/images/08_huoshenshan.png",
     "public/images/07_moxibustion.png",
     "public/images/06_sunsimiao.png",
