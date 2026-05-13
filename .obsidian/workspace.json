@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/writing.md",
+                "file": "docs/writing/Chapter 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "writing"
+              "title": "Chapter 1"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "f2ac6333ee44541e",
   "lastOpenFiles": [
-    "docs/writing/Chapter 1.md",
     "docs/writing.md",
+    "docs/writing/Chapter 1.md",
     "classical-chinese-medicine-magick.md",
     "components/NewsletterSignup.tsx",
     "docs/about.md",

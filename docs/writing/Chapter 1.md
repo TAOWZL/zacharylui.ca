@@ -29,7 +29,7 @@ It was time for the shit or get off the pot moment. The ancestresses don't wait 
 
 She told me she was preparing to start a business. She'd been training for years, didn't feel ready. I told her, you're never ready, that's not how this works, you don't get to feel ready for something like this. And what she was calling her business, that's not any different than actual Korean shamanic or magic work, she was just using a different language for it. Same work Korean shamans have been doing for thousands of years with drums and chants and trance. The name had changed. The work hadn't.
 
-![Korean red ginseng, yang fire medicine](https://zacharylui.ca/images/02_red_ginseng.png)
+![Dried Korean red ginseng on dark surface](https://zacharylui.ca/images/02_red_ginseng.png)
 
 The reading also threw out a folk-magick offering for her practice. Korean mountain ginseng for a Korean mountain woman, the tiles pointed at resonance with the line, that old folk-magick thing where you match the plant to the bloodline. Correspondence work, not herbal medicine, those are different categories. She left with the reading and some homework.
 
