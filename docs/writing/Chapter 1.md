@@ -65,7 +65,7 @@ So that's what TCM is. Comprehensive enough that you can actually treat patients
 
 ## So what happened?
 
-This isn't how Chinese medicine always looked, and the political history's actually more layered than the diaspora version usually tells.
+This isn't how Chinese medicine always looked, and the political history's actually more layered than expected.
 
 So in 1929 you had Nationalist health officials, who were more Western-influenced at the time, they actually approved a proposal to ban traditional medicine outright. There was this thing called the Abolition of Old Medicine proposal, drafted by Yu Yunxiu and approved by the Ministry of Health. They saw the old medicine as backward and superstitious, basically. There was a real organized fight to keep it alive, mass protests by practitioners, and the proposal got shelved before becoming national policy. So the medicine survived, but only barely. Sean Hsiang-lin Lei's book *Neither Donkey Nor Horse: Medicine in the Struggle Over China's Modernity* covers this Republican-era struggle in detail if you want to dig into the actual political history.
 
