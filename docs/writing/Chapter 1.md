@@ -29,7 +29,7 @@ It was time for the shit or get off the pot moment. The ancestresses don't wait 
 
 She told me she was preparing to start a business. She'd been training for years, didn't feel ready. I told her, you're never ready, that's not how this works, you don't get to feel ready for something like this. And what she was calling her business, that's not any different than actual Korean shamanic or magic work, she was just using a different language for it. Same work Korean shamans have been doing for thousands of years with drums and chants and trance. The name had changed. The work hadn't.
 
-![Korean red ginseng, yang fire medicine](https://zacharylui.ca/images/02_red_ginseng.png)
+![Korean red ginseng on a wooden surface](https://zacharylui.ca/images/02_red_ginseng.png)
 
 The reading also threw out a folk-magick offering for her practice. Korean mountain ginseng for a Korean mountain woman, the tiles pointed at resonance with the line, that old folk-magick thing where you match the plant to the bloodline. Correspondence work, not herbal medicine, those are different categories. She left with the reading and some homework.
 
@@ -51,7 +51,7 @@ What I care about most is whether the medicine works in the room. That's it real
 
 ## Chinese medicine is 75 years old
 
-So this might be a kick to the face but here we go. Most people think Chinese medicine is thousands of years old. This is seriously old stuff, you'd think. Reality is, what you'd actually learn in a Canadian acupuncture college, that's about 75 years old as of writing this in 2026. It's really from the 1950s, so you can do the math on however many years it is by whenever you're reading this. About as old as some of your grandparents, depending on your age. When I'm teaching this in my history class, I usually open with this and tell the students welcome to your 9:31am class, I'm sorry I already broke all your dreams in the first ten minutes. Same energy for you, the reader, basically.
+So this might be a kick to the face but here we go. Most people think Chinese medicine is thousands of years old. This is seriously old stuff, you'd think. Reality is, what you'd actually learn in a Canadian acupuncture college, that's about 75 years old. About as old as some of your grandparents, depending on your age. When I teach the history segment in foundation of Chinese medicine, I usually open class with this and tell the students welcome to your 9:31am, I'm sorry I already broke all your dreams in the first ten minutes. Same energy for you, the reader, basically.
 
 Most people, when you ask them, they're picturing classical Chinese medicine, not traditional Chinese medicine. There's a big difference on that. I have to start with this because if I don't, well, it's just a whole lot of illusions you start building on for the rest of the conversation.
 
