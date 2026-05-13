@@ -9,7 +9,9 @@ categories: Classical Chinese Medicine
 publish: true
 showNewsletter:
 ---
-# Chapter 1: The Magick They Cut Out
+# Chapter 1: Chinese Medicine Is 75 Years Old
+
+From The Magick That Never Left: Classical Chinese Medicine and the Tradition Still Beneath It
 
 *Note: Names and identifying details of clients in this book have been changed or composited to protect privacy. The clinical patterns are real, the specific people aren't pinpointable.*
 
