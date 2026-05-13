@@ -1,8 +1,8 @@
 ---
-title: The Magick They Cut Out of Chinese Medicine
-description: Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got cut and why the magick was the medicine.
+title: Chinese Medicine Is 75 Years Old
+description: Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got de-centered, where it persisted, and why the magick never actually left.
 date: 2026-05-11
-permalink: classical-chinese-medicine-magick
+permalink: chinese-medicine-is-75-years-old
 cover: /images/01_mahjong.png
 tags:
 categories: Classical Chinese Medicine
