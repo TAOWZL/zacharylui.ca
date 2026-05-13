@@ -11,7 +11,7 @@ showNewsletter:
 ---
 # Chapter 1: Chinese Medicine Is 75 Years Old
 
-From The Magick That Never Left: Classical Chinese Medicine and the Tradition Still Beneath It
+*From The Magick That Never Left: Classical Chinese Medicine and the Tradition Still Beneath It*
 
 *Note: Names and identifying details of clients in this book have been changed or composited to protect privacy. The clinical patterns are real, the specific people aren't pinpointable.*
 
@@ -29,7 +29,7 @@ It was time for the shit or get off the pot moment. The ancestresses don't wait 
 
 She told me she was preparing to start a business. She'd been training for years, didn't feel ready. I told her, you're never ready, that's not how this works, you don't get to feel ready for something like this. And what she was calling her business, that's not any different than actual Korean shamanic or magic work, she was just using a different language for it. Same work Korean shamans have been doing for thousands of years with drums and chants and trance. The name had changed. The work hadn't.
 
-![Dried Korean red ginseng on dark surface](https://zacharylui.ca/images/02_red_ginseng.png)
+![Korean red ginseng, yang fire medicine](https://zacharylui.ca/images/02_red_ginseng.png)
 
 The reading also threw out a folk-magick offering for her practice. Korean mountain ginseng for a Korean mountain woman, the tiles pointed at resonance with the line, that old folk-magick thing where you match the plant to the bloodline. Correspondence work, not herbal medicine, those are different categories. She left with the reading and some homework.
 
@@ -51,7 +51,7 @@ What I care about most is whether the medicine works in the room. That's it real
 
 ## Chinese medicine is 75 years old
 
-So this might be a kick to the face but here we go. Most people think Chinese medicine is thousands of years old. This is seriously old stuff, you'd think. Reality is, what you'd actually learn in a Canadian acupuncture college, that's about 75 years old. About as old as some of your grandparents, depending on your age. And it's really from the 1950s. When I'm teaching this in my history class, I usually open with this and tell the students welcome to your 9:31am class, I'm sorry I already broke all your dreams in the first ten minutes. Same energy for you, the reader, basically.
+So this might be a kick to the face but here we go. Most people think Chinese medicine is thousands of years old. This is seriously old stuff, you'd think. Reality is, what you'd actually learn in a Canadian acupuncture college, that's about 75 years old as of writing this in 2026. It's really from the 1950s, so you can do the math on however many years it is by whenever you're reading this. About as old as some of your grandparents, depending on your age. When I'm teaching this in my history class, I usually open with this and tell the students welcome to your 9:31am class, I'm sorry I already broke all your dreams in the first ten minutes. Same energy for you, the reader, basically.
 
 Most people, when you ask them, they're picturing classical Chinese medicine, not traditional Chinese medicine. There's a big difference on that. I have to start with this because if I don't, well, it's just a whole lot of illusions you start building on for the rest of the conversation.
 
@@ -97,7 +97,7 @@ If you're a practitioner reading this and going, wait, plenty of these methods a
 
 **Fourth, the public naming of the magick went underground.** The state doesn't officially endorse ritual or spirit or magick as part of clinical medicine, so classical methods that depend on those frames get either reframed in materialist language or quietly dropped from public curriculum. Some ritual practice does survive in regulated forms (state-recognized qigong, registered Daoist temples, some Buddhist medical contexts), but as part of the standardized medical curriculum, the magickal frame is not on the menu. The methods are there if you know to look, but they're not named for what they are.
 
-So when I say the magick they cut out, that's what I mean. Not the techniques, the techniques are still there. What got cut is the framing that held the techniques as magickal, the cultivation that activated them, and the public naming that said any of this out loud.
+So when I talk about the magick that never left, that's what I mean. The techniques are still there. The framing that held them as magickal, the cultivation that activated them, the public naming that said any of this out loud — that got reframed and de-centered and sent underground. But the magick itself never actually left. It migrated to the diaspora, persisted in cultivation-central lineages, hid in folk practice and family transmissions. The standardized curriculum dropped its public name. The work itself didn't go anywhere.
 
 Lineage and apprenticeship are basically cheat codes for this stuff, but they don't play the game for you, you still have to put in the hours yourself.
 
