@@ -9,9 +9,11 @@ categories: Classical Chinese Medicine
 publish: true
 showNewsletter:
 ---
-# Chapter 1: Chinese Medicine Is 75 Years Old
+# Chinese Medicine Is 75 Years Old
 
-*From The Magick That Never Left: Classical Chinese Medicine and the Tradition Still Beneath It*
+Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got de-centered, where it persisted, and why the magick never actually left.
+
+From The Magick That Never Left: Classical Chinese Medicine and the Tradition Still Beneath It
 
 *Note: Names and identifying details of clients in this book have been changed or composited to protect privacy. The clinical patterns are real, the specific people aren't pinpointable.*
 
@@ -29,7 +31,7 @@ It was time for the shit or get off the pot moment. The ancestresses don't wait 
 
 She told me she was preparing to start a business. She'd been training for years, didn't feel ready. I told her, you're never ready, that's not how this works, you don't get to feel ready for something like this. And what she was calling her business, that's not any different than actual Korean shamanic or magic work, she was just using a different language for it. Same work Korean shamans have been doing for thousands of years with drums and chants and trance. The name had changed. The work hadn't.
 
-![Korean red ginseng on a wooden surface](https://zacharylui.ca/images/02_red_ginseng.png)
+![Korean red ginseng, folk-magick correspondence](https://zacharylui.ca/images/02_red_ginseng.png)
 
 The reading also threw out a folk-magick offering for her practice. Korean mountain ginseng for a Korean mountain woman, the tiles pointed at resonance with the line, that old folk-magick thing where you match the plant to the bloodline. Correspondence work, not herbal medicine, those are different categories. She left with the reading and some homework.
 
@@ -51,7 +53,7 @@ What I care about most is whether the medicine works in the room. That's it real
 
 ## Chinese medicine is 75 years old
 
-Most people think Chinese medicine is thousands of years old. This is seriously old stuff, you'd think. Reality is, what you'd actually learn in a Canadian acupuncture college, that's about 75 years old as of writing this in 2026, really from the 1950s, so you can do the math on however many years it is by whenever you're reading this. About as old as some of your grandparents, depending on your age. When I teach the history segment in foundation of Chinese medicine, I usually open class with this and tell the students welcome to your 9:31am, I'm sorry I already broke all your dreams in the first ten minutes. Same energy for you, the reader, basically.
+So this might be a kick to the face but here we go. Most people think Chinese medicine is thousands of years old. This is seriously old stuff, you'd think. Reality is, what you'd actually learn in a Canadian acupuncture college, that's about 75 years old as of writing this in 2026. It's really from the 1950s, so you can do the math on however many years it is by whenever you're reading this. About as old as some of your grandparents, depending on your age. When I teach the history segment in foundation of Chinese medicine, I usually open class with this and tell the students welcome to your 9:31am, I'm sorry I already broke all your dreams in the first ten minutes. Same energy for you, the reader, basically.
 
 Most people, when you ask them, they're picturing classical Chinese medicine, not traditional Chinese medicine. There's a big difference on that. I have to start with this because if I don't, well, it's just a whole lot of illusions you start building on for the rest of the conversation.
 
@@ -65,7 +67,7 @@ So that's what TCM is. Comprehensive enough that you can actually treat patients
 
 ## So what happened?
 
-This isn't how Chinese medicine always looked, and the political history's actually more layered than expected.
+This isn't how Chinese medicine always looked, and the political history's actually more layered than the diaspora version usually tells.
 
 So in 1929 you had Nationalist health officials, who were more Western-influenced at the time, they actually approved a proposal to ban traditional medicine outright. There was this thing called the Abolition of Old Medicine proposal, drafted by Yu Yunxiu and approved by the Ministry of Health. They saw the old medicine as backward and superstitious, basically. There was a real organized fight to keep it alive, mass protests by practitioners, and the proposal got shelved before becoming national policy. So the medicine survived, but only barely. Sean Hsiang-lin Lei's book *Neither Donkey Nor Horse: Medicine in the Struggle Over China's Modernity* covers this Republican-era struggle in detail if you want to dig into the actual political history.
 
@@ -87,7 +89,7 @@ What survived in the standardized curriculum is most of the methods, just refram
 
 So when I talk about what got cut, what I mean is mostly the framing, not the methods themselves. That's an important distinction and worth being clear about upfront.
 
-If you're a practitioner reading this and going, wait, plenty of these methods are still in mainland TCM, my teachers still teach Ling Gui Ba Fa, qigong is in the curriculum, what got cut exactly? Yeah, fair question. The answer's in four parts and it's subtler than the diaspora version usually tells.
+If you're a practitioner reading this and going, wait, plenty of these methods are still in mainland TCM, my teachers still teach Ling Gui Ba Fa, qigong is in the curriculum, what got cut exactly? Yeah, fair question. The answer's in four parts and it's subtler than the standard story tells.
 
 **First, the methods themselves mostly survived.** Acupuncture points, herbal formulas, channel theory, pulse diagnosis, all that stuff is still in the textbooks. Practitioners with lineage transmission migrated to Taiwan, Hong Kong, Singapore, North America, Europe, kept teaching the older material outside the mainland framework. Mainland TCM kept and developed plenty of classical methods too, things like Ling Gui Ba Fa and Zi Wu Liu Zhu timing acupuncture, classical moxa techniques, qigong work in hospital clinics. The methods are there if you train in the right stream.
 
@@ -97,7 +99,7 @@ If you're a practitioner reading this and going, wait, plenty of these methods a
 
 **Fourth, the public naming of the magick went underground.** The state doesn't officially endorse ritual or spirit or magick as part of clinical medicine, so classical methods that depend on those frames get either reframed in materialist language or quietly dropped from public curriculum. Some ritual practice does survive in regulated forms (state-recognized qigong, registered Daoist temples, some Buddhist medical contexts), but as part of the standardized medical curriculum, the magickal frame is not on the menu. The methods are there if you know to look, but they're not named for what they are.
 
-So when I talk about the magick that never left, that's what I mean. The techniques are still there. The framing that held them as magickal, the cultivation that activated them, the public naming that said any of this out loud — that got reframed and de-centered and sent underground. But the magick itself never actually left. It migrated to the diaspora, persisted in cultivation-central lineages, hid in folk practice and family transmissions. The standardized curriculum dropped its public name. The work itself didn't go anywhere.
+So when I say the magick they cut out, that's what I mean. Not the techniques, the techniques are still there. What got cut is the framing that held the techniques as magickal, the cultivation that activated them, and the public naming that said any of this out loud.
 
 Lineage and apprenticeship are basically cheat codes for this stuff, but they don't play the game for you, you still have to put in the hours yourself.
 
@@ -107,7 +109,7 @@ Every pre-modern medicine system had some version of cosmological layers connect
 
 Here's the thing though. The same split runs right through the textbooks today, and it surfaces in the moments that actually matter. Those COVID hospitals that got built in Wuhan in early 2020, they were named [Huoshenshan 火神山 and Leishenshan 雷神山](https://en.wikipedia.org/wiki/Huoshenshan_Hospital), Fire God Mountain and Thunder God Mountain. These are Five Elements names, folk-religious and Daoist deity names. Mainland TCM was classifying COVID at the time as cold-damp plague (寒湿疫), which is a yin pathogen pattern in TCM terms. That classification came out of Academician Tong Xiaolin's work and was adopted in the official Chinese government COVID treatment guidelines. Fire and thunder are yang energies. So you've got state medicine in an officially Marxist-Leninist political system naming new hospitals after yang deities to counter what its own TCM doctors were diagnosing as a yin pathogen, using the old conventions the moment the stakes got real. You can read the motives on that however you want, but the pattern's pretty clearly there.
 
-Mao did the same thing himself, by the way. He said publicly he didn't believe in Chinese medicine, Li Zhisui's account backs that up. The folk record though, that tells you he consulted Daoist diviners on big decisions, the story goes he picked auspicious dates and times for major moves based on Daoist readings, and the number for his special security unit (8341) is supposedly tied to a Daoist prediction about his life. He also reportedly used qimen dunjia, the old war-magic calculation system, in his military planning. Officially there was no superstition allowed in the new system. Unofficially, the folk record says basically every big move he made was inside that framework anyway.
+Mao did the same thing himself, by the way. Publicly he denied Chinese medicine. The folk record though, that tells you he consulted Daoist diviners on big decisions, the story goes he picked auspicious dates and times for major moves based on Daoist readings, and the number for his special security unit (8341) is supposedly tied to a Daoist prediction about his life. He also reportedly used qimen dunjia, the old war-magic calculation system, in his military planning. Officially there was no superstition allowed in the new system. Unofficially, the folk record says basically every big move he made was inside that framework anyway.
 
 So when we get to the chapters on bazi diagnostics, ritual intervention, channel narratives, all the stuff that follows, don't file any of that under the magick department for me. The standardized curriculum names some of it and not the rest, but the rest is still part of the tradition. Both versions are Chinese medicine, the standardized and the classical, but they aren't doing the same job. The classical version with its framing and cultivation infrastructure intact does work that the curriculum version, with that infrastructure de-prioritized, can't quite reach. Same tradition, different operating modes, the classical mode just has more of itself online. The buffet's open, the food's safe, you'll get results out of it. But the rest of this book is going to be about the secret menu, the stuff that isn't really mainstream but is in the kitchen if you know to ask.
 
