@@ -51,7 +51,7 @@ What I care about most is whether the medicine works in the room. That's it real
 
 ---
 
-## Chinese medicine is 75 years old
+## How old is this really?
 
 So this might be a kick to the face but here we go. Most people think Chinese medicine is thousands of years old. This is seriously old stuff, you'd think. Reality is, what you'd actually learn in a Canadian acupuncture college, that's about 75 years old as of writing this in 2026. It's really from the 1950s, so you can do the math on however many years it is by whenever you're reading this. About as old as some of your grandparents, depending on your age. When I teach the history segment in foundation of Chinese medicine, I usually open class with this and tell the students welcome to your 9:31am, I'm sorry I already broke all your dreams in the first ten minutes. Same energy for you, the reader, basically.
 
