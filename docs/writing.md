@@ -12,13 +12,13 @@ Not medical advice. If something here touches what you're working with clinicall
 
 ## Essays
 
-### *Magick Is Chinese Medicine* — a serialized book
+### The Magick The Never Left — a serialized book
 
 A book serializing chapter by chapter on the gap between classical Chinese medicine and the modern standardized profession.
 
-- **[Chapter 1: Classical Chinese Medicine vs Traditional Chinese Medicine — The Magick They Cut Out](/classical-chinese-medicine-magick)** — A mahjong reading that wasn't fortune-telling. Why the version of Chinese medicine you encounter is 75 years old, not 4,000. What got cut during the post-war reform. Why magick was never the add-on.
+- **[Chapter 1: Chinese Medicine Is 75 Years Old](/chinese-medicine-is-75-years-old)** — A mahjong reading that wasn't fortune-telling. Why the version of Chinese medicine you encounter is 75 years old, not 4,000. What got cut during the post-war reform. Why magick was never actually left. 
 
-Subsequent chapters drop monthly. [Subscribe to get the next one when it lands →](https://eomail5.com/web/bc7c4ff0-4db4-11f1-9e8f-c1b8e3b23abc)
+New chapters drop when they're ready. [Subscribe to get the next one in your inbox →](https://zachary-lui.kit.com/f6fa3a92ab)
 
 ## Podcast
 
