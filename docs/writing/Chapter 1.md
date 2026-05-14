@@ -1,6 +1,6 @@
 ---
-title: "Chinese Medicine Is 75 Years Old"
-description: "Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got de-centered, where it persisted, and why the magick never actually left."
+title: Chinese Medicine Is 75 Years Old
+description: Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got de-centered, where it persisted, and why the magick never actually left.
 date: 2026-05-13
 tags:
   - chinese-medicine
