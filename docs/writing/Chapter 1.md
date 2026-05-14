@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD:docs/writing/Chapter 1.md
 title: "Chinese Medicine Is 75 Years Old"
 description: "Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got de-centered, where it persisted, and why the magick never actually left."
 date: 2026-05-13
@@ -17,6 +18,22 @@ permalink: /chinese-medicine-is-75-years-old/
 aliases:
   - chinese-medicine-is-75-years-old
   - cm-75-years
+=======
+title: "Chinese Medicine Is 75 Years Old | Zachary Lui"
+description: "Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got de-centered, where it persisted, and why the magick never actually left."
+image: https://zacharylui.ca/images/01_mahjong.png
+canonical: https://zacharylui.ca/chinese-medicine-is-75-years-old/
+robots: index, follow
+viewport: width=device-width, initial-scale=1
+ogTitle: "Chinese Medicine Is 75 Years Old"
+ogDescription: "Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got de-centered, where it persisted, and why the magick never actually left."
+ogImage: https://zacharylui.ca/images/01_mahjong.png
+ogUrl: https://zacharylui.ca/chinese-medicine-is-75-years-old/
+twitterCard: summary_large_image
+twitterTitle: "Chinese Medicine Is 75 Years Old"
+twitterDescription: "Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got de-centered, where it persisted, and why the magick never actually left."
+twitterImage: https://zacharylui.ca/images/01_mahjong.png
+>>>>>>> a6fe71d0fec37e63e3bda03b4ff92071995ace7e:docs/writing/chinese-medicine-is-75-years-old.md
 ---
 # Chinese Medicine Is 75 Years Old
 
