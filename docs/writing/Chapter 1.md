@@ -15,6 +15,8 @@ Most readers think Chinese medicine is 4,000 years old. The version you encounte
 
 From The Magick That Never Left: Classical Chinese Medicine and the Tradition Still Beneath It
 
+*~15 minute read*
+
 *Note: Names and identifying details of clients in this book have been changed or composited to protect privacy. The clinical patterns are real, the specific people aren't pinpointable.*
 
 ![Mahjong tiles on a wooden table](https://zacharylui.ca/images/01_mahjong.png)
@@ -134,28 +136,28 @@ Same world either way, just two eyes looking at you, doesn't really matter which
 The historical scholarship behind this chapter's claims, for anyone who wants to dig into the academic record directly.
 
 **On the Cultural Revolution and Chinese medicine:**
-Gross, Miriam. 2018. "Between Party, People, and Profession: The Many Faces of the 'Doctor' during the Cultural Revolution." *Medical History* 62 (3): 333–359. Cambridge University Press. [DOI: 10.1017/mdh.2018.23](https://doi.org/10.1017/mdh.2018.23)
+Gross, Miriam. 2018. ["Between Party, People, and Profession: The Many Faces of the 'Doctor' during the Cultural Revolution."](https://doi.org/10.1017/mdh.2018.23) *Medical History* 62 (3): 333–359. Cambridge University Press.
 
 **On the post-1949 political construction of TCM:**
-Taylor, Kim. 2005. *Chinese Medicine in Early Communist China, 1945–1963: A Medicine of Revolution*. RoutledgeCurzon.
+Taylor, Kim. 2005. [*Chinese Medicine in Early Communist China, 1945–1963: A Medicine of Revolution*](https://www.routledge.com/Chinese-Medicine-in-Early-Communist-China-19451963-A-Medicine-of-Revolution/Taylor/p/book/9780415345125). RoutledgeCurzon.
 
 **On the Republican-era struggle:**
-Lei, Sean Hsiang-lin. 2014. *Neither Donkey nor Horse: Medicine in the Struggle over China's Modernity*. University of Chicago Press.
+Lei, Sean Hsiang-lin. 2014. [*Neither Donkey nor Horse: Medicine in the Struggle over China's Modernity*](https://press.uchicago.edu/ucp/books/book/chicago/N/bo16968081.html). University of Chicago Press.
 
 **On contemporary mainland practice and its plurality:**
-Scheid, Volker. 2002. *Chinese Medicine in Contemporary China: Plurality and Synthesis*. Duke University Press.
+Scheid, Volker. 2002. [*Chinese Medicine in Contemporary China: Plurality and Synthesis*](https://www.dukeupress.edu/chinese-medicine-in-contemporary-china). Duke University Press.
 
 **On pre-1949 Chinese medical history:**
-Andrews, Bridie. 2014. *The Making of Modern Chinese Medicine, 1850–1960*. UBC Press.
+Andrews, Bridie. 2014. [*The Making of Modern Chinese Medicine, 1850–1960*](https://www.ubcpress.ca/the-making-of-modern-chinese-medicine-1850-1960). UBC Press.
 
 **On the Classical vs Traditional Chinese Medicine distinction:**
-Fruehauf, Heiner. 1999. "Chinese Medicine in Crisis: Science, Politics, and the Making of TCM." *Journal of Chinese Medicine* 61: 6–14.
+Fruehauf, Heiner. 1999. ["Chinese Medicine in Crisis: Science, Politics, and the Making of TCM."](https://classicalchinesemedicine.org/wp-content/uploads/2016/03/fruehauf_CMinCrisisENG.pdf) *Journal of Chinese Medicine* 61: 6–14.
 
 **On Mao's private views (with appropriate hedging):**
 Li, Zhisui. 1994. *The Private Life of Chairman Mao: The Memoirs of Mao's Personal Physician*. Random House.
 
 **Popular treatment of Mao and TCM:**
-Levinovitz, Alan. 2013. "Chairman Mao Invented Traditional Chinese Medicine. But He Didn't Believe in It." *Slate*, October 22.
+Levinovitz, Alan. 2013. ["Chairman Mao Invented Traditional Chinese Medicine. But He Didn't Believe in It."](https://slate.com/technology/2013/10/traditional-chinese-medicine-origins-mao-invented-it-but-didnt-believe-in-it.html) *Slate*, October 22.
 
 **On the COVID cold-damp plague classification:**
-Zheng, Yujiao, et al. 2021. "Understanding COVID-19 in Wuhan From the Perspective of Cold-Dampness: Clinical Evidences and Mechanisms." *Frontiers in Medicine* 8: 617659. [DOI: 10.3389/fmed.2021.617659](https://doi.org/10.3389/fmed.2021.617659)
+Zheng, Yujiao, et al. 2021. ["Understanding COVID-19 in Wuhan From the Perspective of Cold-Dampness: Clinical Evidences and Mechanisms."](https://doi.org/10.3389/fmed.2021.617659) *Frontiers in Medicine* 8: 617659.
