@@ -1,14 +1,19 @@
 ---
-title: Chinese Medicine Is 75 Years Old
-description: Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got de-centered, where it persisted, and why the magick never actually left.
-date: 2026-05-11
-permalink: chinese-medicine-is-75-years-old
-cover: /images/01_mahjong.png
-tags:
-categories: Classical Chinese Medicine
-publish: true
-showNewsletter:
+canonical: https://zacharylui.ca/chinese-medicine-is-75-years-old/
+meta-description: Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got de-centered, where it persisted, and why the magick never actually left.
+meta-og:description: Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got de-centered, where it persisted, and why the magick never actually left.
+meta-og:image: https://zacharylui.ca/images/01_mahjong.png
+meta-og:title: Chinese Medicine Is 75 Years Old
+meta-og:url: https://zacharylui.ca/chinese-medicine-is-75-years-old/
+meta-robots: index, follow
+meta-twitter:card: summary_large_image
+meta-twitter:description: Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got de-centered, where it persisted, and why the magick never actually left.
+meta-twitter:image: https://zacharylui.ca/images/01_mahjong.png
+meta-twitter:title: Chinese Medicine Is 75 Years Old
+meta-viewport: width=device-width, initial-scale=1
+title: Chinese Medicine Is 75 Years Old | Zachary Lui
 ---
+
 # Chinese Medicine Is 75 Years Old
 
 Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got de-centered, where it persisted, and why the magick never actually left.
@@ -142,7 +147,7 @@ Gross, Miriam. 2018. ["Between Party, People, and Profession: The Many Faces of 
 Taylor, Kim. 2005. [*Chinese Medicine in Early Communist China, 1945–1963: A Medicine of Revolution*](https://www.routledge.com/Chinese-Medicine-in-Early-Communist-China-19451963-A-Medicine-of-Revolution/Taylor/p/book/9780415345125). RoutledgeCurzon.
 
 **On the Republican-era struggle:**
-Lei, Sean Hsiang-lin. 2014. [*Neither Donkey nor Horse: Medicine in the Struggle over China's Modernity*](https://press.uchicago.edu/ucp/books/book/chicago/N/bo18610904.html). University of Chicago Press.
+Lei, Sean Hsiang-lin. 2014. [*Neither Donkey nor Horse: Medicine in the Struggle over China's Modernity*](https://press.uchicago.edu/ucp/books/book/chicago/N/bo16968081.html). University of Chicago Press.
 
 **On contemporary mainland practice and its plurality:**
 Scheid, Volker. 2002. [*Chinese Medicine in Contemporary China: Plurality and Synthesis*](https://www.dukeupress.edu/chinese-medicine-in-contemporary-china). Duke University Press.
