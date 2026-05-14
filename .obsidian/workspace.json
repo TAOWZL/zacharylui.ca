@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/writing/Chapter 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Chapter 1"
             }
           }
         ]
@@ -196,10 +196,10 @@
   },
   "active": "8ff730b6e6fc4b93",
   "lastOpenFiles": [
+    "docs/index.md",
     "docs/writing.md",
     "docs/writing/Chapter 1.md",
     "docs/writing/chinese-medicine-is-75-years-old.md",
-    "docs/index.md",
     "docs/about.md",
     "docs/writing/Chapter 2.md",
     "classical-chinese-medicine-magick.md",
