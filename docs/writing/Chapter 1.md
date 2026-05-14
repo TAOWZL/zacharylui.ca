@@ -142,7 +142,7 @@ Gross, Miriam. 2018. ["Between Party, People, and Profession: The Many Faces of 
 Taylor, Kim. 2005. [*Chinese Medicine in Early Communist China, 1945–1963: A Medicine of Revolution*](https://www.routledge.com/Chinese-Medicine-in-Early-Communist-China-19451963-A-Medicine-of-Revolution/Taylor/p/book/9780415345125). RoutledgeCurzon.
 
 **On the Republican-era struggle:**
-Lei, Sean Hsiang-lin. 2014. [*Neither Donkey nor Horse: Medicine in the Struggle over China's Modernity*](https://press.uchicago.edu/ucp/books/book/chicago/N/bo16968081.html). University of Chicago Press.
+Lei, Sean Hsiang-lin. 2014. [*Neither Donkey nor Horse: Medicine in the Struggle over China's Modernity*](https://press.uchicago.edu/ucp/books/book/chicago/N/bo18610904.html). University of Chicago Press.
 
 **On contemporary mainland practice and its plurality:**
 Scheid, Volker. 2002. [*Chinese Medicine in Contemporary China: Plurality and Synthesis*](https://www.dukeupress.edu/chinese-medicine-in-contemporary-china). Duke University Press.
