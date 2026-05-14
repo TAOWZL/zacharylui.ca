@@ -38,17 +38,27 @@ The reading also threw out a folk-magick offering for her practice. Korean mount
 What I'd done in that room wasn't fortune-telling, even though from the outside it probably looked like it. It was the kind of pattern reading classical CM did before that work got carved out into a separate category from clinical practice. Most people reading this wouldn't recognize it as Chinese medicine either, which makes sense, because what most people think Chinese medicine is, isn't really what it is.
 
 ---
+
 ## A few things upfront
 
-I'm writing this as a working practitioner first and foremost. Quick on the credentials so you know where I'm coming from: Master of Medical Qigong (trained under Robert Youngs at IIMQ Canada), holder of Mao Shan Shangqing transmission (direct master-to-student, not institutional ordination), plus Daoist folk magic practice. On the broader magick side, my primary teacher and spiritual guru is Andrieh Vitimus, and through his training I'm a chaos magician, work in Wu shamanic practice (combined with my own family ancestor work, Cantonese with northern roots), and work with Tangmi material (Tang Dynasty esoteric Buddhism, modern reconstruction stream rather than unbroken Shingon-line transmission, since the original Tangmi lineage in China ended in the Tang persecution of 845 CE). On the TCM side, my education is through a CTCMPAO-accredited acupuncture program, that's what my R.Ac registration is built on. Outside that regulated education, I've also trained with teachers in Daoist medical and imperial-acupuncture lineages who'd rather not be named publicly, supplementary lineage stuff rather than the formal piece. I'm not a historian and I'm not a translator. There are practitioners who trained in mainland China, or with mainland-trained teachers, who'll tell you a different story than this one, and they're not wrong, they just trained in a different stream.
+I'm writing this as a working practitioner first and foremost. Quick on the credentials so you know where I'm coming from.
+
+On the TCM side, my education is through a CTCMPAO-accredited [acupuncture](https://zacharylui.ca/acupuncture) program, that's what my R.Ac registration is built on. Outside that regulated education, I've also trained with teachers in Daoist medical and imperial-acupuncture lineages who'd rather not be named publicly, supplementary lineage stuff rather than the formal piece.
+
+On the cultivation side, I'm a Master of Medical [Qigong](https://zacharylui.ca/qigong) (trained under Robert Youngs at IIMQ Canada), holder of Mao Shan Shangqing transmission (direct master-to-student, not institutional ordination), plus Daoist folk magic practice.
+
+On the broader magick side, my primary teacher and spiritual guru is Andrieh Vitimus, and through his training I'm a chaos magician, work in Wu shamanic practice (combined with my own family ancestor work, Cantonese with northern roots), and work with Tangmi material (Tang Dynasty esoteric Buddhism, modern reconstruction stream rather than unbroken Shingon-line transmission, since the original Tangmi lineage in China ended in the Tang persecution of 845 CE).
+
+I'm not a historian and I'm not a translator. There are practitioners who trained in mainland China, or with mainland-trained teachers, who'll tell you a different story than this one, and they're not wrong, they just trained in a different stream.
 
 Quick note on scope. I'm registered as an R.Ac with CTCMPAO in Ontario, and my regulated practice operates under their scope. This book is about the broader Chinese medicine tradition, which is larger than what any single regulatory curriculum covers. A lot of what people think of as separate from "real" Chinese medicine, the cultivation work, the diagnostic pattern recognition that goes beyond pulse and tongue, the cosmological frame around the points, is actually part of the original tradition. Practitioners with classical training have always brought more of that depth into their clinical work, within whatever scope of practice applies to them in their jurisdiction. The book is about that depth, what it is, where it went, and how the tradition's full toolkit reads differently than the standardized version of it. Folk-magick herbal correspondences aren't herbal medicine prescription, by the way, that's a different category needing a different designation, and the book is careful about that distinction throughout.
 
-There's also serious historical scholarship on this period if you want to dig in. Heiner Fruehauf out of NUNM has been making the Classical Chinese Medicine vs Traditional Chinese Medicine distinction in print since the 90s, that's the position closest to my own framing. The post-1949 standardization period itself is documented by scholars like Kim Taylor, Volker Scheid, Sean Hsiang-lin Lei, and Paul Unschuld, plus Liu Lihong from mainland China, even where they don't all draw the same conclusions Fruehauf does. The academic record on the political reform of Chinese medicine after 1945 is actually pretty well documented at this point, this just isn't that kind of book I'm writing.
+There's also serious historical scholarship on this period if you want to dig in. Heiner Fruehauf out of NUNM has been making the Classical Chinese Medicine vs Traditional Chinese Medicine distinction in print since the 90s, that's the position closest to my own framing. The post-1949 standardization period itself is documented by scholars like Kim Taylor, Volker Scheid, Sean Hsiang-lin Lei, and Paul Unschuld, plus Liu Lihong from mainland China, even where they don't all draw the same conclusions Fruehauf does. The academic record on the political reform of Chinese medicine after 1945 is actually pretty well documented at this point, this just isn't that kind of book I'm writing. Full reading list at the bottom of the chapter if you want to dig in.
 
 What I care about most is whether the medicine works in the room. That's it really. The history matters to me because it kind of explains why my lineage's approach gets results that my standard-trained colleagues don't get, and that's the practical claim I'm actually making here. This isn't traditionalism for its own sake. The clinical claim is that the framing and cultivation that got de-centered are exactly what makes the methods land harder. Not everything historical belongs in modern healthcare, fair, but I'd argue what got cut wasn't decorative culture, it was the load-bearing part of why the methods worked. As one of my TCM teachers used to say, can you get clinical results, that's what it comes down to. Medicine is medicine. The rest of this book is just one practitioner's reading of his own tradition.
 
 ---
+
 ## How old is this really?
 
 So this might be a kick to the face but here we go. Most people think Chinese medicine is thousands of years old. This is seriously old stuff, you'd think. Reality is, what you'd actually learn in a Canadian acupuncture college, that's about 75 years old as of writing this in 2026. It's really from the 1950s, so you can do the math on however many years it is by whenever you're reading this. About as old as some of your grandparents, depending on your age. When I teach the history segment in foundation of Chinese medicine, I usually open class with this and tell the students welcome to your 9:31am, I'm sorry I already broke all your dreams in the first ten minutes. Same energy for you, the reader, basically.
@@ -62,6 +72,7 @@ That's the official curriculum. Unofficially, faculty bring lineage material int
 So that's what TCM is. Comprehensive enough that you can actually treat patients, and you'll get results out of it. But it's also a specific historical version of Chinese medicine, the post-war reform version, and that history matters for what comes next.
 
 ---
+
 ## So what happened?
 
 This isn't how Chinese medicine always looked, and the political history's actually more layered than the diaspora version usually tells.
@@ -81,6 +92,7 @@ After the Cultural Revolution wound down in the late 70s, there was a reconstruc
 What survived in the standardized curriculum is most of the methods, just reframed without their spiritual context. Familiar enough that people recognize it as some kind of medicine, but exotic enough that it still gets filed under alternative. Kind of like the panda, technically a bear but marketed as something else.
 
 ---
+
 ## What got cut was the framing, not the methods
 
 So when I talk about what got cut, what I mean is mostly the framing, not the methods themselves. That's an important distinction and worth being clear about upfront.
@@ -93,7 +105,7 @@ If you're a practitioner reading this and going, wait, plenty of these methods a
 
 **Third, the centrality of cultivation dropped.** In the cultivation-central lineages this book comes out of, classical CM assumes the practitioner is doing their own internal work as a core requirement, qigong, meditation, ritual hygiene, dietary discipline, all of that, because the work runs through your body and some days it's a lot depending on what the client's going through. A car won't run without gas, right. Without cultivation, the work doesn't really run. Not every classical practitioner did this kind of cultivation work, classical CM was diverse, scholar-physicians and folk practitioners had different relationships to it. But in the lineages where cultivation was central, that centrality is what got de-prioritized in the reform curriculum. The modern curriculum still teaches qigong, just as one or two courses rather than as the daily core practice it is in cultivation-central lineages, more supplementary than foundational. Most students treat cultivation as a side hobby they'll get around to eventually, and then they wonder why their treatments aren't really landing like their teachers' did.
 
-**Fourth, the public naming of the magick went underground.** The state doesn't officially endorse ritual or spirit or magick as part of clinical medicine, so classical methods that depend on those frames get either reframed in materialist language or quietly dropped from public curriculum. Some ritual practice does survive in regulated forms (state-recognized qigong, registered Daoist temples, some Buddhist medical contexts), but as part of the standardized medical curriculum, the magickal frame is not on the menu. The methods are there if you know to look, but they're not named for what they are.
+**Fourth, the public naming of the magick went underground.** The state doesn't officially endorse [ritual](https://zacharylui.ca/ritual) or spirit or magick as part of clinical medicine, so classical methods that depend on those frames get either reframed in materialist language or quietly dropped from public curriculum. Some ritual practice does survive in regulated forms (state-recognized qigong, registered Daoist temples, some Buddhist medical contexts), but as part of the standardized medical curriculum, the magickal frame is not on the menu. The methods are there if you know to look, but they're not named for what they are.
 
 So when I say the magick they cut out, that's what I mean. Not the techniques, the techniques are still there. What got cut is the framing that held the techniques as magickal, the cultivation that activated them, and the public naming that said any of this out loud.
 
@@ -114,3 +126,36 @@ Same world either way, just two eyes looking at you, doesn't really matter which
 ---
 
 *Next chapter: The Magick Was Never the Add-On. How classical Chinese medicine sits underneath the language, why the words for "acupuncturist" and "herbalist" are doing more work than they look like, and why Sun Simiao didn't bother coding any of it. [Subscribe and you'll get it when it drops.](https://zachary-lui.kit.com/f6fa3a92ab)*
+
+---
+
+## For further reading
+
+The historical scholarship behind this chapter's claims, for anyone who wants to dig into the academic record directly.
+
+**On the Cultural Revolution and Chinese medicine:**
+Gross, Miriam. 2018. "Between Party, People, and Profession: The Many Faces of the 'Doctor' during the Cultural Revolution." *Medical History* 62 (3): 333–359. Cambridge University Press. [DOI: 10.1017/mdh.2018.23](https://doi.org/10.1017/mdh.2018.23)
+
+**On the post-1949 political construction of TCM:**
+Taylor, Kim. 2005. *Chinese Medicine in Early Communist China, 1945–1963: A Medicine of Revolution*. RoutledgeCurzon.
+
+**On the Republican-era struggle:**
+Lei, Sean Hsiang-lin. 2014. *Neither Donkey nor Horse: Medicine in the Struggle over China's Modernity*. University of Chicago Press.
+
+**On contemporary mainland practice and its plurality:**
+Scheid, Volker. 2002. *Chinese Medicine in Contemporary China: Plurality and Synthesis*. Duke University Press.
+
+**On pre-1949 Chinese medical history:**
+Andrews, Bridie. 2014. *The Making of Modern Chinese Medicine, 1850–1960*. UBC Press.
+
+**On the Classical vs Traditional Chinese Medicine distinction:**
+Fruehauf, Heiner. 1999. "Chinese Medicine in Crisis: Science, Politics, and the Making of TCM." *Journal of Chinese Medicine* 61: 6–14.
+
+**On Mao's private views (with appropriate hedging):**
+Li, Zhisui. 1994. *The Private Life of Chairman Mao: The Memoirs of Mao's Personal Physician*. Random House.
+
+**Popular treatment of Mao and TCM:**
+Levinovitz, Alan. 2013. "Chairman Mao Invented Traditional Chinese Medicine. But He Didn't Believe in It." *Slate*, October 22.
+
+**On the COVID cold-damp plague classification:**
+Zheng, Yujiao, et al. 2021. "Understanding COVID-19 in Wuhan From the Perspective of Cold-Dampness: Clinical Evidences and Mechanisms." *Frontiers in Medicine* 8: 617659. [DOI: 10.3389/fmed.2021.617659](https://doi.org/10.3389/fmed.2021.617659)
