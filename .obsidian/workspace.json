@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/writing/Chapter 1.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1"
+              "title": "index"
             }
           }
         ]
@@ -194,14 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6789042287634e9",
+  "active": "8ff730b6e6fc4b93",
   "lastOpenFiles": [
+    "docs/writing.md",
+    "docs/writing/Chapter 1.md",
     "docs/writing/chinese-medicine-is-75-years-old.md",
-    "docs/writing/Chapter 1.md",
-    "docs/writing/Chapter 1.md",
     "docs/index.md",
     "docs/about.md",
-    "docs/writing.md",
     "docs/writing/Chapter 2.md",
     "classical-chinese-medicine-magick.md",
     "components/NewsletterSignup.tsx",
