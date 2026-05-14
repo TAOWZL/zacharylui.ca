@@ -1,17 +1,19 @@
 ---
+title: "Chinese Medicine Is 75 Years Old | Zachary Lui"
+description: "Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got de-centered, where it persisted, and why the magick never actually left."
+image: https://zacharylui.ca/images/01_mahjong.png
 canonical: https://zacharylui.ca/chinese-medicine-is-75-years-old/
-meta-description: Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got de-centered, where it persisted, and why the magick never actually left.
-meta-og:description: Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got de-centered, where it persisted, and why the magick never actually left.
-meta-og:image: https://zacharylui.ca/images/01_mahjong.png
-meta-og:title: Chinese Medicine Is 75 Years Old
-meta-og:url: https://zacharylui.ca/chinese-medicine-is-75-years-old/
-meta-robots: index, follow
-meta-twitter:card: summary_large_image
-meta-twitter:description: Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got de-centered, where it persisted, and why the magick never actually left.
-meta-twitter:image: https://zacharylui.ca/images/01_mahjong.png
-meta-twitter:title: Chinese Medicine Is 75 Years Old
-meta-viewport: width=device-width, initial-scale=1
-title: Chinese Medicine Is 75 Years Old | Zachary Lui
+robots: index, follow
+viewport: width=device-width, initial-scale=1
+ogTitle: "Chinese Medicine Is 75 Years Old"
+ogDescription: "Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got de-centered, where it persisted, and why the magick never actually left."
+ogImage: https://zacharylui.ca/images/01_mahjong.png
+ogUrl: https://zacharylui.ca/chinese-medicine-is-75-years-old/
+twitterCard: summary_large_image
+twitterTitle: "Chinese Medicine Is 75 Years Old"
+twitterDescription: "Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got de-centered, where it persisted, and why the magick never actually left."
+twitterImage: https://zacharylui.ca/images/01_mahjong.png
+---
 ---
 
 # Chinese Medicine Is 75 Years Old
