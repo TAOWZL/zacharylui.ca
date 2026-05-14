@@ -1,19 +1,23 @@
 ---
-canonical: https://zacharylui.ca/chinese-medicine-is-75-years-old/
-meta-description: Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got de-centered, where it persisted, and why the magick never actually left.
-meta-og:description: Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got de-centered, where it persisted, and why the magick never actually left.
-meta-og:image: https://zacharylui.ca/images/01_mahjong.png
-meta-og:title: Chinese Medicine Is 75 Years Old
-meta-og:url: https://zacharylui.ca/chinese-medicine-is-75-years-old/
-meta-robots: index, follow
-meta-twitter:card: summary_large_image
-meta-twitter:description: Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got de-centered, where it persisted, and why the magick never actually left.
-meta-twitter:image: https://zacharylui.ca/images/01_mahjong.png
-meta-twitter:title: Chinese Medicine Is 75 Years Old
-meta-viewport: width=device-width, initial-scale=1
-title: Chinese Medicine Is 75 Years Old | Zachary Lui
+title: "Chinese Medicine Is 75 Years Old"
+description: "Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got de-centered, where it persisted, and why the magick never actually left."
+date: 2026-05-13
+tags:
+  - chinese-medicine
+  - classical-chinese-medicine
+  - tcm-history
+  - mao-zedong
+  - cultural-revolution
+  - daoist-medicine
+  - magick
+  - book-chapter
+draft: false
+cover: /images/01_mahjong.png
+permalink: /chinese-medicine-is-75-years-old/
+aliases:
+  - chinese-medicine-is-75-years-old
+  - cm-75-years
 ---
-
 # Chinese Medicine Is 75 Years Old
 
 Most readers think Chinese medicine is 4,000 years old. The version you encounter is 75. Here's what got de-centered, where it persisted, and why the magick never actually left.
@@ -45,6 +49,7 @@ The reading also threw out a folk-magick offering for her practice. Korean mount
 What I'd done in that room wasn't fortune-telling, even though from the outside it probably looked like it. It was the kind of pattern reading classical CM did before that work got carved out into a separate category from clinical practice. Most people reading this wouldn't recognize it as Chinese medicine either, which makes sense, because what most people think Chinese medicine is, isn't really what it is.
 
 ---
+
 ## A few things upfront
 
 I'm writing this as a working practitioner first and foremost. Quick on the credentials so you know where I'm coming from.
@@ -64,6 +69,7 @@ There's also serious historical scholarship on this period if you want to dig in
 What I care about most is whether the medicine works in the room. That's it really. The history matters to me because it kind of explains why my lineage's approach gets results that my standard-trained colleagues don't get, and that's the practical claim I'm actually making here. This isn't traditionalism for its own sake. The clinical claim is that the framing and cultivation that got de-centered are exactly what makes the methods land harder. Not everything historical belongs in modern healthcare, fair, but I'd argue what got cut wasn't decorative culture, it was the load-bearing part of why the methods worked. As one of my TCM teachers used to say, can you get clinical results, that's what it comes down to. Medicine is medicine. The rest of this book is just one practitioner's reading of his own tradition.
 
 ---
+
 ## How old is this really?
 
 So this might be a kick to the face but here we go. Most people think Chinese medicine is thousands of years old. This is seriously old stuff, you'd think. Reality is, what you'd actually learn in a Canadian acupuncture college, that's about 75 years old as of writing this in 2026. It's really from the 1950s, so you can do the math on however many years it is by whenever you're reading this. About as old as some of your grandparents, depending on your age. When I teach the history segment in foundation of Chinese medicine, I usually open class with this and tell the students welcome to your 9:31am, I'm sorry I already broke all your dreams in the first ten minutes. Same energy for you, the reader, basically.
@@ -77,6 +83,7 @@ That's the official curriculum. Unofficially, faculty bring lineage material int
 So that's what TCM is. Comprehensive enough that you can actually treat patients, and you'll get results out of it. But it's also a specific historical version of Chinese medicine, the post-war reform version, and that history matters for what comes next.
 
 ---
+
 ## So what happened?
 
 This isn't how Chinese medicine always looked, and the political history's actually more layered than the diaspora version usually tells.
@@ -96,6 +103,7 @@ After the Cultural Revolution wound down in the late 70s, there was a reconstruc
 What survived in the standardized curriculum is most of the methods, just reframed without their spiritual context. Familiar enough that people recognize it as some kind of medicine, but exotic enough that it still gets filed under alternative. Kind of like the panda, technically a bear but marketed as something else.
 
 ---
+
 ## What got cut was the framing, not the methods
 
 So when I talk about what got cut, what I mean is mostly the framing, not the methods themselves. That's an important distinction and worth being clear about upfront.
