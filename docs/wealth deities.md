@@ -1,6 +1,6 @@
 ---
-title: "8 Chinese Wealth Deities"
-description: "Who they are, what they're good at, and when to work with them. The free cliffnotes guide to eight wealth gods of Chinese practice."
+title: Chinese Wealth Deities
+description: Who they are, what they're good at, and when to work with them. The free cliffnotes guide to eight wealth gods of Chinese practice.
 permalink: /wealth-deities
 draft: false
 ---
