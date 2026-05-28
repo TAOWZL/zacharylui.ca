@@ -4,9 +4,7 @@ description: "Clarity when the decision matters. Tarot and Mahjong divination wi
 permalink: /divination
 draft: false
 ---
-
 <small>Spiritual work offered as a Daoist folk priest, Wu, and Tangmi practitioner, separate from my regulated acupuncture practice. Not Traditional Chinese Medicine.</small>
-
 ## Clarity when the decision matters
 
 Sometimes a situation does not respond the way it should. You think it through. You act. The result is inconsistent.
