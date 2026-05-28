@@ -4,7 +4,9 @@ description: "Clarity when the decision matters. Tarot and Mahjong divination wi
 permalink: /divination
 draft: false
 ---
-<small>Spiritual work offered as a Daoist folk priest, Wu, and Tangmi practitioner, separate from my regulated acupuncture practice. Not Traditional Chinese Medicine.</small>
+
+*Spiritual work offered as a Daoist folk priest, Wu, and Tangmi practitioner, separate from my regulated acupuncture practice. Not Traditional Chinese Medicine.*
+
 ## Clarity when the decision matters
 
 Sometimes a situation does not respond the way it should. You think it through. You act. The result is inconsistent.
@@ -70,12 +72,10 @@ This work includes tarot readings, Mahjong-based divination, and mediumship. Ses
 
 If you need to see the situation clearly before acting:
 
-<p><a class="book-button" href="https://wujixuan.janeapp.com/#/staff_member/1/treatment/3">Book a Divination Coaching session</a></p>
+[Book a Divination Coaching session](https://wujixuan.janeapp.com/#/staff_member/1/treatment/3)
 
 If you are looking for a tarot reading, a reading with a medium, or Mahjong divination in Toronto, this work provides structured insight to support your own decision.
 
 ---
 
-<small>
-Spiritual work offered as a Daoist folk priest (Mao Shan Shangqing 茅山上清), Wu 巫, and Tangmi 唐密 practitioner. Sits outside of Traditional Chinese Medicine and is separate from my regulated acupuncture practice. Not a substitute for medical, mental-health, financial, legal, or professional advice of any kind. No specific outcomes are promised.
-</small>
+*Spiritual work offered as a Daoist folk priest (Mao Shan Shangqing 茅山上清), Wu 巫, and Tangmi 唐密 practitioner. Sits outside of Traditional Chinese Medicine and is separate from my regulated acupuncture practice. Not a substitute for medical, mental-health, financial, legal, or professional advice of any kind. No specific outcomes are promised.*
