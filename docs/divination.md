@@ -1,129 +1,83 @@
 ---
-title: Divination
-description: Pattern recognition and decision clarity work.
+title: Divination Coaching
+description: Clarity when the decision matters. Tarot and Mahjong divination with mediumship, for decisions where being wrong has consequences. Toronto.
+permalink: /divination
+draft: false
 ---
 
-# Divination
+<small>Spiritual work offered as a Daoist folk priest, Wu, and Tangmi practitioner, separate from my regulated acupuncture practice. Not Traditional Chinese Medicine.</small>
 
 ## Clarity when the decision matters
 
-Sometimes a situation does not respond the way it should.
+Sometimes a situation does not respond the way it should. You think it through. You act. The result is inconsistent.
 
-You think it through.  
-You act.  
-The result is inconsistent.
-
-This is for decisions where being wrong has consequences.
-
-Divination is used here to see what is actually present, so you can act with clarity.
-
----
+This is for decisions where being wrong has consequences. Divination is used here to see what is actually present, so you can act with more clarity.
 
 ## When to use this
 
-- multiple options, no clear direction  
-- inconsistent results despite effort  
-- timing feels off  
-- interference you cannot identify  
-- decisions with real consequence  
-
----
+* multiple options, no clear direction
+* inconsistent results despite effort
+* timing feels off
+* interference you cannot identify
+* decisions with real consequence
 
 ## What this work does
 
-Divination provides:
+* a map of possible paths
+* how each path is likely to unfold
+* identification of interference
+* which path best matches your goal
 
-- a map of possible paths  
-- how each path is likely to unfold  
-- identification of interference  
-- which path best matches your goal  
-
-The purpose is to reduce decision error before you act.
-
----
+The purpose is to help you see the situation more clearly before you act. It is guidance, not a guaranteed result.
 
 ## How sessions are done
 
-The system used is Tarot or Mahjong, based on the situation.
+The system used is Tarot or Mahjong, chosen by the situation. Both are read for pattern, structure, and outcome. Mahjong divination is the rarer of the two and most readers do not offer it.
 
-Both are used to read pattern, structure, and outcome.
-
-Mediumship is part of the process.
-
-Where relevant, communication with spirits is used to clarify influence or interference.
-
-Only when it improves the accuracy of the read.
-
----
+Mediumship is part of the process. Where relevant, communication with spirits is used to clarify influence or interference, and only when it improves the read.
 
 ## What to expect
 
-- your situation is clarified  
-- paths are mapped  
-- key factors are identified  
-- direction is given  
+Your situation is clarified. Paths are mapped. Key factors are identified. Direction is given.
 
 You leave with:
 
-- clear options  
-- the path that best fits your goal  
-- what to avoid  
-- specific recommendations and exercises  
-
----
+* clear options
+* the path that best fits your goal
+* what to avoid
+* specific recommendations and exercises
 
 ## Empowerment first
 
-The goal is to give you a clear read and methods you can apply.
-
-Not dependency.
-
-Further work is only suggested if required.
-
----
+The goal is to give you a clear read and methods you can apply. Not dependency. I point the way. You do the work. Further work is only suggested if it is genuinely required.
 
 ## Why this matters
 
-Most mistakes come from choosing the wrong path.
-
-- wrong timing  
-- wrong direction  
-- missed interference  
-
-Divination corrects the read before the move is made.
-
----
+Most mistakes come from the wrong read: wrong timing, wrong direction, missed interference. Divination is there to clarify the read before the move is made.
 
 ## This is not
 
-- entertainment  
-- emotional processing  
-- vague interpretation  
+* entertainment
+* emotional processing or counselling
+* vague interpretation
+* therapy, medical or mental-health care, or financial or legal advice
 
-This is applied clarity for real decisions.
+This is applied clarity for real decisions. It does not diagnose or treat anything, and it is separate from my regulated acupuncture practice.
 
----
+## Divination in Toronto
 
-## Divination services in Toronto
-
-This work includes:
-
-- tarot readings  
-- mahjong-based divination  
-- mediumship and spirit communication  
-
-Sessions are available in Toronto for clients who need clear direction before making decisions.
-
----
+This work includes tarot readings, Mahjong-based divination, and mediumship. Sessions are available in Toronto for clients who want a clear read before making a decision.
 
 ## Book a session
 
 If you need to see the situation clearly before acting:
 
-[Book your divination session](https://wujixuan.janeapp.com/#/staff_member/1/treatment/3)
+<p><a class="book-button" href="https://wujixuan.janeapp.com/#/staff_member/1/treatment/3">Book a Divination Coaching session</a></p>
+
+If you are looking for a tarot reading, a reading with a medium, or Mahjong divination in Toronto, this work provides structured insight to support your own decision.
 
 ---
 
-## Tarot and mediumship readings in Toronto
-
-If you are looking for a tarot reading, psychic reading, or medium in Toronto, this work provides structured insight to help you make decisions with clarity.
+<small>
+Spiritual work offered as a Daoist folk priest (Mao Shan Shangqing 茅山上清), Wu 巫, and Tangmi 唐密 practitioner. Sits outside of Traditional Chinese Medicine and is separate from my regulated acupuncture practice. Not a substitute for medical, mental-health, financial, legal, or professional advice of any kind. No specific outcomes are promised.
+</small>

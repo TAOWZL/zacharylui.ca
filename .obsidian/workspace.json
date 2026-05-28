@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "5b409dbb49dae564",
+        "id": "03b41d2a364064b9",
         "type": "tabs",
         "children": [
           {
-            "id": "8ff730b6e6fc4b93",
+            "id": "cfee51bb35df5da3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/writing/Chapter 1.md",
+                "file": "docs/about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1"
+              "title": "about"
+            }
+          },
+          {
+            "id": "b831cf75b5ec68d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/divination.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "divination"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,13 +209,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ff730b6e6fc4b93",
+  "active": "b831cf75b5ec68d7",
   "lastOpenFiles": [
+    "docs/8 Chinese Wealth Deities.md",
+    "docs/about.md",
+    "docs/The 8 Chinese Wealth Deities.md",
+    "docs/writing/Chapter 1.md",
     "docs/index.md",
     "docs/writing.md",
-    "docs/writing/Chapter 1.md",
     "docs/writing/chinese-medicine-is-75-years-old.md",
-    "docs/about.md",
     "docs/writing/Chapter 2.md",
     "classical-chinese-medicine-magick.md",
     "components/NewsletterSignup.tsx",
@@ -223,7 +240,6 @@
     "docs/press.md",
     "docs/officiant 1.md",
     "docs/education.md",
-    "docs/Untitled.md",
     "docs/ritual.md",
     "docs/reiki.md",
     "layout.tsx",
@@ -232,7 +248,6 @@
     "qigong.md",
     "services.md",
     "EDITING.md",
-    "PERMISSIONS.md",
     "docs/writing",
     "docs/writing"
   ]
