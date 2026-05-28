@@ -72,7 +72,7 @@ The smiling, bare-bellied Cloth-Sack Monk, later identified as a manifestation o
 
 The full cliffnotes PDF gives each deity's traditional offering, feast day, exactly when to work with them, and what they're not good at.
 
-**[Send me the guide](KIT_HOSTED_FORM_URL)**
+**[Send me the guide](https://zachary-lui-2.kit.com/f19fdd161b)**
 
 *By subscribing you'll receive the guide and occasional emails from Zachary Lui. Unsubscribe anytime.*
 
