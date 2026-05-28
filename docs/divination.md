@@ -1,6 +1,6 @@
 ---
-title: Divination Coaching
-description: Clarity when the decision matters. Tarot and Mahjong divination with mediumship, for decisions where being wrong has consequences. Toronto.
+title: "Divination Coaching"
+description: "Clarity when the decision matters. Tarot and Mahjong divination with mediumship, for decisions where being wrong has consequences. Toronto."
 permalink: /divination
 draft: false
 ---
