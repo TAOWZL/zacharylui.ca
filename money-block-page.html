@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Money-Block Diagnosis · Zachary Lui</title>
+<meta name="description" content="Find which of three blocks is stalling your money. The front door to Divination Coaching with Zachary Lui, Riverdale Toronto.">
+<style>
+  :root{--ink:#1a1714;--muted:#6b635b;--line:#e4ddd3;--paper:#fbf8f3;--gold:#9c6f2e;--gold2:#c79a4f;--deep:#2a2320;--accent:#7a2e1f;--ok:#2f5d3a}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:"Iowan Old Style",Georgia,serif;background:var(--paper);color:var(--ink);line-height:1.55;padding:0 16px;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:640px;margin:0 auto;padding:40px 0 70px}
+  .kicker{font-family:ui-sans-serif,system-ui,sans-serif;letter-spacing:.16em;text-transform:uppercase;font-size:11px;color:var(--gold);font-weight:700}
+  h1{font-size:33px;line-height:1.12;margin:10px 0 12px;font-weight:600}
+  .sub{color:var(--muted);font-size:17px;margin-bottom:8px}
+  .priest{font-style:italic;color:var(--deep);font-size:15px;margin-top:14px}
+  .card{background:#fff;border:1px solid var(--line);border-radius:14px;padding:26px;margin-top:22px}
+  .q{font-size:19px;font-weight:600;margin-bottom:16px}
+  .qnum{font-family:ui-sans-serif,system-ui,sans-serif;font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--gold);font-weight:700;margin-bottom:6px}
+  .opt{display:block;width:100%;text-align:left;border:1px solid var(--line);background:var(--paper);border-radius:10px;padding:14px 16px;margin:9px 0;font-family:inherit;font-size:16px;color:var(--ink);cursor:pointer;transition:.15s}
+  .opt:hover{border-color:var(--gold2);background:#fff;transform:translateY(-1px)}
+  .bar{height:6px;background:var(--line);border-radius:99px;overflow:hidden;margin-bottom:22px}
+  .bar>i{display:block;height:100%;background:linear-gradient(90deg,var(--gold),var(--gold2));width:0;transition:.3s}
+  .btn{display:inline-block;background:var(--deep);color:#fff;font-family:ui-sans-serif,system-ui,sans-serif;font-weight:700;font-size:16px;border:none;border-radius:11px;padding:16px 26px;cursor:pointer;text-decoration:none}
+  .btn:hover{background:#000}
+  .btn.gold{background:var(--gold)}.btn.gold:hover{background:var(--accent)}
+  .btn.block{display:block;width:100%;text-align:center}
+  .rtype{font-family:ui-sans-serif,system-ui,sans-serif;letter-spacing:.16em;text-transform:uppercase;font-size:12px;font-weight:700;color:var(--gold)}
+  .rname{font-size:30px;font-weight:600;margin:6px 0 6px}
+  .mirror{font-style:italic;color:var(--deep);font-size:16px;margin:10px 0 16px;padding-left:14px;border-left:3px solid var(--gold2)}
+  .rbody p{margin-bottom:14px;font-size:17px}
+  .feels{background:var(--paper);border-left:3px solid var(--gold2);padding:12px 16px;margin:16px 0;font-size:16px;color:var(--deep)}
+  .cost{background:#fbf1ec;border:1px solid #eed8cd;border-radius:10px;padding:14px 16px;margin:18px 0;font-size:16px;color:var(--accent)}
+  .gain{background:#eef4ee;border:1px solid #d6e6d8;border-radius:10px;padding:14px 16px;margin:18px 0;font-size:16px;color:var(--ok)}
+  .door{font-family:ui-sans-serif,system-ui,sans-serif;font-size:14px;color:var(--muted);background:#fff;border:1px solid var(--line);border-radius:10px;padding:14px 16px;margin:16px 0}
+  .door b{color:var(--deep)}
+  .scarce{font-family:ui-sans-serif,system-ui,sans-serif;font-size:13px;color:var(--accent);font-weight:700;text-align:center;margin-top:10px}
+  .price{font-family:ui-sans-serif,system-ui,sans-serif;font-size:14px;color:var(--muted);margin-top:8px;text-align:center}
+  .foot{margin-top:30px;font-size:13px;color:var(--muted);font-family:ui-sans-serif,system-ui,sans-serif;text-align:center}
+  .lead{font-size:15px;color:var(--muted);font-family:ui-sans-serif,system-ui,sans-serif}
+  .hidden{display:none}
+  .email{margin-top:22px;text-align:center}
+  .email input{font-family:inherit;font-size:15px;padding:12px 14px;border:1px solid var(--line);border-radius:9px;width:64%;max-width:320px}
+  .emini{font-family:ui-sans-serif,system-ui,sans-serif;font-size:13px;color:var(--muted);margin-top:8px}
+  .legal{max-width:640px;margin:0 auto;border-top:1px solid var(--line);padding:22px 0 40px;font-family:ui-sans-serif,system-ui,sans-serif;font-size:12.5px;color:var(--muted);line-height:1.5}
+  .legal a{color:var(--gold)}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <section id="intro">
+    <div class="kicker">Ritual and Divination · one of three doors</div>
+    <h1>Why won't your money move?</h1>
+    <p class="sub">You've tried the things that are supposed to work. The strategy, the pushing, the long hours. And it's still stuck. I've worked with qi for 18 years, and what I keep finding is this: when money won't move, it's rarely a strategy problem. It's a flow problem. And there are only three ways the flow gets blocked.</p>
+    <p class="sub">Answer a few honest questions and I'll tell you which one's holding you, and what it's costing you to leave it.</p>
+    <p class="priest">Money is qi at scale. Qi that stops moving, stagnates. Let's find where yours is stuck.</p>
+    <div style="margin-top:24px">
+      <button class="btn gold" onclick="start()">Find my money-block →</button>
+      <p class="lead" style="margin-top:12px">Free · about a minute · your answer shows right away · no email required</p>
+    </div>
+  </section>
+
+  <section id="quiz" class="hidden">
+    <div class="bar"><i id="prog"></i></div>
+    <div class="card">
+      <div class="qnum" id="qnum"></div>
+      <div class="q" id="qtext"></div>
+      <div id="opts"></div>
+    </div>
+  </section>
+
+  <section id="result" class="hidden">
+    <div class="card">
+      <div class="rtype">Here's what I see</div>
+      <div class="rname" id="rname"></div>
+      <div class="mirror" id="rmirror"></div>
+      <div class="rbody" id="rbody"></div>
+      <div class="feels" id="rfeels"></div>
+      <div class="cost" id="rcost"></div>
+      <div class="gain" id="rgain"></div>
+
+      <div class="door">
+        <b>This is the front door.</b> Work begins with a Divination Coaching consultation. I read your chart and your qi, find the exact shape of your block, and give you the first thing to do about it. Ritual follows only if the pattern calls for it. One practitioner, three doors, and this line stays clean: spiritual work, not healthcare.
+      </div>
+
+      <a class="btn gold block" href="https://wujixuan.janeapp.com/#/staff_member/1">Book a Divination Coaching consultation →</a>
+      <div class="scarce" id="scarce">I take a limited number of these each week. Book before the week fills.</div>
+      <div class="price">$175 + tax · in person, Riverdale Toronto · Mon, Wed to Sun · 10am to 5pm</div>
+
+      <div class="email" id="emailblock">
+        <p class="lead" style="margin-bottom:10px">Not ready yet? Leave your email and I'll send your result plus one thing to start working on.</p>
+        <input id="emailin" type="email" placeholder="you@email.com" inputmode="email">
+        <button class="btn" style="padding:12px 16px;margin-left:6px" onclick="capture()">Send it</button>
+        <div class="emini" id="emini">No spam. Just the one thing.</div>
+      </div>
+    </div>
+    <p class="priest" style="text-align:center;margin-top:22px">I read where it's stuck and what to work. I work the gods that work.</p>
+    <div class="foot"><button class="btn" style="background:#cdbfa8;color:#2a2320" onclick="location.reload()">Start over</button></div>
+  </section>
+
+  <div class="foot">Feng shui structures the room. I structure you.</div>
+</div>
+
+<div class="legal">
+  Divination Coaching is spiritual work, not a regulated health service. It sits outside the Registered Acupuncturist (R.Ac) scope and is not a substitute for medical, mental health, legal, or professional advice of any kind. Acupuncture is offered separately as a regulated health service under the <a href="https://www.ctcmpao.on.ca/publicregistersrc/">College of Traditional Chinese Medicine Practitioners and Acupuncturists of Ontario</a>. © 2026 Zachary Lui.
+</div>
+
+<script>
+const Q=[
+ {k:"qual",t:"First, where are you at with money right now?",
+  a:[["I run a business or practice and it's plateaued.","owner"],
+     ["I'm building something and it won't take off.","builder"],
+     ["I make money, but it leaks out faster than it comes in.","leaker"]]},
+ {k:"score",t:"When money gets tight, what do you actually do?",
+  a:[["Clamp down. Cut everything, control every dollar, trust no one.","grip"],
+     ["Start three new things at once to chase it.","scatter"],
+     ["Push through on empty. I'm already running on fumes.","deplete"]]},
+ {k:"score",t:"Right now, your business feels like:",
+  a:[["A clenched fist. I'm holding it together by force.","grip"],
+     ["A dozen open tabs. Lots of ideas, nothing finished.","scatter"],
+     ["A dead battery. I'm giving way more than I get back.","deplete"]]},
+ {k:"score",t:"Be honest with me about letting go and spending.",
+  a:[["I can't let go. If I'm not on it, it falls apart.","grip"],
+     ["I'll throw money at anything new and shiny.","scatter"],
+     ["I've got nothing left to give. Money or energy.","deplete"]]},
+ {k:"body",t:"When you think about money, what does your body do?",
+  a:[["Jaw tightens, shoulders climb, chest braces.","grip"],
+     ["Goes buzzy and restless, can't settle.","scatter"],
+     ["Goes heavy and foggy, tired in the bones.","deplete"]]},
+ {k:"score",t:"Which of these hits hardest?",
+  a:[["If I loosen my grip even a little, it all falls apart.","grip"],
+     ["I never finish the thing that would actually pay me.","scatter"],
+     ["I'm too worn out to even want it anymore.","deplete"]]},
+ {k:"dur",t:"How long's it felt stuck?",
+  a:[["A few months. It's recent.","a few months now"],
+     ["A year or more.","over a year now"],
+     ["Honestly? Long as I can remember.","as long as you can remember"]]},
+ {k:"cost",t:"What's the stuck money really costing you?",
+  a:[["My sleep. I think about it all the time.","your sleep"],
+     ["The growth I know is sitting right there.","the growth you know is right there"],
+     ["The whole life I started this for.","the life you started this for"]]},
+ {k:"ready",t:"If I showed you where it's stuck and what to do first, where are you at?",
+  a:[["Ready. I'm done staying stuck.","ready"],
+     ["I want to, but part of me's scared.","scared"],
+     ["I'd need to see it before I buy in.","skeptic"]]}
+];
+
+const R={
+ grip:{name:"You're a Gripper",
+   body:["Your money won't move because you're holding on too tight. The fear, the need to control every piece of it, it squeezes the channel shut. And a shut channel can't flow. In a business it shows up as not being able to delegate, not being able to spend, not trusting that what goes out comes back to you.",
+         "You're not lazy, and you didn't land here by accident. You're just gripping. And the cruel part is, the tighter you hold, the less actually moves. You probably feel that every single time you try to loosen up."],
+   feels:"You know it by the body: jaw tight, shoulders up, that flash of panic when someone says “just let go.”",
+   cost:"If you leave it, it doesn't ease on its own. It tightens. The longer you hold, the narrower the channel gets, and good chances slide past you, because with the fist closed, nothing can get in either.",
+   gain:"But once a gripper finally opens the hand, the money tends to move quick. The pressure was never the problem. The grip was. Where exactly you're clamped, and what to loosen first, that's different for everybody. That's the part I read for you."},
+ scatter:{name:"You're a Scatterer",
+   body:["Your money won't move because you're spread too thin. Your energy's running twenty directions at once, and energy that scattered doesn't really go anywhere. Five ideas, five half-built things, five tabs open. None of them gets enough behind it to actually pay you.",
+         "This isn't about working harder. You've got plenty of hustle. It's that you can't land on one thing, and every shiny new idea pulls you a little further apart."],
+   feels:"You know it by the buzz: restless, always starting something, hardly ever finishing the thing that would've paid.",
+   cost:"Leave it and it snowballs. More projects, more half-bets, more energy bleeding out, and the one channel that could've carried you never gets built.",
+   gain:"But point all that force one direction and your income can turn around fast. The whole game is finding the one channel your money should pour into. Which one that is for you, I can usually see it in your chart."},
+ deplete:{name:"You're Depleted",
+   body:["Your money won't move because the tank's empty. There's nothing left to push it with. You've been pouring out and never refilling, and a dead battery can't run anything, no matter how hard you try.",
+         "This isn't a willpower problem. You're just spent. Money can't move through someone running on fumes, and pushing harder only empties you faster."],
+   feels:"You know it in the body: heavy, foggy, too tired to even want it anymore.",
+   cost:"Leave it and it sinks deeper. The harder you push an empty tank, the more you burn through the little bit you'd need to climb back out.",
+   gain:"But people in this spot come back quicker than they expect, because once you refill, the money that was always there can finally move. What to fill first, what to stop pouring out, that part's specific to you. That's what I read."}
+};
+
+let i=0, score={grip:0,scatter:0,deplete:0}, picks={};
+function start(){hide('intro');show('quiz');render();}
+function render(){
+  const q=Q[i];
+  document.getElementById('qnum').textContent=`Question ${i+1} of ${Q.length}`;
+  document.getElementById('qtext').textContent=q.t;
+  document.getElementById('prog').style.width=`${(i/Q.length)*100}%`;
+  const box=document.getElementById('opts'); box.innerHTML='';
+  q.a.forEach(([label,val])=>{
+    const b=document.createElement('button'); b.className='opt'; b.innerHTML=label;
+    b.onclick=()=>{ if(q.k==='score')score[val]++; else picks[q.k]=val; next(); };
+    box.appendChild(b);
+  });
+}
+function next(){i++; if(i<Q.length)render(); else finish();}
+function finish(){
+  hide('quiz'); show('result');
+  let top='grip',max=-1;
+  for(const k in score){ if(score[k]>max){max=score[k];top=k;} }
+  const r=R[top];
+  document.getElementById('rname').textContent=r.name;
+  const bodyTell = {grip:"your jaw tightens and you can't let go",scatter:"you go buzzy and can't settle",deplete:"you go heavy, foggy, and tired in the bones"}[top];
+  document.getElementById('rmirror').innerHTML =
+    `You told me it's been stuck <b>${picks.dur||'a while'}</b>, that it's costing you <b>${picks.cost||'more than money'}</b>, and that when money comes up, <b>${bodyTell}</b>. I've seen this one plenty. It's got a name.`;
+  document.getElementById('rbody').innerHTML=r.body.map(p=>`<p>${p}</p>`).join('');
+  document.getElementById('rfeels').innerHTML=r.feels;
+  document.getElementById('rcost').innerHTML=r.cost;
+  document.getElementById('rgain').innerHTML=r.gain;
+  const ready=picks.ready;
+  const scarceEl=document.getElementById('scarce');
+  if(ready==='scared') scarceEl.innerHTML="That scared part? That's the grip talking. You don't have to do this alone, that's the whole point of the consultation. I keep a few spots open each week.";
+  else if(ready==='skeptic') scarceEl.innerHTML="You don't have to take my word for it. Come see it in your own chart. I keep a few spots each week.";
+}
+function capture(){
+  const v=document.getElementById('emailin').value;
+  if(!v||v.indexOf('@')<0){document.getElementById('emini').textContent="Pop in a real email and I'll send it over.";return;}
+  // TODO: wire to your Mailchimp form endpoint
+  document.getElementById('emailblock').innerHTML='<p class="lead">Done. Check your inbox for your result and your first practice. When you’re ready to actually clear it, you know where to find me.</p>';
+}
+function hide(id){document.getElementById(id).classList.add('hidden');}
+function show(id){document.getElementById(id).classList.remove('hidden');}
+</script>
+</body>
+</html>
