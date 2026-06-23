@@ -25,10 +25,14 @@
             "id": "b831cf75b5ec68d7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "docs/writing/Chapter 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 1"
             }
           }
         ],
@@ -205,8 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6789042287634e9",
+  "active": "b831cf75b5ec68d7",
   "lastOpenFiles": [
+    "docs/writing.md",
+    "docs/money-block",
     "docs/money-block-page.html",
     "docs/wealth deities.md",
     "docs/money-block.md",
@@ -218,7 +224,6 @@
     "docs/The 8 Chinese Wealth Deities.md",
     "docs/writing/Chapter 1.md",
     "docs/index.md",
-    "docs/writing.md",
     "docs/writing/chinese-medicine-is-75-years-old.md",
     "docs/writing/Chapter 2.md",
     "classical-chinese-medicine-magick.md",
