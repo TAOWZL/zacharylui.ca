@@ -26,7 +26,7 @@ From The Magick That Never Left: Classical Chinese Medicine and the Tradition St
 
 *~15 minute read*
 
-*Note: Names and identifying details of clients in this book have been changed or composited to protect privacy. The clinical patterns are real, the specific people aren't pinpointable.*
+*A quick note before we start. This is a personal essay about the history, philosophy, and spiritual side of Chinese medicine, not medical advice and not a description of treatment I sell. The divination, ritual, and cultivation work I describe is spiritual practice, not regulated healthcare, and nothing here is offered as a treatment result. The people described are changed or composited to protect privacy, and every scene is an illustration of the kind of work I do, not a record of a real session.*
 
 ![Mahjong tiles on a wooden table](https://zacharylui.ca/images/01_mahjong.png)
 
@@ -54,7 +54,7 @@ What I'd done in that room wasn't fortune-telling, even though from the outside 
 
 I'm writing this as a working practitioner first and foremost. Quick on the credentials so you know where I'm coming from.
 
-On the TCM side, my education is through a CTCMPAO-accredited [acupuncture](https://zacharylui.ca/acupuncture) program, that's what my R.Ac registration is built on. Outside that regulated education, I've also trained with teachers in Daoist medical and imperial-acupuncture lineages who'd rather not be named publicly, supplementary lineage stuff rather than the formal piece.
+On the TCM side, my education is through a CTCMPAO-accredited [acupuncture](https://zacharylui.ca/acupuncture) program, that's what my R.Ac registration is built on. Outside that regulated education, I've also trained with teachers in Daoist medical and imperial-acupuncture lineages who'd rather not be named publicly. To be clear, that's personal, supplementary lineage study, not a formal credential and not a claim to any acupuncture specialty or expertise beyond my R.Ac registration. The College registers the R.Ac (and the TCM practitioner title); it doesn't certify "lineage" anything, and I'm not suggesting otherwise.
 
 On the cultivation side, I'm a Master of Medical [Qigong](https://zacharylui.ca/qigong) (trained under Robert Youngs at IIMQ Canada), holder of Mao Shan Shangqing transmission (direct master-to-student, not institutional ordination), plus Daoist folk magic practice.
 
