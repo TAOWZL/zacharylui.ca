@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/about.md",
+                "file": "docs/writing/Chapter 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
-            }
-          },
-          {
-            "id": "b831cf75b5ec68d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/writing/Chapter 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 1"
+              "title": "Chapter 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,8 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b831cf75b5ec68d7",
+  "active": "cfee51bb35df5da3",
   "lastOpenFiles": [
+    "docs/about.md",
+    "docs/writing/Chapter 2.md",
+    "docs/writing/Chapter 2.md",
+    "docs/writing/Chapter 2.md",
+    "docs/writing/Chapter 1.md",
     "docs/writing.md",
     "docs/money-block",
     "docs/money-block-page.html",
@@ -220,12 +210,9 @@
     "docs/divination.md",
     "docs/acupuncture.md",
     "docs/education.md",
-    "docs/about.md",
     "docs/The 8 Chinese Wealth Deities.md",
-    "docs/writing/Chapter 1.md",
     "docs/index.md",
     "docs/writing/chinese-medicine-is-75-years-old.md",
-    "docs/writing/Chapter 2.md",
     "classical-chinese-medicine-magick.md",
     "components/NewsletterSignup.tsx",
     "public/images/08_huoshenshan.png",
@@ -250,7 +237,6 @@
     "layout.tsx",
     "divination.md",
     "qigong.md",
-    "services.md",
     "docs/writing",
     "docs/writing"
   ]
