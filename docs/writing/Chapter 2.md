@@ -1,15 +1,20 @@
 ---
-canonical: https://zacharylui.ca/the-magick-was-never-the-add-on/
-meta-description: Most people think the magick in Chinese medicine was bolted on later. It's the other way around. The oldest Chinese medical manuscripts ever unearthed put the herbal cure and the spell on the same page, and Sun Simiao, the tradition's most canonical doctor, wrote both in one book without blinking.
-meta-og:title: The Magick Was Never the Add-On
-meta-og:description: Most people think the magick in Chinese medicine was bolted on later. It's the other way around. The oldest Chinese medical manuscripts ever unearthed put the herbal cure and the spell on the same page, and Sun Simiao, the tradition's most canonical doctor, wrote both in one book without blinking.
-meta-og:url: https://zacharylui.ca/the-magick-was-never-the-add-on/
-meta-og:image: https://zacharylui.ca/images/09_yi_character.png
-meta-twitter:card: summary_large_image
-meta-twitter:image: https://zacharylui.ca/images/09_yi_character.png
-meta-twitter:title: The Magick Was Never the Add-On
-meta-twitter:description: Most people think the magick in Chinese medicine was bolted on later. It's the other way around. The oldest Chinese medical manuscripts ever unearthed put the herbal cure and the spell on the same page, and Sun Simiao, the tradition's most canonical doctor, wrote both in one book without blinking.
-title: The Magick Was Never the Add-On | Zachary Lui
+title: The Magick Was Never the Add-On
+description: Most people think the magick in Chinese medicine was bolted on later. It's the other way around. The oldest Chinese medical manuscripts ever unearthed put the herbal cure and the spell on the same page, and Sun Simiao, the tradition's most canonical doctor, wrote both in one book without blinking.
+date: 2026-06-24
+tags:
+- chinese-medicine
+- classical-chinese-medicine
+- etymology
+- sun-simiao
+- daoist-medicine
+- magick
+- book-chapter
+draft: false
+cover: /images/09_yi_character.png
+permalink: /the-magick-was-never-the-add-on/
+aliases:
+- the-magick-was-never-the-add-on
 ---
 
 # The Magick Was Never the Add-On
