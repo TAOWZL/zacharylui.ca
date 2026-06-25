@@ -1,5 +1,5 @@
 ---
-title: The Split Was the Add-On
+title: The Magick Was Never the Add-On
 description: Modern training hands you a Chinese medicine scrubbed of its spirits and calls the clean version the original. The record runs the other way. For a thousand years the line between medicine and magick was there to draw, and the doctors at the center of the tradition kept refusing. Sun Simiao, its most canonical figure, put the spells in his own formulary.
 date: 2026-06-24
 tags:
@@ -17,7 +17,7 @@ aliases:
 - the-magick-was-never-the-add-on
 ---
 
-# The Split Was the Add-On
+# The Magick Was Never the Add-On
 
 From *The Magick That Never Left: Classical Chinese Medicine and the Tradition Still Beneath It*
 
@@ -79,7 +79,7 @@ Here's the part the foundations class skips. The sequel also contains what schol
 
 This is the heart of the case, so press on it. The objection isn't that Sun couldn't have drawn the line. By the time the Yellow Emperor's classic was compiled, elite literate medicine was already drawing it, and drawing it against the wu. One Suwen passage runs, in effect, that with someone "bound up with ghosts and spirits" you cannot even begin to talk real medicine. A skeptic reads that and says: there's your proof, the serious tradition had already cut the spirit-work loose, and what carried on was folk superstition the literati had outgrown. That reading has teeth, and I'll grant it the strong form. The classics drew the line themselves, early.
 
-Here's why it still doesn't carry. The line got drawn, and then the people at the center stepped over it on purpose. Sun, the most canonical doctor the tradition has, read the Suwen and still put the spells in his own formulary. Centuries on, the Yuan academy read the same misgivings and still listed ritual healing among its thirteen subjects, beside acupuncture, on the licensing roster. The Suwen's distaste and zhuyou's place on the state exam are both true at once: two threads twisted into one rope, arguing the whole way down, neither one throwing the other out. The clean, total cut comes only with the modern reform, the twentieth-century remaking of Chinese medicine into a secular, standardized profession, which is the story of chapter 1. This chapter only fixes the before.
+Here's why it still doesn't carry. The line got drawn, and then the people at the center stepped over it on purpose. Sun, the most canonical doctor the tradition has, read the Suwen and still put the spells in his own formulary. Centuries on, the Yuan academy read the same misgivings and still listed ritual healing among its thirteen subjects, beside acupuncture, on the licensing roster. The Suwen's distaste and zhuyou's place on the state exam are both true at once: two threads twisted into one rope, arguing the whole way down, neither one throwing the other out. Two claims hide in that title, and they're worth keeping apart: that the spirit-work was load-bearing and there from the start, which is what this chapter defends, and that pulling it cleanly out was a late act rather than an early one. "Never the add-on" is the first claim. It denies the spirit-work was ever bolted on, not the slow centuries of prying that came before the clean cut. The clean, total cut comes only with the modern reform, the twentieth-century remaking of Chinese medicine into a secular, standardized profession, which is the story of chapter 1. This chapter only fixes the before.
 
 ![A cinnabar-red paper talisman, one corner burned to ash, beside a dark bowl of herbal decoction and dried mugwort.](https://zacharylui.ca/images/12_talisman_decoction.png)
 
