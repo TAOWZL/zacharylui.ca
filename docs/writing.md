@@ -15,6 +15,7 @@ The Magick That Never Left — a serialized book
 A serialized book on classical Chinese medicine — what the standardized curriculum left out, where the deeper tradition persisted, and what practice looks like with the full toolkit still intact.
 
 - [Chapter 1: Chinese Medicine Is 75 Years Old](https://zacharylui.ca/chinese-medicine-is-75-years-old) — A mahjong reading that wasn't fortune-telling. Why the version of Chinese medicine you encounter is 75 years old, not 4,000. What got de-centered in the post-war reform. Why the magick never actually left.
+- [Chapter 2: The Magick Was Never the Add-On](https://zacharylui.ca/the-magick-was-never-the-add-on). The word for "doctor" has a shaman under the wine jar. The oldest medical manuscripts ever dug up shelve the spell next to the drug, and Sun Simiao wrote both in one book without blinking. The split is the modern part, not the magick.
 
 Subsequent chapters drop when they're ready. [Subscribe to get the next one when it lands →](https://zachary-lui.kit.com/f6fa3a92ab)
 
