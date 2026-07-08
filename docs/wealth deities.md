@@ -17,9 +17,9 @@ Find the type that fits your situation, then find the deity that resonates.
 
 **Effort-wealth.** The kind you earn through action. Bǐ Gàn and Zhào Gōngmíng.
 
-**Structural-wealth.** The kind that comes with a position or a place. Tǔ Dì Gōng, Guān Yǔ, and Lù Xīng.
-
 **Fortune-wealth.** The kind that comes to you. Liú Hǎi, Fú Xīng, and Bùdài.
+
+**Structure-wealth.** The kind that comes with a position or a place. Tǔ Dì Gōng, Guān Yǔ, and Lù Xīng.
 
 ## The eight, at a glance
 
@@ -27,12 +27,12 @@ Find the type that fits your situation, then find the deity that resonates.
 |---|---|---|
 | 比干 Bǐ Gàn | Effort | Honest, earned money |
 | 趙公明 Zhào Gōngmíng | Effort | Aggressive business, competition |
-| 土地公 Tǔ Dì Gōng | Structural | Foundation, local stability |
-| 關羽 Guān Yǔ | Structural | Partnerships, sworn agreements |
-| 祿星 Lù Xīng | Structural | Bureaucratic positions, salary |
 | 劉海 Liú Hǎi | Fortune | Luck, windfalls, comebacks |
 | 福星 Fú Xīng | Fortune | Family fortune, broad blessing |
 | 布袋 Bùdài | Fortune | Contentment, generosity |
+| 土地公 Tǔ Dì Gōng | Structure | Foundation, local stability |
+| 關羽 Guān Yǔ | Structure | Partnerships, sworn agreements |
+| 祿星 Lù Xīng | Structure | Bureaucratic positions, salary |
 
 ## Who they are
 
@@ -78,7 +78,7 @@ The full cliffnotes PDF gives each deity's traditional offering, feast day, exac
 
 ## From here
 
-One episode on each of these eight is rolling out on [@thezacharylui](https://www.instagram.com/thezacharylui), then the rest of the pantheon. One per week. Follow if you want depth.
+One episode on each of these eight is rolling out on YouTube at [@thezacharylui](https://www.youtube.com/@thezacharylui), then the rest of the pantheon. One per week, with clips on [Instagram](https://www.instagram.com/thezacharylui). Subscribe if you want depth.
 
 When you're ready to bring a specific situation, the gate is **Divination Coaching**. One hour. I read what you bring and what's standing in the way, then give you spiritual suggestions and exercises to move through it. This is coaching, not a passive service: I point the way, you do the work.
 
