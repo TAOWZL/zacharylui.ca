@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { siteConfig } from "@/site.config";
+import FooterContact from "@/components/FooterContact";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
@@ -61,33 +62,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 
           <footer className="footer-shell">
             <div className="grid gap-8 md:grid-cols-2">
-              <div className="space-y-1">
-                <p className="font-semibold text-zinc-100">Zachary Lui, R.Ac</p>
-                <p>Wuji Xuan Life Wellness</p>
-                <p>
-                  <a
-                    href="https://maps.google.com/?q=255+Broadview+Avenue+Toronto+ON"
-                    className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400"
-                  >
-                    255 Broadview Avenue, Toronto ON
-                  </a>
-                </p>
-                <p>
-                  <a href="tel:+14165955525" className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400">
-                    416-595-5525
-                  </a>
-                </p>
-                <p className="pt-3 text-xs text-zinc-500">
-                  Related:{" "}
-                  <a
-                    href="https://queencitycurio.ca"
-                    rel="noopener"
-                    className="text-zinc-400 visited:text-zinc-400 no-underline hover:text-gold-400"
-                  >
-                    Queen City Curio
-                  </a>
-                </p>
-              </div>
+              <FooterContact />
 
               <nav aria-label="Footer" className="space-y-2">
                 <p className="font-semibold text-zinc-100">Practice</p>
@@ -129,4 +104,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       </body>
     </html>
   );
+}
+
 }
