@@ -51,11 +51,11 @@ a:hover {
 }
 
 .heading-2 {
-  @apply mt-8 mb-4 border-b border-charcoal-800 pb-2 text-2xl font-semibold leading-snug text-gold-400 md:mt-12 md:text-3xl;
+  @apply mt-8 mb-4 border-b border-charcoal-800 pb-2 text-3xl font-semibold leading-snug text-gold-400 md:mt-12 md:text-4xl;
 }
 
 .heading-3 {
-  @apply mt-8 mb-3 text-2xl font-semibold text-zinc-100 md:text-3xl;
+  @apply mt-8 mb-3 text-[26px] font-semibold text-zinc-100 md:text-[32px];
 }
 
 .heading-4 {
@@ -73,13 +73,13 @@ a:hover {
 /* ── Paragraphs ───────────────────────────────────────────── */
 
 .para {
-  @apply mb-5 text-lg leading-relaxed text-zinc-200 md:text-xl;
+  @apply mb-5 text-xl leading-relaxed text-zinc-200 md:text-[22px];
 }
 
 /* ── Lists ─────────────────────────────────────────────── */
 
 .list-disc-custom {
-  @apply mb-6 mt-2 space-y-2 pl-6 text-lg text-zinc-200 md:text-xl;
+  @apply mb-6 mt-2 space-y-2 pl-6 text-xl text-zinc-200 md:text-[22px];
 }
 
 .list-disc-custom li {
