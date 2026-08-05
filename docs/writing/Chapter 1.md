@@ -26,7 +26,7 @@ From The Magick That Never Left: Classical Chinese Medicine and the Tradition St
 
 *~15 minute read*
 
-*This is chapter one of a serialized book. Start here, or [jump ahead to chapter two](https://zacharylui.ca/the-magick-was-never-the-add-on/). I practise this medicine for a living; the full credentials and the usual disclaimers are at the bottom.*
+*This is chapter one of a serialized book. Start here, or [jump ahead to chapter two](https://zacharylui.ca/the-magick-was-never-the-add-on/). I practise this medicine for a living; the full credentials and the usual disclaimers are at the bottom. Anyone described here is changed and composited; every scene is an illustration, not a record of any real session.*
 
 ![Mahjong tiles on a wooden table](https://zacharylui.ca/images/01_mahjong.png)
 
@@ -35,6 +35,8 @@ So she comes in for a reading and I tell her, pick the tile closest to you, what
 She flips. Three. I told her you get threes a lot in your life. She said yeah, three's actually her number. Three keeps popping for the whole reading too, generally going wild on threes.
 
 I told her, your spirit guides, and that's a broad term I'm using, there's actually three ancestresses you should be working with. And this here, this says they've been trying to get to you in your dreams, you get pissed off that they bug you in your dreams, I think you actually wake up with night terrors occasionally. It's because you're not listening to them. Don't ask for a door to be open if you don't want it open, right. That's why I had to work with the dead here, because it's pretty clear your ancestors want to work with you and they got goods, but there's going to be some harsh lessons. It's coming from far back in the line.
+
+And to be clear, recurring night terrors are also see-a-doctor territory, a sleep clinic if it keeps up. The tiles don't replace that, they never will.
 
 I asked her where her family's from. Mountains or ocean. She said her dad's side is ocean, mom's side is mountain. That's what I thought. So this was all the maternal line, threes everywhere, Korean ancestresses on the mountain side. And they don't really sugarcoat anything in the readings, mountain people generally don't. So this was them being polite about it. To be clear, I'm not claiming Muism credentials, the mudang have their own tradition and their own training, I'm reading what showed up in front of me with the tools I work with and pointing her back to her own line where it lives.
 
@@ -60,7 +62,7 @@ Real quick on the modern Canadian curriculum. It's roughly two to three years fo
 
 That's the official curriculum. Unofficially, faculty bring lineage material into clinical instruction, Master Tung's points, Balance Method, methods from the parallel Japanese and Korean acupuncture traditions, medical qigong, Wu Yun Liu Qi calendrical acupuncture, bazi diagnostics, family-line technique adjustments, and plenty more depending on the instructor. Stuff that's not in the syllabus but every decent instructor brings in anyway.
 
-So that's what TCM is. Comprehensive enough that you can actually treat patients, and you'll get results out of it. But it's also a specific historical version of Chinese medicine, the post-war reform version, and that history matters for what comes next.
+So that's what TCM is. Comprehensive enough that you can actually treat patients, and it holds up in practice. But it's also a specific historical version of Chinese medicine, the post-war reform version, and that history matters for what comes next.
 
 ---
 
@@ -113,7 +115,7 @@ Here's the thing though. The same split runs right through the textbooks today, 
 
 Mao did the same thing himself by the way. Publicly, no superstition allowed in the new system. The folk record, and I'm telling you upfront it's folk record, unverifiable, says he consulted Daoist diviners on dates and numbers, kept his security unit under a number tied to a prediction about his life, and ran his big moves inside that framework anyway. I pass it along because even as a story it's telling: that's the shape people who lived under the system remember it having.
 
-So when we get to the chapters on bazi diagnostics, ritual intervention, channel narratives, all the stuff that follows, don't file any of that under the magick department for me. The standardized curriculum names some of it and not the rest, but the rest is still part of the tradition. Both versions are Chinese medicine, the standardized and the classical, they just aren't doing the same job. Same tradition, different operating modes, the classical mode just keeps more of itself switched on basically, more of the framing and cultivation in the room. To be clear that's a claim about how complete the version is, not a promise about what any given treatment will do. The buffet's open, the food's safe, you'll get results out of it. But the rest of this book is going to be about the secret menu, the stuff that isn't really mainstream but is in the kitchen if you know to ask.
+So when we get to the chapters on bazi diagnostics, ritual intervention, channel narratives, all the stuff that follows, don't file any of that under the magick department for me. The standardized curriculum names some of it and not the rest, but the rest is still part of the tradition. Both versions are Chinese medicine, the standardized and the classical, they just aren't doing the same job. Same tradition, different operating modes, the classical mode just keeps more of itself switched on basically, more of the framing and cultivation in the room. To be clear that's a claim about how complete the version is, not a promise about what any given treatment will do. The buffet's open, the food's safe. But the rest of this book is going to be about the secret menu, the stuff that isn't really mainstream but is in the kitchen if you know to ask.
 
 Same world either way, just two eyes looking at you, doesn't really matter which one you focus on, you're still looking at the same face anyway.
 
@@ -123,15 +125,15 @@ Same world either way, just two eyes looking at you, doesn't really matter which
 
 ---
 
-**The Secret Menu Index.** One page: everything the standardized curriculum dropped, renamed, or de-framed, and where each piece went. Free, by email. [Get it here.](https://zachary-lui.kit.com/f6fa3a92ab)<!-- INDEX DELIVERY — wire the PDF to this signup when live -->
+**The Secret Menu Index.** One page: everything the standardized curriculum dropped, renamed, or de-framed, and where each piece went. Free, by email. [Get it here.](https://zachary-lui.kit.com/f6fa3a92ab)
 
-The Secret Menu is the paid tier of this book, the operative side of the work that doesn't go in the free chapters. It opens soon, and the email list gets it first.
+The Secret Menu is the paid tier of this book, the operative side of the work that doesn't go in the free chapters. It opens soon at $25 a month, and the email list gets it first.
 
 ---
 
 ## A few things before you go
 
-*A quick note on everything you just read. This is a personal essay about the history, philosophy, and spiritual side of Chinese medicine, not medical advice and not a description of treatment I sell. The divination, ritual, and cultivation work I describe is spiritual practice, not regulated healthcare, and nothing here is offered as a treatment result. The people described are changed or composited to protect privacy, and every scene is an illustration of the kind of work I do, not a record of a real session.*
+*A quick note on everything you just read. This is a personal essay about the history, philosophy, and spiritual side of Chinese medicine, not medical advice and not a description of treatment I sell. The divination, ritual, and cultivation work I describe is spiritual practice, not regulated healthcare, and nothing here is offered as a treatment result. The people described are changed and composited; no person described corresponds to any identifiable individual, and every scene is an illustration, not a record of any real session. In Ontario, acupuncture is a regulated health service, delivered without supernatural claims and with no guaranteed results; divination, Reiki, Qigong, and ritual are separate, are not regulated health services, and are not offered to diagnose, treat, or cure any condition.*
 
 I'm writing this as a working practitioner first and foremost. Quick on the credentials so you know where I'm coming from.
 

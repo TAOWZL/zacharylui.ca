@@ -95,7 +95,7 @@ That is the claim, and I want it plain: the practitioner who still holds the und
 
 A woman comes in with shoulder pain, another composite. The narrow read is easy: local points, distal points, book her in next week, and to be fair, shoulders often do fine on exactly that. But let her talk and the timeline comes out sideways. The pain started the month she moved her mother into her house. She keeps calling it "carrying something," her words, not mine. In every story she tells about herself, she's the one holding somebody up. Same shoulder, same needles, mostly. What shifts is the conversation, a point choice here and there at the margins, what I'm watching for across the next few visits, because now I'm working with a pattern the intake form has no box for. Did any of that fix the shoulder? I can't tell you it did, and I'm not going to pretend there's research saying so. What I can tell you is what the narrow read would have walked right past.
 
-Now the fence, because it earns its place. This is about attention, not outcome. I am not telling you any of this cured his sleep or her shoulder, and you can work the needle eye your whole career and do real, regulated, honest work.
+Now the fence, because it earns its place. This is about attention, not outcome. I am not telling you any of this cured his sleep or her shoulder, and you can work the needle eye your whole career and do real, regulated, honest work. And when what surfaces is grief, or sleep, that needs its own professional, that referral gets made. The wider frame adds to the work, it never replaces it.
 
 But you cannot work with what you never let yourself look at. Two eyes, one face. The old doctors used both without thinking it strange, and the medicine came down to us with the whole face still on.
 
@@ -107,17 +107,17 @@ And the secret menu I promised in chapter one: that's where the operative side o
 
 ---
 
-**The Secret Menu Index.** One page: everything the standardized curriculum dropped, renamed, or de-framed, and where each piece went. Free, by email. [Get it here.](https://zachary-lui.kit.com/f6fa3a92ab)<!-- INDEX DELIVERY — wire the PDF to this signup when live -->
+**The Secret Menu Index.** One page: everything the standardized curriculum dropped, renamed, or de-framed, and where each piece went. Free, by email. [Get it here.](https://zachary-lui.kit.com/f6fa3a92ab)
 
-**The Secret Menu.** The paid tier of this book: the operative side, the parts that don't go out free. It opens soon, and [subscribers](https://zachary-lui.kit.com/f6fa3a92ab) hear first.
-<!-- EDITOR DECISION (conversion seat, 2026-08-04): spec asks for price + platform in this teaser; neither is decided yet, so the interim wording above ships without them pending Zac's explicit sign-off. When price/platform are set (e.g. "$X/month on [platform]"), add them here. -->
+**The Secret Menu.** The paid tier of this book: the operative side, the parts that don't go out free. It opens soon at $25 a month, and [subscribers](https://zachary-lui.kit.com/f6fa3a92ab) hear first.
+
 
 
 ---
 
 *The full note, as promised up top. This is a personal essay on the history and philosophy of Chinese medicine, and on my own spiritual practice, not medical advice. When I describe what classical doctors did (exorcism, talismans, spirits, demons), I'm reporting the historical record, not a treatment I sell. I use "magick," with the k, as loose shorthand for the old craft (exorcism, talismans, incantation, divination, ritual) and not for stage tricks. Anyone described here is composited; every scene is an illustration, not a record of a real person.*
 
-*This essay is for historical and educational interest and reflects my own views and spiritual practice. It is not medical, mental-health, or professional advice, and everything I say about classical Chinese medicine describes the historical and scholarly record, not services I provide. In Ontario, acupuncture is a regulated health service, delivered without supernatural claims and with no guaranteed results; divination, Reiki, Qigong, and ritual are separate, are not regulated health services, and are not offered to diagnose, treat, or cure any condition.*
+*This essay is for historical and educational interest and reflects my own views and spiritual practice. It is not medical, mental-health, or professional advice, and the classical practices described here, the exorcisms, the talismans, the demon-points, are the historical and scholarly record, not services I provide; the clinic scenes are composites illustrating attention within ordinary regulated practice. In Ontario, acupuncture is a regulated health service, delivered without supernatural claims and with no guaranteed results; divination, Reiki, Qigong, and ritual are separate, are not regulated health services, and are not offered to diagnose, treat, or cure any condition.*
 
 ---
 
