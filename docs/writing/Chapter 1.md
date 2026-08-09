@@ -165,6 +165,8 @@ For the Classical Chinese Medicine vs Traditional Chinese Medicine distinction s
 
 On Mao's private views, Li Zhisui's *The Private Life of Chairman Mao: The Memoirs of Mao's Personal Physician* from Random House 1994 is the source for the "I personally do not believe in it" quote, and again, that's been challenged so use the appropriate hedging. Alan Levinovitz wrote a more accessible piece in Slate in 2013 called ["Chairman Mao Invented Traditional Chinese Medicine. But He Didn't Believe in It"](https://slate.com/technology/2013/10/traditional-chinese-medicine-origins-mao-invented-it-but-didnt-believe-in-it.html) if you want a shorter read on it.
 
+A note on method. I don’t read Chinese. Everything classical in this book comes to me through translation, mainly Unschuld and Harper, and where I quote a rendering I name whose it is. Characters I check against a character dictionary rather than a TCM textbook, because the textbooks repeat each other and that’s how a bad gloss travels. I’d rather you know the limits of the tools than assume I have ones I don’t.
+
 For the COVID cold-damp plague classification, Yujiao Zheng and Tong Xiaolin's team published ["Understanding COVID-19 in Wuhan From the Perspective of Cold-Dampness: Clinical Evidences and Mechanisms"](https://doi.org/10.3389/fmed.2021.617659) in *Frontiers in Medicine* in 2021 that lays out the diagnostic and treatment frame.
 
 ---
