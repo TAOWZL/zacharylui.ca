@@ -97,7 +97,13 @@ A woman comes in with shoulder pain, another composite. The narrow read is easy:
 
 Now the fence, because it earns its place. This is about attention, not outcome. I am not telling you any of this cured his sleep or her shoulder, and you can work the needle eye your whole career and do real, regulated, honest work. And when what surfaces is grief, or sleep, that needs its own professional, that referral gets made. The wider frame adds to the work, it never replaces it.
 
-But you cannot work with what you never let yourself look at. Two eyes, one face. The old doctors used both without thinking it strange, and the medicine came down to us with the whole face still on.
+But you cannot work with what you never let yourself look at.
+
+And I'll say here what I say everywhere else in this book, because the two halves of it are easy to collapse into one. I practise as though the wider frame is real. It's how I was trained and it changes what I notice in the room. I can't demonstrate that it changes what happens to anyone. Both of those are true at the same time, and I'm not going to fold one into the other to make the paragraph land harder.
+
+And wanting the whole face is a preference, not a finding. The tradition ran both ways for centuries and turned out good doctors on both sides of the line. I'd rather work with all of it. That's me talking, not the record.
+
+Two eyes, one face. The old doctors used both without thinking it strange, and the medicine came down to us with the whole face still on.
 
 ---
 
