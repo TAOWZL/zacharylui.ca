@@ -22,7 +22,7 @@ aliases:
 
 Before the symptom checklist, this medicine read you as a landscape. Channels as rivers, organs as officials with jobs and moods, a chart of when you were born sitting under the whole thing. Three maps of the patient, and this is what they're for.
 
-*From The Magick That Never Left: Classical Chinese Medicine and the Tradition Still Beneath It. Chapter three of a serialized book.*
+*From The Magick That Never Left: Classical Chinese Medicine and the Tradition Still Beneath It. Chapter five of a serialized book.*
 
 ---
 
@@ -32,11 +32,11 @@ We say hello. I ask how she found us. Then I explain what's about to happen and 
 
 Then the pulse. And that's the one visible place in my whole day where the older frame shows up at all. Two things happen there, and both of them happen inside about four seconds.
 
-The first one is a lookup, and you could run it yourself with a year of training. There's a quality under the fingers. Wiry, say. Wiry goes to wood. Wood goes to the liver. And the liver's emotion is anger. Right. So that isn't perception, that's the table. It's the same table chapter one called the engine, and what you are watching is that table do its ordinary job at an ordinary wrist on an ordinary Tuesday morning, with no ceremony attached to any part of it. Most schools do teach it. Then they never mention it again.
+The first one is a lookup, and you could run it yourself with a year of training. There's a quality under the fingers. Wiry, say. Wiry goes to wood. Wood goes to the liver. And the liver's emotion is anger. Right. So that isn't perception, that's the table. It's the same table chapter two called the engine, and what you are watching is that table do its ordinary job at an ordinary wrist on an ordinary Tuesday morning, with no ceremony attached to any part of it. Most schools do teach it. Then they never mention it again.
 
 The second one isn't a lookup, and it's the one I can't hand you. The table says anger. Which anger, though? It doesn't say. Old anger, banked down for years and gone cold. Fresh anger. Anger that's really grief with a coat on. And half the time it's two of those at once. I get that part in my own body, because my body is the thing doing the reading.
 
-So that's why governing the spirit (治神 zhì shén) sits first on the Su Wen's list of what a needler must have, ahead of knowing drugs. That list is chapter four. The practitioner is part of the instrument, and an instrument in a poor state gives you poor readings.
+So that's why governing the spirit (治神 zhì shén) sits first on the Su Wen's list of what a needler must have, ahead of knowing drugs. That list is chapter six. The practitioner is part of the instrument, and an instrument in a poor state gives you poor readings.
 
 So what does it buy me on a Tuesday, over a shoulder? The next question. That's all you get. Knowing which anger is the difference between asking how long the shoulder has been doing this and asking what changed for you this year. Those are two different conversations. Both of them are just history taking, and both of them fit on the same form.
 
@@ -48,7 +48,7 @@ And that's current registered practice, by the way, not a story about my student
 
 *~26 minute read.*
 
-**The Secret Menu Index.** One page. Everything the standardized curriculum dropped, renamed, or de-framed, and where each piece went. Free, by email. [Get it here.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch3&utm_campaign=early)<!-- UTM: ch3-early -->
+**The Secret Menu Index.** One page. Everything the standardized curriculum dropped, renamed, or de-framed, and where each piece went. Free, by email. [Get it here.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch5&utm_campaign=early)<!-- UTM: ch5-early -->
 
 ---
 
@@ -130,9 +130,9 @@ So, back to the student clinic and what that read actually was, because in chapt
 
 And the form is fine, by the way. Sleep, digestion, pain scale, medications, all the sensible questions. I use one. I have to. And I'd want one used on me, and you would too. So was the form wrong? The complaint it caught was real. The problem just lived at a different address.
 
-The old doctors read a body as a landscape, and there are more maps to it than I can fit into one chapter for you. Three of them here, the easy go-tos. There's a fourth one that isn't a map of the patient at all. The canon puts that one first, ahead of all three, and it gets chapter four to itself.
+The old doctors read a body as a landscape, and there are more maps to it than I can fit into one chapter for you. Three of them here, the easy go-tos. There's a fourth one that isn't a map of the patient at all. The canon puts that one first, ahead of all three, and it gets chapter six to itself.
 
-**The Secret Menu Index**, if you want the map and not the argument. Everything the standardized curriculum dropped, renamed, or de-framed, and where each piece of it ended up. One page, free, by email. [Get it here.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch3&utm_campaign=mid)<!-- UTM: ch3-mid -->
+**The Secret Menu Index**, if you want the map and not the argument. Everything the standardized curriculum dropped, renamed, or de-framed, and where each piece of it ended up. One page, free, by email. [Get it here.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch5&utm_campaign=mid)<!-- UTM: ch5-mid -->
 
 ---
 
@@ -156,7 +156,7 @@ So the organs run like a court. Each official has a job, a jurisdiction, and a c
 
 And then there's my favourite official. San Jiao, the Triple Energizer, named in that same chapter as the official in charge of dredging the waterways. How do I read that office? He's the one who decides what gets to pass. Hold onto that, because you're going to want it in a minute.
 
-That's also the office on the chart in the scene I opened with, and it got there off the pattern and the channel. There's no second one hiding behind it, and nothing I felt that day put a needle anywhere. And I have to be straight with you about which layer that is, because in chapter one I ruled this exact move out as evidence. Needling the forearm for a neck runs along a channel. A channel is a conduit. So that's transport, and I'm not going to quietly re-file it as resonance now that it suits me. So what did the office actually give me? It didn't give me a point. It gave me a question I wouldn't otherwise have asked her, and a reason to go back and ask for consent twice more before anything happened.
+That's also the office on the chart in the scene I opened with, and it got there off the pattern and the channel. There's no second one hiding behind it, and nothing I felt that day put a needle anywhere. And I have to be straight with you about which layer that is, because in chapter two I ruled this exact move out as evidence. Needling the forearm for a neck runs along a channel. A channel is a conduit. So that's transport, and I'm not going to quietly re-file it as resonance now that it suits me. So what did the office actually give me? It didn't give me a point. It gave me a question I wouldn't otherwise have asked her, and a reason to go back and ask for consent twice more before anything happened.
 
 Western anatomy has never found a San Jiao, and the tradition argued for centuries about whether there was anything there to find, which is a fight I come back to in chapter four. The word itself is why. Guān (官), the character Su Wen 8 uses for these twelve, means an office and an organ at once. One word, both senses, no seam. So a translator picks one. A surgeon picks the other. They're each holding half of it, and the thing with a jurisdiction and no anatomy is sitting in the gap they made between them. And when the problem is that things in a person's life and body are not being allowed to move, you don't send the general, do you? You send the official who runs the locks and canals.
 
@@ -184,17 +184,17 @@ So that's the countryside the old doctors read. Rivers, a court, a calendar unde
 
 And one last piece of dating honesty. Could anybody have held all three of the patient maps before the 1100s? No. You watched me date them. After that plenty of doctors did. The Ming compendia carry all three between two covers, and the currents that followed kept picking from the stack and arguing over it. So when I say the fuller streams, I mean the ones that keep more of the maps on the table. That's my preference talking, and I'm not ranking anybody historically.
 
-There's a version of this chapter that ends by telling you the maps make you a better practitioner. I've deliberately not written it, and the woman on the bus is why. So what does more of the map actually do for you? It lets more of a person into the room than the form has boxes for. What you do once they're in there is on you, right, and it always was. Rivers, a court, a calendar under all of it. Three maps, and every one of them is a map of the person on the table. There's a fourth, and it isn't. That one is a map of you, and the tradition put it first. Chapter four.
+There's a version of this chapter that ends by telling you the maps make you a better practitioner. I've deliberately not written it, and the woman on the bus is why. So what does more of the map actually do for you? It lets more of a person into the room than the form has boxes for. What you do once they're in there is on you, right, and it always was. Rivers, a court, a calendar under all of it. Three maps, and every one of them is a map of the person on the table. There's a fourth, and it isn't. That one is a map of you, and the tradition put it first. Chapter six.
 
 ---
 
-*Next chapter, The Map That Isn't of the Patient. Su Wen 25 lists five things a needler must possess, in order. Knowing the drugs is third. Reading the patient is fifth. And first, ahead of both, is the condition of the person holding the needle. So next we take that list seriously, and then we face the question it forces on the whole book. Is any of this an engine, or is it just a nice way of talking? [Subscribe and you'll get it when it drops.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch3&utm_campaign=next)<!-- UTM: ch3-next -->*
+*Next chapter, The Map That Isn't of the Patient. Su Wen 25 lists five things a needler must possess, in order. Knowing the drugs is third. Reading the patient is fifth. And first, ahead of both, is the condition of the person holding the needle. So next we take that list seriously, and then we face the question it forces on the whole book. Is any of this an engine, or is it just a nice way of talking? [Subscribe and you'll get it when it drops.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch5&utm_campaign=next)<!-- UTM: ch5-next -->*
 
 ---
 
-**The Secret Menu Index.** One page. Everything the standardized curriculum dropped, renamed, or de-framed, and where each piece went. Free, by email. [Get it here.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch3&utm_campaign=end)<!-- UTM: ch3-end -->
+**The Secret Menu Index.** One page. Everything the standardized curriculum dropped, renamed, or de-framed, and where each piece went. Free, by email. [Get it here.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch5&utm_campaign=end)<!-- UTM: ch5-end -->
 
-**The Secret Menu.** The paid tier of this book, and later the classes. So far the argument is that this medicine is magick. The paid side is where I stop arguing about it and start teaching the spiritual practice on its own terms, as a spiritual tradition: ritual, cultivation and correspondence work. Strickmann reconstructed what the operators did from the texts. This goes the other direction, from someone doing it. It opens soon at $25 a month and [subscribers](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch3&utm_campaign=paid) hear first.<!-- UTM: ch3-paid -->
+**The Secret Menu.** The paid tier of this book, and later the classes. So far the argument is that this medicine is magick. The paid side is where I stop arguing about it and start teaching the spiritual practice on its own terms, as a spiritual tradition: ritual, cultivation and correspondence work. Strickmann reconstructed what the operators did from the texts. This goes the other direction, from someone doing it. It opens soon at $25 a month and [subscribers](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch5&utm_campaign=paid) hear first.<!-- UTM: ch5-paid -->
 
 <small>*What it is and isn't. It teaches ritual, cultivation and correspondence practice as spiritual and educational work. It is not a clinical course, it does not teach acupuncture or TCM diagnosis, nothing in it is offered as treating, diagnosing or curing any condition in you or anyone else, nothing in it is presented as making any regulated treatment more effective, and finishing it confers no competency to treat. It is not open to my acupuncture patients, and subscribing creates no practitioner-patient relationship of any kind.*</small>
 
@@ -227,10 +227,10 @@ I'm not a historian and I'm not a translator. The classical readings here lean o
 
 **Channels and points in modern clinical form.** Peter Deadman, Mazin Al-Khafaji, and Kevin Baker, *A Manual of Acupuncture*, is the standard reference, and for the broader entanglement of medicine with the mantic and calendrical arts, the [*Routledge Handbook of Chinese Medicine*](https://www.routledge.com/The-Routledge-Handbook-of-Chinese-Medicine/Lo-Stanley-Baker/p/book/9780415830645) (edited by Vivienne Lo and Michael Stanley-Baker, 2022) collects the current scholarship for you.
 
-**Saam.** This used to be the one tool here I couldn't hand you a clean English monograph for, since the root text is the Saam-doin chimgu yogyeol and the scholarship mostly lives in Korean. That's changed. *Essentials of Saam Acupuncture*, translated by Philip Suger and edited by Allen Tsaur and Michael Brown, brings Saam's teachings and Jisan's clinical records into English with a hundred and twenty-four cases, and the publisher dates the source material to between 1644 and 1742. Purple Cloud Press, and check the edition year against theirs and not against mine. The press is Johan Hausen's, the same Johan Hausen who told me in chapter two that I had 灸 wrong. I've decided that's funny.
+**Saam.** This used to be the one tool here I couldn't hand you a clean English monograph for, since the root text is the Saam-doin chimgu yogyeol and the scholarship mostly lives in Korean. That's changed. *Essentials of Saam Acupuncture*, translated by Philip Suger and edited by Allen Tsaur and Michael Brown, brings Saam's teachings and Jisan's clinical records into English with a hundred and twenty-four cases, and the publisher dates the source material to between 1644 and 1742. Purple Cloud Press, and check the edition year against theirs and not against mine. The press is Johan Hausen's, the same Johan Hausen who told me in chapter four that I had 灸 wrong. I've decided that's funny.
 
 </details>
 
 ---
 
-*[← Chapter 2, The Magick Was Never the Add-On](https://zacharylui.ca/the-magick-was-never-the-add-on/) · Next, Chapter 4, The Map That Isn't of the Patient. [Subscribe](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch3&utm_campaign=next) and you'll get it when it drops.*
+*[← Chapter 4, The Magick Was Never the Add-On](https://zacharylui.ca/the-magick-was-never-the-add-on/) · Next, Chapter 6, The Map That Isn't of the Patient. [Subscribe](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch5&utm_campaign=next) and you'll get it when it drops.*
