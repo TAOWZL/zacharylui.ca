@@ -12,6 +12,7 @@ tags:
   - book-chapter
 draft: false
 publish: true
+cover: /images/15_nine_operations.png
 permalink: /eight-of-nine/
 aliases:
   - eight-of-nine
