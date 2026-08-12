@@ -34,7 +34,7 @@ The usual explanation is tolerance. Broad-minded old doctor, kept an open mind, 
 
 *Personal essay on history and philosophy, not medical advice. Every person here is a composite. [Full note and credentials.](https://zacharylui.ca/about-this-book/)*
 
-**The Secret Menu Index.** One page. Everything the standardized curriculum dropped, renamed, or de-framed, and where each piece went. Free, by email. [Get it here.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch2&utm_campaign=early)<!-- UTM: ch2-early -->
+**The Secret Menu Index.** One page. Everything the standardized curriculum dropped, renamed, or de-framed, and where each piece went. Free, by email. [Get it here.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch4&utm_campaign=early)<!-- UTM: ch4-early -->
 
 ---
 
@@ -130,7 +130,7 @@ I read it, and then I read it again. That's the part nobody warns you about with
 
 Which is the whole method in one exchange, honestly. He was right. The textbook I'd taken my version from was wrong. And the graph had a further detail in it that I'd have got wrong in the other direction if I hadn't gone and looked. So that's three corrections out of one comment, and I only made one of them myself.
 
-He also runs Purple Cloud Press, and Purple Cloud published the Saam monograph I'd spent chapter three saying didn't exist in English. It exists. So that's twice he had me. It's in chapter three's reading list now, under his imprint. That's what checking somebody's work looks like when it goes well, and I'd rather you saw one that went well.
+He also runs Purple Cloud Press, and Purple Cloud published the Saam monograph I'd spent chapter five saying didn't exist in English. It exists. So that's twice he had me. It's in chapter five's reading list now, under his imprint. That's what checking somebody's work looks like when it goes well, and I'd rather you saw one that went well.
 
 "Herbalist" is thinner still. The Chinese category, materia medica (本草 běn cǎo), was never just plants. Minerals, animal parts, and substances prepared closer to alchemy than to gardening. And who handled all of it? The same person who held the needle. He was the doctor (醫). One job.
 
@@ -154,7 +154,7 @@ Then the part that cuts against me. The spell-cure (祝由) sits at twelve of th
 
 Was my claim ever that everybody agreed? It wasn't. My claim is about what kind of system this is. And a system doesn't stop running on resonance because a bureau reorganized its departments. What it stops doing is admitting it in public, on paper, with a stamp on it. A thing losing its department is not the same as a thing losing its function. Watch which one you're being sold.
 
-**The Secret Menu Index**, if you want the map and not the argument. Everything the standardized curriculum dropped, renamed, or de-framed, and where each piece ended up. One page, free, by email. [Get it here.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch2&utm_campaign=mid)<!-- UTM: ch2-mid -->
+**The Secret Menu Index**, if you want the map and not the argument. Everything the standardized curriculum dropped, renamed, or de-framed, and where each piece ended up. One page, free, by email. [Get it here.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch4&utm_campaign=mid)<!-- UTM: ch4-mid -->
 
 ---
 
@@ -204,11 +204,11 @@ Sun Simiao put the spell and the decoction in the same book because as far as he
 
 ---
 
-*Next chapter, How the Old Doctors Read a Body. Three maps, channels as rivers, organs as a royal court, and a calendar sitting under both, which is where I show you the correspondence engine actually running.* [Subscribe and you'll get it when it drops.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch2&utm_campaign=next)<!-- UTM: ch2-next -->
+*Next chapter, How the Old Doctors Read a Body. Three maps, channels as rivers, organs as a royal court, and a calendar sitting under both, which is where I show you the correspondence engine actually running.* [Subscribe and you'll get it when it drops.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch4&utm_campaign=next)<!-- UTM: ch4-next -->
 
 ---
 
-**The Secret Menu.** The paid tier of this book, and later the classes. So far the argument is that this medicine is magick. The paid side is where I stop arguing about it and start teaching the spiritual practice on its own terms, as a spiritual tradition. Ritual, cultivation and correspondence work. Strickmann reconstructed what the operators did from the texts. This goes the other direction, from someone doing it. It opens soon at $25 a month, and [subscribers](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch2&utm_campaign=paid) hear first.<!-- UTM: ch2-paid -->
+**The Secret Menu.** The paid tier of this book, and later the classes. So far the argument is that this medicine is magick. The paid side is where I stop arguing about it and start teaching the spiritual practice on its own terms, as a spiritual tradition. Ritual, cultivation and correspondence work. Strickmann reconstructed what the operators did from the texts. This goes the other direction, from someone doing it. It opens soon at $25 a month, and [subscribers](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch4&utm_campaign=paid) hear first.<!-- UTM: ch4-paid -->
 
 <small>*What it is and isn't: it teaches ritual, cultivation and correspondence practice as spiritual and educational work. It is not a clinical course, it does not teach acupuncture or TCM diagnosis, nothing in it is offered as treating, diagnosing or curing any condition in you or anyone else, nothing in it is presented as making any regulated treatment more effective, and finishing it confers no competency to treat. It is not open to my acupuncture patients, and subscribing creates no practitioner-patient relationship of any kind.*</small>
 
@@ -255,4 +255,4 @@ Same deal as last chapter. This is where the claims come from, so you can check 
 
 ---
 
-*[← Chapter 1: Chinese Medicine Is 75 Years Old](/chinese-medicine-is-75-years-old/) · Next: Chapter 3, How the Old Doctors Read a Body. [Subscribe](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch2&utm_campaign=end) and you'll get it when it drops.*
+*[← Chapter 3: Chinese Medicine Lost Its Licence in 1571](/lost-its-licence-in-1571/) · Next: Chapter 5, How the Old Doctors Read a Body. [Subscribe](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch4&utm_campaign=end) and you'll get it when it drops.*
