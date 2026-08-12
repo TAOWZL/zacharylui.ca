@@ -11,6 +11,7 @@ tags:
   - magick
   - book-chapter
 draft: false
+cover: /images/20_empty_seat.png
 publish: true
 permalink: /lost-its-licence-in-1571/
 aliases:
