@@ -4,23 +4,34 @@ description: Essays and notes on classical Chinese medicine, qigong, ritual, and
 cover: /images/hero-writing.svg
 permalink: writing
 ---
-Long-form essays and notes on classical Chinese medicine, qigong, ritual, and the territory where older traditions meet modern practice. Written for practitioners and serious lay readers, irregular, no editorial calendar.
+Long-form essays and notes on classical Chinese medicine, qigong, ritual, and the territory where older traditions meet modern practice. Written for practitioners and serious lay readers. Irregular, no editorial calendar.
+
+Most of what's here right now is one book, being written in public a chapter at a time. Five chapters are up.
 
 Not medical advice. If something here touches what you're working with clinically, take it to your own practitioner.
 
-# Essays
+# The Magick That Never Left
 
-The Magick That Never Left — a serialized book
+A serialized book on classical Chinese medicine. What the standardized curriculum left out, where the deeper tradition persisted, and what practice looks like with the full toolkit still intact.
 
-A serialized book on classical Chinese medicine — what the standardized curriculum left out, where the deeper tradition persisted, and what practice looks like with the full toolkit still intact.
+Start at chapter one and read in order. Chapters two and three carry the receipts the rest of it stands on, so skipping them makes the later chapters read as assertion. Every chapter ends with a reading list that names the editions, flags what's contested, and prints the claims I've had to take back.
 
-- [Chapter 1: Chinese Medicine Is 75 Years Old](https://zacharylui.ca/chinese-medicine-is-75-years-old) — A mahjong reading that wasn't fortune-telling. Why the version of Chinese medicine you encounter is 75 years old, not 4,000. What got de-centered in the post-war reform. Why the magick never actually left.
-- [Chapter 2: The Magick Was Never the Add-On](https://zacharylui.ca/the-magick-was-never-the-add-on). The word for "doctor" has a shaman under the wine jar. The oldest medical manuscripts ever dug up shelve the spell next to the drug, and Sun Simiao wrote both in one book without blinking. The split is the modern part, not the magick.
+[About this book, and who's writing it →](https://zacharylui.ca/about-this-book/)
 
-Subsequent chapters drop when they're ready. [Subscribe to get the next one when it lands →](https://zachary-lui.kit.com/f6fa3a92ab)
+- **[Chapter 1: Chinese Medicine Is 75 Years Old](https://zacharylui.ca/chinese-medicine-is-75-years-old)** — A mahjong reading that wasn't fortune-telling. Why the version of Chinese medicine you encounter is 75 years old and not 4,000, what the post-war reform renamed, and the man who wanted the whole thing abolished in 1929 and was right about what it is.
 
-Podcast
+- **[Chapter 2: Your Clinic Runs Eight of Nine](https://zacharylui.ca/eight-of-nine)** — Nine things a magician does. Your clinic does eight of them, today, and nobody told you which eight. Where each one lives in this medicine, and the two places I get careful.
 
-Deeper Down the Rabbit Hole. Co-host with Andrieh Vitimus. Long-form conversations on contemporary esoteric practice, ritual, and tradition. [ddtrh.com](https://ddtrh.com/)
+- **[Chapter 3: Chinese Medicine Lost Its Licence in 1571](https://zacharylui.ca/lost-its-licence-in-1571)** — There was a ritual therapy department inside the Chinese state medical bureaucracy for about a thousand years. It was struck off the roster in 1571. Here are the dates on all of it.
+
+- **[Chapter 4: The Magick Was Never the Add-On](https://zacharylui.ca/the-magick-was-never-the-add-on)** — The word for doctor has a spirit-medium under the wine jar. The oldest medical manuscripts ever dug up shelve the spell next to the drug, and Sun Simiao wrote both into one book without blinking. The split is the modern part, not the magick.
+
+- **[Chapter 5: How the Old Doctors Read a Body](https://zacharylui.ca/how-the-old-doctors-read-a-body)** — Channels as rivers, organs as court officials, and a calendar of birth and season under both. Three scenes from a working clinic, three maps of the patient, including the day the frame got there first and cost somebody something.
+
+Chapter six, The Map That Isn't of the Patient, is next. Chapters drop when they're ready. [Subscribe to get the next one when it lands →](https://zachary-lui.kit.com/f6fa3a92ab)
+
+# Elsewhere
+
+**Deeper Down the Rabbit Hole.** Co-host with Andrieh Vitimus. Long-form conversations on contemporary esoteric practice, ritual, and tradition. [ddtrh.com](https://ddtrh.com/)
 
 For more press coverage, podcast interviews, and conference talks, see [Press](https://zacharylui.ca/press).
