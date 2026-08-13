@@ -21,7 +21,7 @@ That claim is about how a historical system of reasoning works. It is not a clai
 
 ## Where to start
 
-Chapter one, and then in order. Chapters two and three carry the receipts the rest of it stands on, so skipping them makes the later chapters read as assertion.
+Chapter one, and then in order. Chapter two carries the receipts the rest of it stands on, so skipping it makes the later chapters read as assertion.
 
 If you only read one, read chapter two. It's the spine.
 
