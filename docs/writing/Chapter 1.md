@@ -139,7 +139,7 @@ I'm not a historian, and I'm not a translator. The classical readings here lean 
 <details>
 <summary><strong>Want to dig into the actual record</strong></summary>
 
-The apparatus for this chapter. The categories, the anthropology, the character work and the dating of the nine operations travel with [chapter two](https://zacharylui.ca/eight-of-nine/) and [chapter three](https://zacharylui.ca/lost-its-licence-in-1571/), where they're argued.
+The apparatus for this chapter. The categories, the anthropology, the character work and the dating of the nine operations travel with [chapter two](https://zacharylui.ca/eight-of-nine/), where they're argued.
 
 **On what a curriculum transmits versus what a lineage does.** This is the one I'd hand you first. Elisabeth Hsu, *The Transmission of Chinese Medicine* (Cambridge University Press, 1999), is fieldwork on three modes of transmission, inside one Chinese city, the standardized college, personal transmission from a senior doctor, and secret transmission, including cultivation practice. So that's your difference between a syllabus and a lineage, documented by somebody with no stake at all in my argument.
 
