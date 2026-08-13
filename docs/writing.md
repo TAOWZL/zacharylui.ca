@@ -6,7 +6,7 @@ permalink: writing
 ---
 Long-form essays and notes on classical Chinese medicine, qigong, ritual, and the territory where older traditions meet modern practice. Written for practitioners and serious lay readers. Irregular, no editorial calendar.
 
-Most of what's here right now is one book, being written in public a chapter at a time. Five chapters are up.
+Most of what's here right now is one book, being written in public a chapter at a time. Three chapters are up.
 
 Not medical advice. If something here touches what you're working with clinically, take it to your own practitioner.
 
@@ -24,11 +24,9 @@ Start at chapter one and read in order. Chapters two and three carry the receipt
 
 - **[Chapter 3: Chinese Medicine Lost Its Licence in 1571](https://zacharylui.ca/lost-its-licence-in-1571)** — There was a ritual therapy department inside the Chinese state medical bureaucracy for about a thousand years. It was struck off the roster in 1571. Here are the dates on all of it.
 
-- **[Chapter 4: The Magick Was Never the Add-On](https://zacharylui.ca/the-magick-was-never-the-add-on)** — The word for doctor has a spirit-medium under the wine jar. The oldest medical manuscripts ever dug up shelve the spell next to the drug, and Sun Simiao wrote both into one book without blinking. The split is the modern part, not the magick.
 
-- **[Chapter 5: How the Old Doctors Read a Body](https://zacharylui.ca/how-the-old-doctors-read-a-body)** — Channels as rivers, organs as court officials, and a calendar of birth and season under both. Three scenes from a working clinic, three maps of the patient, including the day the frame got there first and cost somebody something.
 
-Chapter six, The Map That Isn't of the Patient, is next. Chapters drop when they're ready. [Subscribe to get the next one when it lands →](https://zachary-lui.kit.com/f6fa3a92ab)
+Chapter four, The Magick Was Never the Add-On, is next. Chapters drop when they're ready. [Subscribe to get the next one when it lands →](https://zachary-lui.kit.com/f6fa3a92ab)
 
 # Elsewhere
 
