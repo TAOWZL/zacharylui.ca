@@ -45,7 +45,7 @@ And before you take a single item off me, here's where I'm standing, because it 
 
 ### The nine, in four families
 
-Nine is a lot to hold at once. So how do you keep them straight? Four families. Four questions, really, and the medicine answers all of them. What can you read off a sign, what can you bind to what, what do you have to become, what can you send out, or, you know, call in. The ninth sits outside the four, because it's the lens I carried in, carried in with me, rather than anything I found here, and I'm not going to hide it in a family.
+Nine is a lot to hold at once. So how do you keep them straight? Four families. Four questions, really, and the medicine answers all of them. What can you read off a sign, what answers what, what do you have to become, what can you send out, or, you know, call in. The ninth sits outside the four, because it's the lens I carried in, carried in with me, rather than anything I found here, and I'm not going to hide it in a family.
 
 #### What you can read off a sign
 
@@ -63,7 +63,7 @@ And look at what that operation actually does, because this is the part that dec
 
 ![A Chinese equatorial sundial on a brick terrace, its shadow across the tilted disc.](https://zacharylui.ca/images/27_the_open_hour.png)
 
-#### What you can bind
+#### What answers what
 
 **Sympathetic magic.** Frazer cut it in two. Similarity, like affecting like. And contagion, things once in contact staying in contact after you pull them apart. This medicine runs both.
 
@@ -143,7 +143,7 @@ Right. Right. But no conduit runs from two in the morning to the side of a tongu
 
 **So nobody smuggled sympathetic magic into this medicine.** Every clinic in the country is standing on it. So are you, if you needle for a living.
 
-So that's eight of the nine, all eight in the tradition, and the ninth is the lens I carried in. Now count what the 1950s syllabus hands you, family by family. What you can read off a sign: kept, and kept whole, because pulse and tongue are on every syllabus. What went is the frame that told you what kind of reading that is, plus the calendrical end, which survives only where somebody still teaches the great treatises. What you can bind: the correspondence table whole, and the talismans gone. What you have to become: energy work as an elective, gnosis under a name that hides it, illumination demoted from a practice to a course you pass. What goes out and what gets called in: the banishing kept, the move intact, and nothing left in the syllabus that tells you what the move used to ask of you. The spirit work gone entirely. **So the operations are still in the medicine. What walked out of your curriculum is what they used to ask of you.** The move is intact, right? The demand on the operator is the part that got dropped.
+So that's eight of the nine, all eight in the tradition, and the ninth is the lens I carried in. Now count what the 1950s syllabus hands you, family by family. What you can read off a sign: kept, and kept whole, because pulse and tongue are on every syllabus. What went is the frame that told you what kind of reading that is, plus the calendrical end, which survives only where somebody still teaches the great treatises. What answers what: the correspondence table whole, and the talismans gone. What you have to become: energy work as an elective, gnosis under a name that hides it, illumination demoted from a practice to a course you pass. What goes out and what gets called in: the banishing kept, the move intact, and nothing left in the syllabus that tells you what the move used to ask of you. The spirit work gone entirely. **So the operations are still in the medicine. What walked out of your curriculum is what they used to ask of you.** The move is intact, right? The demand on the operator is the part that got dropped.
 
 ### The bill, itemised, and one correction against myself
 
