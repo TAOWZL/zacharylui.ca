@@ -139,7 +139,7 @@ That's the list. Now the mechanism underneath all of it, because they all run on
 
 Now test that on something you actually do. Somebody grinds their teeth, wakes at two in the morning, and the sides of their tongue are red. You treat Liver. So what's your first answer? The channel, probably. There's a conduit running from here to there and something moves along it. Fine. That's transport, and transport isn't magic.
 
-Right. Right. But no conduit runs from two in the morning to the side of a tongue. Liver, wood, spring, green, wind, anger, sour, the eyes, the sinews. Nothing runs from a season to a sinew. No conduit joins a colour to an emotion. They're bound because they're the same kind, right? And that binding is what picks the channel before the channel carries a thing. So the correspondence chooses and the conduit delivers, right? Pull the correspondence out and you've got plumbing with no reason to run one pipe over another, right?
+Right. Right. But no conduit runs from two in the morning to the side of a tongue. Liver, wood, spring, green, wind, anger, sour, the eyes, the sinews. Nothing runs from a season to a sinew. No conduit joins a colour to an emotion. They answer because they're the same kind, right? And that answering is what picks the channel before the channel carries a thing. So the correspondence chooses and the conduit delivers, right? Pull the correspondence out and you've got plumbing with no reason to run one pipe over another, right?
 
 **So nobody smuggled sympathetic magic into this medicine.** Every clinic in the country is standing on it. So are you, if you needle for a living.
 
