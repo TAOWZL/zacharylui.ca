@@ -12,7 +12,7 @@ tags:
   - magick
   - book-chapter
 draft: false
-publish: true
+publish: false
 cover: /images/21_transport_points.png
 permalink: /how-the-old-doctors-read-a-body/
 aliases:
