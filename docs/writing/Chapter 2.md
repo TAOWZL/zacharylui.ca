@@ -189,7 +189,7 @@ So if you want the number that survives my own honesty, right, your clinic runs 
 
 Now the part that makes it checkable. Every one of those eight has a date, and two of them had a state licence, an actual seat with staff and a budget, and I can tell you the year that licence ended.
 
-*Next: [Chinese Medicine Lost Its Licence in 1571](https://zacharylui.ca/lost-its-licence-in-1571/).* [Subscribe and you'll get it when it drops.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch2&utm_campaign=next)
+*Next: Chinese Medicine Lost Its Licence in 1571.* [Subscribe and you'll get it when it drops.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch2&utm_campaign=next)
 
 ---
 
@@ -216,7 +216,7 @@ I'm not a historian, and I'm not a translator. The classical readings here lean 
 <details>
 <summary><strong>Want to dig into the actual record</strong></summary>
 
-The apparatus for this chapter. The twentieth-century history is with [chapter one](https://zacharylui.ca/chinese-medicine-is-75-years-old/); the ritual department, the 1571 abolition and the dating apparatus are with [chapter three](https://zacharylui.ca/lost-its-licence-in-1571/).
+The apparatus for this chapter. The twentieth-century history is with [chapter one](https://zacharylui.ca/chinese-medicine-is-75-years-old/); the ritual department, the 1571 abolition and the dating apparatus are with chapter three.
 
 **On the definition and the machinery.** Start here, if you want the resonance argument at the source. The *Huainanzi* translation I'm quoting is John S. Major, Sarah A. Queen, Andrew Seth Meyer and Harold D. Roth, [*The Huainanzi*](https://cup.columbia.edu/book/the-huainanzi/9780231142045) (Columbia University Press, 2010), and the tuned-strings passage is chapter 6, 覽冥訓, Surveying Obscurities. Want the ganying argument on its own? Charles Le Blanc's [*Huai-nan Tzu: Philosophical Synthesis in Early Han Thought, The Idea of Resonance (Kan-Ying)*](https://philpapers.org/rec/LEBHTP) (Hong Kong University Press, 1985), that's the standard monograph. John B. Henderson's [*The Development and Decline of Chinese Cosmology*](https://cup.columbia.edu/book/the-development-and-decline-of-chinese-cosmology/9780231057240) (Columbia University Press, 1984) is the history of correlative cosmology, as a cross-domain system. And note his title. Decline. G. E. R. Lloyd and Nathan Sivin's [*The Way and the Word*](https://yalebooks.yale.edu/book/9780300101607/the-way-and-the-word/) (Yale University Press, 2002), that's the standard comparative study of how medicine, cosmos and state fit together in early China. One thing you should know about, before you take my side of it. The Han imperial bibliography filed 方技, the medical arts, and 數術, the calculational arts, in separate divisions. That's a classification my reading argues past, and you're entitled to hold it against me.
 
@@ -250,4 +250,4 @@ If you want more of them than the chapter uses, the vein is deep and here's wher
 
 ---
 
-*Next: [Chinese Medicine Lost Its Licence in 1571](https://zacharylui.ca/lost-its-licence-in-1571/)*
+*Next: Chinese Medicine Lost Its Licence in 1571*
