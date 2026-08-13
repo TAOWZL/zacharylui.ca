@@ -12,7 +12,7 @@ tags:
   - book-chapter
 draft: false
 cover: /images/20_empty_seat.png
-publish: true
+publish: false
 permalink: /lost-its-licence-in-1571/
 aliases:
   - lost-its-licence-in-1571
