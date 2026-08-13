@@ -13,7 +13,7 @@ tags:
 - magick
 - book-chapter
 draft: false
-publish: true
+publish: false
 cover: /images/09_yi_character.png
 permalink: /the-magick-was-never-the-add-on/
 aliases:
