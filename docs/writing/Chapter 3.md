@@ -110,7 +110,7 @@ What I can put in front of you is the other thing, and it doesn't need my say-so
 
 ---
 
-*Next chapter: [The Magick Was Never the Add-On](https://zacharylui.ca/the-magick-was-never-the-add-on/). The Yellow Emperor's classic has a chapter where it says, in its own words, that the ancients cured disease by the spell-cure alone. Also "charms and spells" as a taught and certified subject of the state medical bureau, sitting on the roster next to acupuncture. Receipts included.* [Subscribe and you'll get it when it drops.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch3&utm_campaign=next)
+*Next chapter: The Magick Was Never the Add-On. The Yellow Emperor's classic has a chapter where it says, in its own words, that the ancients cured disease by the spell-cure alone. Also "charms and spells" as a taught and certified subject of the state medical bureau, sitting on the roster next to acupuncture. Receipts included.* [Subscribe and you'll get it when it drops.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch3&utm_campaign=next)
 
 ---
 
@@ -159,4 +159,4 @@ The apparatus for this chapter. The twentieth-century history is with [chapter o
 
 ---
 
-*Next: [The Magick Was Never the Add-On](https://zacharylui.ca/the-magick-was-never-the-add-on/)*
+*Next: The Magick Was Never the Add-On*
