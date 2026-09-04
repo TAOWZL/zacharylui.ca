@@ -29,4 +29,4 @@ The paid room. One live hour a month, recorded, on the operation the members cho
 
 [Become a founding member →](https://buy.stripe.com/fZubJ00Yu1C3fXM1eh3Nm0t)
 
-Nothing here is medical advice or a substitute for care. The needle and the herb prescription stay with trained hands. Check the sources, not me.
+Nothing here is medical advice or a substitute for care. The needle and the herb prescription stay with trained hands. Every claim in both PDFs carries its source, edition named.
