@@ -24,9 +24,9 @@ The story continues on camera, one operation per lesson. Each lesson names one t
 
 # The Secret Menu
 
-**The Secret Menu Index** is the free map: every operation running unlabeled in your training, what it was, when it was cut, and where it is restored. [Get the Index by email →](https://zachary-lui.kit.com/f6fa3a92ab). Subscribers also receive the monographs first, starting with garlic, 大蒜 (dà suàn).
+**The Secret Menu Index** is the free map: every operation running unlabeled in your training, what it was, when it was cut, and where it is restored. [Get the Index by email →](https://zachary-lui.kit.com/f6fa3a92ab). Subscribers also get the sample monograph, garlic, 大蒜 (dà suàn); every monograph after it is members only.
 
-**The Secret Menu** is the paid room: one live hour a month, recorded, on the operation the members choose, plus first access to the monographs. First class Monday, September 28, noon Eastern. \$45 a month plus tax at the founding rate, locked for as long as you stay a member; \$75 plus tax from September 28. [Become a founding member →](https://buy.stripe.com/fZubJ00Yu1C3fXM1eh3Nm0t)
+**The Secret Menu** is the paid room: one live hour a month, recorded, on the operation the members choose, plus every monograph after garlic, members only. First class Monday, September 28, noon Eastern. \$45 a month plus tax at the founding rate, locked for as long as you stay a member; \$75 plus tax from September 28. [Become a founding member →](https://buy.stripe.com/fZubJ00Yu1C3fXM1eh3Nm0t)
 
 # Elsewhere
 
