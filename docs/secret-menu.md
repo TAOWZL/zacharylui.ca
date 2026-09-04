@@ -11,9 +11,9 @@ One page. Nine entries. Each one is something the tradition ran as standard prac
 
 [Download the Secret Menu Index (PDF) →](https://zacharylui.ca/secret-menu-index.pdf)
 
-# The first monograph: garlic
+# The sample monograph: garlic
 
-大蒜 (dà suàn), 24 pages on one herb, built on the Chinese record: what the materia medica says it does, what the ritual calendar says it does, and what happens when you work with it directly. Sources itemised edition by edition.
+大蒜 (dà suàn), 24 pages on one herb, built on the Chinese record: what the materia medica says it does, what the ritual calendar says it does, and what happens when you work with it directly. Sources itemised edition by edition. Garlic is the free sample; every monograph after it goes to members only.
 
 [Download the garlic monograph (PDF) →](https://zacharylui.ca/da-suan-monograph.pdf)
 
@@ -25,7 +25,7 @@ The nine operations run on video, one per lesson. Operation 1 is pulse diagnosis
 
 # The Secret Menu
 
-The paid room. One live hour a month, recorded, on the operation the members choose, plus first access to the monographs. First class Monday, September 28, noon Eastern. \$45 a month plus tax at the founding rate, locked for as long as you stay a member; \$75 plus tax from September 28.
+The paid room. One live hour a month, recorded, on the operation the members choose, plus every monograph after garlic, members only. First class Monday, September 28, noon Eastern. \$45 a month plus tax at the founding rate, locked for as long as you stay a member; \$75 plus tax from September 28.
 
 [Become a founding member →](https://buy.stripe.com/fZubJ00Yu1C3fXM1eh3Nm0t)
 
