@@ -1,5 +1,5 @@
 ---
-title: Terms | The Secret Menu | Zachary Lui
+title: Terms | The Secret Menu
 description: "Terms for The Secret Menu membership: seller, price, billing, cancellation, refunds and recordings."
 permalink: terms
 ---
@@ -25,9 +25,9 @@ Recordings and monographs are for your personal use. Do not share, resell or rep
 
 ## Price and billing
 
-Founding rate: members who join by Friday, October 9, 2026 at 11:59 pm Eastern pay $45 CAD a month plus 13% HST ($5.85), $50.85 CAD a month in total, for as long as they stay subscribed.
+Founding rate: members who join by Friday, October 9, 2026 at 11:59 pm Eastern pay \$45 CAD a month plus 13% HST (\$5.85), \$50.85 CAD a month in total, for as long as they stay subscribed.
 
-From Saturday, October 10, 2026 at 12:00 am Eastern, the price for new members is $75 CAD a month plus 13% HST ($9.75), $84.75 CAD a month in total.
+From Saturday, October 10, 2026 at 12:00 am Eastern, the price for new members is \$75 CAD a month plus 13% HST (\$9.75), \$84.75 CAD a month in total.
 
 The total is shown at checkout before you pay. Payment is processed by Stripe. You are charged on the day you join and on the same day each month after that, until you cancel. There are no other fees.
 
