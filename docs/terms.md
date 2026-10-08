@@ -1,6 +1,6 @@
 ---
 title: Terms | The Secret Menu | Zachary Lui
-description: Terms for The Secret Menu membership: seller, price, billing, cancellation, refunds and recordings.
+description: "Terms for The Secret Menu membership: seller, price, billing, cancellation, refunds and recordings."
 permalink: terms
 ---
 # Terms: The Secret Menu
