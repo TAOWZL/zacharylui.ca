@@ -4,7 +4,7 @@ description: A live online workshop in Chinese herbal magick through moxibustion
 permalink: courses/moxibustion
 publish: false
 ---
-<!-- BEFORE PUBLISHING: (1) Replace every ALL-CAPS placeholder: STRIPE_SEAT, STRIPE_RECORDING, STRIPE_MENTORED, MOXA_FORM. (2) Set publish: true here and on course-terms.md. -->
+<!-- BEFORE PUBLISHING: (1) Replace the ALL-CAPS placeholder MOXA_FORM. (2) Set publish: true here and on course-terms.md. -->
 
 # Chinese Herbal Magick: Moxibustion
 
@@ -32,19 +32,19 @@ Live online, Sunday, November 22, 2026, 1 to 4 pm Eastern. Three hours. Most of 
 
 The live workshop, the recording, the moxa monograph and the worksheet. Members of The Secret Menu take a live seat for \$97 CAD + tax.
 
-[Take a seat →](STRIPE_SEAT)
+[Take a seat →](https://buy.stripe.com/eVq9AS8qW1C34f47CF3Nm0x)
 
 ### Recording only: \$97 CAD + tax
 
 The recording, out by December 6, with the monograph and the worksheet. There's no live session.
 
-[Get the recording →](STRIPE_RECORDING)
+[Get the recording →](https://buy.stripe.com/00wcN4az41C3h1Qf573Nm0y)
 
 ### Mentored: \$447 CAD + tax, five places
 
 Everything in the live seat, plus I review your written notes on moxa, garlic and the pair by voice note, and then we'll go through them together on a 30-minute call.
 
-[Book a mentored place →](STRIPE_MENTORED)
+[Book a mentored place →](https://buy.stripe.com/aFa8wOaz46Wn6nc6yB3Nm0z)
 
 Founding prices hold until Saturday, October 31, 2026, 11:59 pm Eastern. After that, a live seat's \$197 + tax and the recording's \$127 + tax. Mentored stays at \$447 + tax. Tax is 13% HST. [Full terms](/course-terms).
 
