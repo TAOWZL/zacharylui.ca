@@ -4,7 +4,7 @@ description: A live online workshop in Chinese herbal magick through moxibustion
 permalink: courses/moxibustion
 publish: false
 ---
-<!-- BEFORE PUBLISHING: (1) Replace the ALL-CAPS placeholder MOXA_FORM. (2) Set publish: true here and on course-terms.md. -->
+<!-- BEFORE PUBLISHING: set publish: true here and on course-terms.md. -->
 
 # Chinese Herbal Magick: Moxibustion
 
@@ -24,7 +24,7 @@ Live online, Sunday, November 22, 2026, 1 to 4 pm Eastern. Three hours. Most of 
 - The live workshop on Zoom, and the recording after. Can't make it live? The recording's yours anyway.
 - The moxa monograph before the workshop, in the format of the [garlic monograph](https://zacharylui.ca/da-suan-monograph.pdf): the record, the reading, sources itemised edition by edition. Members of [The Secret Menu](/secret-menu) get it too.
 - A worksheet for your notes.
-- Bring your own moxa. MOXA_FORM is what you'll need on hand.
+- Bring your own moxa, loose or a stick, whichever you've got. Enough to burn through a sitting. Have a raw garlic clove, a lighter, a heatproof dish and a cup of water next to it.
 
 ## Choose your place
 
