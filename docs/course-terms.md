@@ -27,9 +27,9 @@ Recording only: the recording by December 6, 2026, the moxa monograph and the wo
 
 Secret Menu members: a live seat for \$97.00 + \$12.61 HST, \$109.61 in total, while their membership is active at purchase.
 
-Mentored: everything in the live seat, plus a voice-note review of your written notes on moxa, garlic and the pair, and one 30-minute review call. Notes are due by December 13, 2026. Reviews are sent within 7 days of receiving your notes. Calls are booked through the link in your confirmation email and held by January 15, 2027. Mentored is limited to five places.
+Mentored: everything in the live seat, plus a voice-note review of your written notes on moxa, garlic and the pair, and one 30-minute review call. Notes are due by December 13, 2026. Reviews are sent within 7 days of receiving your notes. Calls are booked through the link in your workshop details email and held by January 15, 2027. Mentored is limited to five places.
 
-Links and files are sent to the email you paid with.
+Links and files are sent to the email you paid with. The Zoom link is sent by November 20, 2026.
 
 ## Prices
 
@@ -61,7 +61,7 @@ If the recording is not sent by December 6, 2026, you may request a full refund 
 
 ## Your copy of these terms
 
-After you buy, you get an email with a copy of these terms and your receipt, the same day and no later than 15 days after you buy.
+Your Stripe receipt is emailed automatically when you pay. Within 3 business days, and no later than 15 days after you buy, you get a second email with a copy of these terms and your workshop details.
 
 ## Use
 
