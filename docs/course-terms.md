@@ -73,4 +73,4 @@ Your name, email and payment details are used to run the workshop and send works
 
 ## Scope and safety
 
-This workshop teaches herbal magick practice for your own use. Treating patients with these herbs is outside its scope, and nothing in it is medical treatment or diagnosis. No specific results are promised. Nothing is lit in this workshop. Raw garlic can irritate skin. Handle it as shown in the workshop. You are responsible for safe practice in your own space.
+This workshop teaches herbal magick practice for your own use. Treating patients with these herbs is outside its scope, and nothing in it is medical treatment or diagnosis. No specific results are promised. Most of the workshop works moxa unlit. Moxa is lit once, for comparison. Lit moxa burns hot and produces smoke and ash, and raw garlic can irritate and burn skin. Follow the setup shown in the workshop, ventilate, and keep water nearby. You are responsible for safe practice in your own space.
