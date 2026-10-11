@@ -61,7 +61,7 @@ If the recording is not sent by December 6, 2026, you may request a full refund 
 
 ## Your copy of these terms
 
-Your Stripe receipt is emailed automatically when you pay. Within 3 business days, and no later than 15 days after you buy, you get a second email with a copy of these terms and your workshop details.
+Within 3 business days, and no later than 15 days after you buy, you get an email with your receipt, a copy of these terms and your workshop details.
 
 ## Use
 
