@@ -1,6 +1,6 @@
 ---
 title: Moxibustion | Chinese Herbal Magick | Zachary Lui
-description: A live online workshop in Chinese herbal magick through moxibustion, Sunday, November 22, 2026. Work moxa on its own, then with garlic. Founding prices until October 31, 2026.
+description: A live online workshop in Chinese herbal magick with moxa, Sunday, November 22, 2026. Work moxa on its own, then with garlic. Founding prices until October 31, 2026.
 permalink: courses/moxibustion
 publish: false
 ---
@@ -8,16 +8,16 @@ publish: false
 
 # Chinese Herbal Magick: Moxibustion
 
-Moxa is the herb acupuncturists already burn. We won't. In this workshop we'll work it as magick. On Zoom. You start with moxa on its own until you know it, then we'll add garlic and work the two together.
+Acupuncturists already know moxa as medicine. In this workshop we'll work it as magick. On Zoom. You start with moxa on its own until you know it, then we'll add garlic and work the two together.
 
 Live online, Sunday, November 22, 2026, 1 to 4 pm Eastern. Three hours. Most of it's practice, with me on screen while you work with your own moxa at home.
 
 ## What you learn
 
-- Moxa, 艾葉 (mugwort), in the Chinese record: what the sources say it does when it burns.
+- Moxa, 艾葉 (mugwort), in the Chinese record: what the sources say it does.
 - How to meet an herb directly and keep a written record of what you find. You'll learn it live, on moxa first.
 - Garlic, 大蒜, in the record, worked the same way.
-- Moxa on garlic, 隔蒜灸 (moxibustion on garlic), worked as a pair.
+- Moxa and garlic, worked as a pair.
 
 ## What you get
 
@@ -52,4 +52,4 @@ Founding prices hold until Saturday, October 31, 2026, 11:59 pm Eastern. After t
 
 It's the first workshop in the series. Each one adds an herb to moxa, and each herb gets its own monograph, built the way the garlic one was, from the Chinese record outward. You work it alone. Then in combination. And the people who come to this one pick the next herb.
 
-It's herbal magick practice. For your own use. Treating patients with these herbs isn't part of it, and nothing here is medical treatment or diagnosis. Raw garlic can irritate skin and burn it if it sits there too long, so handle it the way I show you and keep it off broken skin. Every claim in the monographs carries its source, edition named.
+It's herbal magick practice. For your own use. Treating patients with these herbs isn't part of it, and nothing here is medical treatment or diagnosis. Raw garlic can irritate skin if it sits there too long, so handle it the way I show you and keep it off broken skin. Every claim in the monographs carries its source, edition named.
