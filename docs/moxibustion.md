@@ -8,7 +8,7 @@ publish: false
 
 # Chinese Herbal Magick: Moxibustion
 
-Moxa is the herb acupuncturists already burn. In this workshop we'll work it as magick. On Zoom. You start with moxa on its own until you know it, then we'll add garlic and work the two together.
+Moxa is the herb acupuncturists already burn. We won't. In this workshop we'll work it as magick. On Zoom. You start with moxa on its own until you know it, then we'll add garlic and work the two together.
 
 Live online, Sunday, November 22, 2026, 1 to 4 pm Eastern. Three hours. Most of it's practice, with me on screen while you work with your own moxa at home.
 
@@ -24,7 +24,7 @@ Live online, Sunday, November 22, 2026, 1 to 4 pm Eastern. Three hours. Most of 
 - The live workshop on Zoom, and the recording after. Can't make it live? The recording's yours anyway.
 - The moxa monograph before the workshop, in the format of the [garlic monograph](https://zacharylui.ca/da-suan-monograph.pdf): the record, the reading, sources itemised edition by edition. Members of [The Secret Menu](/secret-menu) get it too.
 - A worksheet for your notes.
-- Bring your own moxa, loose or a stick, whichever you've got. Enough to burn through a sitting. Have a raw garlic clove, a lighter, a heatproof dish and a cup of water next to it.
+- Bring your own moxa, loose or a stick, whichever you've got, and a raw garlic clove. Nothing gets lit.
 
 ## Choose your place
 
@@ -52,4 +52,4 @@ Founding prices hold until Saturday, October 31, 2026, 11:59 pm Eastern. After t
 
 It's the first workshop in the series. Each one adds an herb to moxa, and each herb gets its own monograph, built the way the garlic one was, from the Chinese record outward. You work it alone. Then in combination. And the people who come to this one pick the next herb.
 
-It's herbal magick practice. For your own use. Treating patients with these herbs isn't part of it, and nothing here is medical treatment or diagnosis. Moxa burns hot. Raw garlic can irritate skin and burn it, so follow the setup I show you, ventilate the room and keep water close. Every claim in the monographs carries its source, edition named.
+It's herbal magick practice. For your own use. Treating patients with these herbs isn't part of it, and nothing here is medical treatment or diagnosis. Raw garlic can irritate skin and burn it if it sits there too long, so handle it the way I show you and keep it off broken skin. Every claim in the monographs carries its source, edition named.
