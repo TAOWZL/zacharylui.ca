@@ -30,7 +30,7 @@ It's a recorded workshop. Three hours. Out Sunday, November 22, 2026. Most of it
 
 ### Recording: \$97 CAD + tax
 
-The recorded workshop, the moxa monograph and the worksheet, sent November 22. Members of The Secret Menu take it for \$67 CAD + tax.
+The recorded workshop, the moxa monograph and the worksheet, sent November 22. Paying members of The Secret Menu get it free.
 
 [Get the recording →](https://buy.stripe.com/00wcN4az41C3h1Qf573Nm0y)
 
