@@ -4,7 +4,6 @@ description: A recorded workshop in Chinese herbal magick through moxibustion, o
 permalink: courses/moxibustion
 publish: true
 ---
-<!-- BEFORE PUBLISHING: set publish: true here and on course-terms.md. -->
 
 # Chinese Herbal Magick: Moxibustion
 
