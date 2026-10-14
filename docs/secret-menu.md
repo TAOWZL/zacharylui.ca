@@ -13,7 +13,7 @@ One page. Nine entries. Each one is something the tradition ran as standard prac
 
 # The sample monograph: garlic
 
-大蒜 (dà suàn), 24 pages on one herb, built on the Chinese record: what the materia medica says it does, what the ritual calendar says it does, and what happens when you work with it directly. Sources itemised edition by edition. Garlic is the free sample; every monograph after it goes to members only.
+大蒜 (dà suàn), 24 pages on one herb, built on the Chinese record: what the materia medica says it does, what the ritual calendar says it does, and what happens when you work with it directly. Sources itemised edition by edition. Garlic is the free sample. Every monograph after it goes to members, or comes with its workshop.
 
 [Download the garlic monograph (PDF) →](https://zacharylui.ca/da-suan-monograph.pdf)
 
