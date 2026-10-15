@@ -208,8 +208,6 @@ Sun Simiao put the spell and the decoction in the same book because as far as he
 
 ---
 
-**The Secret Menu.** The paid tier of this book, and later the classes. So far the argument is that this medicine is magick. The paid side is where I stop arguing about it and start teaching the spiritual practice on its own terms, as a spiritual tradition. Ritual, cultivation and correspondence work. Strickmann reconstructed what the operators did from the texts. This goes the other direction, from someone doing it. It opens soon at $25 a month, and [subscribers](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch4&utm_campaign=paid) hear first.<!-- UTM: ch4-paid -->
-
 <small>*What it is and isn't: it teaches ritual, cultivation and correspondence practice as spiritual and educational work. It is not a clinical course, it does not teach acupuncture or TCM diagnosis, nothing in it is offered as treating, diagnosing or curing any condition in you or anyone else, nothing in it is presented as making any regulated treatment more effective, and finishing it confers no competency to treat. It is not open to my acupuncture patients, and subscribing creates no practitioner-patient relationship of any kind.*</small>
 
 ---
