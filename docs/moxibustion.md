@@ -2,6 +2,7 @@
 title: Moxibustion | Chinese Herbal Magick | Zachary Lui
 description: A recorded workshop in Chinese herbal magick through moxibustion, out November 22, 2026. Work moxa on its own, then with garlic, with one-to-one coaching as an option. Founding prices until October 31, 2026.
 permalink: courses/moxibustion
+image: /images/og-moxibustion.jpg
 publish: true
 ---
 
