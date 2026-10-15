@@ -17,6 +17,7 @@ export function MarkdownPage({ doc }: Props) {
   const cover = doc.data.cover ?? doc.data.image;
   const hasHero = Boolean(cover);
   const showNewsletter = doc.data.showNewsletter === true;
+  const showTitle = doc.data.showTitle === true;
 
   // react-markdown strips raw HTML, so a <details> block in the source never
   // reaches the page and its contents render as loose paragraphs. Lift the
@@ -51,7 +52,11 @@ export function MarkdownPage({ doc }: Props) {
       ]}
       components={{
             h1: ({ children, id }) =>
-              hasHero ? null : <h1 id={id} className="heading-1">{children}</h1>,
+              hasHero ? null : (
+                <h1 id={id} className={showTitle ? "heading-1 heading-1--visible" : "heading-1"}>
+                  {children}
+                </h1>
+              ),
             h2: ({ children, id }) => (
               <h2 id={id} className="heading-2">{children}</h2>
             ),

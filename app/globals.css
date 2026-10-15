@@ -175,6 +175,17 @@ a:hover {
   border-width: 0;
 }
 
+/* Pages with showTitle: true in frontmatter keep their H1 on screen. */
+.content-shell > .heading-1--visible:first-of-type {
+  position: static;
+  width: auto;
+  height: auto;
+  margin: 0 0 1.5rem;
+  overflow: visible;
+  clip: auto;
+  white-space: normal;
+}
+
 .header-shell {
   margin-bottom: 2.5rem;
   border-radius: 1rem !important;
