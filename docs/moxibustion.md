@@ -7,14 +7,14 @@ publish: true
 
 # Chinese Herbal Magick: Moxibustion
 
-Moxa is the herb acupuncturists already burn. In this workshop we'll work it as magick. You start with moxa on its own until you know it, then we'll add garlic and work the two together. Unlit first, then lit once, so you can compare.
+Moxa is the mugwort floss acupuncturists already burn. In this workshop we'll work it as magick. You sit with moxa on its own, unlit, and work to awaken its qi and spirit. Then you light it once and compare. After that we'll add garlic and work the two together.
 
 It's a recorded workshop. Three hours. Out Sunday, November 22, 2026. Most of it's practice, with me on screen while you work with your own moxa at home, so you can pause it, go back and work at your own pace.
 
 ## What you learn
 
 - Moxa, 艾葉 (mugwort), in the Chinese record: what the sources say it does when it burns.
-- How to meet an herb directly and keep a written record of what you find. You'll learn it on moxa first.
+- How I work to awaken an herb's qi and spirit and meet the herb directly, and how to keep a written record of what you find. You'll learn it on moxa first.
 - Garlic, 大蒜, in the record, worked the same way.
 - Moxa on garlic, 隔蒜灸 (moxibustion on garlic), worked as a pair.
 
