@@ -14,6 +14,7 @@ export type Frontmatter = {
   cover?: string;
   date?: string;
   showNewsletter?: boolean;
+  showTitle?: boolean;
 };
 
 export type Doc = {
