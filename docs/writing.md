@@ -18,15 +18,15 @@ Two chapters. They are the written foundation for everything that follows: the a
 
 - **[Chapter 2: Your Clinic Runs Eight of Nine](https://zacharylui.ca/eight-of-nine)**: Nine things a magician does. Your clinic does eight of them, today, and nobody told you which eight. Where each one lives in this medicine, and the two places I get careful.
 
-# The Nine Operations, on video
+# The CCM Magick Program, on video
 
-The story continues on camera, one operation per lesson. Each lesson names one thing you already do in clinic, shows you what it is, and hands you the receipt: the word in your own vocabulary that proves it. Operation 1 is pulse diagnosis. [Watch the series →](https://www.youtube.com/@thezacharylui)
+Classical Chinese Medicine taught as a working practice, one lesson at a time. The theory half of each lesson runs free on [YouTube](https://www.youtube.com/@thezacharylui). The practice half goes to members of The Secret Menu.
 
 # The Secret Menu
 
 **The Secret Menu Index** is the free map: every operation running unlabeled in your training, what it was, when it was cut, and where it is restored. [Get the Index by email →](https://zachary-lui.kit.com/f6fa3a92ab). Subscribers also get the sample monograph, garlic, 大蒜 (dà suàn); every monograph after it is members only.
 
-**The Secret Menu** is the paid room: one live hour a month, recorded, on an operation from the Index, plus every monograph after garlic, members only. \$75 a month plus tax, open to the first 20 members and locked for as long as you stay a member. After that, the price goes up. [Join The Secret Menu →](https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w)
+**The Secret Menu** is the paid room: one class a month on Zoom, recorded, on an operation from the Index, the practice half of the CCM Magick Program, every monograph after garlic, and the moxibustion workshop. \$75 a month plus tax, open to the first 20 members and locked for as long as you stay a member. After that, the price goes up. [See the membership →](/membership)
 
 # Elsewhere
 
