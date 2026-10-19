@@ -84,6 +84,20 @@ export default function FreeIndexPage() {
         </p>
       </div>
 
+
+      <section className="mt-10 rounded-lg border border-gold-600/40 bg-charcoal-950/70 p-5">
+        <p className="text-xs uppercase tracking-[0.2em] text-gold-400">Entry 01, from the Index</p>
+        <p className="mt-3 text-lg font-semibold text-zinc-50">Divination</p>
+        <p className="mt-2 leading-relaxed text-zinc-300">
+          Reading one surface for information it has no business carrying. The receipt: 脈象, pulse image, not pulse
+          rate. 象 is the character the Yijing uses for what a diviner reads out of a hexagram.
+        </p>
+        <p className="mt-3 text-sm text-zinc-400">
+          Sources: Nigel Wiseman and Feng Ye, A Practical Dictionary of Chinese Medicine (Paradigm, 1998); Elisabeth Hsu,
+          Pulse Diagnosis in Early Chinese Medicine (Cambridge University Press, 2010).
+        </p>
+        <p className="mt-3 text-zinc-300">Eight more like this, one page.</p>
+      </section>
       <section className="mt-14">
         <img
         src="/images/15_nine_operations.png"
