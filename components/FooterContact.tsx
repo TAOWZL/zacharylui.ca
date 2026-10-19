@@ -23,6 +23,7 @@ export default function FooterContact() {
     return (
       <div className="space-y-1">
         <p className="font-semibold text-zinc-100">Zachary Lui</p>
+        <p>巫 (Wu shaman) and Daoist priest by transmission</p>
         <p>茅山上清 Mao Shan Shangqing Daoist transmission</p>
         <p>唐密 Tangmi, Chinese Esoteric Buddhism</p>
       </div>
