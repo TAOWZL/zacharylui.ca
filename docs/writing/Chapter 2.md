@@ -191,11 +191,11 @@ So if you want the number that survives my own honesty, right, your clinic runs 
 
 Now the part that makes it checkable. Every one of those eight has a date, and two of them had a state licence, an actual seat with staff and a budget, and I can tell you the year that licence ended.
 
-*Next: Chinese Medicine Lost Its Licence in 1571.* [Subscribe and you'll get it when it drops.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch2&utm_campaign=next)
+*Next: Chinese Medicine Lost Its Licence in 1571.* [Subscribe and you'll get it when it drops.](https://zacharylui.ca/free-index?utm_source=book&utm_medium=ch2&utm_campaign=next)
 
 ---
 
-**The Secret Menu Index.** One page. Everything the standardized curriculum dropped, renamed, or de-framed, and where each piece went. Free, by email. [Get it here.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch2&utm_campaign=end)
+**The Secret Menu Index.** One page. Everything the standardized curriculum dropped, renamed, or de-framed, and where each piece went. Free, by email. [Get it here.](https://zacharylui.ca/free-index?utm_source=book&utm_medium=ch2&utm_campaign=end)
 
 **The Secret Menu.** The paid tier of this book. The free side argues that this medicine is magick. The paid side is where I stop arguing about it and start teaching the spiritual practice on its own terms. Ritual, cultivation and correspondence work. Strickmann reconstructed what the operators did from the texts. This goes the other direction, from somebody doing it. The first class ran on September 28, on yin and yang, and every member gets it. [It's open, $75 a month, Canadian.](https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w) That rate is for the first 20 members, and it never goes up for you while you stay in. After 20, it goes up for people who come after that. Cancel and it's gone, and you'd come back at whatever the price is then. So the rate is for members, not for names on a list.
 

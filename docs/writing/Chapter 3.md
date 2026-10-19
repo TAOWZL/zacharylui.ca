@@ -110,7 +110,7 @@ What I can put in front of you is the other thing, and it doesn't need my say-so
 
 ---
 
-*Next chapter: The Magick Was Never the Add-On. The Yellow Emperor's classic has a chapter where it says, in its own words, that the ancients cured disease by the spell-cure alone. Also "charms and spells" as a taught and certified subject of the state medical bureau, sitting on the roster next to acupuncture. Receipts included.* [Subscribe and you'll get it when it drops.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch3&utm_campaign=next)
+*Next chapter: The Magick Was Never the Add-On. The Yellow Emperor's classic has a chapter where it says, in its own words, that the ancients cured disease by the spell-cure alone. Also "charms and spells" as a taught and certified subject of the state medical bureau, sitting on the roster next to acupuncture. Receipts included.* [Subscribe and you'll get it when it drops.](https://zacharylui.ca/free-index?utm_source=book&utm_medium=ch3&utm_campaign=next)
 
 ---
 
@@ -134,7 +134,7 @@ I'm not a historian, and I'm not a translator. The classical readings here lean 
 
 ---
 
-**The Secret Menu Index.** One page. Everything the standardized curriculum dropped, renamed, or de-framed, and where each piece went. Free, by email. [Get it here.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch3&utm_campaign=end)
+**The Secret Menu Index.** One page. Everything the standardized curriculum dropped, renamed, or de-framed, and where each piece went. Free, by email. [Get it here.](https://zacharylui.ca/free-index?utm_source=book&utm_medium=ch3&utm_campaign=end)
 
 ---
 

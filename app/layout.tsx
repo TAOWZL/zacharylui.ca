@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { siteConfig } from "@/site.config";
 import FooterContact from "@/components/FooterContact";
+import HeaderNav, { HeaderHomeLink } from "@/components/HeaderNav";
 import { FooterNav, FooterDisclaimer } from "@/components/FooterBody";
 
 export const metadata: Metadata = {
@@ -42,20 +43,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <div className="mx-auto flex min-h-screen w-full max-w-6xl flex-col px-4 py-8 sm:px-6 lg:px-8">
           <header className="header-shell">
             <div className="flex flex-wrap items-center justify-between gap-4">
-              <a href="/" className="text-xl font-semibold tracking-wide text-zinc-100 visited:text-zinc-100 no-underline md:text-2xl">
+              <HeaderHomeLink className="text-xl font-semibold tracking-wide text-zinc-100 visited:text-zinc-100 no-underline md:text-2xl">
                 <span className="text-gold-400">Zachary</span> Lui
-              </a>
-              <nav className="flex flex-wrap items-center gap-2">
-                {siteConfig.nav.map((item) => (
-                  <a
-                    key={item.slug || "home"}
-                    href={item.slug ? `/${item.slug}` : "/"}
-                    className="rounded-md border border-charcoal-800 bg-charcoal-950/70 px-3 py-1.5 text-sm text-zinc-200 visited:text-zinc-200 no-underline hover:border-gold-600 hover:text-gold-400"
-                  >
-                    {item.label}
-                  </a>
-                ))}
-              </nav>
+              </HeaderHomeLink>
+              <HeaderNav />
             </div>
           </header>
 

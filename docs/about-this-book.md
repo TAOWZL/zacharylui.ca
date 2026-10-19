@@ -87,4 +87,4 @@ Chase the sources. That's what they're there for.
 
 Read [the full list and start reading here](https://zacharylui.ca/writing).
 
-New chapters go up when they're ready, with no editorial calendar. [Get the next one when it lands →](https://zachary-lui.kit.com/f6fa3a92ab)
+New chapters go up when they're ready, with no editorial calendar. [Get the next one when it lands →](https://zacharylui.ca/free-index)
