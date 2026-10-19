@@ -64,10 +64,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 
             <FooterDisclaimer />
 
-            <div className="mt-6 flex flex-wrap items-center justify-between gap-2 border-t border-charcoal-800 pt-4 text-xs text-zinc-500">
+            <div className="mt-6 flex flex-wrap items-center justify-between gap-2 border-t border-charcoal-800 pt-4 text-xs text-zinc-400">
               <p>&copy; {year} Zachary Lui. All rights reserved.</p>
               <p>
-                <a href="/privacy" className="text-zinc-500 visited:text-zinc-500 no-underline hover:text-cream-50">Privacy</a>
+                <a href="/terms#privacy" className="text-zinc-400 visited:text-zinc-400 no-underline hover:text-cream-50">Privacy</a>
               </p>
             </div>
           </footer>

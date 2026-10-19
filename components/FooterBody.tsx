@@ -23,8 +23,7 @@ const LANE_Z_LINKS: [string, string][] = [
   ["https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w", "The Secret Menu"],
   ["/divination", "Divination Coaching"],
   ["https://wujixuan.janeapp.com/#/discipline/2/treatment/5", "Distant Reiki"],
-  ["/courses/moxibustion", "Moxibustion Workshop"],
-  ["/ritual", "Ritual"]
+  ["/courses/moxibustion", "Moxibustion Workshop"]
 ];
 
 export function FooterNav() {

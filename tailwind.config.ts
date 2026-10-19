@@ -26,7 +26,7 @@ const config: Config = {
           400: "#d8c9a8"
         },
         cinnabar: {
-          400: "#e0644f",
+          400: "#ec8a76",
           500: "#c8432f",
           600: "#a8321f"
         }

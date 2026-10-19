@@ -21,7 +21,7 @@ html {
 
 body {
   background:
-    radial-gradient(circle at 12% 10%, rgba(200, 67, 47, 0.18), transparent 38%),
+    radial-gradient(circle at 12% 10%, rgba(200, 67, 47, 0.12), transparent 34%),
     radial-gradient(circle at 88% 6%, rgba(230, 199, 90, 0.12), transparent 30%),
     #151516;
   @apply text-zinc-100 antialiased;
@@ -167,7 +167,7 @@ a:hover {
 }
 
 .hero-title {
-  @apply max-w-3xl text-3xl font-semibold leading-tight text-zinc-50 md:text-5xl lg:text-6xl;
+  @apply max-w-3xl font-display text-3xl font-semibold leading-tight text-cream-50 md:text-5xl lg:text-6xl;
 }
 
 .hero-description {
@@ -258,6 +258,10 @@ a:hover {
 
 
 /* ── Safe readability tweaks ───────────────────────────── */
+
+.prose a {
+  text-decoration-color: rgba(200, 67, 47, 0.7);
+}
 
 .prose p {
   margin-bottom: 1.25rem;
