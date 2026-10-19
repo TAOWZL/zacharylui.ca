@@ -38,7 +38,7 @@ const OFFERS: Offer[] = [
     kicker: "One to one",
     name: "Divination Coaching",
     body: "Mahjong tiles or tarot, read with mediumship, 60 minutes on Zoom. Bring the decision. You leave with the read, the path that fits it, and a practice to work afterward.",
-    detail: "Wherever you are.",
+    detail: "$175 CAD + tax. Wherever you are.",
     cta: "About the readings",
     href: "/divination"
   },
