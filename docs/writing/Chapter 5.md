@@ -48,7 +48,7 @@ And that's current registered practice, by the way, not a story about my student
 
 *~26 minute read.*
 
-**The Secret Menu Index.** One page. Everything the standardized curriculum dropped, renamed, or de-framed, and where each piece went. Free, by email. [Get it here.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch5&utm_campaign=early)<!-- UTM: ch5-early -->
+**The Secret Menu Index.** One page. Everything the standardized curriculum dropped, renamed, or de-framed, and where each piece went. Free, by email. [Get it here.](https://zacharylui.ca/free-index?utm_source=book&utm_medium=ch5&utm_campaign=early)<!-- UTM: ch5-early -->
 
 ---
 
@@ -132,7 +132,7 @@ And the form is fine, by the way. Sleep, digestion, pain scale, medications, all
 
 The old doctors read a body as a landscape, and there are more maps to it than I can fit into one chapter for you. Three of them here, the easy go-tos. There's a fourth one that isn't a map of the patient at all. The canon puts that one first, ahead of all three, and it gets chapter six to itself.
 
-**The Secret Menu Index**, if you want the map and not the argument. Everything the standardized curriculum dropped, renamed, or de-framed, and where each piece of it ended up. One page, free, by email. [Get it here.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch5&utm_campaign=mid)<!-- UTM: ch5-mid -->
+**The Secret Menu Index**, if you want the map and not the argument. Everything the standardized curriculum dropped, renamed, or de-framed, and where each piece of it ended up. One page, free, by email. [Get it here.](https://zacharylui.ca/free-index?utm_source=book&utm_medium=ch5&utm_campaign=mid)<!-- UTM: ch5-mid -->
 
 ---
 
@@ -188,11 +188,11 @@ There's a version of this chapter that ends by telling you the maps make you a b
 
 ---
 
-*Next chapter, The Map That Isn't of the Patient. Su Wen 25 lists five things a needler must possess, in order. Knowing the drugs is third. Reading the patient is fifth. And first, ahead of both, is the condition of the person holding the needle. So next we take that list seriously, and then we face the question it forces on the whole book. Is any of this an engine, or is it just a nice way of talking? [Subscribe and you'll get it when it drops.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch5&utm_campaign=next)<!-- UTM: ch5-next -->*
+*Next chapter, The Map That Isn't of the Patient. Su Wen 25 lists five things a needler must possess, in order. Knowing the drugs is third. Reading the patient is fifth. And first, ahead of both, is the condition of the person holding the needle. So next we take that list seriously, and then we face the question it forces on the whole book. Is any of this an engine, or is it just a nice way of talking? [Subscribe and you'll get it when it drops.](https://zacharylui.ca/free-index?utm_source=book&utm_medium=ch5&utm_campaign=next)<!-- UTM: ch5-next -->*
 
 ---
 
-**The Secret Menu Index.** One page. Everything the standardized curriculum dropped, renamed, or de-framed, and where each piece went. Free, by email. [Get it here.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch5&utm_campaign=end)<!-- UTM: ch5-end -->
+**The Secret Menu Index.** One page. Everything the standardized curriculum dropped, renamed, or de-framed, and where each piece went. Free, by email. [Get it here.](https://zacharylui.ca/free-index?utm_source=book&utm_medium=ch5&utm_campaign=end)<!-- UTM: ch5-end -->
 
 <small>*What it is and isn't. It teaches ritual, cultivation and correspondence practice as spiritual and educational work. It is not a clinical course, it does not teach acupuncture or TCM diagnosis, nothing in it is offered as treating, diagnosing or curing any condition in you or anyone else, nothing in it is presented as making any regulated treatment more effective, and finishing it confers no competency to treat. It is not open to my acupuncture patients, and subscribing creates no practitioner-patient relationship of any kind.*</small>
 
@@ -231,4 +231,4 @@ I'm not a historian and I'm not a translator. The classical readings here lean o
 
 ---
 
-*[← Chapter 4, The Magick Was Never the Add-On](https://zacharylui.ca/the-magick-was-never-the-add-on/) · Next, Chapter 6, The Map That Isn't of the Patient. [Subscribe](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch5&utm_campaign=next) and you'll get it when it drops.*
+*[← Chapter 4, The Magick Was Never the Add-On](https://zacharylui.ca/the-magick-was-never-the-add-on/) · Next, Chapter 6, The Map That Isn't of the Patient. [Subscribe](https://zacharylui.ca/free-index?utm_source=book&utm_medium=ch5&utm_campaign=next) and you'll get it when it drops.*

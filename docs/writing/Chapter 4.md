@@ -34,7 +34,7 @@ The usual explanation is tolerance. Broad-minded old doctor, kept an open mind, 
 
 *Personal essay on history and philosophy, not medical advice. Every person here is a composite. [Full note and credentials.](https://zacharylui.ca/about-this-book/)*
 
-**The Secret Menu Index.** One page. Everything the standardized curriculum dropped, renamed, or de-framed, and where each piece went. Free, by email. [Get it here.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch4&utm_campaign=early)<!-- UTM: ch4-early -->
+**The Secret Menu Index.** One page. Everything the standardized curriculum dropped, renamed, or de-framed, and where each piece went. Free, by email. [Get it here.](https://zacharylui.ca/free-index?utm_source=book&utm_medium=ch4&utm_campaign=early)<!-- UTM: ch4-early -->
 
 ---
 
@@ -154,7 +154,7 @@ Then the part that cuts against me. The spell-cure (祝由) sits at twelve of th
 
 Was my claim ever that everybody agreed? It wasn't. My claim is about what kind of system this is. And a system doesn't stop running on resonance because a bureau reorganized its departments. What it stops doing is admitting it in public, on paper, with a stamp on it. A thing losing its department is not the same as a thing losing its function. Watch which one you're being sold.
 
-**The Secret Menu Index**, if you want the map and not the argument. Everything the standardized curriculum dropped, renamed, or de-framed, and where each piece ended up. One page, free, by email. [Get it here.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch4&utm_campaign=mid)<!-- UTM: ch4-mid -->
+**The Secret Menu Index**, if you want the map and not the argument. Everything the standardized curriculum dropped, renamed, or de-framed, and where each piece ended up. One page, free, by email. [Get it here.](https://zacharylui.ca/free-index?utm_source=book&utm_medium=ch4&utm_campaign=mid)<!-- UTM: ch4-mid -->
 
 ---
 
@@ -204,7 +204,7 @@ Sun Simiao put the spell and the decoction in the same book because as far as he
 
 ---
 
-*Next chapter, How the Old Doctors Read a Body. Three maps, channels as rivers, organs as a royal court, and a calendar sitting under both, which is where I show you the correspondence engine actually running.* [Subscribe and you'll get it when it drops.](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch4&utm_campaign=next)<!-- UTM: ch4-next -->
+*Next chapter, How the Old Doctors Read a Body. Three maps, channels as rivers, organs as a royal court, and a calendar sitting under both, which is where I show you the correspondence engine actually running.* [Subscribe and you'll get it when it drops.](https://zacharylui.ca/free-index?utm_source=book&utm_medium=ch4&utm_campaign=next)<!-- UTM: ch4-next -->
 
 ---
 
@@ -253,4 +253,4 @@ Same deal as last chapter. This is where the claims come from, so you can check 
 
 ---
 
-*[← Chapter 3: Chinese Medicine Lost Its Licence in 1571](/lost-its-licence-in-1571/) · Next: Chapter 5, How the Old Doctors Read a Body. [Subscribe](https://zachary-lui.kit.com/f6fa3a92ab?utm_source=book&utm_medium=ch4&utm_campaign=end) and you'll get it when it drops.*
+*[← Chapter 3: Chinese Medicine Lost Its Licence in 1571](/lost-its-licence-in-1571/) · Next: Chapter 5, How the Old Doctors Read a Body. [Subscribe](https://zacharylui.ca/free-index?utm_source=book&utm_medium=ch4&utm_campaign=end) and you'll get it when it drops.*
