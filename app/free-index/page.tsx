@@ -6,7 +6,7 @@ import type { Metadata } from "next";
 const KIT_FORM_ACTION = "https://app.kit.com/forms/9434628/subscriptions";
 
 const DESCRIPTION =
-  "Free. Nine operations Chinese medicine's own records name, two named sources for every entry.";
+  "The magick Chinese medicine ran as standard practice, in nine entries. Free, one page, two named sources under every entry.";
 
 export const metadata: Metadata = {
   title: "The Secret Menu Index",
@@ -63,7 +63,7 @@ function SignupForm({ id }: { id: string }) {
         type="submit"
         className="rounded-md bg-gold-400 px-5 py-3 text-base font-semibold text-zinc-950 hover:bg-gold-600"
       >
-        Send me the Index
+        Send me the free Index
       </button>
     </form>
   );
@@ -71,28 +71,28 @@ function SignupForm({ id }: { id: string }) {
 
 export default function FreeIndexPage() {
   return (
-    <article className="mx-auto max-w-3xl py-6 sm:py-10">
-      <img
+    <article className="mx-auto max-w-3xl py-2 sm:py-10">
+
+      <p className="text-xs uppercase tracking-[0.2em] text-gold-400">The Secret Menu Index</p>
+      <h1 className="mt-2 text-[1.6rem] font-bold leading-tight text-zinc-50 sm:text-4xl">The magick Chinese medicine ran as standard practice, in nine entries.</h1>
+      <p className="mt-3 max-w-2xl text-base leading-relaxed text-zinc-300 sm:text-lg">Free, one page, two named sources under every entry. Plus a 24-page monograph on garlic.</p>
+
+      <div className="mt-5">
+        <SignupForm id="top" />
+        <p className="mt-3 text-sm text-zinc-400">
+          Confirm one email and both PDFs open. Emails on Chinese medicine as magick. Unsubscribe any time.
+        </p>
+      </div>
+
+      <section className="mt-14">
+        <img
         src="/images/15_nine_operations.png"
         alt="Nine objects laid out on a dark wooden table: brush, sealed paper packet, bronze mirror, dried herbs, porcelain dish, red cord, stone, cup"
         width={1672}
         height={941}
         className="w-full rounded-lg border border-charcoal-800"
       />
-
-      <p className="mt-8 text-xs uppercase tracking-[0.2em] text-gold-400">The Magick That Never Left</p>
-      <h1 className="heading-1 mt-3">The Secret Menu Index</h1>
-      <p className="mt-4 max-w-2xl text-lg leading-relaxed text-zinc-300">{DESCRIPTION}</p>
-
-      <div className="mt-8">
-        <SignupForm id="top" />
-        <p className="mt-3 text-sm text-zinc-400">
-          Confirm your email and both PDFs are yours. Emails on Chinese medicine as magick. Unsubscribe any time.
-        </p>
-      </div>
-
-      <section className="mt-14">
-        <h2 className="heading-2">What&apos;s in it</h2>
+        <h2 className="heading-2 mt-8">What&apos;s in it</h2>
         <ol className="mt-5 grid grid-cols-1 gap-2 sm:grid-cols-3">
           {OPERATIONS.map((name, i) => (
             <li

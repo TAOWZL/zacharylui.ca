@@ -16,7 +16,10 @@ const linkClass =
   "rounded-md border border-charcoal-800 bg-charcoal-950/70 px-3 py-1.5 text-sm text-zinc-200 visited:text-zinc-200 no-underline hover:border-gold-600 hover:text-gold-400";
 
 export default function HeaderNav() {
-  const laneZ = isLaneZPath(usePathname() ?? "");
+  const pathname = usePathname() ?? "";
+  // The signup page keeps one job: no menu, so the form sits above the fold.
+  if (pathname === "/free-index" || pathname === "/free-index/") return null;
+  const laneZ = isLaneZPath(pathname);
   const items = laneZ
     ? LANE_Z_NAV
     : siteConfig.nav.map((item) => ({ label: item.label, href: item.slug ? `/${item.slug}` : "/" }));
