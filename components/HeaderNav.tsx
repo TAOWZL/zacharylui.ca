@@ -8,12 +8,12 @@ import { isLaneZPath } from "@/lib/laneZ";
 // pages (About, Services, Press carry the clinic and acupuncture details).
 const LANE_Z_NAV = [
   { label: "Free Index", href: "/free-index" },
-  { label: "The Book", href: "/writing" },
+  { label: "Readings", href: "/divination" },
   { label: "Workshop", href: "/courses/moxibustion" }
 ];
 
 const linkClass =
-  "rounded-md border border-charcoal-800 bg-charcoal-950/70 px-3 py-1.5 text-sm text-zinc-200 visited:text-zinc-200 no-underline hover:border-gold-600 hover:text-gold-400";
+  "rounded-md border border-charcoal-800 bg-charcoal-950/70 px-3 py-1.5 text-sm text-cream-200 visited:text-cream-200 no-underline hover:border-cinnabar-500 hover:text-cream-50";
 
 export default function HeaderNav() {
   const pathname = usePathname() ?? "";
@@ -35,9 +35,11 @@ export default function HeaderNav() {
 }
 
 export function HeaderHomeLink({ className, children }: { className: string; children: React.ReactNode }) {
-  const laneZ = isLaneZPath(usePathname() ?? "");
+  const pathname = usePathname() ?? "";
+  // The signup page keeps one job, so its logo goes nowhere else.
+  const href = pathname.startsWith("/free-index") ? "/free-index" : isLaneZPath(pathname) ? "/" : "/in-person";
   return (
-    <a href={laneZ ? "/free-index" : "/"} className={className}>
+    <a href={href} className={className}>
       {children}
     </a>
   );

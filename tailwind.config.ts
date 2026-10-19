@@ -18,7 +18,21 @@ const config: Config = {
         red: {
           600: "#c43737",
           700: "#a62222"
+        },
+        // Brand: cream for reading, cinnabar for accents, gold only for the one primary button.
+        cream: {
+          50: "#f7f1e3",
+          200: "#ede3cc",
+          400: "#d8c9a8"
+        },
+        cinnabar: {
+          400: "#e0644f",
+          500: "#c8432f",
+          600: "#a8321f"
         }
+      },
+      fontFamily: {
+        display: ["\"EB Garamond\"", "Georgia", "\"Noto Serif TC\"", "serif"]
       }
     }
   },

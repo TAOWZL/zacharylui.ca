@@ -1,5 +1,8 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import "@fontsource/eb-garamond/500.css";
+import "@fontsource/eb-garamond/600.css";
+import "@fontsource/eb-garamond/700.css";
 import { siteConfig } from "@/site.config";
 import FooterContact from "@/components/FooterContact";
 import HeaderNav, { HeaderHomeLink } from "@/components/HeaderNav";
@@ -43,8 +46,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <div className="mx-auto flex min-h-screen w-full max-w-6xl flex-col px-4 py-8 sm:px-6 lg:px-8">
           <header className="header-shell">
             <div className="flex flex-wrap items-center justify-between gap-4">
-              <HeaderHomeLink className="text-xl font-semibold tracking-wide text-zinc-100 visited:text-zinc-100 no-underline md:text-2xl">
-                <span className="text-gold-400">Zachary</span> Lui
+              <HeaderHomeLink className="text-xl font-display font-semibold tracking-wide text-cream-50 visited:text-cream-50 no-underline md:text-2xl">
+                <span className="text-cinnabar-400">Zachary</span> Lui
               </HeaderHomeLink>
               <HeaderNav />
             </div>
@@ -64,7 +67,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <div className="mt-6 flex flex-wrap items-center justify-between gap-2 border-t border-charcoal-800 pt-4 text-xs text-zinc-500">
               <p>&copy; {year} Zachary Lui. All rights reserved.</p>
               <p>
-                <a href="/privacy" className="text-zinc-500 visited:text-zinc-500 no-underline hover:text-gold-400">Privacy</a>
+                <a href="/privacy" className="text-zinc-500 visited:text-zinc-500 no-underline hover:text-cream-50">Privacy</a>
               </p>
             </div>
           </footer>

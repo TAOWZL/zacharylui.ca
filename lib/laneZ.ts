@@ -4,5 +4,7 @@
 export const LANE_Z_PREFIXES = ["/free-index", "/secret-menu", "/courses", "/writing", "/about-this-book"];
 
 export function isLaneZPath(pathname: string): boolean {
+  // The homepage is the online front door, so it follows the Lane Z rules too.
+  if (pathname === "/" || pathname === "") return true;
   return LANE_Z_PREFIXES.some((prefix) => pathname === prefix || pathname.startsWith(prefix + "/"));
 }

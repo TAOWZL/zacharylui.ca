@@ -3,7 +3,7 @@
 import { usePathname } from "next/navigation";
 import { isLaneZPath } from "@/lib/laneZ";
 
-const linkClass = "text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400";
+const linkClass = "text-zinc-300 visited:text-zinc-300 no-underline hover:text-cream-50";
 
 const DEFAULT_LINKS: [string, string][] = [
   ["/acupuncture", "Acupuncture"],
@@ -19,11 +19,11 @@ const DEFAULT_LINKS: [string, string][] = [
 ];
 
 const LANE_Z_LINKS: [string, string][] = [
-  ["/secret-menu", "The Secret Menu"],
-  ["/courses/moxibustion", "Moxibustion Workshop"],
-  ["/writing", "The Book"],
+  ["/free-index", "The Free Index"],
+  ["https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w", "The Secret Menu"],
   ["/divination", "Divination Coaching"],
-  ["/qigong", "Qigong / Neigong"],
+  ["https://wujixuan.janeapp.com/#/discipline/2/treatment/5", "Distant Reiki"],
+  ["/courses/moxibustion", "Moxibustion Workshop"],
   ["/ritual", "Ritual"]
 ];
 
@@ -59,7 +59,7 @@ export function FooterDisclaimer() {
       <a
         href="https://www.ctcmpao.on.ca/publicregistersrc/"
         rel="noopener"
-        className="text-zinc-300 visited:text-zinc-300 underline hover:text-gold-400"
+        className="text-zinc-300 visited:text-zinc-300 underline hover:text-cream-50"
       >
         College of Traditional Chinese Medicine Practitioners and Acupuncturists of Ontario
       </a>

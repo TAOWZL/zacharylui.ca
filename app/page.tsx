@@ -1,26 +1,133 @@
 import type { Metadata } from "next";
-import { notFound } from "next/navigation";
-import { getDocBySlug, inferDescription } from "@/lib/content";
-import { MarkdownPage } from "@/components/MarkdownPage";
+import IndexSignupForm from "@/components/IndexSignupForm";
 
-export function generateMetadata(): Metadata {
-  const doc = getDocBySlug("");
-  if (!doc) return {};
-  const title = doc.data.title ?? "Zachary Lui";
-  const description = inferDescription(doc);
-  return {
-    title,
-    description,
-    openGraph: {
-      title,
-      description,
-      url: "/"
-    }
-  };
-}
+// Online front door. Follows the Lane Z rules (see lib/laneZ.ts): no clinic
+// name, address, phone, R.Ac title or acupuncture link on this page. The
+// three-doors page for in-person work lives at /in-person.
+
+const TITLE = "Zachary Lui | Chinese Magick, Divination and Reiki Online";
+const DESCRIPTION =
+  "Wu shaman and Daoist priest by transmission. The Secret Menu membership, divination coaching and distant Reiki on Zoom, and recorded workshops in Chinese herbal magick.";
+
+export const metadata: Metadata = {
+  title: { absolute: TITLE },
+  description: DESCRIPTION,
+  alternates: { canonical: "/" },
+  openGraph: { title: TITLE, description: DESCRIPTION, url: "/" }
+};
+
+type Offer = {
+  kicker: string;
+  name: string;
+  body: string;
+  detail: string;
+  cta: string;
+  href: string;
+};
+
+const OFFERS: Offer[] = [
+  {
+    kicker: "Membership",
+    name: "The Secret Menu",
+    body: "One class a month on Zoom, each on an operation from the Index. Every class is recorded, and every monograph after garlic goes to members only.",
+    detail: "$75 CAD a month + tax. Cancel any time.",
+    cta: "Join The Secret Menu",
+    href: "https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w"
+  },
+  {
+    kicker: "One to one",
+    name: "Divination Coaching",
+    body: "Mahjong tiles or tarot, read with mediumship, 60 minutes on Zoom. Bring the decision. You leave with the read, the path that fits it, and a practice to work afterward.",
+    detail: "Wherever you are.",
+    cta: "About the readings",
+    href: "/divination"
+  },
+  {
+    kicker: "One to one",
+    name: "Distant Reiki",
+    body: "A full hour of Usui Reiki on Zoom, from a Usui Reiki Master Teacher. Sit somewhere quiet where nobody will disturb you. You finish with practices to carry on with between sessions.",
+    detail: "Wherever you are.",
+    cta: "Book distant Reiki",
+    href: "https://wujixuan.janeapp.com/#/discipline/2/treatment/5"
+  },
+  {
+    kicker: "Workshop",
+    name: "Chinese Herbal Magick: Moxibustion",
+    body: "A recorded three-hour workshop. Work moxa unlit to meet the herb itself, then with garlic. Comes with the moxa monograph and a worksheet. Out November 22, 2026.",
+    detail: "$97 CAD + tax until October 31. Free for Secret Menu members.",
+    cta: "See the workshop",
+    href: "/courses/moxibustion"
+  }
+];
+
+const LINEAGE = [
+  "巫 (Wu shaman) and Daoist priest by transmission",
+  "茅山上清 Mao Shan Shangqing Daoist transmission",
+  "唐密 Tangmi, Chinese Esoteric Buddhism"
+];
 
 export default function HomePage() {
-  const doc = getDocBySlug("");
-  if (!doc) notFound();
-  return <MarkdownPage doc={doc} />;
+  return (
+    <article className="mx-auto max-w-4xl py-2 sm:py-8">
+      <section>
+        <p className="kicker">Zachary Lui</p>
+        <h1 className="display mt-3 text-[2rem] leading-tight sm:text-5xl">
+          Chinese medicine is magick. Learn to work it.
+        </h1>
+        <p className="mt-4 max-w-2xl text-lg leading-relaxed text-zinc-300">
+          Start with the free Index: the nine operations the tradition ran as standard practice, two named sources
+          under every entry, plus a 24-page monograph on garlic.
+        </p>
+        <div className="mt-6">
+          <IndexSignupForm id="top" />
+          <p className="mt-3 text-sm text-zinc-400">
+            Confirm one email and both PDFs open. Emails on Chinese medicine as magick. Unsubscribe any time.
+          </p>
+        </div>
+      </section>
+
+      <section className="mt-16">
+        <h2 className="heading-2">Work with me online</h2>
+        <div className="mt-6 grid gap-5 sm:grid-cols-2">
+          {OFFERS.map((offer) => (
+            <div key={offer.name} className="offer-card">
+              <p className="kicker">{offer.kicker}</p>
+              <h3 className="display mt-2 text-2xl">{offer.name}</h3>
+              <p className="mt-3 flex-1 leading-relaxed text-zinc-300">{offer.body}</p>
+              <p className="mt-3 text-sm text-zinc-400">{offer.detail}</p>
+              <a href={offer.href} className="btn-secondary mt-5">
+                {offer.cta} →
+              </a>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <section className="mt-16 flex flex-col items-start gap-5 rounded-lg border border-charcoal-800 bg-charcoal-950/60 p-5 sm:flex-row sm:items-center">
+        <img
+          src="/images/zachary-headshot-2.jpg"
+          alt="Zachary Lui"
+          width={96}
+          height={96}
+          className="h-24 w-24 rounded-full object-cover"
+        />
+        <div>
+          <p className="font-semibold text-zinc-100">Zachary Lui</p>
+          {LINEAGE.map((line, i) => (
+            <p key={line} className={i === 0 ? "mt-1 text-zinc-300" : "text-zinc-300"}>
+              {line}
+            </p>
+          ))}
+          <p className="mt-2 text-zinc-400">Spiritual master: Andrieh Vitimus. Apprenticing since 2008.</p>
+        </div>
+      </section>
+
+      <section className="mt-16">
+        <h2 className="heading-2">Start with the Index</h2>
+        <div className="mt-6">
+          <IndexSignupForm id="bottom" />
+        </div>
+      </section>
+    </article>
+  );
 }
