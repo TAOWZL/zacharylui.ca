@@ -53,6 +53,10 @@ a:hover {
   @apply font-display font-semibold text-cream-50;
 }
 
+.chapter-card {
+  @apply block rounded-lg border border-charcoal-800 bg-charcoal-950/70 p-5 no-underline hover:border-cinnabar-500/60;
+}
+
 .offer-card {
   @apply flex flex-col rounded-lg border border-charcoal-800 bg-charcoal-950/70 p-5;
   border-top: 2px solid #c8432f;

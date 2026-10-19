@@ -9,6 +9,7 @@ import { isLaneZPath } from "@/lib/laneZ";
 const LANE_Z_NAV = [
   { label: "Free Index", href: "/free-index" },
   { label: "Readings", href: "/divination" },
+  { label: "Writing", href: "/writing" },
   { label: "Workshop", href: "/courses/moxibustion" }
 ];
 

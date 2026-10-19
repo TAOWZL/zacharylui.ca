@@ -1,5 +1,5 @@
 ---
-title: Writing | Zachary Lui
+title: Writing
 description: Essays and notes on classical Chinese medicine, qigong, ritual, and practice by Zachary Lui.
 cover: /images/hero-writing.svg
 permalink: writing
