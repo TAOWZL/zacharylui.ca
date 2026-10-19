@@ -1,6 +1,7 @@
 "use client";
 
 import { usePathname } from "next/navigation";
+import { isLaneZPath } from "@/lib/laneZ";
 
 const SPIRITUAL_PREFIXES = [
   "/wealth-deities",
@@ -17,6 +18,16 @@ export default function FooterContact() {
   const isSpiritual = SPIRITUAL_PREFIXES.some(
     (prefix) => pathname === prefix || pathname.startsWith(prefix + "/")
   );
+
+  if (isLaneZPath(pathname)) {
+    return (
+      <div className="space-y-1">
+        <p className="font-semibold text-zinc-100">Zachary Lui</p>
+        <p>茅山上清 Mao Shan Shangqing Daoist transmission</p>
+        <p>唐密 Tangmi, Chinese Esoteric Buddhism</p>
+      </div>
+    );
+  }
 
   if (isSpiritual) {
     return (
