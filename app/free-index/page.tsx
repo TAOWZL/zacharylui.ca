@@ -134,7 +134,8 @@ export default function FreeIndexPage() {
         />
         <div>
           <p className="font-semibold text-zinc-100">Zachary Lui</p>
-          <p className="mt-1 text-zinc-300">茅山上清 Mao Shan Shangqing Daoist transmission</p>
+          <p className="mt-1 text-zinc-300">巫 (Wu shaman) and Daoist priest by transmission</p>
+          <p className="text-zinc-300">茅山上清 Mao Shan Shangqing Daoist transmission</p>
           <p className="text-zinc-300">唐密 Tangmi, Chinese Esoteric Buddhism</p>
         </div>
       </section>
