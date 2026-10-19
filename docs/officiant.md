@@ -40,9 +40,9 @@ I don't ask why. The licence is the only document that matters for the signing.
 
 ## If you want more than the signing
 
-**Brief ceremony — $497 + HST. Forty-five minutes.** The legal signing plus vows you write or I write, ring exchange if you want one, and a small amount of personalization. Still at the studio. Up to six guests including the two witnesses.
+**Brief ceremony: $497 + HST. Forty-five minutes.** The legal signing plus vows you write or I write, ring exchange if you want one, and a small amount of personalization. Still at the studio. Up to six guests including the two witnesses.
 
-**Custom ceremony — $997 + HST and up.** Full consultation, ceremony writing, rehearsal optional. My specialty is Chinese ceremony — tea ceremony, ancestor acknowledgment, and traditional ritual elements — with Cantonese cultural literacy. I also officiate Pagan, interfaith, and other spiritual ceremonies depending on what the couple needs, drawing on my training as a magician. Ceremonies are conducted in English; I can incorporate Chinese cultural and ritual elements where the family asks for them. The studio holds approximately twenty guests comfortably; the ceremony fee scales with scope rather than headcount.
+**Custom ceremony: $997 + HST and up.** Full consultation, ceremony writing, rehearsal optional. My specialty is Chinese ceremony: tea ceremony, ancestor acknowledgment, and traditional ritual elements, with Cantonese cultural literacy. I also officiate Pagan, interfaith, and other spiritual ceremonies depending on what the couple needs, drawing on my training as a magician. Ceremonies are conducted in English; I can incorporate Chinese cultural and ritual elements where the family asks for them. The studio holds approximately twenty guests comfortably; the ceremony fee scales with scope rather than headcount.
 
 A $200 + HST urgency surcharge applies to brief or custom ceremonies booked for under forty-eight hours from inquiry, subject to availability.
 
@@ -66,7 +66,7 @@ Cancellations more than seven days before the appointment receive a full refund.
 
 ## What I bring to this work
 
-I'm a Wu (巫) — a practitioner in the oldest layer of Chinese spiritual tradition, the line of shamans, spirit-mediums, and ceremony-holders that predates the organized priesthoods. My specialty is Chinese ceremony, with cultural literacy for tea ceremony, ancestor acknowledgment, and traditional ritual elements. I'm also a long-practicing magician, which means I can hold space for Pagan, interfaith, and other spiritual ceremonies depending on what the couple needs.
+I'm a Wu (巫), a practitioner in the oldest layer of Chinese spiritual tradition, the line of shamans, spirit-mediums, and ceremony-holders that predates the organized priesthoods. My specialty is Chinese ceremony, with cultural literacy for tea ceremony, ancestor acknowledgment, and traditional ritual elements. I'm also a long-practicing magician, which means I can hold space for Pagan, interfaith, and other spiritual ceremonies depending on what the couple needs.
 
 Ceremonies are conducted in English. I have working comprehension of Cantonese for cultural moments and family interaction.
 

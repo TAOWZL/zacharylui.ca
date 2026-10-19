@@ -13,6 +13,8 @@ type Props = {
 export function MarkdownPage({ doc }: Props) {
   const rawMarkdown = renderableMarkdown(doc);
   const title = doc.data.title ?? "Zachary Lui";
+  // The page header shows the plain name; the SEO suffix after " | " stays in <title>.
+  const shortTitle = title.split(" | ")[0];
   const description = doc.data.description;
   const cover = doc.data.cover ?? doc.data.image;
   const hasHero = Boolean(cover);
@@ -24,9 +26,18 @@ export function MarkdownPage({ doc }: Props) {
   const detailsMatch = rawMarkdown.match(
     /<details>\s*<summary>([\s\S]*?)<\/summary>([\s\S]*?)<\/details>/i
   );
-  const markdown = detailsMatch
+  const beforeDetails = detailsMatch
     ? rawMarkdown.slice(0, detailsMatch.index).trimEnd()
     : rawMarkdown;
+  // Drop an opening "# Heading" that repeats the page title shown in the header.
+  const norm = (t: string) => t.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+  // When one contains the other, the longer one becomes the page title.
+  const lead = beforeDetails.match(/^\s*#{1,2}\s+(.+)\n/);
+  const overlaps =
+    lead && (norm(lead[1]).includes(norm(shortTitle)) || norm(shortTitle).includes(norm(lead[1])));
+  const displayTitle =
+    lead && overlaps && lead[1].trim().length > shortTitle.length ? lead[1].trim() : shortTitle;
+  const markdown = lead && overlaps ? beforeDetails.slice(lead[0].length) : beforeDetails;
   const detailsSummary = detailsMatch
     ? detailsMatch[1].replace(/<[^>]+>/g, "").trim()
     : null;
@@ -50,8 +61,9 @@ export function MarkdownPage({ doc }: Props) {
         [rehypeAutolinkHeadings, { behavior: "append", properties: { className: ["anchor-link"] } }]
       ]}
       components={{
-            h1: ({ children, id }) =>
-              hasHero ? null : <h1 id={id} className="heading-1">{children}</h1>,
+            // The page header carries the one h1; headings written with "#" in the
+            // markdown read as section headings.
+            h1: ({ children, id }) => <h2 id={id} className="heading-2">{children}</h2>,
             h2: ({ children, id }) => (
               <h2 id={id} className="heading-2">{children}</h2>
             ),
@@ -67,9 +79,18 @@ export function MarkdownPage({ doc }: Props) {
             h6: ({ children, id }) => (
               <h6 id={id} className="heading-6">{children}</h6>
             ),
-            p: ({ children }) => (
-              <p className="para">{children}</p>
-            ),
+            p: ({ children, node }) => {
+              // A paragraph that is only a link is a call to action: render it as a button.
+              const kids = (node?.children ?? []).filter(
+                (c) => !(c.type === "text" && !String((c as { value?: string }).value ?? "").trim())
+              );
+              const only = kids.length === 1 ? (kids[0] as { type: string; tagName?: string; children?: { tagName?: string }[] }) : null;
+              const isCta =
+                only?.type === "element" &&
+                (only.tagName === "a" ||
+                  (only.tagName === "strong" && only.children?.length === 1 && only.children[0]?.tagName === "a"));
+              return <p className={isCta ? "cta-row" : "para"}>{children}</p>;
+            },
             hr: () => <hr className="section-divider" />,
             ul: ({ children }) => (
               <ul className="list-disc-custom">{children}</ul>
@@ -78,16 +99,9 @@ export function MarkdownPage({ doc }: Props) {
               <ol className="list-decimal-custom">{children}</ol>
             ),
             a: ({ href, children }) => {
-              const rawText = Array.isArray(children)
-                ? children.map((child) => (typeof child === "string" ? child : "")).join(" ")
-                : typeof children === "string"
-                  ? children
-                  : "";
-              const classNames = /(book|view|learn more)/i.test(rawText) ? "button-link" : undefined;
               return (
                 <a
                   href={href}
-                  className={classNames}
                   target={href?.startsWith("http") ? "_blank" : undefined}
                   rel={href?.startsWith("http") ? "noreferrer" : undefined}
                 >
@@ -103,26 +117,17 @@ export function MarkdownPage({ doc }: Props) {
   );
 
   return (
-    <section className="space-y-8">
-      {hasHero ? (
-        <article className="hero-shell">
-          <img
-            src={cover}
-            alt={title}
-            className="h-72 w-full object-cover object-top md:h-[28rem]"
-          />
-          <div className="hero-overlay" />
-          <div className="hero-content">
-            <h1 className="hero-title">{title}</h1>
-            {description ? <p className="hero-description">{description}</p> : null}
-          </div>
-        </article>
-      ) : null}
-      <article className="content-shell prose prose-lg max-w-none">
+    <section className="page-column">
+      <header className="page-header">
+        <h1 className="display text-[2rem] leading-tight sm:text-5xl">{displayTitle}</h1>
+        {description ? <p className="mt-4 text-lg leading-relaxed text-zinc-300">{description}</p> : null}
+      </header>
+      {hasHero ? <img src={cover} alt="" className="page-banner" /> : null}
+      <article className="page-body prose">
         {renderMarkdown(markdown)}
       </article>
       {detailsBody ? (
-        <article className="content-shell prose prose-lg max-w-none">
+        <article className="page-body prose mt-10 border-t border-charcoal-800 pt-6">
           <details className="reading-list">
             <summary>
               <strong>{detailsSummary}</strong>

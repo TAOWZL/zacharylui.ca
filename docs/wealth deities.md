@@ -36,35 +36,35 @@ Find the type that fits your situation, then find the deity that resonates.
 
 ## Who they are
 
-### 比干 Bǐ Gàn — Civil Wealth God
+### 比干 Bǐ Gàn, Civil Wealth God
 
 A minister who told a tyrant the truth and was executed for it. He became the god of money earned through integrity, the kind that comes from doing the right thing, not the easy thing.
 
-### 趙公明 Zhào Gōngmíng — Military Wealth God
+### 趙公明 Zhào Gōngmíng, Military Wealth God
 
 A warrior on a tiger with an iron whip and a black-painted face. The wealth god for when business is a fight: outcompeting rivals, enforcing contracts, opening shop in a hostile market.
 
-### 土地公 Tǔ Dì Gōng — Earth God
+### 土地公 Tǔ Dì Gōng, Earth God
 
 The spirit landlord of wherever you are. Every neighborhood, business, and home has one. He grounds wealth currents and helps them solidify into something tangible.
 
-### 關羽 Guān Yǔ — Lord Guan
+### 關羽 Guān Yǔ, Lord Guan
 
 A real Eastern Han general who became legendary for holding his sworn brotherhood under impossible pressure. Worshipped across Daoist, Buddhist, Confucian, and folk traditions, his signature in wealth practice is sworn partnerships and the agreements between people.
 
-### 祿星 Lù Xīng — Prosperity Star
+### 祿星 Lù Xīng, Prosperity Star
 
 A bureaucratic deity, second of the Three Stars. He governs the wealth that comes with the rank itself: salary, civil service, academic posts, the licenses and exams that open a position.
 
-### 劉海 Liú Hǎi — Toad-Riding Immortal
+### 劉海 Liú Hǎi, Toad-Riding Immortal
 
 A 10th-century immortal, almost always shown riding a three-legged toad. He is the deity of luck-wealth: windfalls, surprise gains, the money that finds you when you weren't chasing it.
 
-### 福星 Fú Xīng — Fortune Star
+### 福星 Fú Xīng, Fortune Star
 
 The Fortune Star, first of the Three Stars. He is broad good fortune: family blessings, descendants, the surplus that shows up because your line is in good order.
 
-### 布袋 Bùdài — Lucky Buddha
+### 布袋 Bùdài, Lucky Buddha
 
 The smiling, bare-bellied Cloth-Sack Monk, later identified as a manifestation of Maitreya. His function is contentment-wealth. You don't petition him to get more, you petition him for the fullness of having enough, and the abundance that comes from giving.
 
