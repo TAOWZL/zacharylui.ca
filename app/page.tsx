@@ -89,7 +89,7 @@ const LINEAGE = [
 
 export default function HomePage() {
   return (
-    <article className="mx-auto max-w-4xl py-2 sm:py-8">
+    <article className="mx-auto max-w-3xl py-2 sm:py-8">
       <section>
         <p className="kicker">Zachary Lui</p>
         <h1 className="display mt-3 text-[2rem] leading-tight sm:text-5xl">
@@ -136,7 +136,7 @@ export default function HomePage() {
           ))}
         </div>
         <p className="mt-4">
-          <a href="/writing">All writing →</a>
+          <a href="/writing" className="btn-secondary">All writing →</a>
         </p>
       </section>
 

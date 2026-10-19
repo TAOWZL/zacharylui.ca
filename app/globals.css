@@ -89,11 +89,11 @@ a:hover {
 }
 
 .heading-2 {
-  @apply mt-8 mb-4 border-b border-cinnabar-600/50 pb-2 font-display text-3xl font-semibold leading-snug text-cream-50 md:mt-12 md:text-4xl;
+  @apply mt-12 mb-4 border-b border-cinnabar-600/50 pb-2 font-display text-3xl font-semibold leading-snug text-cream-50 md:text-4xl;
 }
 
 .heading-3 {
-  @apply mt-8 mb-3 font-display text-[26px] font-semibold text-cream-200 md:text-[32px];
+  @apply mt-8 mb-3 font-display text-2xl font-semibold text-cream-200;
 }
 
 .heading-4 {
@@ -111,13 +111,13 @@ a:hover {
 /* ── Paragraphs ───────────────────────────────────────────── */
 
 .para {
-  @apply mb-5 text-xl leading-relaxed text-zinc-200 md:text-[22px];
+  @apply mb-5 text-lg leading-relaxed text-zinc-300;
 }
 
 /* ── Lists ─────────────────────────────────────────────── */
 
 .list-disc-custom {
-  @apply mb-6 mt-2 space-y-2 pl-6 text-xl text-zinc-200 md:text-[22px];
+  @apply mb-6 mt-2 space-y-2 pl-6 text-lg leading-relaxed text-zinc-300;
 }
 
 .list-disc-custom li {
@@ -129,7 +129,7 @@ a:hover {
 }
 
 .list-decimal-custom {
-  @apply mb-6 mt-2 list-decimal space-y-2 pl-6 text-lg text-zinc-200 md:text-xl;
+  @apply mb-6 mt-2 list-decimal space-y-2 pl-6 text-lg leading-relaxed text-zinc-300;
 }
 
 .list-decimal-custom li {
@@ -201,16 +201,38 @@ a:hover {
   }
 }
 
-.content-shell > .heading-1:first-of-type {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  margin: -1px;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  white-space: nowrap;
-  border-width: 0;
+/* ── One page layout for every markdown page ───────────── */
+
+.page-column {
+  @apply mx-auto max-w-3xl py-2 sm:py-8;
+}
+
+.page-header {
+  @apply mb-8;
+}
+
+.page-banner {
+  @apply mb-10 h-56 w-full rounded-lg border border-charcoal-800 object-cover object-[center_22%] md:h-80;
+}
+
+/* A paragraph that is only a link: secondary button by default, gold primary
+   when it books or buys (Jane, Stripe). */
+.cta-row {
+  @apply my-6;
+}
+
+.cta-row > a,
+.cta-row > strong > a {
+  @apply inline-flex min-h-[44px] items-center rounded-md border border-cream-400/40 px-4 py-2 text-base font-medium text-cream-200 no-underline hover:border-cinnabar-400 hover:text-cream-50;
+}
+
+.cta-row > a[href*="janeapp.com"],
+.cta-row > a[href*="buy.stripe.com"],
+.cta-row > strong > a[href*="janeapp.com"],
+.cta-row > strong > a[href*="buy.stripe.com"],
+.cta-row > a[href*="kit.com"],
+.cta-row > strong > a[href*="kit.com"] {
+  @apply border-transparent bg-gold-400 font-semibold text-zinc-950 hover:bg-gold-500 hover:text-zinc-950;
 }
 
 .header-shell {

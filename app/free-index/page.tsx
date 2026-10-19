@@ -36,7 +36,7 @@ export default function FreeIndexPage() {
     <article className="mx-auto max-w-3xl py-2 sm:py-10">
 
       <p className="kicker">The Secret Menu Index</p>
-      <h1 className="display mt-2 text-[1.6rem] leading-tight text-zinc-50 sm:text-4xl">The magick Chinese medicine ran as standard practice, in nine entries.</h1>
+      <h1 className="display mt-2 text-[2rem] leading-tight sm:text-5xl">The magick Chinese medicine ran as standard practice, in nine entries.</h1>
       <p className="mt-3 max-w-2xl text-base leading-relaxed text-zinc-300 sm:text-lg">Free, one page, two named sources under every entry. Plus a 24-page monograph on garlic.</p>
 
       <div className="mt-5">

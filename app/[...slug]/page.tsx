@@ -49,7 +49,8 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const image = doc.data.image ?? doc.data.cover;
 
   return {
-    title,
+    // Titles that already carry the name skip the layout's "| Zachary Lui" suffix.
+    title: /Zachary Lui/.test(title) ? { absolute: title } : title,
     description,
     alternates: {
       canonical: `/${doc.slug}`

@@ -1,7 +1,6 @@
 ---
 title: Projects
 description: Current and upcoming projects.
-cover: /images/hero-main.svg
 ---
 # Projects
 
