@@ -25,7 +25,7 @@ The nine operations run on video, one per lesson. Operation 1 is pulse diagnosis
 
 # The Secret Menu
 
-The paid room. One live hour a month on an operation from the Index. Miss it live and you get the recording, available while you stay subscribed. Every new monograph after garlic is published to members only. \$75 CAD a month plus applicable tax, billed monthly until you cancel. The \$75 rate is open to the first 20 members, and they keep it for as long as they stay subscribed. After that, the price for new members goes up. Cancel anytime; cancelling stops the next charge. Founding members who joined by October 9, 2026 keep their founding rate while subscribed. [Full terms](/terms).
+The paid room. One class a month on Zoom, on an operation from the Index. Every class is recorded, available while you stay subscribed. Every new monograph after garlic is published to members only. \$75 CAD a month plus applicable tax, billed monthly until you cancel. The \$75 rate is open to the first 20 members, and they keep it for as long as they stay subscribed. After that, the price for new members goes up. Cancel anytime; cancelling stops the next charge. Founding members who joined by October 9, 2026 keep their founding rate while subscribed. [Full terms](/terms).
 
 [Join The Secret Menu →](https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w)
 
