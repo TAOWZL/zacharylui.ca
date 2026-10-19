@@ -1,7 +1,6 @@
 ---
 title: Marriage Officiant
 description: Grounded and legally recognized marriage officiant services in Toronto.
-cover: /images/hero-officiant.svg
 aliases:
   - marriage
   - wedding officiant

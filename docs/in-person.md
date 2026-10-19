@@ -7,7 +7,9 @@ description: " Registered acupuncture, contemplative practice, and ritual work i
 
 Registered Acupuncturist, Daoist priest (Mao Shan Shangqing transmission), and shaman (Wu 巫) in Riverdale Toronto. An operating practice with three doors, not a walk-in clinic.
 
-[**Book**](https://wujixuan.janeapp.com/#/staff_member/1) · [Services & fees](https://zacharylui.ca/services)
+[Book a session](https://wujixuan.janeapp.com/#/staff_member/1)
+
+[Services & fees](https://zacharylui.ca/services)
 
 ---
 

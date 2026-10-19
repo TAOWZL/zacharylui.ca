@@ -1,7 +1,6 @@
 ---
 title: Press and Media | Zachary Lui
 description: Press, podcast interviews, and conference presentations featuring Zachary Lui on classical Chinese medicine, qigong, Chinese metaphysics, and ritual work.
-cover: /images/hero-writing.svg
 permalink: press
 ---
 # Press and Media

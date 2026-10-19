@@ -63,7 +63,7 @@ I'm not a translator. Where a passage carries weight in the argument, I quote a 
 
 ## Credentials
 
-Registered Acupuncturist (R.Ac) in Ontario, in clinical practice since 2015. Formal TCM training through the Ontario College of Traditional Chinese Medicine. Teaching qigong since 2013, teaching TCM and acupuncture since 2018.
+Apprenticing since 2008, in practice since 2015. Teaching qigong since 2013, teaching Chinese medicine since 2018.
 
 Continuing study beyond the core curriculum in classical Chinese medicine, including advanced needling technique studied with the late Professor Jin Zhang, a UNESCO-recognized representative of the Traditional Chinese Acupuncture Intangible Cultural Heritage of Humanity.
 

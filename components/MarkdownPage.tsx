@@ -38,6 +38,14 @@ export function MarkdownPage({ doc }: Props) {
   const displayTitle =
     lead && overlaps && lead[1].trim().length > shortTitle.length ? lead[1].trim() : shortTitle;
   const markdown = lead && overlaps ? beforeDetails.slice(lead[0].length) : beforeDetails;
+  // Skip the header description when the page's own first paragraph already says it.
+  const words = (t: string) => new Set(norm(t).split(" ").filter((w) => w.length > 3));
+  const firstPara = markdown.split(/\n\s*\n/).map((b) => b.trim()).find((b) => b && !/^[#>*\-|!\[]/.test(b)) ?? "";
+  const dw = words(description ?? "");
+  const pw = words(firstPara);
+  const shared = [...dw].filter((w) => pw.has(w)).length;
+  const showDescription =
+    Boolean(description) && (dw.size === 0 || (shared / dw.size < 0.5 && (pw.size === 0 || shared / pw.size < 0.6)));
   const detailsSummary = detailsMatch
     ? detailsMatch[1].replace(/<[^>]+>/g, "").trim()
     : null;
@@ -120,7 +128,7 @@ export function MarkdownPage({ doc }: Props) {
     <section className="page-column">
       <header className="page-header">
         <h1 className="display text-[2rem] leading-tight sm:text-5xl">{displayTitle}</h1>
-        {description ? <p className="mt-4 text-lg leading-relaxed text-zinc-300">{description}</p> : null}
+        {showDescription ? <p className="mt-4 text-lg leading-relaxed text-zinc-300">{description}</p> : null}
       </header>
       {hasHero ? <img src={cover} alt="" className="page-banner" /> : null}
       <article className="page-body prose">
