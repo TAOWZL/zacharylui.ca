@@ -40,7 +40,7 @@ export default function FooterContact() {
           <a
             href="https://queencitycurio.ca"
             rel="noopener"
-            className="text-zinc-400 visited:text-zinc-400 no-underline hover:text-gold-400"
+            className="text-zinc-400 visited:text-zinc-400 no-underline hover:text-cream-50"
           >
             Queen City Curio
           </a>
@@ -56,13 +56,13 @@ export default function FooterContact() {
       <p>
         <a
           href="https://maps.google.com/?q=255+Broadview+Avenue+Toronto+ON"
-          className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400"
+          className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-cream-50"
         >
           255 Broadview Avenue, Toronto ON
         </a>
       </p>
       <p>
-        <a href="tel:+14165955525" className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400">
+        <a href="tel:+14165955525" className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-cream-50">
           416-595-5525
         </a>
       </p>
@@ -71,7 +71,7 @@ export default function FooterContact() {
         <a
           href="https://queencitycurio.ca"
           rel="noopener"
-          className="text-zinc-400 visited:text-zinc-400 no-underline hover:text-gold-400"
+          className="text-zinc-400 visited:text-zinc-400 no-underline hover:text-cream-50"
         >
           Queen City Curio
         </a>

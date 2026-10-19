@@ -21,22 +21,45 @@ html {
 
 body {
   background:
-    radial-gradient(circle at 12% 10%, rgba(196, 55, 55, 0.14), transparent 34%),
+    radial-gradient(circle at 12% 10%, rgba(200, 67, 47, 0.12), transparent 34%),
     radial-gradient(circle at 88% 6%, rgba(230, 199, 90, 0.12), transparent 30%),
     #151516;
   @apply text-zinc-100 antialiased;
 }
 
+/* Links read as cream text with a cinnabar underline. Gold is reserved for
+   the one filled primary button per page (.btn-primary). */
 a {
-  @apply text-gold-400 transition-colors;
+  @apply text-cream-200 underline decoration-cinnabar-500/70 underline-offset-4 transition-colors;
 }
 
 a:hover {
-  @apply text-gold-500;
+  @apply text-cream-50 decoration-cinnabar-400;
+}
+
+.btn-primary {
+  @apply inline-flex min-h-[44px] items-center justify-center rounded-md bg-gold-400 px-5 py-3 text-base font-semibold text-zinc-950 no-underline hover:bg-gold-500;
+}
+
+.btn-secondary {
+  @apply inline-flex min-h-[44px] items-center self-start rounded-md border border-cream-400/40 px-4 py-2 text-sm font-medium text-cream-200 no-underline hover:border-cinnabar-400 hover:text-cream-50;
+}
+
+.kicker {
+  @apply text-xs uppercase tracking-[0.2em] text-cinnabar-400;
+}
+
+.display {
+  @apply font-display font-semibold text-cream-50;
+}
+
+.offer-card {
+  @apply flex flex-col rounded-lg border border-charcoal-800 bg-charcoal-950/70 p-5;
+  border-top: 2px solid #c8432f;
 }
 
 .button-link {
-  @apply inline-flex min-h-[44px] items-center rounded-md border border-gold-600/60 bg-charcoal-900/80 px-5 py-3 text-sm font-medium text-gold-400 no-underline backdrop-blur;
+  @apply inline-flex min-h-[44px] items-center rounded-md border border-cream-400/40 bg-charcoal-900/80 px-5 py-3 text-sm font-medium text-cream-200 no-underline backdrop-blur;
 }
 
 .button-link-primary {
@@ -46,27 +69,27 @@ a:hover {
 /* ── Prose base ───────────────────────────────────────────── */
 
 .prose {
-  @apply prose-invert max-w-none prose-strong:text-zinc-100 prose-a:text-gold-400;
+  @apply prose-invert max-w-none prose-strong:text-zinc-100 prose-a:text-cream-200;
   margin-left: auto;
   margin-right: auto;
 }
 
 .prose mark {
-  @apply rounded bg-gold-500/25 px-1 text-gold-400;
+  @apply rounded bg-cinnabar-500/25 px-1 text-cream-50;
 }
 
 /* ── Headings h1 – h6 ────────────────────────────────────── */
 
 .heading-1 {
-  @apply mt-10 mb-4 text-3xl font-bold leading-tight text-zinc-50 md:text-4xl;
+  @apply mt-10 mb-4 font-display text-3xl font-bold leading-tight text-cream-50 md:text-4xl;
 }
 
 .heading-2 {
-  @apply mt-8 mb-4 border-b border-charcoal-800 pb-2 text-3xl font-semibold leading-snug text-gold-400 md:mt-12 md:text-4xl;
+  @apply mt-8 mb-4 border-b border-cinnabar-600/50 pb-2 font-display text-3xl font-semibold leading-snug text-cream-50 md:mt-12 md:text-4xl;
 }
 
 .heading-3 {
-  @apply mt-8 mb-3 text-[26px] font-semibold text-zinc-100 md:text-[32px];
+  @apply mt-8 mb-3 font-display text-[26px] font-semibold text-cream-200 md:text-[32px];
 }
 
 .heading-4 {
@@ -74,7 +97,7 @@ a:hover {
 }
 
 .heading-5 {
-  @apply mt-5 mb-2 text-base font-semibold uppercase tracking-wide text-gold-500;
+  @apply mt-5 mb-2 text-base font-semibold uppercase tracking-wide text-cinnabar-400;
 }
 
 .heading-6 {
@@ -98,7 +121,7 @@ a:hover {
 }
 
 .list-disc-custom li::marker {
-  @apply text-gold-500;
+  @apply text-cinnabar-400;
 }
 
 .list-decimal-custom {
@@ -110,7 +133,7 @@ a:hover {
 }
 
 .list-decimal-custom li::marker {
-  @apply text-gold-500;
+  @apply text-cinnabar-400;
 }
 
 /* ── Section dividers (hr) ────────────────────────────────── */
@@ -122,7 +145,7 @@ a:hover {
 /* ── Anchor links from rehype-autolink ────────────────────── */
 
 .anchor-link {
-  @apply ml-2 inline-block px-2 py-1 text-zinc-600 no-underline transition-colors hover:text-gold-400;
+  @apply ml-2 inline-block px-2 py-1 text-zinc-600 no-underline transition-colors hover:text-cinnabar-400;
 }
 
 /* ── Hero ──────────────────────────────────────────────── */
@@ -140,11 +163,11 @@ a:hover {
 }
 
 .hero-kicker {
-  @apply inline-flex rounded-full border border-gold-500/50 bg-charcoal-900/75 px-3 py-1 text-xs uppercase tracking-[0.2em] text-gold-400;
+  @apply inline-flex rounded-full border border-cinnabar-500/50 bg-charcoal-900/75 px-3 py-1 text-xs uppercase tracking-[0.2em] text-cinnabar-400;
 }
 
 .hero-title {
-  @apply max-w-3xl text-3xl font-semibold leading-tight text-zinc-50 md:text-5xl lg:text-6xl;
+  @apply max-w-3xl font-display text-3xl font-semibold leading-tight text-cream-50 md:text-5xl lg:text-6xl;
 }
 
 .hero-description {
@@ -235,6 +258,10 @@ a:hover {
 
 
 /* ── Safe readability tweaks ───────────────────────────── */
+
+.prose a {
+  text-decoration-color: rgba(200, 67, 47, 0.7);
+}
 
 .prose p {
   margin-bottom: 1.25rem;

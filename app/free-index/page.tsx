@@ -1,9 +1,8 @@
 import type { Metadata } from "next";
 
+import IndexSignupForm from "@/components/IndexSignupForm";
+
 // Lane Z signup page: the Instagram bio, DM replies and group posts point here.
-// Both forms post straight to Kit form 9434628 ("The Secret Menu Index"), whose
-// confirmation email and post-confirm redirect to /secret-menu are set in Kit.
-const KIT_FORM_ACTION = "https://app.kit.com/forms/9434628/subscriptions";
 
 const DESCRIPTION =
   "The magick Chinese medicine ran as standard practice, in nine entries. Free, one page, two named sources under every entry.";
@@ -32,61 +31,24 @@ const OPERATIONS = [
   "The ninth"
 ];
 
-function SignupForm({ id }: { id: string }) {
-  return (
-    <form
-      action={KIT_FORM_ACTION}
-      method="post"
-      className="grid gap-3 rounded-lg border border-charcoal-800 bg-charcoal-950/80 p-4 sm:grid-cols-[1fr_1.4fr_auto] sm:p-5"
-    >
-      <label htmlFor={`${id}-name`} className="sr-only">First name</label>
-      <input
-        id={`${id}-name`}
-        name="fields[first_name]"
-        type="text"
-        required
-        autoComplete="given-name"
-        placeholder="First name"
-        className="rounded-md border border-charcoal-800 bg-zinc-950 px-4 py-3 text-base text-zinc-100 placeholder:text-zinc-500 focus:border-gold-600 focus:outline-none"
-      />
-      <label htmlFor={`${id}-email`} className="sr-only">Email address</label>
-      <input
-        id={`${id}-email`}
-        name="email_address"
-        type="email"
-        required
-        autoComplete="email"
-        placeholder="Email"
-        className="rounded-md border border-charcoal-800 bg-zinc-950 px-4 py-3 text-base text-zinc-100 placeholder:text-zinc-500 focus:border-gold-600 focus:outline-none"
-      />
-      <button
-        type="submit"
-        className="rounded-md bg-gold-400 px-5 py-3 text-base font-semibold text-zinc-950 hover:bg-gold-600"
-      >
-        Send me the free Index
-      </button>
-    </form>
-  );
-}
-
 export default function FreeIndexPage() {
   return (
     <article className="mx-auto max-w-3xl py-2 sm:py-10">
 
-      <p className="text-xs uppercase tracking-[0.2em] text-gold-400">The Secret Menu Index</p>
-      <h1 className="mt-2 text-[1.6rem] font-bold leading-tight text-zinc-50 sm:text-4xl">The magick Chinese medicine ran as standard practice, in nine entries.</h1>
+      <p className="kicker">The Secret Menu Index</p>
+      <h1 className="display mt-2 text-[1.6rem] leading-tight text-zinc-50 sm:text-4xl">The magick Chinese medicine ran as standard practice, in nine entries.</h1>
       <p className="mt-3 max-w-2xl text-base leading-relaxed text-zinc-300 sm:text-lg">Free, one page, two named sources under every entry. Plus a 24-page monograph on garlic.</p>
 
       <div className="mt-5">
-        <SignupForm id="top" />
+        <IndexSignupForm id="top" />
         <p className="mt-3 text-sm text-zinc-400">
           Confirm one email and both PDFs open. Emails on Chinese medicine as magick. Unsubscribe any time.
         </p>
       </div>
 
 
-      <section className="mt-10 rounded-lg border border-gold-600/40 bg-charcoal-950/70 p-5">
-        <p className="text-xs uppercase tracking-[0.2em] text-gold-400">Entry 01, from the Index</p>
+      <section className="mt-10 rounded-lg border border-cinnabar-500/40 bg-charcoal-950/70 p-5">
+        <p className="kicker">Entry 01, from the Index</p>
         <p className="mt-3 text-lg font-semibold text-zinc-50">Divination</p>
         <p className="mt-2 leading-relaxed text-zinc-300">
           Reading one surface for information it has no business carrying. The receipt: 脈象, pulse image, not pulse
@@ -113,7 +75,7 @@ export default function FreeIndexPage() {
               key={name}
               className="flex items-baseline gap-3 rounded-md border border-charcoal-800 bg-charcoal-950/60 px-4 py-3"
             >
-              <span className="font-mono text-sm text-gold-400">{String(i + 1).padStart(2, "0")}</span>
+              <span className="font-mono text-sm text-cinnabar-400">{String(i + 1).padStart(2, "0")}</span>
               <span className="text-zinc-100">{name}</span>
             </li>
           ))}
@@ -141,7 +103,7 @@ export default function FreeIndexPage() {
       </section>
 
       <div className="mt-14">
-        <SignupForm id="bottom" />
+        <IndexSignupForm id="bottom" />
       </div>
     </article>
   );
