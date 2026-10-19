@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { siteConfig } from "@/site.config";
 import FooterContact from "@/components/FooterContact";
+import { FooterNav, FooterDisclaimer } from "@/components/FooterBody";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
@@ -64,34 +65,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <div className="grid gap-8 md:grid-cols-2">
               <FooterContact />
 
-              <nav aria-label="Footer" className="space-y-2">
-                <p className="font-semibold text-zinc-100">Practice</p>
-                <ul className="grid grid-cols-2 gap-x-4 gap-y-1">
-                  <li><a href="/acupuncture" className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400">Acupuncture</a></li>
-                  <li><a href="/qigong" className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400">Qigong / Neigong</a></li>
-                  <li><a href="/reiki" className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400">Reiki</a></li>
-                  <li><a href="/ritual" className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400">Ritual</a></li>
-                  <li><a href="/divination" className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400">Divination Coaching</a></li>
-                  <li><a href="/services" className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400">Services &amp; Fees</a></li>
-                  <li><a href="/writing" className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400">Writing</a></li>
-                  <li><a href="/education" className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400">Teaching</a></li>
-                  <li><a href="/about" className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400">About</a></li>
-                  <li><a href="/press" className="text-zinc-300 visited:text-zinc-300 no-underline hover:text-gold-400">Press</a></li>
-                </ul>
-              </nav>
+              <FooterNav />
             </div>
 
-            <p className="mx-auto mt-8 max-w-3xl text-xs leading-relaxed text-zinc-400">
-              Acupuncture is a regulated health service in Ontario, provided by Zachary Lui, Registered Acupuncturist (R.Ac), under the{" "}
-              <a
-                href="https://www.ctcmpao.on.ca/publicregistersrc/"
-                rel="noopener"
-                className="text-zinc-300 visited:text-zinc-300 underline hover:text-gold-400"
-              >
-                College of Traditional Chinese Medicine Practitioners and Acupuncturists of Ontario
-              </a>
-              . Reiki, Qigong and Neigong instruction, Divination Coaching, and Ritual work are offered separately and are not regulated healthcare services in Ontario. Nothing on this site is a substitute for medical, mental health, legal, or professional advice.
-            </p>
+            <FooterDisclaimer />
 
             <div className="mt-6 flex flex-wrap items-center justify-between gap-2 border-t border-charcoal-800 pt-4 text-xs text-zinc-500">
               <p>&copy; {year} Zachary Lui. All rights reserved.</p>
