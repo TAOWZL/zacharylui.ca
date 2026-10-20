@@ -24,7 +24,7 @@ Recording:
 
 There is no live session.
 
-Secret Menu members: the recording, the moxa monograph and the worksheet at no extra cost, if their paid membership is active on November 22, 2026. They are sent through The Secret Menu.
+Secret Menu members: the recording, the moxa monograph and the worksheet at no extra cost, if their paid membership is active on November 22, 2026. They are sent through The Secret Menu. Access through The Secret Menu ends when the membership ends. A recording bought on its own is the buyer's to keep.
 
 Mentored: everything in the recording, plus a voice-note review of your written notes on moxa, garlic and the pair, and one 30-minute review call. Notes are due by December 13, 2026. Reviews are sent within 7 days of receiving your notes. Calls are booked through the link in your workshop details email and held by January 15, 2027. Mentored is limited to five places.
 
