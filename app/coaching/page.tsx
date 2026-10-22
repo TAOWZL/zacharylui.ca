@@ -22,14 +22,9 @@ export const metadata: Metadata = {
 };
 
 const WEEKS = [
-  ["The map", "the nine operations, and your baseline practice"],
-  ["Divination", "through the pulse and the classics"],
   ["Correspondence", "and the method I call stacking"],
   ["Energy work", "through qigong and neigong"],
-  ["Talismans", "made practical"],
-  ["Spirit work", "through the directional animals"],
-  ["Build your own operation", "stacking across the system"],
-  ["Integration", "your ninety-day practice plan"]
+  ["Herbal magick and sorcery", ""]
 ];
 
 const INCLUDED = [
@@ -62,13 +57,13 @@ export default function CoachingPage() {
         <h2 className="heading-2 mt-2">Work the Medicine</h2>
         <p className="mt-3 leading-relaxed text-zinc-300">
           Eight weeks. A small group of six to eight people. One live call each week, recorded for anyone who misses it.
-          Each week we take one operation from the nine and work it for yourself.
+          Three operations, worked for yourself.
         </p>
         <ul className="mt-5 grid grid-cols-1 gap-2">
           {WEEKS.map(([name, detail]) => (
             <li key={name} className="rounded-md border border-charcoal-800 bg-charcoal-950/60 px-4 py-3">
               <span className="text-zinc-100">{name}</span>
-              <span className="text-zinc-400">, {detail}</span>
+              {detail ? <span className="text-zinc-400">, {detail}</span> : null}
             </li>
           ))}
         </ul>
