@@ -4,10 +4,11 @@ import type { Metadata } from "next";
 // Scope: magick and personal practice coaching, never health care.
 
 const DESCRIPTION =
-  "Work the medicine you already practise, for yourself. An eight-week founding cohort and one-on-one sessions in Chinese magick, divination and practice.";
+  "Work the medicine you already practise, for yourself. An eight-week founding cohort and one-on-one sessions in Chinese magick and practice.";
 
-const BOOKING_URL = "https://wujixuan.janeapp.com/#/discipline/3/treatment/3";
-const COHORT_PAY_URL = "https://buy.stripe.com/28E3cudLg5Sj9zo6yB3Nm0A";
+// Stripe payment links (Wuji Xuan Life Wellness Ltd account). Both charge tax at checkout.
+const SESSION_URL = "https://buy.stripe.com/3cI6oGdLggwXcLA2il3Nm0B";
+const COHORT_URL = "https://buy.stripe.com/28E3cudLg5Sj9zo6yB3Nm0A";
 
 export const metadata: Metadata = {
   title: "Coaching",
@@ -22,27 +23,10 @@ export const metadata: Metadata = {
 };
 
 const WEEKS = [
-  ["The map", "the nine operations, and your baseline practice"],
-  ["Divination", "through the pulse and the classics"],
-  ["Correspondence", "and the method I call stacking"],
-  ["Energy work", "through qigong and neigong"],
-  ["Talismans", "made practical"],
-  ["Spirit work", "through the directional animals"],
-  ["Build your own operation", "stacking across the system"],
-  ["Integration", "your ninety-day practice plan"]
-];
-
-const INCLUDED = [
-  "Eight live group calls, recorded",
-  "One private sixty-minute session with Zachary",
-  "A group chat between calls"
-];
-
-const ONE_ON_ONE = [
   ["Mapping metaphors", ""],
   ["Energy work", "through qigong and neigong"],
   ["Correspondences", "and the method I call stacking"],
-  ["Herbal magick and sorcery", "the furthest the one on one goes"]
+  ["Herbal magick and sorcery", ""]
 ];
 
 export default function CoachingPage() {
@@ -61,30 +45,24 @@ export default function CoachingPage() {
         <p className="kicker">Founding cohort</p>
         <h2 className="heading-2 mt-2">Work the Medicine</h2>
         <p className="mt-3 leading-relaxed text-zinc-300">
-          Eight weeks. A small group of six to eight people. One live call each week, recorded for anyone who misses it.
-          Each week we take one operation from the nine and work it for yourself.
+          Eight weeks, starting January 2027. A small group. One live call each week, online, in EST, recorded for
+          anyone who misses it. Four operations, each worked for yourself in your own life.
         </p>
         <ul className="mt-5 grid grid-cols-1 gap-2">
           {WEEKS.map(([name, detail]) => (
             <li key={name} className="rounded-md border border-charcoal-800 bg-charcoal-950/60 px-4 py-3">
               <span className="text-zinc-100">{name}</span>
-              <span className="text-zinc-400">, {detail}</span>
+              {detail ? <span className="text-zinc-400">, {detail}</span> : null}
             </li>
           ))}
         </ul>
-        <ul className="mt-5 space-y-1 text-zinc-300">
-          {INCLUDED.map((item) => (
-            <li key={item}>{item}</li>
-          ))}
-        </ul>
-        <p className="mt-5 text-lg font-semibold text-zinc-50">$1,200 + HST</p>
-        <p className="text-sm text-zinc-400">Founding price, for this round only. Eight seats.</p>
-        <p className="mt-3 text-sm leading-relaxed text-zinc-400">
-          Starts January 2027, or sooner once the group fills. The start date and call time are emailed to you. The
-          cohort runs regardless of group size. No refunds.
+        <p className="mt-5 text-lg font-semibold text-zinc-50">$1,200 + tax</p>
+        <p className="text-sm text-zinc-400">
+          Founding price, for this round only. Paid in full at signup. The round runs in January whatever the group
+          size, or sooner once it fills. No refunds. After payment, I email you with the call schedule.
         </p>
-        <a href={COHORT_PAY_URL} className="btn-primary mt-5 self-start" target="_blank" rel="noopener">
-          Pay and save your seat
+        <a href={COHORT_URL} className="btn-primary mt-5 self-start" target="_blank" rel="noopener">
+          Reserve a place
         </a>
       </section>
 
@@ -92,22 +70,14 @@ export default function CoachingPage() {
         <p className="kicker">One on one</p>
         <h2 className="heading-2 mt-2">Private session</h2>
         <p className="mt-3 leading-relaxed text-zinc-300">
-          Sixty minutes. Divination you already have, free, in the videos. The session is the work the videos
-          don&apos;t teach, in this order.
+          Sixty minutes, one on one, on any of the operations above.
         </p>
-        <ul className="mt-5 grid grid-cols-1 gap-2">
-          {ONE_ON_ONE.map(([name, detail]) => (
-            <li key={name} className="rounded-md border border-charcoal-800 bg-charcoal-950/60 px-4 py-3">
-              <span className="text-zinc-100">{name}</span>
-              {detail ? <span className="text-zinc-400">, {detail}</span> : null}
-            </li>
-          ))}
-        </ul>
         <p className="mt-5 leading-relaxed text-zinc-300">
-          If you join the cohort within seven days, the session comes off the price.
+          Online, scheduled in EST. Pay first; within two business days I email you to set the time. If you join the
+          cohort within seven days, the session comes off the price.
         </p>
         <p className="mt-5 text-lg font-semibold text-zinc-50">$175 + tax</p>
-        <a href={BOOKING_URL} className="btn-secondary mt-5" target="_blank" rel="noopener">
+        <a href={SESSION_URL} className="btn-secondary mt-5" target="_blank" rel="noopener">
           Book a session
         </a>
       </section>
