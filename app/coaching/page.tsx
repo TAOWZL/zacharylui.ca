@@ -28,13 +28,6 @@ const WEEKS = [
   ["Herbal magick and sorcery", "worked on a plant of your choosing"]
 ];
 
-const ONE_ON_ONE = [
-  ["Mapping metaphors", ""],
-  ["Energy work", "through qigong and neigong"],
-  ["Correspondences", "and the method I call stacking"],
-  ["Herbal magick and sorcery", ""]
-];
-
 export default function CoachingPage() {
   return (
     <article className="mx-auto max-w-3xl py-2 sm:py-10">
@@ -76,16 +69,8 @@ export default function CoachingPage() {
         <p className="kicker">One on one</p>
         <h2 className="heading-2 mt-2">Private session</h2>
         <p className="mt-3 leading-relaxed text-zinc-300">
-          Sixty minutes, one on one, on whichever of these you bring.
+          Sixty minutes, one on one, on any of the three operations above.
         </p>
-        <ul className="mt-5 grid grid-cols-1 gap-2">
-          {ONE_ON_ONE.map(([name, detail]) => (
-            <li key={name} className="rounded-md border border-charcoal-800 bg-charcoal-950/60 px-4 py-3">
-              <span className="text-zinc-100">{name}</span>
-              {detail ? <span className="text-zinc-400">, {detail}</span> : null}
-            </li>
-          ))}
-        </ul>
         <p className="mt-5 leading-relaxed text-zinc-300">
           Online, scheduled in EST. Pay first; within two business days I email you to set the time. If you join the
           cohort within seven days, the session comes off the price.
