@@ -32,7 +32,7 @@ const ONE_ON_ONE = [
   ["Mapping metaphors", ""],
   ["Energy work", "through qigong and neigong"],
   ["Correspondences", "and the method I call stacking"],
-  ["Herbal magick and sorcery", "the furthest the one on one goes"]
+  ["Herbal magick and sorcery", ""]
 ];
 
 export default function CoachingPage() {
@@ -76,8 +76,8 @@ export default function CoachingPage() {
         <p className="kicker">One on one</p>
         <h2 className="heading-2 mt-2">Private session</h2>
         <p className="mt-3 leading-relaxed text-zinc-300">
-          Sixty minutes. Divination you already have, free, in the videos. The session is the work the videos
-          don&apos;t teach, in this order.
+          Sixty minutes, one on one, on whichever of these you bring. Divination you already have, free, in the
+          videos.
         </p>
         <ul className="mt-5 grid grid-cols-1 gap-2">
           {ONE_ON_ONE.map(([name, detail]) => (
