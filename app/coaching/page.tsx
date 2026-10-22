@@ -23,9 +23,10 @@ export const metadata: Metadata = {
 };
 
 const WEEKS = [
-  ["Correspondence", "and the method I call stacking"],
+  ["Mapping metaphors", ""],
   ["Energy work", "through qigong and neigong"],
-  ["Herbal magick and sorcery", "worked on a plant of your choosing"]
+  ["Correspondences", "and the method I call stacking"],
+  ["Herbal magick and sorcery", ""]
 ];
 
 export default function CoachingPage() {
@@ -45,13 +46,13 @@ export default function CoachingPage() {
         <h2 className="heading-2 mt-2">Work the Medicine</h2>
         <p className="mt-3 leading-relaxed text-zinc-300">
           Eight weeks, starting January 2027. A small group. One live call each week, online, in EST, recorded for
-          anyone who misses it. Three operations, each worked for yourself in your own life.
+          anyone who misses it. Four operations, each worked for yourself in your own life.
         </p>
         <ul className="mt-5 grid grid-cols-1 gap-2">
           {WEEKS.map(([name, detail]) => (
             <li key={name} className="rounded-md border border-charcoal-800 bg-charcoal-950/60 px-4 py-3">
               <span className="text-zinc-100">{name}</span>
-              <span className="text-zinc-400">, {detail}</span>
+              {detail ? <span className="text-zinc-400">, {detail}</span> : null}
             </li>
           ))}
         </ul>
@@ -69,7 +70,7 @@ export default function CoachingPage() {
         <p className="kicker">One on one</p>
         <h2 className="heading-2 mt-2">Private session</h2>
         <p className="mt-3 leading-relaxed text-zinc-300">
-          Sixty minutes, one on one, on any of the three operations above.
+          Sixty minutes, one on one, on any of the operations above.
         </p>
         <p className="mt-5 leading-relaxed text-zinc-300">
           Online, scheduled in EST. Pay first; within two business days I email you to set the time. If you join the
