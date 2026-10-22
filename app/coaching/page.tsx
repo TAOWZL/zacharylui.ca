@@ -6,9 +6,9 @@ import type { Metadata } from "next";
 const DESCRIPTION =
   "Work the medicine you already practise, for yourself. An eight-week founding cohort and one-on-one sessions in Chinese magick and practice.";
 
-const BOOKING_URL = "https://wujixuan.janeapp.com/#/discipline/3/treatment/3";
-const WAITLIST_URL =
-  "mailto:zac@zacharylui.ca?subject=Founding%20cohort%20waitlist&body=Name%3A%0ABackground%20(practitioner%2C%20student%2C%20or%20learning%20on%20my%20own)%3A%0AWhich%20operation%20I%20most%20want%20to%20work%3A%0AWhat%20I%20want%20to%20be%20able%20to%20do%20for%20myself%20after%20eight%20weeks%3A%0A";
+// Stripe payment links (Wuji Xuan Life Wellness Ltd account). Both charge tax at checkout.
+const SESSION_URL = "https://buy.stripe.com/3cI6oGdLggwXcLA2il3Nm0B";
+const COHORT_URL = "https://buy.stripe.com/28E3cudLg5Sj9zo6yB3Nm0A";
 
 export const metadata: Metadata = {
   title: "Coaching",
@@ -51,8 +51,8 @@ export default function CoachingPage() {
         <p className="kicker">Founding cohort</p>
         <h2 className="heading-2 mt-2">Work the Medicine</h2>
         <p className="mt-3 leading-relaxed text-zinc-300">
-          Eight weeks, starting January 2027. A small group. One live call each week, recorded for anyone who misses
-          it. Three operations, each worked for yourself in your own life.
+          Eight weeks, starting January 2027. A small group. One live call each week, online, in EST, recorded for
+          anyone who misses it. Three operations, each worked for yourself in your own life.
         </p>
         <ul className="mt-5 grid grid-cols-1 gap-2">
           {WEEKS.map(([name, detail]) => (
@@ -65,9 +65,9 @@ export default function CoachingPage() {
         <p className="mt-5 text-lg font-semibold text-zinc-50">$1,200 + tax</p>
         <p className="text-sm text-zinc-400">
           Founding price, for this round only. Paid in full at signup. The round runs in January whatever the group
-          size, or sooner once it fills. No refunds.
+          size, or sooner once it fills. No refunds. After payment, I email you with the call schedule.
         </p>
-        <a href={WAITLIST_URL} className="btn-primary mt-5 self-start">
+        <a href={COHORT_URL} className="btn-primary mt-5 self-start" target="_blank" rel="noopener">
           Reserve a place
         </a>
       </section>
@@ -88,10 +88,11 @@ export default function CoachingPage() {
           ))}
         </ul>
         <p className="mt-5 leading-relaxed text-zinc-300">
-          If you join the cohort within seven days, the session comes off the price.
+          Online, scheduled in EST. Pay first; within two business days I email you to set the time. If you join the
+          cohort within seven days, the session comes off the price.
         </p>
         <p className="mt-5 text-lg font-semibold text-zinc-50">$175 + tax</p>
-        <a href={BOOKING_URL} className="btn-secondary mt-5" target="_blank" rel="noopener">
+        <a href={SESSION_URL} className="btn-secondary mt-5" target="_blank" rel="noopener">
           Book a session
         </a>
       </section>
