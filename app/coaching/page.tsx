@@ -7,8 +7,7 @@ const DESCRIPTION =
   "Work the medicine you already practise, for yourself. An eight-week founding cohort and one-on-one sessions in Chinese magick, divination and practice.";
 
 const BOOKING_URL = "https://wujixuan.janeapp.com/#/discipline/3/treatment/3";
-const WAITLIST_URL =
-  "mailto:zac@zacharylui.ca?subject=Founding%20cohort%20waitlist&body=Name%3A%0ABackground%20(practitioner%2C%20student%2C%20or%20learning%20on%20my%20own)%3A%0AWhich%20operation%20I%20most%20want%20to%20work%3A%0AWhat%20I%20want%20to%20be%20able%20to%20do%20for%20myself%20after%20eight%20weeks%3A%0A";
+const COHORT_PAY_URL = "https://buy.stripe.com/28E3cudLg5Sj9zo6yB3Nm0A";
 
 export const metadata: Metadata = {
   title: "Coaching",
@@ -23,11 +22,20 @@ export const metadata: Metadata = {
 };
 
 const WEEKS = [
+  ["The map", "the nine operations, and your baseline practice"],
   ["Divination", "through the pulse and the classics"],
   ["Correspondence", "and the method I call stacking"],
   ["Energy work", "through qigong and neigong"],
   ["Talismans", "made practical"],
-  ["Spirit work", "through the directional animals"]
+  ["Spirit work", "through the directional animals"],
+  ["Build your own operation", "stacking across the system"],
+  ["Integration", "your ninety-day practice plan"]
+];
+
+const INCLUDED = [
+  "Eight live group calls, recorded",
+  "One private sixty-minute session with Zachary",
+  "A group chat between calls"
 ];
 
 const ONE_ON_ONE = [
@@ -64,10 +72,19 @@ export default function CoachingPage() {
             </li>
           ))}
         </ul>
-        <p className="mt-5 text-lg font-semibold text-zinc-50">$1,200 + tax</p>
-        <p className="text-sm text-zinc-400">Founding price, for this round only.</p>
-        <a href={WAITLIST_URL} className="btn-primary mt-5 self-start">
-          Join the waitlist
+        <ul className="mt-5 space-y-1 text-zinc-300">
+          {INCLUDED.map((item) => (
+            <li key={item}>{item}</li>
+          ))}
+        </ul>
+        <p className="mt-5 text-lg font-semibold text-zinc-50">$1,200 + HST</p>
+        <p className="text-sm text-zinc-400">Founding price, for this round only. Eight seats.</p>
+        <p className="mt-3 text-sm leading-relaxed text-zinc-400">
+          Starts January 2027, or sooner once the group fills. The start date and call time are emailed to you. The
+          cohort runs regardless of group size. No refunds.
+        </p>
+        <a href={COHORT_PAY_URL} className="btn-primary mt-5 self-start" target="_blank" rel="noopener">
+          Pay and save your seat
         </a>
       </section>
 
