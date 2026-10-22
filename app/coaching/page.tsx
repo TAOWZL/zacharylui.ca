@@ -76,8 +76,7 @@ export default function CoachingPage() {
         <p className="kicker">One on one</p>
         <h2 className="heading-2 mt-2">Private session</h2>
         <p className="mt-3 leading-relaxed text-zinc-300">
-          Sixty minutes, one on one, on whichever of these you bring. Divination you already have, free, in the
-          videos.
+          Sixty minutes, one on one, on whichever of these you bring.
         </p>
         <ul className="mt-5 grid grid-cols-1 gap-2">
           {ONE_ON_ONE.map(([name, detail]) => (
