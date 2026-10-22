@@ -30,6 +30,13 @@ const WEEKS = [
   ["Spirit work", "through the directional animals"]
 ];
 
+const ONE_ON_ONE = [
+  ["Mapping metaphors", ""],
+  ["Energy work", "through qigong and neigong"],
+  ["Correspondences", "and the method I call stacking"],
+  ["Herbal magick and sorcery", "the furthest the one on one goes"]
+];
+
 export default function CoachingPage() {
   return (
     <article className="mx-auto max-w-3xl py-2 sm:py-10">
@@ -68,8 +75,19 @@ export default function CoachingPage() {
         <p className="kicker">One on one</p>
         <h2 className="heading-2 mt-2">Private session</h2>
         <p className="mt-3 leading-relaxed text-zinc-300">
-          Sixty minutes, coaching or divination. If you join the cohort within seven days, the session comes off the
-          price.
+          Sixty minutes. Divination you already have, free, in the videos. The session is the work the videos
+          don&apos;t teach, in this order.
+        </p>
+        <ul className="mt-5 grid grid-cols-1 gap-2">
+          {ONE_ON_ONE.map(([name, detail]) => (
+            <li key={name} className="rounded-md border border-charcoal-800 bg-charcoal-950/60 px-4 py-3">
+              <span className="text-zinc-100">{name}</span>
+              {detail ? <span className="text-zinc-400">, {detail}</span> : null}
+            </li>
+          ))}
+        </ul>
+        <p className="mt-5 leading-relaxed text-zinc-300">
+          If you join the cohort within seven days, the session comes off the price.
         </p>
         <p className="mt-5 text-lg font-semibold text-zinc-50">$175 + tax</p>
         <a href={BOOKING_URL} className="btn-secondary mt-5" target="_blank" rel="noopener">
