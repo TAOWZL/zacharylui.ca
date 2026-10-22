@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 // Scope: magick and personal practice coaching, never health care.
 
 const DESCRIPTION =
-  "Work the medicine you already practise, for yourself. An eight-week founding cohort and one-on-one sessions in Chinese magick, divination and practice.";
+  "Work the medicine you already practise, for yourself. An eight-week founding cohort and one-on-one sessions in Chinese magick and practice.";
 
 const BOOKING_URL = "https://wujixuan.janeapp.com/#/discipline/3/treatment/3";
 const WAITLIST_URL =
@@ -23,11 +23,9 @@ export const metadata: Metadata = {
 };
 
 const WEEKS = [
-  ["Divination", "through the pulse and the classics"],
   ["Correspondence", "and the method I call stacking"],
   ["Energy work", "through qigong and neigong"],
-  ["Talismans", "made practical"],
-  ["Spirit work", "through the directional animals"]
+  ["Herbal magick and sorcery", "worked on a plant of your choosing"]
 ];
 
 const ONE_ON_ONE = [
@@ -53,8 +51,8 @@ export default function CoachingPage() {
         <p className="kicker">Founding cohort</p>
         <h2 className="heading-2 mt-2">Work the Medicine</h2>
         <p className="mt-3 leading-relaxed text-zinc-300">
-          Eight weeks. A small group of six to eight people. One live call each week, recorded for anyone who misses it.
-          Each week we take one operation from the nine and work it for yourself.
+          Eight weeks, starting January 2027. A small group. One live call each week, recorded for anyone who misses
+          it. Three operations, each worked for yourself in your own life.
         </p>
         <ul className="mt-5 grid grid-cols-1 gap-2">
           {WEEKS.map(([name, detail]) => (
@@ -65,9 +63,12 @@ export default function CoachingPage() {
           ))}
         </ul>
         <p className="mt-5 text-lg font-semibold text-zinc-50">$1,200 + tax</p>
-        <p className="text-sm text-zinc-400">Founding price, for this round only.</p>
+        <p className="text-sm text-zinc-400">
+          Founding price, for this round only. Paid in full at signup. The round runs in January whatever the group
+          size, or sooner once it fills. No refunds.
+        </p>
         <a href={WAITLIST_URL} className="btn-primary mt-5 self-start">
-          Join the waitlist
+          Reserve a place
         </a>
       </section>
 
