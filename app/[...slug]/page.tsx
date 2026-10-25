@@ -54,6 +54,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     alternates: {
       canonical: `/${doc.slug}`
     },
+    robots: doc.data.noindex ? { index: false, follow: false } : undefined,
     openGraph: {
       title,
       description,

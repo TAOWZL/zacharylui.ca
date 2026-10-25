@@ -1,5 +1,5 @@
-// Posts straight to Kit form 9434628 ("The Secret Menu Index"). Kit sends the
-// confirmation email and redirects to /secret-menu after confirm.
+// Posts straight to Kit form 9434628 ("The Secret Menu Index"). Single opt-in:
+// Kit redirects to /secret-menu on submit and sends the delivery email.
 const KIT_FORM_ACTION = "https://app.kit.com/forms/9434628/subscriptions";
 
 export default function IndexSignupForm({ id }: { id: string }) {
