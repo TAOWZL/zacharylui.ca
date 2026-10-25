@@ -43,4 +43,4 @@ The nine operations run on video, one per lesson. Operation 1 is pulse diagnosis
 
 [Watch the series →](https://www.youtube.com/@thezacharylui)
 
-This is education and energy practice, not medical treatment or diagnosis. Nothing here replaces care from your doctor. Every claim in both PDFs carries its source, edition named.
+This is education and energy practice, not medical treatment or diagnosis. Nothing here replaces care from your doctor. Every claim in these PDFs carries its source, edition named.
