@@ -5,7 +5,7 @@ permalink: terms
 ---
 # Terms: The Secret Menu
 
-Last updated October 8, 2026.
+Last updated October 25, 2026.
 
 ## Who sells it
 
