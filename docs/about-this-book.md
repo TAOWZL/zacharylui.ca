@@ -59,7 +59,7 @@ The English carries the meaning, so nothing is lost if you skip the brackets. Th
 
 Where a standard English rendering is contested, I use the one from the scholarly translation I'm citing, and the reading list says who I'm following.
 
-I'm not a translator. Where a passage carries weight in the argument, I quote a published translation and name the translator rather than making my own.
+Where a passage carries weight in the argument, I quote a published translation and name the translator.
 
 ## Credentials
 

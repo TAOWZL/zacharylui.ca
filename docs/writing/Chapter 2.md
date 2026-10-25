@@ -207,9 +207,9 @@ Now the part that makes it checkable. Every one of those eight has a date, and t
 
 *This is a personal essay on the history and philosophy of Chinese medicine and my own practice, not medical advice. Every person described in this book is a composite drawn from several sources, with identifying details altered or invented, and no scene is a record of an actual patient or session. When I argue that this medicine is a magical system, that's a claim about how a historical system of reasoning works, not a claim that any treatment produces any effect.*
 
-Who I am, what the credentials are and aren't, how I handle the Chinese, and the full scope note. [About This Book](https://zacharylui.ca/about-this-book/). It's one page, and it dates my own lineage, the same way this chapter dates everybody else's.
+Who I am, what the credentials cover, how I handle the Chinese, and the full scope note. [About This Book](https://zacharylui.ca/about-this-book/). It's one page, and it dates my own lineage, the same way this chapter dates everybody else's.
 
-I'm not a historian, and I'm not a translator. The classical readings here lean on the scholarly translations below, and practitioners from other streams will read some of these passages differently.
+The classical readings here rest on the scholarly translations below, each one named. Practitioners from other streams read some of these passages differently.
 
 *Zachary Lui, Daoist priest by transmission, Mao Shan Shangqing (茅山上清). The reading-table divination, the talismanic work, the spirit work and the teaching described on this page are not health care.*
 
