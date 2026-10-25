@@ -102,7 +102,7 @@ export default function HomePage() {
         <div className="mt-6">
           <IndexSignupForm id="top" />
           <p className="mt-3 text-sm text-zinc-400">
-            Confirm one email and both PDFs open. Emails on Chinese medicine as magick. Unsubscribe any time.
+            Both PDFs open the moment you sign up. Then regular emails from me on Chinese medicine as magick, and now and then one names something I sell. Unsubscribe any time.
           </p>
         </div>
       </section>

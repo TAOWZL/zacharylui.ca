@@ -3,7 +3,7 @@ title: The Secret Menu | Zachary Lui
 description: The Secret Menu Index, the monographs, and the members' room. Free downloads for subscribers.
 permalink: secret-menu
 ---
-You're confirmed. Two PDFs, yours now.
+You're in. Your PDFs are below.
 
 # The Secret Menu Index
 
@@ -16,6 +16,12 @@ One page. Nine entries. Each one is something the tradition ran as standard prac
 大蒜 (garlic), 24 pages on one herb, built on the Chinese record: what the materia medica says it does, what the ritual calendar says it does, and what happens when you work with it directly. Sources itemised edition by edition. Garlic is the free sample; every monograph after it goes to members only.
 
 [Download the garlic monograph (PDF) →](https://zacharylui.ca/da-suan-monograph.pdf)
+
+# The ghost road seal
+
+From the palm seal video: Sun Simiao's ghost road seal, mapped on the hand, with the practice to work it. One sheet.
+
+[Download the ghost road seal (PDF) →](https://zacharylui.ca/ghost-road-seal.pdf)
 
 # The Secret Menu
 

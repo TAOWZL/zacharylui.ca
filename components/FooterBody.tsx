@@ -22,7 +22,6 @@ const LANE_Z_LINKS: [string, string][] = [
   ["/free-index", "The Free Index"],
   ["https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w", "The Secret Menu"],
   ["/divination", "Divination Coaching"],
-  ["https://wujixuan.janeapp.com/#/discipline/2/treatment/5", "Distant Reiki"],
   ["/courses/moxibustion", "Moxibustion Workshop"],
   ["/ritual", "Commissioned Ritual"],
   ["/writing", "Writing"]
@@ -41,11 +40,6 @@ export function FooterNav() {
           </li>
         ))}
       </ul>
-      {laneZ ? (
-        <p className="pt-3 text-sm">
-          <a href="/in-person" className={linkClass}>In person in Toronto</a>
-        </p>
-      ) : null}
     </nav>
   );
 }
