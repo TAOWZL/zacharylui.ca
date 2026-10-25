@@ -1,6 +1,6 @@
 ---
 title: "Divination Coaching"
-description: "Clarity when the decision matters. Tarot and Mahjong divination with mediumship, for decisions where being wrong has consequences. 60 minutes on Zoom."
+description: "Clarity when the decision matters. Tarot and Mahjong divination with mediumship, for decisions where being wrong has consequences. 60 minutes on Zoom or in person in Toronto."
 permalink: /divination
 draft: false
 ---
@@ -66,15 +66,15 @@ This is applied clarity for real decisions. It does not diagnose or treat anythi
 
 ## Sessions
 
-This work includes tarot readings, Mahjong-based divination, and mediumship. Sessions run 60 minutes on Zoom, wherever you are, for clients who want a clear read before making a decision.
+This work includes tarot readings, Mahjong-based divination, and mediumship. Sessions run 60 minutes, on Zoom wherever you are or in person in Toronto, for clients who want a clear read before making a decision.
 
 ## Book a session
 
-If you need to see the situation clearly before acting: 60 minutes on Zoom, $175 CAD + tax. Pay first, and within two business days I email you to set the time, scheduled in Eastern time.
+If you need to see the situation clearly before acting: 60 minutes on Zoom, $175 CAD + tax. Pay first, and within two business days I email you to set the time and say whether we meet on Zoom or in person, scheduled in Eastern time.
 
-[Book a Divination Coaching session](STRIPE_DIVINATION_LINK)
+[Book a Divination Coaching session](https://buy.stripe.com/28EeVccHccgHaDs5ux3Nm0C)
 
-If you are looking for a tarot reading, a reading with a medium, or Mahjong divination online, this work provides structured insight to support your own decision.
+If you are looking for a tarot reading, a reading with a medium, or Mahjong divination online or in Toronto, this work provides structured insight to support your own decision.
 
 ---
 
