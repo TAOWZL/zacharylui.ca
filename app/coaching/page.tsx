@@ -76,7 +76,7 @@ export default function CoachingPage() {
         </p>
         <p className="mt-5 leading-relaxed text-zinc-300">
           Online, scheduled in EST. Pay first; within two business days I email you to set the time. If you join the
-          cohort within seven days, and before enrolment closes on January 3, the session comes off the price: email me
+          cohort within seven days of your session, and before enrolment closes on January 3, the session comes off the price: email me
           and I send you a code for the cohort checkout.
         </p>
         <p className="mt-5 text-lg font-semibold text-zinc-50">$175 + tax</p>
