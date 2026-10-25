@@ -70,7 +70,7 @@ This work includes tarot readings, Mahjong-based divination, and mediumship. Ses
 
 ## Book a session
 
-If you need to see the situation clearly before acting: 60 minutes on Zoom, $175 + tax. Pay first, and within two business days I email you to set the time, scheduled in EST.
+If you need to see the situation clearly before acting: 60 minutes on Zoom, $175 CAD + tax. Pay first, and within two business days I email you to set the time, scheduled in Eastern time.
 
 [Book a Divination Coaching session](STRIPE_DIVINATION_LINK)
 

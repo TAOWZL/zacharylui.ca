@@ -29,7 +29,7 @@ There are two steps, and the first one often settles the question.
 
 ### Divination coaching as a first step
 
-For private questions, start with a Divination Coaching session. This is where we look at the situation, figure out what the work actually is, and decide together whether commissioned Ritual is the right response or whether something else fits better. Often it is something else. Divination coaching is $175 + tax for a 60-minute session and resolves many questions on its own.
+For private questions, start with a Divination Coaching session. This is where we look at the situation, figure out what the work actually is, and decide together whether commissioned Ritual is the right response or whether something else fits better. Often it is something else. Divination coaching is $175 CAD + tax for a 60-minute session and resolves many questions on its own.
 
 [Divination coaching →](/divination)
 
@@ -55,7 +55,7 @@ Doing public Ritual work since 2016. Ongoing work with specific deities and cour
 
 ## Begin the conversation
 
-Every commission starts with a Divination Coaching session, 60 minutes on Zoom, $175 + tax.
+Every commission starts with a Divination Coaching session, 60 minutes on Zoom, $175 CAD + tax.
 
 [Book a Divination Coaching session →](STRIPE_DIVINATION_LINK)
 
