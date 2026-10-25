@@ -102,7 +102,7 @@ export default function HomePage() {
         <div className="mt-6">
           <IndexSignupForm id="top" />
           <p className="mt-3 text-sm text-zinc-400">
-            Both PDFs open the moment you sign up. Then regular emails from me on Chinese medicine as magick, and now and then one names something I sell. Unsubscribe any time.
+            Your PDFs open the moment you sign up. You also get emails from me, Zachary Lui, on Chinese medicine as magick, and now and then one names something I sell. Unsubscribe any time.
           </p>
         </div>
       </section>

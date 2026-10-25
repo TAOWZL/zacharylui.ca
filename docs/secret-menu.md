@@ -2,6 +2,7 @@
 title: The Secret Menu | Zachary Lui
 description: The Secret Menu Index, the monographs, and the members' room. Free downloads for subscribers.
 permalink: secret-menu
+noindex: true
 ---
 You're in. Your PDFs are below.
 
