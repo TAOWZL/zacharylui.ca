@@ -46,7 +46,8 @@ export default function CoachingPage() {
         <h2 className="heading-2 mt-2">Work the Medicine</h2>
         <p className="mt-3 leading-relaxed text-zinc-300">
           Eight weeks, starting the week of January 4, 2027. A small group. One live call each week, online, in EST, recorded for
-          anyone who misses it. Four operations, each worked for yourself in your own life.
+          anyone who misses it. One private 60-minute session with me in the first two weeks, to map your own practice
+          before we work it. Four operations, each worked for yourself in your own life.
         </p>
         <ul className="mt-5 grid grid-cols-1 gap-2">
           {WEEKS.map(([name, detail]) => (
