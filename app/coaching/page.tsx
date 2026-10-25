@@ -9,7 +9,7 @@ const DESCRIPTION =
 // Stripe payment links (Wuji Xuan Life Wellness Ltd account). Both charge tax at checkout.
 const SESSION_URL = "https://buy.stripe.com/3cI6oGdLggwXcLA2il3Nm0B";
 const COHORT_URL = "https://buy.stripe.com/28E3cudLg5Sj9zo6yB3Nm0A";
-// First of two payments ($600 + tax); the second is a Stripe invoice due January 4. Link created after council approval.
+// First of two payments ($600 + tax); the second is a Stripe invoice due January 3. Link created after council approval.
 const COHORT_SPLIT_URL = "PENDING_SPLIT_LINK";
 
 export const metadata: Metadata = {
@@ -60,7 +60,7 @@ export default function CoachingPage() {
         </ul>
         <p className="mt-5 text-lg font-semibold text-zinc-50">$1,200 + tax</p>
         <p className="text-sm text-zinc-400">
-          Spiritual practice only. It carries no continuing-education credit. Founding price, for this round only. Pay in full at signup, or in two payments of $600 + tax: one at signup, one by January 4. Eight seats. Enrolment closes January 3, 2027, and
+          Spiritual practice only. It carries no continuing-education credit. Founding price, for this round only. Pay in full at signup, or in two payments of $600 + tax: one at signup, and the second by an invoice I email you, due January 3. If the second payment isn't made by January 3, the seat is released and the first payment is not refunded. Eight seats. Enrolment closes January 3, 2027, and
           the round starts the week of January 4 whatever the group size. No refunds. After payment, I email you with the
           call schedule.
         </p>
