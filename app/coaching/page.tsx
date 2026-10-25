@@ -58,7 +58,7 @@ export default function CoachingPage() {
         </ul>
         <p className="mt-5 text-lg font-semibold text-zinc-50">$1,200 + tax</p>
         <p className="text-sm text-zinc-400">
-          Founding price, for this round only. Paid in full at signup. Eight seats. Enrolment closes January 3, 2027, and
+          Spiritual practice, not clinical training. Founding price, for this round only. Paid in full at signup. Eight seats. Enrolment closes January 3, 2027, and
           the round starts the week of January 4 whatever the group size. No refunds. After payment, I email you with the
           call schedule.
         </p>
@@ -75,7 +75,8 @@ export default function CoachingPage() {
         </p>
         <p className="mt-5 leading-relaxed text-zinc-300">
           Online, scheduled in EST. Pay first; within two business days I email you to set the time. If you join the
-          cohort within seven days, the session comes off the price.
+          cohort within seven days, and before enrolment closes on January 3, the session comes off the price: email me
+          and I send you a code for the cohort checkout.
         </p>
         <p className="mt-5 text-lg font-semibold text-zinc-50">$175 + tax</p>
         <a href={SESSION_URL} className="btn-secondary mt-5" target="_blank" rel="noopener">
