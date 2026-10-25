@@ -57,6 +57,6 @@ Doing public Ritual work since 2016. Ongoing work with specific deities and cour
 
 Every commission starts with a Divination Coaching session, 60 minutes on Zoom, $175 + tax.
 
-[Book a Divination Coaching session →](https://wujixuan.janeapp.com/#/staff_member/1/treatment/3)
+[Book a Divination Coaching session →](STRIPE_DIVINATION_LINK)
 
 If you have already had a reading and want to talk about commissioned work, email [zac@zacharylui.ca](mailto:zac@zacharylui.ca).

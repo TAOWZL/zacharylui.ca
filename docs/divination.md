@@ -1,11 +1,11 @@
 ---
 title: "Divination Coaching"
-description: "Clarity when the decision matters. Tarot and Mahjong divination with mediumship, for decisions where being wrong has consequences. Toronto."
+description: "Clarity when the decision matters. Tarot and Mahjong divination with mediumship, for decisions where being wrong has consequences. 60 minutes on Zoom."
 permalink: /divination
 draft: false
 ---
 
-*Spiritual work offered as a Daoist folk priest, Wu, and Tangmi practitioner, separate from my regulated acupuncture practice. Not Traditional Chinese Medicine.*
+*Spiritual work offered as a Daoist folk priest, Wu, and Tangmi practitioner. Not Traditional Chinese Medicine.*
 
 ## Clarity when the decision matters
 
@@ -62,20 +62,20 @@ Most mistakes come from the wrong read: wrong timing, wrong direction, missed in
 * vague interpretation
 * therapy, medical or mental-health care, or financial or legal advice
 
-This is applied clarity for real decisions. It does not diagnose or treat anything, and it is separate from my regulated acupuncture practice.
+This is applied clarity for real decisions. It does not diagnose or treat anything.
 
-## Divination in Toronto
+## Sessions
 
-This work includes tarot readings, Mahjong-based divination, and mediumship. Sessions are available in Toronto for clients who want a clear read before making a decision.
+This work includes tarot readings, Mahjong-based divination, and mediumship. Sessions run 60 minutes on Zoom, wherever you are, for clients who want a clear read before making a decision.
 
 ## Book a session
 
-If you need to see the situation clearly before acting:
+If you need to see the situation clearly before acting: 60 minutes on Zoom, $175 + tax. Pay first, and within two business days I email you to set the time, scheduled in EST.
 
-[Book a Divination Coaching session](https://wujixuan.janeapp.com/#/staff_member/1/treatment/3)
+[Book a Divination Coaching session](STRIPE_DIVINATION_LINK)
 
-If you are looking for a tarot reading, a reading with a medium, or Mahjong divination in Toronto, this work provides structured insight to support your own decision.
+If you are looking for a tarot reading, a reading with a medium, or Mahjong divination online, this work provides structured insight to support your own decision.
 
 ---
 
-*Spiritual work offered as a Daoist folk priest (Mao Shan Shangqing 茅山上清), Wu 巫, and Tangmi 唐密 practitioner. Sits outside of Traditional Chinese Medicine and is separate from my regulated acupuncture practice. Not a substitute for medical, mental-health, financial, legal, or professional advice of any kind. No specific outcomes are promised.*
+*Spiritual work offered as a Daoist folk priest (Mao Shan Shangqing 茅山上清), Wu 巫, and Tangmi 唐密 practitioner. Sits outside of Traditional Chinese Medicine. Not a substitute for medical, mental-health, financial, legal, or professional advice of any kind. No specific outcomes are promised.*

@@ -5,9 +5,9 @@ import IndexSignupForm from "@/components/IndexSignupForm";
 // name, address, phone, R.Ac title or acupuncture link on this page. The
 // three-doors page for in-person work lives at /in-person.
 
-const TITLE = "Zachary Lui | Chinese Magick, Divination and Reiki Online";
+const TITLE = "Zachary Lui | Chinese Magick and Divination Online";
 const DESCRIPTION =
-  "Wu shaman and Daoist priest by transmission. The Secret Menu membership, divination coaching and distant Reiki on Zoom, and recorded workshops in Chinese herbal magick.";
+  "Wu shaman and Daoist priest by transmission. The Secret Menu membership, divination coaching on Zoom, and recorded workshops in Chinese herbal magick.";
 
 export const metadata: Metadata = {
   title: { absolute: TITLE },
@@ -41,14 +41,6 @@ const OFFERS: Offer[] = [
     detail: "$175 CAD + tax. Wherever you are.",
     cta: "About the readings",
     href: "/divination"
-  },
-  {
-    kicker: "One to one",
-    name: "Distant Reiki",
-    body: "A full hour of Usui Reiki on Zoom, from a Usui Reiki Master Teacher. Sit somewhere quiet where nobody will disturb you. You finish with practices to carry on with between sessions.",
-    detail: "Wherever you are.",
-    cta: "Book distant Reiki",
-    href: "https://wujixuan.janeapp.com/#/discipline/2/treatment/5"
   },
   {
     kicker: "Workshop",
