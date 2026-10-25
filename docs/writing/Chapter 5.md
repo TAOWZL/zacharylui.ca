@@ -204,7 +204,7 @@ There's a version of this chapter that ends by telling you the maps make you a b
 
 Who I am, what the credentials cover, how I handle the Chinese, and the full scope note are all in one place. [About This Book](https://zacharylui.ca/about-this-book/). It's one page, and it dates my own lineage the same way this chapter dates everybody else's.
 
-Every classical reading here names its source below, translator or edition. Practitioners from other streams read some of these passages differently.
+The classical readings here draw on the scholarly translations below. Practitioners from other streams read some of these passages differently.
 
 ---
 

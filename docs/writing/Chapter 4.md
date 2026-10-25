@@ -218,7 +218,7 @@ Sun Simiao put the spell and the decoction in the same book because as far as he
 
 Who I am, what the credentials cover, how I handle the Chinese, and the full scope note. It's all on one page, [About This Book](https://zacharylui.ca/about-this-book/), and it dates my own lineage the same way this chapter dates everybody else's.
 
-Every classical reading here names its source below, translator or edition. Practitioners from other streams read some of these passages differently.
+The classical readings here draw on the scholarly translations below. Practitioners from other streams read some of these passages differently.
 
 ---
 
