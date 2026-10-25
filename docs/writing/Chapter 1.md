@@ -130,7 +130,7 @@ And that's the fight I've been circling this whole chapter, so next I'll stop ci
 
 Who I am, what the credentials cover, how I handle the Chinese, and the full scope note. [About This Book](https://zacharylui.ca/about-this-book/). It's one page, and it dates my own lineage, the same way this chapter dates everybody else's.
 
-The classical readings here rest on the scholarly translations below, each one named. Practitioners from other streams read some of these passages differently.
+Every classical reading here names its source below, translator or edition. Practitioners from other streams read some of these passages differently.
 
 *Zachary Lui, Daoist priest by transmission, Mao Shan Shangqing (茅山上清). The reading, ritual, correspondence and teaching work described on this page is not health care.*
 
