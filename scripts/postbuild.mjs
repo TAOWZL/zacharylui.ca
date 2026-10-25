@@ -27,6 +27,14 @@ function walk(dir) {
 
 walk(outDir);
 
+// Fail the build if a payment-link placeholder is still in any built page.
+for (const route of pages) {
+  const file = path.join(outDir, route === "/" ? "index.html" : `${route.slice(1)}/index.html`);
+  if (fs.existsSync(file) && fs.readFileSync(file, "utf8").includes("STRIPE_DIVINATION_LINK")) {
+    throw new Error(`Placeholder STRIPE_DIVINATION_LINK still in ${route}`);
+  }
+}
+
 function copyDocAssets(sourceDir, targetDir) {
   if (!fs.existsSync(sourceDir)) return;
   const entries = fs.readdirSync(sourceDir, { withFileTypes: true });
