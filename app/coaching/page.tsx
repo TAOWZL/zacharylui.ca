@@ -26,7 +26,7 @@ const WEEKS = [
   ["Mapping metaphors", ""],
   ["Energy work", "through qigong and neigong"],
   ["Correspondences", "and the method I call stacking"],
-  ["Herbal magick and sorcery", ""]
+  ["Herbal magick and sorcery", "making contact with the herb, then working it in spells"]
 ];
 
 export default function CoachingPage() {
@@ -45,7 +45,7 @@ export default function CoachingPage() {
         <p className="kicker">Founding cohort</p>
         <h2 className="heading-2 mt-2">Work the Medicine</h2>
         <p className="mt-3 leading-relaxed text-zinc-300">
-          Eight weeks, starting January 2027. A small group. One live call each week, online, in EST, recorded for
+          Eight weeks, starting the week of January 4, 2027. A small group. One live call each week, online, in EST, recorded for
           anyone who misses it. Four operations, each worked for yourself in your own life.
         </p>
         <ul className="mt-5 grid grid-cols-1 gap-2">
@@ -58,8 +58,9 @@ export default function CoachingPage() {
         </ul>
         <p className="mt-5 text-lg font-semibold text-zinc-50">$1,200 + tax</p>
         <p className="text-sm text-zinc-400">
-          Founding price, for this round only. Paid in full at signup. The round runs in January whatever the group
-          size, or sooner once it fills. No refunds. After payment, I email you with the call schedule.
+          Founding price, for this round only. Paid in full at signup. Eight seats. Enrolment closes January 3, 2027, and
+          the round starts the week of January 4 whatever the group size. No refunds. After payment, I email you with the
+          call schedule.
         </p>
         <a href={COHORT_URL} className="btn-primary mt-5 self-start" target="_blank" rel="noopener">
           Reserve a place
@@ -109,7 +110,7 @@ export default function CoachingPage() {
       </section>
 
       <p className="mt-10 text-sm text-zinc-400">
-        This is coaching in magick and personal practice. It is not medical treatment, diagnosis or health care.
+        This is coaching in magick and personal practice. It is not medical treatment, diagnosis or health care. It is not clinical training, and it does not carry continuing-education credit.
       </p>
     </article>
   );
