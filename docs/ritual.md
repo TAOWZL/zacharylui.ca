@@ -55,7 +55,7 @@ Doing public Ritual work since 2016. Ongoing work with specific deities and cour
 
 ## Begin the conversation
 
-Every commission starts with a Divination Coaching session, 60 minutes on Zoom, $175 CAD + tax.
+Every commission starts with a Divination Coaching session, 60 minutes, on Zoom or in person in Toronto, $175 CAD + tax.
 
 [Book a Divination Coaching session →](https://buy.stripe.com/28EeVccHccgHaDs5ux3Nm0C)
 

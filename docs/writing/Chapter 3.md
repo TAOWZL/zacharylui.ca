@@ -130,7 +130,7 @@ Who I am, what the credentials are and aren't, how I handle the Chinese, and the
 
 I'm not a historian, and I'm not a translator. The classical readings here lean on the scholarly translations below, and practitioners from other streams will read some of these passages differently.
 
-*Zachary Lui, Mao Shan Shangqing (茅山上清) Daoist transmission. The reading, ritual, correspondence and teaching work described on this page is not health care.*
+*Zachary Lui, Daoist priest by transmission, Mao Shan Shangqing (茅山上清). The reading, ritual, correspondence and teaching work described on this page is not health care.*
 
 ---
 

@@ -17,6 +17,10 @@ function walk(dir) {
     } else if (entry.isFile() && entry.name === "index.html") {
       const rel = path.relative(outDir, full).replace(/\\/g, "/");
       const route = rel === "index.html" ? "/" : `/${rel.replace(/\/index\.html$/, "")}`;
+      if (fs.readFileSync(full, "utf8").includes("STRIPE_DIVINATION_LINK")) {
+        // Fail the build if a payment-link placeholder is still in any built page.
+        throw new Error(`Placeholder STRIPE_DIVINATION_LINK still in ${route}`);
+      }
       // Pages marked noindex (frontmatter `noindex: true`) stay out of the sitemap.
       const html = fs.readFileSync(full, "utf8");
       if (/<meta name="robots" content="noindex/.test(html)) continue;
@@ -26,14 +30,6 @@ function walk(dir) {
 }
 
 walk(outDir);
-
-// Fail the build if a payment-link placeholder is still in any built page.
-for (const route of pages) {
-  const file = path.join(outDir, route === "/" ? "index.html" : `${route.slice(1)}/index.html`);
-  if (fs.existsSync(file) && fs.readFileSync(file, "utf8").includes("STRIPE_DIVINATION_LINK")) {
-    throw new Error(`Placeholder STRIPE_DIVINATION_LINK still in ${route}`);
-  }
-}
 
 function copyDocAssets(sourceDir, targetDir) {
   if (!fs.existsSync(sourceDir)) return;
