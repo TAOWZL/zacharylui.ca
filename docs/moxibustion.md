@@ -21,7 +21,7 @@ It's a recorded workshop. Three hours. Out Sunday, November 22, 2026. Most of it
 ## What you get
 
 - The recorded workshop, yours to keep.
-- The moxa monograph, in the format of the [garlic monograph](https://zacharylui.ca/da-suan-monograph.pdf): the record, the reading, sources itemised edition by edition. Members of [The Secret Menu](/secret-menu) get it too.
+- The moxa monograph, in the format of the [garlic monograph](/free-index), free with the Index: the record, the reading, sources itemised edition by edition. Members of [The Secret Menu](https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w) get it too.
 - A worksheet for your notes.
 - Bring your own moxa, loose or a stick, whichever you've got, and a raw garlic clove. Most of the work is unlit, but for the comparison you'll want a lighter, a heatproof dish and a cup of water on the table beside you.
 

@@ -27,7 +27,7 @@ Recordings and monographs are for your personal use. Do not share, resell or rep
 
 Founding rate: members who join by Friday, October 9, 2026 at 11:59 pm Eastern pay \$45 CAD a month plus 13% HST (\$5.85), \$50.85 CAD a month in total, for as long as they stay subscribed.
 
-From Saturday, October 10, 2026 at 12:00 am Eastern, the price for new members is \$75 CAD a month plus 13% HST (\$9.75), \$84.75 CAD a month in total. This rate is limited to the first 20 members who join at it, and those 20 keep it for as long as they stay subscribed. Once 20 members have joined at this rate, the price for new members goes up, and the new price is shown on zacharylui.ca/secret-menu before you join.
+From Saturday, October 10, 2026 at 12:00 am Eastern, the price for new members is \$75 CAD a month plus 13% HST (\$9.75), \$84.75 CAD a month in total. This rate is limited to the first 20 members who join at it, and those 20 keep it for as long as they stay subscribed. Once 20 members have joined at this rate, the price for new members goes up, and the new price is shown on the checkout page before you join.
 
 The total is shown at checkout before you pay. Payment is processed by Stripe. You are charged on the day you join and on the same day each month after that, until you cancel. There are no other fees.
 
