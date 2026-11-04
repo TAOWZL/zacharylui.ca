@@ -29,7 +29,7 @@ const OFFERS: Offer[] = [
   {
     kicker: "Membership",
     name: "The Secret Menu",
-    body: "One class a month on Zoom, each on an operation from the Index. On November 22, members get a class on wood and a three-hour moxa workshop. Every class is recorded, and every monograph after garlic goes to members only.",
+    body: "One class a month on Zoom, each on an operation from the Index. On November 22, members get Daoist Wood: The Five Columns, and a three-hour moxa workshop. Every class is recorded, and every monograph after garlic comes with membership.",
     detail: "$75 CAD a month + tax. Cancel any time.",
     cta: "See what's in it",
     href: "/secret-menu"

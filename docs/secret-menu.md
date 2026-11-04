@@ -1,11 +1,11 @@
 ---
 title: The Secret Menu | Chinese Magick Through Classical Chinese Medicine
-description: One class a month on Zoom, Chinese magick taught through Classical Chinese Medicine, every claim carrying its source. On November 22, members get a class on wood and a three-hour moxa workshop.
+description: "One class a month on Zoom, Chinese magick taught through Classical Chinese Medicine, every claim carrying its source. On November 22, members get Daoist Wood: The Five Columns, and a three-hour moxa workshop."
 permalink: secret-menu
 ---
 ## The Secret Menu
 
-The part of the classics your program doesn't teach, worked as magick. One class a month on Zoom, recorded, each one on an operation from the Index. Every claim carries its source, edition named.
+The classics you know, worked as magick. One class a month on Zoom, recorded, each one on an operation from the Index. Every claim carries its source, edition named.
 
 \$75 CAD a month + tax. Cancel any time.
 
@@ -22,7 +22,7 @@ One recorded hour on the wood column of the 素問 (Basic Questions), chapter 5:
 - The practice: you map the wood chain through your five senses, with one real plant at its centre, build a trance from it, and anchor that trance on one sense.
 - The working: inside the trance, you do the green sprout working from the Daoist Canon.
 
-No prior study of the five phases. No movement form to learn. You get a source sheet with every line in traditional characters, an English gloss and the edition named.
+You can start with no study of the five phases, and there is no movement form to learn. You get a source sheet with every line in traditional characters, an English gloss and the edition named.
 
 ### Chinese Herbal Magick: Moxibustion
 
@@ -32,7 +32,7 @@ A three-hour recorded workshop. You work moxa unlit to meet the herb itself, the
 
 - The first class on the Menu, yin and yang mapping, on recording.
 - Every class recorded, yours while you stay subscribed.
-- Every monograph after garlic, members only.
+- Every monograph after garlic comes with membership.
 
 ## Who teaches it
 
@@ -40,7 +40,7 @@ Zachary Lui, 巫 (Wu shaman) and Daoist priest by transmission. 茅山上清 Mao
 
 ## The price
 
-\$75 CAD a month plus applicable tax, billed monthly until you cancel. The \$75 rate is open to the first 20 members, and they keep it for as long as they stay subscribed. After that, the price for new members goes up. Cancel anytime; cancelling stops the next charge. All payments are final. Founding members who joined by October 9, 2026 keep their founding rate while subscribed. [Full terms](/terms).
+\$75 CAD a month plus applicable tax, billed monthly until you cancel. The \$75 rate is open to the first 20 members, and they keep it for as long as they stay subscribed. After that, the price for new members goes up. Cancel anytime; cancelling stops the next charge. All payments are final, with the exceptions in the full terms. Founding members who joined by October 9, 2026 keep their founding rate while subscribed. [Full terms](/terms).
 
 [Join The Secret Menu →](https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w)
 

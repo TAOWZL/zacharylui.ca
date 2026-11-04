@@ -8,13 +8,13 @@ You're in. Your PDFs are below.
 
 # The Secret Menu Index
 
-One page. Nine entries. Each one is something the tradition ran as standard practice, the year it was cut from the curriculum, and where it is restored, with two named sources under every entry. Read it once now. It reads differently after each lesson.
+Nine entries. Each one is something the tradition ran as standard practice, the year it was cut from the curriculum, and where it is restored, with two named sources under every entry.
 
 [Download the Secret Menu Index (PDF) →](https://zacharylui.ca/secret-menu-index-de04295a.pdf)
 
 # The sample monograph: garlic
 
-大蒜 (garlic), 24 pages on one herb, built on the Chinese record: what the materia medica says it does, what the ritual calendar says it does, and what happens when you work with it directly. Sources itemised edition by edition. Garlic is the free sample; every monograph after it goes to members only.
+大蒜 (garlic), 24 pages on one herb, built on the Chinese record: what the materia medica records, what the ritual calendar records, and what happens when you work with it directly. Sources itemised edition by edition. Garlic is the free sample; every monograph after it comes with membership.
 
 [Download the garlic monograph (PDF) →](https://zacharylui.ca/da-suan-monograph-576db60a.pdf)
 
@@ -24,15 +24,15 @@ From the palm seal video: Sun Simiao's ghost road seal, mapped on the hand, with
 
 [Download the ghost road seal (PDF) →](https://zacharylui.ca/ghost-road-seal-992c469f.pdf)
 
-# The Index names the nine. The Secret Menu teaches them.
+# The Secret Menu teaches them
 
-One class a month on Zoom. On November 22, members get a class on wood and a three-hour moxa workshop.
+One class a month on Zoom. On November 22, members get Daoist Wood: The Five Columns, and a three-hour moxa workshop.
 
 [See what's in it →](/secret-menu)
 
 # The lessons
 
-The nine operations run on video, one per lesson. Operation 1 is pulse diagnosis: you were trained in a diviner's craft, and the receipt is a word you already use, 脈象 (pulse image).
+The nine operations run on video, one per lesson. Operation 1 is pulse diagnosis. You were trained in a diviner's craft. The receipt is a word you already use, 脈象 (pulse image).
 
 [Watch the series →](https://www.youtube.com/@thezacharylui)
 

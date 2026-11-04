@@ -18,6 +18,7 @@ The Secret Menu is taught by Zachary Lui.
 - One class a month on Zoom, about one hour, on an operation from the Secret Menu Index. A class may run live or be released as a recording.
 - The recording of each class, available while you stay subscribed.
 - Every new monograph after the free garlic monograph, available while you stay subscribed.
+- The moxibustion workshop recording, monograph and worksheet, available while you stay subscribed.
 
 Class links, recordings and monographs are sent to the email you joined with, through a members' Google Drive folder. Class dates are announced to members by email at least seven days ahead. If a month's class cannot run on its date, members are told by email and it is rescheduled within 30 days. If it cannot be rescheduled, that month's charge is refunded in full.
 
