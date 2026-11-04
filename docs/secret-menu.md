@@ -19,10 +19,10 @@ One recorded hour on the wood column of the 素問 (Basic Questions), chapter 5:
 
 - The characters: 東 (east), which one early reading in the 說文 (Explaining Graphs) takes as the sun inside a tree.
 - The myths of the east: the great tree where the ten suns bathe, and the green sprout.
-- The practice: you map one real plant through your five senses, build a trance from it, and anchor that trance on one sense.
+- The practice: you map the wood chain through your five senses, with one real plant at its centre, build a trance from it, and anchor that trance on one sense.
 - The working: inside the trance, you do the green sprout working from the Daoist Canon.
 
-No prior study of the five phases. No physical form. You get a source sheet with every line in traditional characters, an English gloss and the edition named.
+No prior study of the five phases. No movement form to learn. You get a source sheet with every line in traditional characters, an English gloss and the edition named.
 
 ### Chinese Herbal Magick: Moxibustion
 
