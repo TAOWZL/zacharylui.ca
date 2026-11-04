@@ -6,7 +6,7 @@ publish: true
 ---
 # Terms: Chinese Herbal Magick Workshops
 
-Last updated October 11, 2026. These terms cover Chinese Herbal Magick: Moxibustion.
+Last updated November 4, 2026. These terms cover Chinese Herbal Magick: Moxibustion.
 
 ## Who sells it
 
@@ -24,7 +24,7 @@ Recording:
 
 There is no live session.
 
-Secret Menu members: the recording, the moxa monograph and the worksheet at no extra cost, if their paid membership is active on November 22, 2026. They are sent through The Secret Menu.
+Secret Menu members: the recording, the moxa monograph and the worksheet at no extra cost, available while their paid membership is active. They are sent through The Secret Menu.
 
 Mentored: everything in the recording, plus a voice-note review of your written notes on moxa, garlic and the pair, and one 30-minute review call. Notes are due by December 13, 2026. Reviews are sent within 7 days of receiving your notes. Calls are booked through the link in your workshop details email and held by January 15, 2027. Mentored is limited to five places.
 
@@ -39,11 +39,10 @@ Founding prices apply to purchases made by Saturday, October 31, 2026 at 11:59 p
 | Recording | \$97.00 | \$12.61 | \$109.61 |
 | Mentored | \$447.00 | \$58.11 | \$505.11 |
 
-From November 1, 2026:
+From November 1, 2026, the recording comes with The Secret Menu and is not sold on its own. Everyone who bought it at the founding price keeps what they bought.
 
 | Tier | Price | 13% HST | Total |
 | --- | --- | --- | --- |
-| Recording | \$127.00 | \$16.51 | \$143.51 |
 | Mentored | \$447.00 | \$58.11 | \$505.11 |
 
 All prices in Canadian dollars. One payment. No subscription.

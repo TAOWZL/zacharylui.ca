@@ -29,10 +29,10 @@ const OFFERS: Offer[] = [
   {
     kicker: "Membership",
     name: "The Secret Menu",
-    body: "One class a month on Zoom, each on an operation from the Index. Every class is recorded, and every monograph after garlic goes to members only.",
+    body: "One class a month on Zoom, each on an operation from the Index. On November 22, members get Daoist Wood: The Five Columns, and a three-hour moxa workshop. Every class is recorded, and every monograph after garlic comes with membership.",
     detail: "$75 CAD a month + tax. Cancel any time.",
-    cta: "Join The Secret Menu",
-    href: "https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w"
+    cta: "See what's in it",
+    href: "/secret-menu"
   },
   {
     kicker: "One to one",
@@ -46,7 +46,7 @@ const OFFERS: Offer[] = [
     kicker: "Workshop",
     name: "Chinese Herbal Magick: Moxibustion",
     body: "A recorded three-hour workshop. Work moxa unlit to meet the herb itself, then with garlic. Comes with the moxa monograph and a worksheet. Out November 22, 2026.",
-    detail: "$97 CAD + tax until October 31. Free for Secret Menu members.",
+    detail: "Comes with The Secret Menu.",
     cta: "See the workshop",
     href: "/courses/moxibustion"
   },

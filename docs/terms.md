@@ -5,7 +5,7 @@ permalink: terms
 ---
 # Terms: The Secret Menu
 
-Last updated October 25, 2026.
+Last updated November 4, 2026.
 
 ## Who sells it
 
@@ -15,11 +15,12 @@ The Secret Menu is taught by Zachary Lui.
 
 ## What you get
 
-- One live online class a month, about one hour, on an operation from the Secret Menu Index. Classes run live on Zoom.
+- One class a month on Zoom, about one hour, on an operation from the Secret Menu Index. A class may run live or be released as a recording.
 - The recording of each class, available while you stay subscribed.
 - Every new monograph after the free garlic monograph, available while you stay subscribed.
+- The moxibustion workshop recording, monograph and worksheet, available while you stay subscribed.
 
-The class link, recordings and monographs are sent to the email you joined with, through a members' Google Drive folder. Class dates are announced to members by email at least seven days ahead. If a month's class cannot run on its date, members are told by email and it is rescheduled within 30 days. If it cannot be rescheduled, that month's charge is refunded in full.
+Class links, recordings and monographs are sent to the email you joined with, through a members' Google Drive folder. Class dates are announced to members by email at least seven days ahead. If a month's class cannot run on its date, members are told by email and it is rescheduled within 30 days. If it cannot be rescheduled, that month's charge is refunded in full.
 
 Recordings and monographs are for your personal use. Do not share, resell or repost them.
 

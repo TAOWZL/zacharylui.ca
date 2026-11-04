@@ -20,7 +20,7 @@ const DEFAULT_LINKS: [string, string][] = [
 
 const LANE_Z_LINKS: [string, string][] = [
   ["/free-index", "The Free Index"],
-  ["https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w", "The Secret Menu"],
+  ["/secret-menu", "The Secret Menu"],
   ["/divination", "Divination Coaching"],
   ["/courses/moxibustion", "Moxibustion Workshop"],
   ["/ritual", "Commissioned Ritual"],
