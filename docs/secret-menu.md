@@ -1,46 +1,49 @@
 ---
-title: The Secret Menu | Zachary Lui
-description: The Secret Menu Index, the monographs, and the members' room. Free downloads for subscribers.
+title: The Secret Menu | Chinese Magick Through Classical Chinese Medicine
+description: One class a month on Zoom, Chinese magick taught through Classical Chinese Medicine, every claim carrying its source. On November 22, members get a class on wood and a three-hour moxa workshop.
 permalink: secret-menu
-noindex: true
 ---
-You're in. Your PDFs are below.
+## The Secret Menu
 
-# The Secret Menu Index
+The part of the classics your program doesn't teach, worked as magick. One class a month on Zoom, recorded, each one on an operation from the Index. Every claim carries its source, edition named.
 
-One page. Nine entries. Each one is something the tradition ran as standard practice, the year it was cut from the curriculum, and where it is restored, with two named sources under every entry. Read it once now. It reads differently after each lesson.
-
-[Download the Secret Menu Index (PDF) →](https://zacharylui.ca/secret-menu-index-de04295a.pdf)
-
-# The sample monograph: garlic
-
-大蒜 (garlic), 24 pages on one herb, built on the Chinese record: what the materia medica says it does, what the ritual calendar says it does, and what happens when you work with it directly. Sources itemised edition by edition. Garlic is the free sample; every monograph after it goes to members only.
-
-[Download the garlic monograph (PDF) →](https://zacharylui.ca/da-suan-monograph-576db60a.pdf)
-
-# The ghost road seal
-
-From the palm seal video: Sun Simiao's ghost road seal, mapped on the hand, with the practice to work it. One sheet.
-
-[Download the ghost road seal (PDF) →](https://zacharylui.ca/ghost-road-seal-992c469f.pdf)
-
-# The Secret Menu
-
-The paid room, built on the Index.
-
-- One class a month on Zoom, on an operation from the Index.
-- Every class recorded, yours while you stay subscribed.
-- Every monograph after garlic, members only.
-- The moxibustion workshop recording, free for paying members.
-
-\$75 CAD a month plus applicable tax, billed monthly until you cancel. The \$75 rate is open to the first 20 members, and they keep it for as long as they stay subscribed. After that, the price for new members goes up. Cancel anytime; cancelling stops the next charge. Founding members who joined by October 9, 2026 keep their founding rate while subscribed. [Full terms](/terms).
+\$75 CAD a month + tax. Cancel any time.
 
 [Join The Secret Menu →](https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w)
 
-# The lessons
+## On November 22, members get both of these
 
-The nine operations run on video, one per lesson. Operation 1 is pulse diagnosis: you were trained in a diviner's craft, and the receipt is a word you already use, 脈象 (pulse image).
+### Daoist Wood: The Five Columns
 
-[Watch the series →](https://www.youtube.com/@thezacharylui)
+One recorded hour on the wood column of the 素問 (Basic Questions), chapter 5: east, wind, wood, sour, the liver.
 
-This is education and energy practice, not medical treatment or diagnosis. Nothing here replaces care from your doctor. Every claim in these PDFs carries its source, edition named.
+- The characters: 東 (east), which one early reading in the 說文 (Explaining Graphs) takes as the sun inside a tree.
+- The myths of the east: the great tree where the ten suns bathe, and the green sprout.
+- The practice: you map one real plant through your five senses, build a trance from it, and anchor that trance on one sense.
+- The working: inside the trance, you do the green sprout working from the Daoist Canon.
+
+No prior study of the five phases. No physical form. You get a source sheet with every line in traditional characters, an English gloss and the edition named.
+
+### Chinese Herbal Magick: Moxibustion
+
+A three-hour recorded workshop. You work moxa unlit to meet the herb itself, then with garlic. Comes with the moxa monograph and a worksheet. [See the workshop →](/courses/moxibustion)
+
+## Also in your membership
+
+- The first class on the Menu, yin and yang mapping, on recording.
+- Every class recorded, yours while you stay subscribed.
+- Every monograph after garlic, members only.
+
+## Who teaches it
+
+Zachary Lui, 巫 (Wu shaman) and Daoist priest by transmission. 茅山上清 Mao Shan Shangqing Daoist transmission. 唐密 Tangmi, Chinese Esoteric Buddhism. Spiritual master: Andrieh Vitimus.
+
+## The price
+
+\$75 CAD a month plus applicable tax, billed monthly until you cancel. The \$75 rate is open to the first 20 members, and they keep it for as long as they stay subscribed. After that, the price for new members goes up. Cancel anytime; cancelling stops the next charge. All payments are final. Founding members who joined by October 9, 2026 keep their founding rate while subscribed. [Full terms](/terms).
+
+[Join The Secret Menu →](https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w)
+
+Just signed up for the Index? [Your free PDFs are here →](/your-pdfs)
+
+Taught as spiritual and cultural tradition, from the classical sources, each one named. This is education and energy practice, not medical treatment or diagnosis. Nothing here replaces care from your doctor.

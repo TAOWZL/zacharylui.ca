@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 // Old Kit redirect target from the double opt-in setup. The form is single
-// opt-in now and Kit redirects straight to /secret-menu; this page stays only
+// opt-in now and Kit redirects straight to /your-pdfs; this page stays only
 // for old links.
 export const metadata: Metadata = {
   title: "Your PDFs",
@@ -15,7 +15,7 @@ export default function CheckInboxPage() {
       <p className="kicker">The Secret Menu Index</p>
       <h1 className="heading-1 mt-3">Your PDFs are ready</h1>
       <p className="mt-4 text-lg leading-relaxed text-zinc-300">
-        <a href="/secret-menu">Open them here →</a>
+        <a href="/your-pdfs">Open them here →</a>
       </p>
     </article>
   );

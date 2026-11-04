@@ -1,6 +1,6 @@
 ---
 title: Moxibustion | Chinese Herbal Magick | Zachary Lui
-description: A recorded workshop in Chinese herbal magick through moxibustion, out November 22, 2026. Work moxa on its own, then with garlic, with one-to-one coaching as an option. Founding prices until October 31, 2026.
+description: A recorded workshop in Chinese herbal magick through moxibustion, out November 22, 2026. Work moxa on its own, then with garlic, included with The Secret Menu, with one-to-one coaching as an option.
 permalink: courses/moxibustion
 publish: true
 ---
@@ -21,17 +21,17 @@ It's a recorded workshop. Three hours. Out Sunday, November 22, 2026. Most of it
 ## What you get
 
 - The recorded workshop, yours to keep.
-- The moxa monograph: the record, the reading, sources itemised edition by edition. Same format as the [garlic monograph](/free-index), which is free with the Index. Members of [The Secret Menu](https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w) get it too.
+- The moxa monograph: the record, the reading, sources itemised edition by edition. Same format as the [garlic monograph](/free-index), which is free with the Index. Members of [The Secret Menu](/secret-menu) get it too.
 - A worksheet for your notes.
 - Bring your own moxa, loose or a stick, whichever you've got, and a raw garlic clove. Most of the work is unlit, but for the comparison you'll want a lighter, a heatproof dish and a cup of water on the table beside you.
 
 ## Choose your place
 
-### Recording: \$97 CAD + tax
+### Recording: included with The Secret Menu
 
-The recorded workshop, the moxa monograph and the worksheet, sent November 22. Paying members of The Secret Menu get it free.
+The recorded workshop, the moxa monograph and the worksheet, sent November 22. They come with your Secret Menu membership, \$75 CAD a month + tax.
 
-[Get the recording →](https://buy.stripe.com/00wcN4az41C3h1Qf573Nm0y)
+[See The Secret Menu →](/secret-menu)
 
 ### Mentored: \$447 CAD + tax, five places
 
@@ -39,7 +39,7 @@ Everything in the recording. Plus coaching. You send me your written notes on mo
 
 [Book a mentored place →](https://buy.stripe.com/aFa8wOaz46Wn6nc6yB3Nm0z)
 
-Founding prices hold until Saturday, October 31, 2026, 11:59 pm Eastern. After that, the recording's \$127 + tax. Mentored stays at \$447 + tax. Tax is 13% HST. [Full terms](/course-terms).
+Tax is 13% HST. [Full terms](/course-terms).
 
 ## What comes next
 
