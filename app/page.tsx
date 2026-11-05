@@ -148,7 +148,7 @@ export default function HomePage() {
           ))}
         </div>
         <p className="mt-4">
-          <a href="/writing">All writing →</a>
+          <a href="/writing">All writing →</a> <span className="mx-2 text-zinc-400">·</span> <a href="/watch">Watch the operations →</a>
         </p>
       </section>
 

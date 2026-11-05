@@ -23,6 +23,7 @@ const LANE_Z_LINKS: [string, string][] = [
   ["/membership", "The Secret Menu"],
   ["/divination", "Divination Coaching"],
   ["/ritual", "Commissioned Ritual"],
+  ["/watch", "Watch"],
   ["/writing", "Writing"]
 ];
 

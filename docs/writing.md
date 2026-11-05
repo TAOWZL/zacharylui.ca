@@ -20,7 +20,7 @@ Two chapters. They are the written foundation for everything that follows: the a
 
 # The Nine Operations, on video
 
-The story continues on camera, one operation per lesson. Each lesson names one thing you already do in clinic, shows you what it is, and hands you the receipt: the word in your own vocabulary that proves it. Operation 1 is pulse diagnosis. [Watch the series →](https://www.youtube.com/@thezacharylui)
+The story continues on camera, one operation per lesson. Each lesson names one thing you already do in clinic, shows you what it is, and hands you the receipt: the word in your own vocabulary that proves it. Operation 1 is pulse diagnosis. [Watch the series →](/watch)
 
 # The Secret Menu
 
