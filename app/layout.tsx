@@ -34,6 +34,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en">
       <body>
+        <a href="#main" className="skip-link">Skip to content</a>
         <div className="mx-auto flex min-h-screen w-full max-w-6xl flex-col px-4 py-8 sm:px-6 lg:px-8">
           <header className="header-shell">
             <div className="flex flex-wrap items-center justify-between gap-4">
@@ -44,7 +45,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </div>
           </header>
 
-          <main className="flex-1">{children}</main>
+          <main id="main" className="flex-1">{children}</main>
 
           <footer className="footer-shell">
             <div className="grid gap-8 md:grid-cols-2">

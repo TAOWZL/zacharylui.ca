@@ -25,7 +25,7 @@ export default function HeaderNav() {
     ? LANE_Z_NAV
     : siteConfig.nav.map((item) => ({ label: item.label, href: item.slug ? `/${item.slug}` : "/" }));
   return (
-    <nav className="flex flex-wrap items-center gap-2">
+    <nav aria-label="Main" className="flex flex-wrap items-center gap-2">
       {items.map((item) => (
         <a key={item.href} href={item.href} className={linkClass}>
           {item.label}
