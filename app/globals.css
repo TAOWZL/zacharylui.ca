@@ -189,13 +189,8 @@ a:hover {
   @apply my-10 border-t border-charcoal-800;
 }
 
-/* ── Anchor links from rehype-autolink ────────────────────── */
 
-/* These render as empty links: nothing to see, but a stray stop for keyboard and
-   screen-reader users. Headings keep their ids, so deep links still work. */
-.anchor-link {
-  display: none;
-}
+
 
 /* ── Hero ──────────────────────────────────────────────── */
 
