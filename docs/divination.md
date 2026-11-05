@@ -17,7 +17,7 @@ This is for decisions where being wrong has consequences. Divination is used her
 
 60 minutes on Zoom or in person in Toronto. \$175 CAD + tax.
 
-[Book a Divination Coaching session →](https://buy.stripe.com/28EeVccHccgHaDs5ux3Nm0C)
+[Book a Divination Coaching session →](https://wujixuan.janeapp.com/#/staff_member/1/treatment/3)
 
 ## When to use this
 
@@ -76,9 +76,9 @@ This work includes tarot readings, Mahjong-based divination, and mediumship. Ses
 
 ## Book a session
 
-If you need to see the situation clearly before acting: 60 minutes, on Zoom or in person in Toronto, your choice. $175 CAD + tax. Pay first, and within two business days I email you to set the time and place, scheduled in Eastern time.
+If you need to see the situation clearly before acting: 60 minutes, on Zoom or in person in Toronto, your choice. $175 CAD + tax. Pick your time on the calendar when you book. Sessions run in Eastern time, and online sessions get a Zoom link by email.
 
-[Book a Divination Coaching session](https://buy.stripe.com/28EeVccHccgHaDs5ux3Nm0C)
+[Book a Divination Coaching session](https://wujixuan.janeapp.com/#/staff_member/1/treatment/3)
 
 If you are looking for a tarot reading, a reading with a medium, or Mahjong divination online or in Toronto, this work provides structured insight to support your own decision.
 

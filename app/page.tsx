@@ -54,7 +54,7 @@ const OFFERS: Offer[] = [
     body: "Mahjong tiles or tarot, read with mediumship, 60 minutes on Zoom. Bring the decision. You leave with the read, the path that fits it, and a practice to work afterward.",
     detail: "$175 CAD + tax. Wherever you are.",
     cta: "Book a session",
-    href: "https://buy.stripe.com/28EeVccHccgHaDs5ux3Nm0C",
+    href: "https://wujixuan.janeapp.com/#/staff_member/1/treatment/3",
     more: { label: "About the readings", href: "/divination" }
   },
   {
@@ -121,7 +121,7 @@ export default function HomePage() {
               <div className="mt-5 flex flex-wrap gap-3">
                 <a
                   href={offer.href}
-                  className={offer.href.startsWith("https://buy.stripe.com") ? "btn-buy" : "btn-secondary"}
+                  className={offer.href.startsWith("https://") ? "btn-buy" : "btn-secondary"}
                 >
                   {offer.cta} →
                 </a>
