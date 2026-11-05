@@ -19,6 +19,8 @@ This is for decisions where being wrong has consequences. Divination is used her
 
 [Book a Divination Coaching session →](https://wujixuan.janeapp.com/#/staff_member/1/treatment/3)
 
+[Or book Mahjong Wealth Divination →](https://wujixuan.janeapp.com/#/staff_member/1/treatment/57)
+
 ## When to use this
 
 * multiple options, no clear direction
@@ -79,6 +81,8 @@ This work includes tarot readings, Mahjong-based divination, and mediumship. Ses
 If you need to see the situation clearly before acting: 60 minutes, on Zoom or in person in Toronto, your choice. $175 CAD + tax. Pick your time on the calendar when you book. Sessions run in Eastern time, and online sessions get a Zoom link by email.
 
 [Book a Divination Coaching session](https://wujixuan.janeapp.com/#/staff_member/1/treatment/3)
+
+[Or book Mahjong Wealth Divination](https://wujixuan.janeapp.com/#/staff_member/1/treatment/57)
 
 If you are looking for a tarot reading, a reading with a medium, or Mahjong divination online or in Toronto, this work provides structured insight to support your own decision.
 

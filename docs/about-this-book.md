@@ -7,7 +7,7 @@ publish: true
 
 # About This Book
 
-*The Magick That Never Left: Classical Chinese Medicine and the Tradition Still Beneath It.* Serialized here, a chapter at a time, while it's being written.
+*The Magick That Never Left: Classical Chinese Medicine and the Tradition Still Beneath It.* The chapters are free to read here.
 
 ## What it argues
 
@@ -21,7 +21,7 @@ That claim is about how a historical system of reasoning works. It is not a clai
 
 ## Where to start
 
-Chapter one, and then in order. Chapter two carries the receipts the rest of it stands on, so skipping it makes the later chapters read as assertion.
+Chapter one, then chapter two. Chapter two carries the receipts.
 
 If you only read one, read chapter two. It's the spine.
 
@@ -67,7 +67,7 @@ Registered Acupuncturist (R.Ac) in Ontario, in clinical practice since 2015. For
 
 Continuing study beyond the core curriculum in classical Chinese medicine, including advanced needling technique studied with the late Professor Jin Zhang, a UNESCO-recognized representative of the Traditional Chinese Acupuncture Intangible Cultural Heritage of Humanity.
 
-**Master of Medical Qigong. That is a non-clinical designation and it is not the regulated one.** It is not a medical qualification. It is not on my acupuncture registration and it confers nothing inside the regulated door. It is written out here in those words on purpose, and chapter five is the reason why.
+**Master of Medical Qigong. That is a non-clinical designation and it is not the regulated one.** It is not a medical qualification. It is not on my acupuncture registration and it confers nothing inside the regulated door. It is written out here in those words on purpose.
 
 **Mao Shan Shangqing (茅山上清) transmission.** A Daoist lineage transmission, received privately. Religious and cultivational, not clinical. It diagnoses nothing, treats nothing, and decides nothing inside my acupuncture practice.
 
@@ -87,4 +87,4 @@ Chase the sources. That's what they're there for.
 
 Read [the full list and start reading here](https://zacharylui.ca/writing).
 
-New chapters go up when they're ready, with no editorial calendar. [Get the next one when it lands →](https://zacharylui.ca/free-index)
+[Get the free Index →](https://zacharylui.ca/free-index)
