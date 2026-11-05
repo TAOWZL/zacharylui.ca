@@ -24,6 +24,12 @@ function walk(dir) {
       // Pages marked noindex (frontmatter `noindex: true`) stay out of the sitemap.
       const html = fs.readFileSync(full, "utf8");
       if (/<meta name="robots" content="noindex/.test(html)) continue;
+      // Alias URLs point their canonical at the main page, so only the main page is listed.
+      const canonical = html.match(/<link rel="canonical" href="([^"]+)"/)?.[1];
+      if (canonical) {
+        const canonicalPath = new URL(canonical, baseUrl).pathname.replace(/\/$/, "") || "/";
+        if (canonicalPath !== route) continue;
+      }
       pages.push(route);
     }
   }

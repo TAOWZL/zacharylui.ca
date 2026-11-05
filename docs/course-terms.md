@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: Terms | Chinese Herbal Magick Workshops
 description: "Terms for the Chinese Herbal Magick workshops: seller, prices, dates, refunds, recordings and coaching."
 permalink: course-terms

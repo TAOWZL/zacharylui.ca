@@ -8,9 +8,9 @@ import { isLaneZPath } from "@/lib/laneZ";
 // pages (About, Services, Press carry the clinic and acupuncture details).
 const LANE_Z_NAV = [
   { label: "Free Index", href: "/free-index" },
-  { label: "Readings", href: "/divination" },
-  { label: "Writing", href: "/writing" },
-  { label: "Workshop", href: "/courses/moxibustion" }
+  { label: "The Secret Menu", href: "/membership" },
+  { label: "Divination Coaching", href: "/divination" },
+  { label: "Writing", href: "/writing" }
 ];
 
 const linkClass =

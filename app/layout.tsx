@@ -14,12 +14,13 @@ export const metadata: Metadata = {
     default: "Zachary Lui",
     template: "%s | Zachary Lui"
   },
-  description: "Systems for body, mind, and pattern.",
+  description: "Zachary Lui, Toronto.",
   openGraph: {
     type: "website",
     title: "Zachary Lui",
-    description: "Systems for body, mind, and pattern.",
-    url: siteConfig.url
+    description: "Zachary Lui, Toronto.",
+    url: siteConfig.url,
+    images: ["/images/og-plain.jpg"]
   },
   robots: {
     index: true,
@@ -28,21 +29,11 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "ProfessionalService",
-    name: "Zachary Lui",
-    url: siteConfig.url,
-    areaServed: "Toronto",
-    description: "Systems for body, mind, and pattern."
-  };
-
   const year = new Date().getFullYear();
 
   return (
     <html lang="en">
       <body>
-        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
         <div className="mx-auto flex min-h-screen w-full max-w-6xl flex-col px-4 py-8 sm:px-6 lg:px-8">
           <header className="header-shell">
             <div className="flex flex-wrap items-center justify-between gap-4">

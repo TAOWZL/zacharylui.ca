@@ -5,6 +5,8 @@ permalink: /divination
 draft: false
 ---
 
+# Divination Coaching
+
 *Spiritual work offered as a Daoist folk priest, Wu, and Tangmi practitioner. Not Traditional Chinese Medicine.*
 
 ## Clarity when the decision matters
@@ -12,6 +14,10 @@ draft: false
 Sometimes a situation does not respond the way it should. You think it through. You act. The result is inconsistent.
 
 This is for decisions where being wrong has consequences. Divination is used here to see what is actually present, so you can act with more clarity.
+
+60 minutes on Zoom or in person in Toronto. \$175 CAD + tax.
+
+[Book a Divination Coaching session →](https://buy.stripe.com/28EeVccHccgHaDs5ux3Nm0C)
 
 ## When to use this
 

@@ -31,7 +31,6 @@ The paid room, built on the Index.
 - One class a month on Zoom, on an operation from the Index.
 - Every class recorded, yours while you stay subscribed.
 - Every monograph after garlic, members only.
-- The moxibustion workshop recording, free for paying members.
 
 \$75 CAD a month plus applicable tax, billed monthly until you cancel. The \$75 rate is open to the first 20 members, and they keep it for as long as they stay subscribed. After that, the price for new members goes up. Cancel anytime; cancelling stops the next charge. Founding members who joined by October 9, 2026 keep their founding rate while subscribed. [Full terms](/terms).
 
