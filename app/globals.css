@@ -48,6 +48,7 @@ html {
 }
 
 body {
+  overflow-wrap: break-word;
   background:
     radial-gradient(circle at 12% 10%, rgba(169, 47, 32, 0.18), transparent 34%),
     radial-gradient(circle at 88% 6%, rgba(201, 164, 92, 0.08), transparent 30%),
@@ -90,13 +91,13 @@ a:hover {
 }
 
 .offer-card {
-  @apply flex flex-col rounded-lg border border-charcoal-800 bg-charcoal-950/70 p-5;
+  @apply flex min-w-0 flex-col rounded-lg border border-charcoal-800 bg-charcoal-950/70 p-5;
   border-top: 2px solid #c8432f;
 }
 
 /* The one talisman-paper block: cinnabar ink on yellow paper. */
 .offer-card-paper {
-  @apply flex flex-col rounded-lg bg-paper-100 p-5 sm:col-span-2 sm:p-7;
+  @apply flex min-w-0 flex-col rounded-lg bg-paper-100 p-5 sm:col-span-2 sm:p-7;
   border-top: 4px solid #a92f20;
 }
 
@@ -256,7 +257,7 @@ a:hover {
 }
 
 .header-shell {
-  margin-bottom: 2.5rem;
+  margin-bottom: 1.25rem;
   border-radius: 1rem !important;
   border: 1px solid #32291f !important;
   background-color: #1e1812 !important;
@@ -267,6 +268,7 @@ a:hover {
 
 @media (min-width: 768px) {
   .header-shell {
+    margin-bottom: 2.5rem;
     padding: 1.5rem;
   }
 }
@@ -302,6 +304,13 @@ a:hover {
   margin-right: auto;
 }
 
+
+/* Wide tables scroll inside their own box when text is enlarged. */
+.prose table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+}
 
 /* ── Safe readability tweaks ───────────────────────────── */
 

@@ -7,7 +7,7 @@ export default function IndexSignupForm({ id }: { id: string }) {
     <form
       action={KIT_FORM_ACTION}
       method="post"
-      className="grid gap-3 rounded-lg border border-charcoal-800 bg-charcoal-950/80 p-4 sm:grid-cols-[1fr_1.4fr_auto] sm:p-5"
+      className="flex flex-wrap gap-3 rounded-lg border border-charcoal-800 bg-charcoal-950/80 p-4 sm:p-5"
     >
       <label htmlFor={`${id}-name`} className="sr-only">First name</label>
       <input
@@ -17,7 +17,7 @@ export default function IndexSignupForm({ id }: { id: string }) {
         required
         autoComplete="given-name"
         placeholder="First name"
-        className="rounded-md border border-charcoal-800 bg-zinc-950 px-4 py-3 text-base text-zinc-100 placeholder:text-zinc-400 focus:border-cinnabar-400 focus:outline-none"
+        className="w-full min-w-0 flex-[1_1_11rem] rounded-md border border-charcoal-800 bg-zinc-950 px-4 py-3 text-base text-zinc-100 placeholder:text-zinc-400 focus:border-cinnabar-400"
       />
       <label htmlFor={`${id}-email`} className="sr-only">Email address</label>
       <input
@@ -27,9 +27,9 @@ export default function IndexSignupForm({ id }: { id: string }) {
         required
         autoComplete="email"
         placeholder="Email"
-        className="rounded-md border border-charcoal-800 bg-zinc-950 px-4 py-3 text-base text-zinc-100 placeholder:text-zinc-400 focus:border-cinnabar-400 focus:outline-none"
+        className="w-full min-w-0 flex-[1_1_11rem] rounded-md border border-charcoal-800 bg-zinc-950 px-4 py-3 text-base text-zinc-100 placeholder:text-zinc-400 focus:border-cinnabar-400"
       />
-      <button type="submit" className="btn-primary">
+      <button type="submit" className="btn-primary max-w-full flex-[1_1_auto]">
         Send me the free Index
       </button>
     </form>

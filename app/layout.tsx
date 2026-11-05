@@ -35,10 +35,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en">
       <body>
         <a href="#main" className="skip-link">Skip to content</a>
-        <div className="mx-auto flex min-h-screen w-full max-w-6xl flex-col px-4 py-8 sm:px-6 lg:px-8">
+        <div className="mx-auto flex min-h-screen w-full max-w-6xl flex-col px-4 py-4 sm:px-6 sm:py-8 lg:px-8">
           <header className="header-shell">
             <div className="flex flex-wrap items-center justify-between gap-4">
-              <HeaderHomeLink className="text-xl font-display font-semibold tracking-wide text-cream-50 visited:text-cream-50 no-underline md:text-2xl">
+              <HeaderHomeLink className="inline-flex min-h-[44px] items-center text-xl font-display font-semibold tracking-wide text-cream-50 visited:text-cream-50 no-underline md:text-2xl">
                 <span className="text-cinnabar-400">Zachary</span> Lui
               </HeaderHomeLink>
               <HeaderNav />

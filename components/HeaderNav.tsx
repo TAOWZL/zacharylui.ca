@@ -14,7 +14,7 @@ const LANE_Z_NAV = [
 ];
 
 const linkClass =
-  "rounded-md border border-charcoal-800 bg-charcoal-950/70 px-3 py-1.5 text-sm text-cream-200 visited:text-cream-200 no-underline hover:border-cinnabar-500 hover:text-cream-50";
+  "inline-flex min-h-[44px] items-center rounded-md border border-charcoal-800 bg-charcoal-950/70 px-3 py-1.5 text-sm text-cream-200 visited:text-cream-200 no-underline hover:border-cinnabar-500 hover:text-cream-50";
 
 export default function HeaderNav() {
   const pathname = usePathname() ?? "";
