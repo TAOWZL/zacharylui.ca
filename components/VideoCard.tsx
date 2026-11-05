@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 
 export type Video = { id: string; title: string; thumb: string; length: string };
 
@@ -8,11 +8,17 @@ export type Video = { id: string; title: string; thumb: string; length: string }
 // Without JavaScript it is an ordinary link to the video on YouTube.
 export default function VideoCard({ video }: { video: Video }) {
   const [playing, setPlaying] = useState(false);
+  const player = useRef<HTMLIFrameElement>(null);
+  // The link is replaced by the player, so focus moves with it and keyboard users keep their place.
+  useEffect(() => {
+    if (playing) player.current?.focus();
+  }, [playing]);
   return (
     <figure className="m-0 min-w-0">
       <div className="relative aspect-video overflow-hidden rounded-lg border border-charcoal-800 bg-charcoal-950">
         {playing ? (
           <iframe
+            ref={player}
             className="absolute inset-0 h-full w-full"
             src={`https://www.youtube-nocookie.com/embed/${video.id}?autoplay=1&rel=0`}
             title={video.title}

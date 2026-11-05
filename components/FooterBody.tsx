@@ -3,7 +3,7 @@
 import { usePathname } from "next/navigation";
 import { isLaneZPath } from "@/lib/laneZ";
 
-const linkClass = "text-zinc-300 visited:text-zinc-300 no-underline hover:text-cream-50";
+const linkClass = "inline-flex min-h-[44px] items-center text-zinc-300 visited:text-zinc-300 no-underline hover:text-cream-50";
 
 const DEFAULT_LINKS: [string, string][] = [
   ["/acupuncture", "Acupuncture"],

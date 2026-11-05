@@ -63,7 +63,7 @@ function copyDocAssets(sourceDir, targetDir) {
 const urlset = pages
   .map(
     (route) => `  <url>
-    <loc>${baseUrl}${route}</loc>
+    <loc>${baseUrl}${route === "/" ? "/" : `${route}/`}</loc>
   </url>`
   )
   .join("\n");

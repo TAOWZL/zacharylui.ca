@@ -103,7 +103,7 @@ export default function WatchPage() {
         </section>
       ))}
 
-      <section className="mt-16 rounded-lg bg-paper-100 p-5 sm:p-7">
+      <section className="offer-card-paper mt-16">
         <h2 className="font-display text-3xl font-semibold text-charcoal-950">Work it with me</h2>
         <p className="mt-3 text-lg leading-relaxed text-charcoal-950">
           One live class a month on Zoom, every class recorded, every monograph after garlic. $75 CAD a month + tax.
@@ -111,10 +111,7 @@ export default function WatchPage() {
         </p>
         <div className="mt-5 flex flex-wrap gap-3">
           <a href={JOIN} className="btn-buy">Join The Secret Menu →</a>
-          <a
-            href="https://www.youtube.com/@thezacharylui"
-            className="btn-secondary border-cinnabar-700 text-cinnabar-700 visited:text-cinnabar-700 hover:text-charcoal-950"
-          >
+          <a href="https://www.youtube.com/@thezacharylui" className="btn-secondary">
             All videos on YouTube
           </a>
         </div>
