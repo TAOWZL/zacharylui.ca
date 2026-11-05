@@ -45,7 +45,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </div>
           </header>
 
-          <main id="main" className="flex-1">{children}</main>
+          <main id="main" tabIndex={-1} className="flex-1 focus:outline-none">{children}</main>
 
           <footer className="footer-shell">
             <div className="grid gap-8 md:grid-cols-2">
