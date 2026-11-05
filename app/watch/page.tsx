@@ -51,9 +51,7 @@ const GROUPS: { name: string; videos: Row[] }[] = [
   {
     name: "Spirit work",
     videos: [
-      { id: "r1dIlfChBfs", title: "Da Shi Zhi Bodhisattva, with Andrieh Vitimus", thumb: thumb("r1dIlfChBfs", "hqdefault"), length: "71 min", date: "2017-01-21", iso: "PT1H10M54S" },
-      { id: "lOQy43uFNTk", title: "Do Magick Challenge: Summoning", thumb: thumb("lOQy43uFNTk"), length: "2 min", date: "2018-08-01", iso: "PT2M19S" },
-      { id: "iItNdQ_jCdM", title: "Domagick Evocation Challenge 2018: Day 19", thumb: thumb("iItNdQ_jCdM", "hqdefault"), length: "9 min", date: "2018-08-20", iso: "PT9M15S" }
+      { id: "r1dIlfChBfs", title: "Da Shi Zhi Bodhisattva, with Andrieh Vitimus", thumb: thumb("r1dIlfChBfs", "hqdefault"), length: "71 min", date: "2017-01-21", iso: "PT1H10M54S" }
     ]
   }
 ];
