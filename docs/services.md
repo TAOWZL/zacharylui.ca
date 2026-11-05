@@ -70,9 +70,9 @@ Receipts are issued for Registered Acupuncturist services and are accepted by ma
 
 | Service | Fee |
 |---|---|
-| Commissioned Ritual work | $1500 and up |
+| Commissioned Ritual work | $1,500 and up |
 
-Commissioned Ritual begins with an intake conversation, not a booking. Fees scale from the $1500 starting rate based on scope, timing, and materials. For private questions, most people start with a Divination Coaching session to determine whether commissioned Ritual is the right response. Not every request is accepted.
+Commissioned Ritual begins with an intake conversation, not a booking. Fees scale from the $1,500 starting rate based on scope, timing, and materials. For private questions, most people start with a Divination Coaching session to determine whether commissioned Ritual is the right response. Not every request is accepted.
 
 [Ritual](/ritual)
 
@@ -112,7 +112,7 @@ Registered marriage officiant in the Province of Ontario. Studio appointments on
 
 **Commissioned ritual** → email or phone first. Ritual work always begins with an intake conversation before anything is scheduled or booked.
 
-**Marriage officiation** → email admin@wujixuan.org. Same-day and next-day appointments are sometimes possible — write URGENT in the subject line for under-48-hour requests. See the [Marriage Officiant page](/officiant) for details.
+**Marriage officiation** → email admin@wujixuan.org. Same-day and next-day appointments are sometimes possible. Write URGENT in the subject line for under-48-hour requests. See the [Marriage Officiant page](/officiant) for details.
 
 **Public Rituals and workshops** → check the [Queen City Curio](https://queencitycurio.ca) schedule.
 

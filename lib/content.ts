@@ -264,7 +264,7 @@ export function renderPostListMarkdown(folder: string): string {
 
   return posts
     .map((post) => {
-      const datePart = post.dateDisplay ? `*${post.dateDisplay}* — ` : "";
+      const datePart = post.dateDisplay ? `*${post.dateDisplay}*: ` : "";
       return `**[${post.title}](/${post.slug})**  \n${datePart}${post.description}`;
     })
     .join("\n\n");

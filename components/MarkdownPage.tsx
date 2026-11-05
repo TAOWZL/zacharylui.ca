@@ -77,7 +77,9 @@ export function MarkdownPage({ doc }: Props) {
             ol: ({ children }) => (
               <ol className="list-decimal-custom">{children}</ol>
             ),
-            a: ({ href, children }) => {
+            a: ({ href, children, className }) => {
+              // Heading anchors render as empty links, so they are left out. Headings keep their ids.
+              if (className?.includes("anchor-link")) return null;
               const rawText = Array.isArray(children)
                 ? children.map((child) => (typeof child === "string" ? child : "")).join(" ")
                 : typeof children === "string"

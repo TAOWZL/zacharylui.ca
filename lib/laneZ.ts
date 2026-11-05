@@ -1,11 +1,24 @@
-// Pages that Lane Z (@thezacharylui) traffic lands on: the Secret Menu,
-// the herbal magick courses, the serialized book and readings (/divination,
-// where the BOOK keyword DM lands). These pages carry no
-// clinic name, address, phone, R.Ac title or acupuncture link.
-export const LANE_Z_PREFIXES = ["/free-index", "/coaching", "/secret-menu", "/membership", "/courses", "/writing", "/about-this-book", "/divination", "/ritual", "/chinese-medicine-is-75-years-old", "/cm-75-years", "/eight-of-nine", "/your-clinic-runs-eight-of-nine"];
+// The clinic pages are the exception. Every other path, including anything new and
+// the 404 page, follows the Lane Z rules: no clinic navigation or footer, so a new page
+// or a mistyped URL cannot cross the firewall by default. /terms and /course-terms name
+// the seller in their body text because buyers need that.
+const CLINIC_PREFIXES = [
+  "/about",
+  "/acupuncture",
+  "/acupuncture-for-anxiety",
+  "/education",
+  "/in-person",
+  "/marriage",
+  "/officiant",
+  "/press",
+  "/projects",
+  "/qigong",
+  "/reiki",
+  "/services",
+  "/wedding-officiant"
+];
 
 export function isLaneZPath(pathname: string): boolean {
-  // The homepage is the online front door, so it follows the Lane Z rules too.
-  if (pathname === "/" || pathname === "") return true;
-  return LANE_Z_PREFIXES.some((prefix) => pathname === prefix || pathname.startsWith(prefix + "/"));
+  // /about-this-book is the book's page, so /about matches on the exact path or a subpath only.
+  return !CLINIC_PREFIXES.some((prefix) => pathname === prefix || pathname.startsWith(prefix + "/"));
 }

@@ -76,7 +76,7 @@ export default function FreeIndexPage() {
               className="flex items-baseline gap-3 rounded-md border border-charcoal-800 bg-charcoal-950/60 px-4 py-3"
             >
               <span className="font-mono text-sm text-cinnabar-400">{String(i + 1).padStart(2, "0")}</span>
-              <span className="text-zinc-100">{name}</span>
+              <span className="min-w-0 text-zinc-100 [overflow-wrap:anywhere]">{name}</span>
             </li>
           ))}
         </ol>

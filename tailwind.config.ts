@@ -4,6 +4,11 @@ const config: Config = {
   content: ["./app/**/*.{ts,tsx}", "./components/**/*.{ts,tsx}"],
   theme: {
     extend: {
+      // Floors: at the 18px minimum root, the smallest text renders at 16px and small text at 17px.
+      fontSize: {
+        xs: ["0.89rem", { lineHeight: "1.4rem" }],
+        sm: ["0.95rem", { lineHeight: "1.45rem" }]
+      },
       colors: {
         // Warm ink ground. Lane Z sits on ink; Wuji Xuan's red-and-gold stays on the clinic brand.
         charcoal: {

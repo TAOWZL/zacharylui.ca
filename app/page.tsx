@@ -95,7 +95,7 @@ export default function HomePage() {
         <h1 className="display mt-3 text-[2rem] leading-tight sm:text-5xl">
           Chinese medicine is magick. Learn to work it.
         </h1>
-        <p className="mt-4 max-w-2xl text-lg leading-relaxed text-zinc-300">
+        <p className="mt-4 max-w-2xl text-xl leading-relaxed text-zinc-300">
           Start with the free Index: the nine operations the tradition ran as standard practice, two named sources
           under every entry, plus a 24-page monograph on garlic.
         </p>
@@ -116,8 +116,8 @@ export default function HomePage() {
               <h3 className={offer.paper ? "mt-2 font-display text-3xl font-semibold text-charcoal-950" : "display mt-2 text-2xl"}>
                 {offer.name}
               </h3>
-              <p className={`mt-3 flex-1 leading-relaxed ${offer.paper ? "text-charcoal-950" : "text-zinc-300"}`}>{offer.body}</p>
-              <p className={`mt-3 text-sm ${offer.paper ? "text-charcoal-800" : "text-zinc-400"}`}>{offer.detail}</p>
+              <p className={`mt-3 flex-1 text-lg leading-relaxed ${offer.paper ? "text-charcoal-950" : "text-zinc-300"}`}>{offer.body}</p>
+              <p className={`mt-3 text-base ${offer.paper ? "text-charcoal-800" : "text-zinc-400"}`}>{offer.detail}</p>
               <div className="mt-5 flex flex-wrap gap-3">
                 <a
                   href={offer.href}
@@ -143,7 +143,7 @@ export default function HomePage() {
             <a key={ch.href} href={ch.href} className="chapter-card">
               <p className="kicker">Chapter {i + 1}</p>
               <p className="display mt-2 text-xl">{ch.title}</p>
-              <p className="mt-2 text-zinc-300">{ch.blurb}</p>
+              <p className="mt-2 text-lg text-zinc-300">{ch.blurb}</p>
             </a>
           ))}
         </div>

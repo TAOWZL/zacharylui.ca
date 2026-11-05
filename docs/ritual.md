@@ -35,7 +35,7 @@ For private questions, start with a Divination Coaching session. This is where w
 
 ### Commissioned Ritual
 
-If the Divination shows commissioned work is the right path, we move into Ritual. Commissioned Ritual begins at **$1500** and scales from there based on scope, timing, and materials. Short and focused runs one way. Long and layered runs another. You will know the fee before anything begins and before any material is purchased on your behalf.
+If the Divination shows commissioned work is the right path, we move into Ritual. Commissioned Ritual begins at **$1,500** and scales from there based on scope, timing, and materials. Short and focused runs one way. Long and layered runs another. You will know the fee before anything begins and before any material is purchased on your behalf.
 
 Not every request is taken. Some work I don't do. Some work isn't mine to do, it's yours. Some work needs a different practitioner, and if that is the case I will tell you so and point you somewhere useful if I can.
 
