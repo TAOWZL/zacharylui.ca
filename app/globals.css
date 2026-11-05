@@ -21,14 +21,14 @@ html {
 
 body {
   background:
-    radial-gradient(circle at 12% 10%, rgba(200, 67, 47, 0.12), transparent 34%),
-    radial-gradient(circle at 88% 6%, rgba(230, 199, 90, 0.12), transparent 30%),
-    #151516;
+    radial-gradient(circle at 12% 10%, rgba(169, 47, 32, 0.18), transparent 34%),
+    radial-gradient(circle at 88% 6%, rgba(201, 164, 92, 0.08), transparent 30%),
+    #14100c;
   @apply text-zinc-100 antialiased;
 }
 
-/* Links read as cream text with a cinnabar underline. Gold is reserved for
-   the one filled primary button per page (.btn-primary). */
+/* Links read as cream text with a cinnabar underline. Gold fills the free
+   Index button (.btn-primary). Cinnabar fills anything paid (.btn-buy). */
 a {
   @apply text-cream-200 underline decoration-cinnabar-500/70 underline-offset-4 transition-colors;
 }
@@ -39,6 +39,10 @@ a:hover {
 
 .btn-primary {
   @apply inline-flex min-h-[44px] items-center justify-center rounded-md bg-gold-400 px-5 py-3 text-base font-semibold text-zinc-950 no-underline hover:bg-gold-500;
+}
+
+.btn-buy {
+  @apply inline-flex min-h-[44px] items-center justify-center self-start rounded-md bg-cinnabar-600 px-5 py-3 text-base font-semibold text-cream-200 no-underline visited:text-cream-200 hover:bg-cinnabar-700 hover:text-cream-50;
 }
 
 .btn-secondary {
@@ -60,6 +64,16 @@ a:hover {
 .offer-card {
   @apply flex flex-col rounded-lg border border-charcoal-800 bg-charcoal-950/70 p-5;
   border-top: 2px solid #c8432f;
+}
+
+/* The one talisman-paper block: cinnabar ink on yellow paper. */
+.offer-card-paper {
+  @apply flex flex-col rounded-lg bg-paper-100 p-5 sm:col-span-2 sm:p-7;
+  border-top: 4px solid #a92f20;
+}
+
+.offer-card-paper a.btn-secondary {
+  @apply border-cinnabar-700 text-cinnabar-700 visited:text-cinnabar-700 hover:text-charcoal-950;
 }
 
 .button-link {
@@ -182,8 +196,8 @@ a:hover {
 
 .content-shell {
   border-radius: 1rem !important;
-  border: 1px solid #3a3a3d !important;
-  background-color: #1d1d1f !important;
+  border: 1px solid #32291f !important;
+  background-color: #1e1812 !important;
   padding: 1rem;
   box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.8) !important;
   backdrop-filter: blur(8px);
@@ -216,8 +230,8 @@ a:hover {
 .header-shell {
   margin-bottom: 2.5rem;
   border-radius: 1rem !important;
-  border: 1px solid #3a3a3d !important;
-  background-color: #1d1d1f !important;
+  border: 1px solid #32291f !important;
+  background-color: #1e1812 !important;
   padding: 1rem;
   box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.8) !important;
   backdrop-filter: blur(8px);
@@ -232,11 +246,11 @@ a:hover {
 .footer-shell {
   margin-top: 4rem;
   border-radius: 1rem !important;
-  border: 1px solid #3a3a3d !important;
-  background-color: #1d1d1f !important;
+  border: 1px solid #32291f !important;
+  background-color: #1e1812 !important;
   padding: 1.5rem;
   font-size: 0.9375rem;
-  color: #d4d4d8;
+  color: #d6cbb3;
   box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.8) !important;
 }
 

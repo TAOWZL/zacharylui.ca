@@ -7,13 +7,14 @@ import IndexSignupForm from "@/components/IndexSignupForm";
 
 const TITLE = "Zachary Lui | Chinese Magick and Divination Online";
 const DESCRIPTION =
-  "Wu shaman and Daoist priest by transmission. The Secret Menu membership, divination coaching on Zoom, and recorded workshops in Chinese herbal magick.";
+  "Wu shaman and Daoist priest by transmission. The Secret Menu membership and divination coaching on Zoom, in Chinese medicine as magick.";
 
 export const metadata: Metadata = {
   title: { absolute: TITLE },
   description: DESCRIPTION,
   alternates: { canonical: "/" },
-  openGraph: { title: TITLE, description: DESCRIPTION, url: "/" }
+  openGraph: { title: TITLE, description: DESCRIPTION, url: "/", images: ["/images/og-magick.jpg"] },
+  twitter: { card: "summary_large_image", title: TITLE, description: DESCRIPTION, images: ["/images/og-magick.jpg"] }
 };
 
 type Offer = {
@@ -23,6 +24,17 @@ type Offer = {
   detail: string;
   cta: string;
   href: string;
+  more?: { label: string; href: string };
+  paper?: boolean;
+};
+
+const JSON_LD = {
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  name: "Zachary Lui",
+  url: "https://zacharylui.ca",
+  description: DESCRIPTION,
+  areaServed: "Worldwide"
 };
 
 const OFFERS: Offer[] = [
@@ -30,25 +42,20 @@ const OFFERS: Offer[] = [
     kicker: "Membership",
     name: "The Secret Menu",
     body: "One class a month on Zoom, each on an operation from the Index. Every class is recorded, and every monograph after garlic goes to members only.",
-    detail: "$75 CAD a month + tax. Cancel any time.",
+    detail: "$75 CAD a month + tax. The first 20 members keep that rate. Cancel any time.",
     cta: "Join The Secret Menu",
-    href: "https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w"
+    href: "https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w",
+    more: { label: "What's inside", href: "/membership" },
+    paper: true
   },
   {
     kicker: "One to one",
     name: "Divination Coaching",
     body: "Mahjong tiles or tarot, read with mediumship, 60 minutes on Zoom. Bring the decision. You leave with the read, the path that fits it, and a practice to work afterward.",
     detail: "$175 CAD + tax. Wherever you are.",
-    cta: "About the readings",
-    href: "/divination"
-  },
-  {
-    kicker: "Workshop",
-    name: "Chinese Herbal Magick: Moxibustion",
-    body: "A recorded three-hour workshop. Work moxa unlit to meet the herb itself, then with garlic. Comes with the moxa monograph and a worksheet. Out November 22, 2026.",
-    detail: "$97 CAD + tax until October 31. Free for Secret Menu members.",
-    cta: "See the workshop",
-    href: "/courses/moxibustion"
+    cta: "Book a session",
+    href: "https://wujixuan.janeapp.com/#/staff_member/1/treatment/3",
+    more: { label: "About the readings", href: "/divination" }
   },
   {
     kicker: "Commissioned",
@@ -82,6 +89,7 @@ const LINEAGE = [
 export default function HomePage() {
   return (
     <article className="mx-auto max-w-4xl py-2 sm:py-8">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(JSON_LD) }} />
       <section>
         <p className="kicker">Zachary Lui</p>
         <h1 className="display mt-3 text-[2rem] leading-tight sm:text-5xl">
@@ -103,14 +111,26 @@ export default function HomePage() {
         <h2 className="heading-2">Work with me online</h2>
         <div className="mt-6 grid gap-5 sm:grid-cols-2">
           {OFFERS.map((offer) => (
-            <div key={offer.name} className="offer-card">
-              <p className="kicker">{offer.kicker}</p>
-              <h3 className="display mt-2 text-2xl">{offer.name}</h3>
-              <p className="mt-3 flex-1 leading-relaxed text-zinc-300">{offer.body}</p>
-              <p className="mt-3 text-sm text-zinc-400">{offer.detail}</p>
-              <a href={offer.href} className="btn-secondary mt-5">
-                {offer.cta} →
-              </a>
+            <div key={offer.name} className={offer.paper ? "offer-card-paper" : "offer-card"}>
+              <p className={offer.paper ? "text-xs uppercase tracking-[0.2em] text-cinnabar-700" : "kicker"}>{offer.kicker}</p>
+              <h3 className={offer.paper ? "mt-2 font-display text-3xl font-semibold text-charcoal-950" : "display mt-2 text-2xl"}>
+                {offer.name}
+              </h3>
+              <p className={`mt-3 flex-1 leading-relaxed ${offer.paper ? "text-charcoal-950" : "text-zinc-300"}`}>{offer.body}</p>
+              <p className={`mt-3 text-sm ${offer.paper ? "text-charcoal-800" : "text-zinc-400"}`}>{offer.detail}</p>
+              <div className="mt-5 flex flex-wrap gap-3">
+                <a
+                  href={offer.href}
+                  className={offer.href.startsWith("https://") ? "btn-buy" : "btn-secondary"}
+                >
+                  {offer.cta} →
+                </a>
+                {offer.more ? (
+                  <a href={offer.more.href} className="btn-secondary">
+                    {offer.more.label}
+                  </a>
+                ) : null}
+              </div>
             </div>
           ))}
         </div>

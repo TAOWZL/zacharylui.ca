@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Zachary Lui seal">
+  <rect width="64" height="64" rx="8" fill="#A92F20"/>
+  <g fill="none" stroke="#EDE3CC" stroke-width="5" stroke-linecap="square">
+    <path d="M12 13H52"/>
+    <path d="M9 51H55"/>
+    <path d="M32 13V51"/>
+    <path d="M21 23C20 31 17 37 13 42"/>
+    <path d="M20 31C22 35 24 38 27 41"/>
+    <path d="M43 23C42 31 39 37 36 42"/>
+    <path d="M42 31C44 35 47 38 51 41"/>
+  </g>
+</svg>

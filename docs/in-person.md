@@ -3,6 +3,8 @@ title: In Person in Toronto
 permalink: in-person
 description: " Registered acupuncture, contemplative practice, and ritual work in Riverdale, Toronto. One practitioner, three doors."
 ---
+# In Person in Toronto
+
 ## Zachary Lui
 
 Registered Acupuncturist, Daoist priest (Mao Shan Shangqing transmission), and shaman (Wu 巫) in Riverdale Toronto. An operating practice with three doors, not a walk-in clinic.

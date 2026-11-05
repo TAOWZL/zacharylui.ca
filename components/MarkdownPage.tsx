@@ -83,7 +83,11 @@ export function MarkdownPage({ doc }: Props) {
                 : typeof children === "string"
                   ? children
                   : "";
-              const classNames = /(book|view|learn more)/i.test(rawText) ? "button-link" : undefined;
+              const classNames = /(join the secret menu|book a divination)/i.test(rawText)
+                ? "btn-buy"
+                : /(book|view|learn more)/i.test(rawText)
+                  ? "button-link"
+                  : undefined;
               return (
                 <a
                   href={href}

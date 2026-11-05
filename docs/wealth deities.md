@@ -4,6 +4,7 @@ description: Who they are, what they're good at, and when to work with them. The
 permalink: /wealth-deities
 draft: false
 ---
+# Chinese Wealth Deities
 
 *Spiritual work, not healthcare. Sits outside of Traditional Chinese Medicine. Offered as a Daoist folk priest, Wu, and Tangmi practitioner, separate from my regulated acupuncture practice.*
 

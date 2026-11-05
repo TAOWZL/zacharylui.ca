@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { MarkdownPage } from "@/components/MarkdownPage";
 import { getAllDocs, getDocBySlug, inferDescription } from "@/lib/content";
+import { isLaneZPath } from "@/lib/laneZ";
 
 type PageProps = {
   params: Promise<{ slug: string[] }>;
@@ -46,10 +47,18 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
   const title = doc.data.title ?? "Zachary Lui";
   const description = inferDescription(doc);
-  const image = doc.data.image ?? doc.data.cover;
+  // SVG heroes do not render as social previews, so they fall through to the default.
+  const ownImage = doc.data.image ?? doc.data.cover;
+  const image =
+    ownImage && !ownImage.endsWith(".svg")
+      ? ownImage
+      : isLaneZPath(`/${doc.slug}`)
+        ? "/images/og-magick.jpg"
+        : "/images/og-plain.jpg";
 
   return {
-    title,
+    // The layout template appends the brand, so a title already carrying it stays as written.
+    title: title.includes("Zachary Lui") ? { absolute: title } : title,
     description,
     alternates: {
       canonical: `/${doc.slug}`
@@ -59,13 +68,13 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       title,
       description,
       url: `/${doc.slug}`,
-      images: image ? [{ url: image }] : undefined
+      images: [{ url: image }]
     },
     twitter: {
       card: "summary_large_image",
       title,
       description,
-      images: image ? [image] : undefined
+      images: [image]
     }
   };
 }
