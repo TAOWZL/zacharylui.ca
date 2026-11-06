@@ -90,6 +90,11 @@ const LINEAGE = [
 // Lane Z appearances only. Clinic press (TCMO, Bill 88, acupuncture podcasts) stays on /press.
 const FEATURED = [
   {
+    show: "Benebell Wen",
+    title: "Named in Are Asian Folk Traditions \"Pagan\"?, 2026",
+    href: "https://benebellwen.com/2026/02/19/are-asian-folk-traditions-pagan/"
+  },
+  {
     show: "Qiological",
     title: "Ep. 340, Alchemy, Magic, and Channel Personalities",
     href: "https://qiological.com/podcast/alchemy-magic-and-channel-personalities-zachary-lui/"
@@ -129,7 +134,7 @@ export default function HomePage() {
 
       <section aria-label="Featured on" className="mt-10">
         <p className="kicker">Featured on</p>
-        <ul className="mt-3 grid list-none grid-cols-1 gap-3 p-0 sm:grid-cols-3">
+        <ul className="mt-3 grid list-none grid-cols-1 gap-3 p-0 sm:grid-cols-2">
           {FEATURED.map((f) => (
             <li key={f.show} className="min-w-0">
               <a href={f.href} className="chapter-card h-full" rel="noopener">
