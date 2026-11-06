@@ -4,10 +4,11 @@ const config: Config = {
   content: ["./app/**/*.{ts,tsx}", "./components/**/*.{ts,tsx}"],
   theme: {
     extend: {
-      // Floors: at the 18px minimum root, the smallest text renders at 16px and small text at 17px.
+      // Floors: no text below the root size. At the 18px phone root, small text renders at 18px
+      // and "sm" at 19px; on desktop they scale with the root.
       fontSize: {
-        xs: ["0.89rem", { lineHeight: "1.4rem" }],
-        sm: ["0.95rem", { lineHeight: "1.45rem" }]
+        xs: ["1rem", { lineHeight: "1.5rem" }],
+        sm: ["1.0625rem", { lineHeight: "1.6rem" }]
       },
       colors: {
         // Warm ink ground. Lane Z sits on ink; Wuji Xuan's red-and-gold stays on the clinic brand.
@@ -21,9 +22,9 @@ const config: Config = {
           50: "#f7f1e3",
           100: "#ede3cc",
           200: "#e6dbc3",
-          300: "#d6cbb3",
-          400: "#b8ae99",
-          500: "#94897a",
+          300: "#ddd2ba",
+          400: "#c9bfa9",
+          500: "#a89d8c",
           600: "#6e6559",
           950: "#14100c"
         },

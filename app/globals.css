@@ -8,11 +8,11 @@
   color-scheme: dark;
 }
 
-/* Type scales with the screen: 18px on a phone, about 20px on a laptop, 22px at 1920,
-   up to about 27px on very large monitors. Percent and rem keep the visitor's browser
-   font setting and zoom working. Every rem size, and the page width, scales from here. */
+/* Type scales with the screen: 18px on a phone and small tablet, about 21px on a 1280 laptop,
+   23px at 1440, 25px at 1920, 28px on a 2560 monitor. Percent and rem keep the visitor's
+   browser font setting and zoom working. Every rem size, and the page width, scales from here. */
 html {
-  font-size: clamp(112.5%, 100% + 0.3vw, 170%);
+  font-size: clamp(112.5%, 101% + 0.45vw, 190%);
 }
 
 /* Keyboard users: visible focus, and a way past the header. */
@@ -322,4 +322,15 @@ a:hover {
 
 .prose {
   max-width: none;
+  /* Body copy in near-cream, not grey, so it reads without squinting on the dark ground. */
+  --tw-prose-invert-body: #ede3cc;
+  --tw-prose-invert-bullets: #c9a45c;
+}
+
+/* Comfortable line length on wide screens: about 70 characters. Phones are unaffected. */
+.prose > p,
+.prose > ul,
+.prose > ol,
+.prose > blockquote {
+  max-width: 38em;
 }
