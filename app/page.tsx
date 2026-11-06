@@ -87,6 +87,25 @@ const LINEAGE = [
   "唐密 Tangmi, Chinese Esoteric Buddhism"
 ];
 
+// Lane Z appearances only. Clinic press (TCMO, Bill 88, acupuncture podcasts) stays on /press.
+const FEATURED = [
+  {
+    show: "Qiological",
+    title: "Ep. 340, Alchemy, Magic, and Channel Personalities",
+    href: "https://qiological.com/podcast/alchemy-magic-and-channel-personalities-zachary-lui/"
+  },
+  {
+    show: "Black Beryl",
+    title: "Buddhist Ritual Magic, with Pierce Salguero of Penn State",
+    href: "https://open.spotify.com/episode/6pJs76mESwXJEHW7hONCEL"
+  },
+  {
+    show: "Deeper Down the Rabbit Hole",
+    title: "Co-host, with Andrieh Vitimus",
+    href: "https://ddtrh.com"
+  }
+];
+
 export default function HomePage() {
   return (
     <article className="mx-auto max-w-4xl py-2 sm:py-8">
@@ -106,6 +125,24 @@ export default function HomePage() {
             Your PDFs open the moment you sign up. You also get emails from me, Zachary Lui, on Chinese medicine as magick, and now and then one names something I sell. Unsubscribe any time.
           </p>
         </div>
+      </section>
+
+      <section aria-label="Featured on" className="mt-10">
+        <p className="kicker">Featured on</p>
+        <ul className="mt-3 grid list-none grid-cols-1 gap-3 p-0 sm:grid-cols-3">
+          {FEATURED.map((f) => (
+            <li key={f.show} className="min-w-0">
+              <a href={f.href} className="chapter-card h-full" rel="noopener">
+                <span className="display block text-lg">{f.show}</span>
+                <span className="mt-1 block text-zinc-300">{f.title}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+        <p className="mt-4 text-zinc-300">
+          <span className="kicker mr-3">Taught at</span>
+          ConVocation, Toronto Pagan Pride and Hamilton Pagan Pride.
+        </p>
       </section>
 
       <section className="mt-16">
