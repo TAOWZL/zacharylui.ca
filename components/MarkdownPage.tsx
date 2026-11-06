@@ -1,4 +1,5 @@
 import NewsletterSignup from './NewsletterSignup';
+import OperationsMap from './OperationsMap';
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import remarkMath from "remark-math";
@@ -73,9 +74,15 @@ export function MarkdownPage({ doc }: Props) {
             h6: ({ children, id }) => (
               <h6 id={id} className="heading-6">{children}</h6>
             ),
-            p: ({ children }) => (
-              <p className="para">{children}</p>
-            ),
+            // A paragraph that is exactly OPERATIONS_MAP_DIAGRAM renders the nine-operations diagram.
+            p: ({ children }) =>
+              children === "OPERATIONS_MAP_DIAGRAM" ? (
+                <div className="my-8 not-prose">
+                  <OperationsMap />
+                </div>
+              ) : (
+                <p className="para">{children}</p>
+              ),
             hr: () => <hr className="section-divider" />,
             ul: ({ children }) => (
               <ul className="list-disc-custom">{children}</ul>
@@ -107,7 +114,7 @@ export function MarkdownPage({ doc }: Props) {
                 </a>
               );
             },
-            img: ({ src, alt }) => <img src={src ?? ""} alt={alt ?? ""} className="content-image" />
+            img: ({ src, alt }) => <img src={src ?? ""} alt={alt ?? ""} loading="lazy" decoding="async" className="content-image" />
           }}
     >
       {inlineHtmlToMarkdown(content)}

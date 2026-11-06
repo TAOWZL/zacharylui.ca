@@ -7,28 +7,36 @@ import { isLaneZPath } from "@/lib/laneZ";
 // On Lane Z pages the top menu stays inside Lane Z: no links to the clinic
 // pages (About, Services, Press carry the clinic and acupuncture details).
 const LANE_Z_NAV = [
-  { label: "Free Index", href: "/free-index" },
-  { label: "The Secret Menu", href: "/membership" },
-  { label: "Divination Coaching", href: "/divination" },
-  { label: "Watch", href: "/watch" }
+  { label: "Free Index", short: "Index", href: "/free-index" },
+  { label: "The Secret Menu", short: "Membership", href: "/membership" },
+  { label: "Divination Coaching", short: "Divination", href: "/divination" },
+  { label: "Watch", short: "Watch", href: "/watch" }
 ];
 
 const linkClass =
-  "inline-flex min-h-[44px] items-center rounded-md border border-charcoal-800 bg-charcoal-950/70 px-3 py-1.5 text-sm text-cream-200 visited:text-cream-200 no-underline hover:border-cinnabar-500 hover:text-cream-50";
+  "inline-flex min-h-[44px] items-center rounded-md border border-charcoal-800 bg-charcoal-950/70 px-2 py-1.5 text-[0.88rem] sm:px-3 sm:text-sm text-cream-200 visited:text-cream-200 no-underline hover:border-cinnabar-500 hover:text-cream-50";
 
 export default function HeaderNav() {
   const pathname = usePathname() ?? "";
   // The signup page keeps one job: no menu, so the form sits above the fold.
   if (pathname === "/free-index" || pathname === "/free-index/") return null;
   const laneZ = isLaneZPath(pathname);
-  const items = laneZ
+  const items: { label: string; short?: string; href: string }[] = laneZ
     ? LANE_Z_NAV
     : siteConfig.nav.map((item) => ({ label: item.label, href: item.slug ? `/${item.slug}` : "/" }));
   return (
-    <nav aria-label="Main" className="flex flex-wrap items-center gap-2">
+    <nav aria-label="Main" className="flex flex-wrap items-center gap-1.5 sm:gap-2">
       {items.map((item) => (
         <a key={item.href} href={item.href} className={linkClass}>
-          {item.label}
+          {item.short ? (
+            <>
+              {/* Short labels keep the phone menu to one row. */}
+              <span className="sm:hidden">{item.short}</span>
+              <span className="hidden sm:inline">{item.label}</span>
+            </>
+          ) : (
+            item.label
+          )}
         </a>
       ))}
     </nav>

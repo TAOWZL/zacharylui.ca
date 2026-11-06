@@ -3,6 +3,7 @@ title: "Divination Coaching"
 description: "Clarity when the decision matters. Tarot and Mahjong divination with mediumship, for decisions where being wrong has consequences. 60 minutes on Zoom or in person in Toronto."
 permalink: /divination
 draft: false
+ogImage: /images/og-divination.jpg
 ---
 
 # Divination Coaching
@@ -20,6 +21,8 @@ This is for decisions where being wrong has consequences. Divination is used her
 [Book a Divination Coaching session →](https://wujixuan.janeapp.com/#/staff_member/1/treatment/3)
 
 [Or book Mahjong Wealth Divination →](https://wujixuan.janeapp.com/#/staff_member/1/treatment/57)
+
+![Zachary Lui in Daoist robes reading mahjong tiles at the table](/images/zac-mahjong-reading.jpg)
 
 ## When to use this
 

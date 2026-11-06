@@ -27,9 +27,13 @@ Class dates go out by email at least seven days ahead. Recordings and monographs
 
 The Index has nine entries: divination, correspondence, talismans, energy work, gnosis, illumination, banishing, spirit work and the ninth. Every class takes one operation from that list and works it.
 
+OPERATIONS_MAP_DIAGRAM
+
 Every claim carries its source, edition named.
 
 ## Who teaches it
+
+![Zachary Lui in Daoist robes at a mahjong reading](/images/zac-robes.jpg)
 
 Zachary Lui, 巫 (Wu shaman) and Daoist priest by transmission. He carries 茅山上清 (Mao Shan Shangqing) Daoist transmission and works 唐密 (Tangmi), Chinese Esoteric Buddhism. His spiritual master is Andrieh Vitimus, and he has been apprenticing since 2008.
 

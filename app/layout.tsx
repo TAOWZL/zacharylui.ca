@@ -5,6 +5,7 @@ import "@fontsource/eb-garamond/600.css";
 import "@fontsource/eb-garamond/700.css";
 import { siteConfig } from "@/site.config";
 import FooterContact from "@/components/FooterContact";
+import StickyCta from "@/components/StickyCta";
 import HeaderNav, { HeaderHomeLink } from "@/components/HeaderNav";
 import { FooterNav, FooterDisclaimer } from "@/components/FooterBody";
 
@@ -46,6 +47,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           </header>
 
           <main id="main" tabIndex={-1} className="flex-1 focus:outline-none">{children}</main>
+          <StickyCta />
 
           <footer className="footer-shell">
             <div className="grid gap-8 md:grid-cols-2">
