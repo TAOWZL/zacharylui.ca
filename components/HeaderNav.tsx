@@ -10,7 +10,7 @@ const LANE_Z_NAV = [
   { label: "Free Index", href: "/free-index" },
   { label: "The Secret Menu", href: "/membership" },
   { label: "Divination Coaching", href: "/divination" },
-  { label: "Writing", href: "/writing" }
+  { label: "Watch", href: "/watch" }
 ];
 
 const linkClass =

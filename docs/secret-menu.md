@@ -42,6 +42,6 @@ The paid room, built on the Index.
 
 The nine operations run on video, one per lesson. Operation 1 is pulse diagnosis: you were trained in a diviner's craft, and the receipt is a word you already use, 脈象 (pulse image).
 
-[Watch the series →](https://www.youtube.com/@thezacharylui)
+[Watch the series →](/watch)
 
 This is education and energy practice, not medical treatment or diagnosis. Nothing here replaces care from your doctor. Every claim in these PDFs carries its source, edition named.
