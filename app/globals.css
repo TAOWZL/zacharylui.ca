@@ -67,15 +67,15 @@ a:hover {
 }
 
 .btn-primary {
-  @apply inline-flex min-h-[44px] items-center justify-center rounded-md bg-gold-400 px-5 py-3 text-base font-semibold text-zinc-950 no-underline hover:bg-gold-500;
+  @apply inline-flex min-h-[44px] items-center justify-center rounded-md bg-gold-400 px-4 py-2 text-base font-semibold leading-snug text-zinc-950 no-underline hover:bg-gold-500;
 }
 
 .btn-buy {
-  @apply inline-flex max-w-full min-h-[44px] items-center justify-center self-start rounded-md bg-cinnabar-600 px-5 py-3 text-base font-semibold text-cream-200 no-underline visited:text-cream-200 hover:bg-cinnabar-700 hover:text-cream-50;
+  @apply inline-flex max-w-full min-h-[44px] items-center justify-center self-start rounded-md bg-cinnabar-600 px-4 py-2 text-base font-semibold leading-snug text-cream-200 no-underline visited:text-cream-200 hover:bg-cinnabar-700 hover:text-cream-50;
 }
 
 .btn-secondary {
-  @apply inline-flex min-h-[44px] items-center self-start rounded-md border border-cream-400/40 px-4 py-2 text-sm font-medium text-cream-200 no-underline hover:border-cinnabar-400 hover:text-cream-50;
+  @apply inline-flex min-h-[44px] items-center justify-center self-start rounded-md border border-cream-400/40 px-4 py-2 text-base font-semibold leading-snug text-cream-200 no-underline hover:border-cinnabar-400 hover:text-cream-50;
 }
 
 .kicker {
@@ -106,7 +106,7 @@ a:hover {
 }
 
 .button-link {
-  @apply inline-flex min-h-[44px] max-w-full items-center [overflow-wrap:anywhere] rounded-md border border-cream-400/40 bg-charcoal-900/80 px-5 py-3 text-sm font-medium text-cream-200 no-underline backdrop-blur;
+  @apply inline-flex min-h-[44px] max-w-full items-center [overflow-wrap:anywhere] rounded-md border border-cream-400/40 bg-charcoal-900/80 px-4 py-2 text-base font-semibold leading-snug text-cream-200 no-underline backdrop-blur;
 }
 
 .button-link-primary {

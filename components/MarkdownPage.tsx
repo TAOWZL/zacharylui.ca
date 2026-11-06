@@ -1,5 +1,6 @@
 import NewsletterSignup from './NewsletterSignup';
 import OperationsMap from './OperationsMap';
+import LineageChart from './LineageChart';
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import remarkMath from "remark-math";
@@ -74,11 +75,15 @@ export function MarkdownPage({ doc }: Props) {
             h6: ({ children, id }) => (
               <h6 id={id} className="heading-6">{children}</h6>
             ),
-            // A paragraph that is exactly OPERATIONS_MAP_DIAGRAM renders the nine-operations diagram.
+            // A paragraph that is exactly OPERATIONS_MAP_DIAGRAM or LINEAGE_CHART_DIAGRAM renders that diagram.
             p: ({ children }) =>
               children === "OPERATIONS_MAP_DIAGRAM" ? (
                 <div className="my-8 not-prose">
                   <OperationsMap />
+                </div>
+              ) : children === "LINEAGE_CHART_DIAGRAM" ? (
+                <div className="my-8 not-prose">
+                  <LineageChart />
                 </div>
               ) : (
                 <p className="para">{children}</p>
