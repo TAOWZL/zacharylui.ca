@@ -17,10 +17,10 @@ Robes, mahjong tiles and altar at the reading table. Copies are web-sized (1600p
 | `zac-looking-side-tall.jpg` | 900x1600 | Looking to the side, tile in hand. ONTARIO REGISTRATION CERTIFICATE visible top right. | face, tall, licence-visible |
 | `zac-tiles-portrait-5.jpg` | 1200x1600 | Hands in tiles, 5-wan tile visible. | face, portrait, lane-z-safe |
 | `zac-tiles-portrait-6.jpg` | 1200x1600 | Hands in tiles, head tilted. | face, portrait, lane-z-safe |
-| `zac-chin-on-fist-tall.jpg` | 900x1600 | Chin on fist, reading the spread. Contemplative. | face, tall, lane-z-safe |
+| `zac-chin-on-fist-tall.jpg` | 900x1600 | Chin on fist, reading the spread. Contemplative. Cropped to `public/images/zac-divination-reading.jpg` for "Clarity when the decision matters" on /divination. | face, tall, lane-z-safe, used |
 | `zac-tiles-portrait-smile.jpg` | 1200x1600 | Slight smile, hands resting on tiles. | face, smile, portrait, lane-z-safe |
 | `zac-eyes-closed-tall.jpg` | 900x1600 | Eyes closed, hands on tiles. ONTARIO REGISTRATION CERTIFICATE visible top right. | face, tall, licence-visible |
-| `zac-altar-side-thinking.jpg` | 1600x1200 | Side view at the altar table, hand at chin. WUJI XUAN "Support the space" sign and liquor bottles visible. Cropped to `public/images/zac-divination-weighing.jpg` for "Clarity when the decision matters" on /divination. | face, landscape, altar, wuji-visible, used |
+| `zac-altar-side-thinking.jpg` | 1600x1200 | Side view at the altar table, hand at chin. WUJI XUAN "Support the space" sign and liquor bottles visible. Briefly on /divination, replaced Nov 6 2026. | face, landscape, altar, wuji-visible |
 | `zac-hand-on-cheek-tall.jpg` | 900x1600 | Hand on cheek, reading the spread. | face, tall, lane-z-safe |
 | `zac-hand-at-jaw-tall.jpg` | 900x1600 | Hand at jaw, reading the spread. | face, tall, lane-z-safe |
 | `zac-altar-eyes-closed.jpg` | 1600x1200 | Eyes closed, hand on cheek, altar and screen behind. WUJI XUAN sign visible. | face, landscape, altar, wuji-visible |
