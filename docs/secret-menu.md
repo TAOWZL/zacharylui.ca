@@ -42,7 +42,7 @@ In the library now: The Two States, Mapping Yin and Yang, and Ghost Road 01, 鬼
 
 ## One to one
 
-Bring a decision to a reading: Mahjong tiles or tarot, read with mediumship, 60 minutes on Zoom. \$175 CAD + tax.
+Bring a decision to a reading: Mahjong tiles or tarot, read with mediumship, 60 minutes on Zoom or in person in Toronto. \$175 CAD + tax.
 
 [Book Divination Coaching →](https://wujixuan.janeapp.com/#/staff_member/1/treatment/3)
 
