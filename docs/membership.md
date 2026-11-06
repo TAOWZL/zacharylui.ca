@@ -25,11 +25,11 @@ Class dates go out by email at least seven days ahead. Recordings and monographs
 
 ## In the library
 
-- **Class 1, September 2026: Yin and yang.**
+- **Class 1, September 2026: The Two States, Mapping Yin and Yang.**
 - **Class 2, October 2026: Ghost Road 01, 鬼宮 (Ghost Palace), with the primer.** The context for working the Thirteen Ghost Points from Sun Simiao's formulary. Recording released in November.
-- **Coming in November: Ghost Road 02, 鬼信 (Ghost Trust).** The second ghost point, worked for inner transformation.
+- **Coming in November: Ghost Road 02, 鬼信 (Ghost Trust).**
 
-October opened the series **Walking the Ghost Road: The 13 Ghost Points of Sun Simiao**, one point per class in his order. Each class maps a state to its point and works it, with the etymology of the point's name.
+October opened the series **Walking the Ghost Road: The 13 Ghost Points of Sun Simiao**, one point per class in his order. Each class gives the etymology of the point's name, maps the state it holds, and works that state for inner transformation. Every class in the Secret Menu works this way: map the state, then work it.
 
 Join and every recording in the library is yours.
 
@@ -45,7 +45,7 @@ Every claim carries its source, edition named.
 
 ![Zachary Lui in Daoist robes at a mahjong reading](/images/zac-robes.jpg)
 
-Zachary Lui, 巫 (Wu shaman) and Daoist priest by transmission. He carries 茅山上清 (Mao Shan Shangqing) Daoist transmission and works 唐密 (Tangmi), Chinese Esoteric Buddhism. His spiritual master is Andrieh Vitimus, and he has been apprenticing since 2008.
+Zachary Lui, 巫 (Wu shaman) and Daoist priest by transmission. He carries 茅山上清 (Mao Shan Shangqing) Daoist transmission and works 唐密 (Tangmi), Chinese Esoteric Buddhism. His spiritual master is Andrieh Vitimus, and he has been apprenticing since 2008. Benebell Wen names him in her 2026 essay [Are Asian Folk Traditions "Pagan"?](https://benebellwen.com/2026/02/19/are-asian-folk-traditions-pagan/) as a practitioner of Buddhist ritual magic and shamanism.
 
 ## The rate
 

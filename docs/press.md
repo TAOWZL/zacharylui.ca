@@ -12,6 +12,8 @@ Press coverage, podcast interviews, conference presentations, and podcasting wor
 
 ## Press
 
+**Benebell Wen.** *Are Asian Folk Traditions "Pagan"?*, February 2026. Named as a practitioner of Buddhist ritual magic and shamanism. [Essay](https://benebellwen.com/2026/02/19/are-asian-folk-traditions-pagan/)
+
 **Toronto Star.** *Interview on Traditional Chinese Medicine regulation in Ontario*, 2022. Interviewed during the campaign that successfully amended Bill 88 to preserve the profession's regulatory framework. [Article](https://torontostar.pressreader.com/article/281526524516223)
 
 **The Globe and Mail.** *Best exercises to aid in digestion*, 2020. Quoted on qigong and movement practice. [Article](https://www.theglobeandmail.com/life/adv/article-best-exercises-to-aid-in-digestion/)

@@ -53,6 +53,8 @@ The Daoist transmission came on the basis of that work. **Mao Shan Shangqing (èŒ
 
 Doing public Ritual work since 2016. Ongoing work with specific deities and courts across the traditions named above.
 
+Benebell Wen names me in her 2026 essay [Are Asian Folk Traditions "Pagan"?](https://benebellwen.com/2026/02/19/are-asian-folk-traditions-pagan/) as a practitioner of Buddhist ritual magic and shamanism.
+
 ---
 
 ## Begin the conversation
