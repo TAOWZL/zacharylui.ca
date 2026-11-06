@@ -50,6 +50,12 @@ export function MarkdownPage({ doc }: Props) {
         [rehypeAutolinkHeadings, { behavior: "append", properties: { className: ["anchor-link"] } }]
       ]}
       components={{
+            // Tables scroll inside their own box on narrow screens or enlarged text.
+            table: ({ children }) => (
+              <div className="table-scroll">
+                <table>{children}</table>
+              </div>
+            ),
             h1: ({ children, id }) =>
               hasHero ? null : <h1 id={id} className="heading-1">{children}</h1>,
             h2: ({ children, id }) => (

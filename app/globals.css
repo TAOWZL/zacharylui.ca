@@ -106,7 +106,7 @@ a:hover {
 }
 
 .button-link {
-  @apply inline-flex min-h-[44px] max-w-full items-center rounded-md border border-cream-400/40 bg-charcoal-900/80 px-5 py-3 text-sm font-medium text-cream-200 no-underline backdrop-blur;
+  @apply inline-flex min-h-[44px] max-w-full items-center [overflow-wrap:anywhere] rounded-md border border-cream-400/40 bg-charcoal-900/80 px-5 py-3 text-sm font-medium text-cream-200 no-underline backdrop-blur;
 }
 
 .button-link-primary {
@@ -303,11 +303,12 @@ a:hover {
 
 
 /* Wide tables scroll inside their own box when text is enlarged. */
-.prose table {
-  display: block;
+.table-scroll {
   max-width: 100%;
   overflow-x: auto;
 }
+
+
 
 /* ── Safe readability tweaks ───────────────────────────── */
 
