@@ -25,9 +25,9 @@ Class dates go out by email at least seven days ahead. Recordings and monographs
 
 ## In the library
 
-- **Class 1, September 2026: Yin and yang.** Recorded.
-- **Class 2, November 2026: The ghost points primer.** How to work the Thirteen Ghost Points from Sun Simiao's formulary, starting with 鬼宮 (Ghost Palace).
-- **Coming next: The ghost points for inner transformation.**
+- **Class 1, September 2026: Yin and yang.**
+- **Class 2, October 2026: The ghost points primer.** How to work the Thirteen Ghost Points from Sun Simiao's formulary, starting with 鬼宮 (Ghost Palace).
+- **Coming in November: The ghost points for inner transformation.**
 
 Join and every recording in the library is yours.
 
