@@ -9,7 +9,7 @@ const LINES: { title: string; glyph: string; nodes: Node[] }[] = [
     nodes: [
       {
         name: "Andrieh Vitimus",
-        note: "Spiritual master for all of the training, since 2008. Results Over Image Institute, where Zachary now teaches as a trainer."
+        note: "Spiritual master for all of the training, since 2008. 巫 (Wu) training, 唐密 (Tangmi) through ritual, and the Usui Reiki Master Teacher line. Results Over Image Institute, where Zachary now teaches as a trainer."
       }
     ]
   },
@@ -17,10 +17,10 @@ const LINES: { title: string; glyph: string; nodes: Node[] }[] = [
     title: "Daoist transmission",
     glyph: "茅山上清",
     nodes: [
-      { name: "Jerry Alan Johnson", note: "Founder, International Institute of Medical Qigong." },
+      { name: "Jerry Alan Johnson", note: "Founder, International Institute of Medical Qigong. Ordained 正一 (Zhengyi) at Longhu Shan; 上清 (Shangqing) disciple through Maoshan." },
       {
         name: "Robert Youngs",
-        note: "Medical Qigong teacher. Passed the 茅山上清 (Mao Shan Shangqing) lineage on at his passing in 2020."
+        note: "Medical Qigong teacher. Passed the 茅山上清 (Mao Shan Shangqing) transmission on at his passing in 2020."
       }
     ]
   }
