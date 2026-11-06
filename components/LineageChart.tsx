@@ -9,7 +9,7 @@ const LINES: { title: string; glyph: string; nodes: Node[] }[] = [
     nodes: [
       {
         name: "Andrieh Vitimus",
-        note: "Spiritual master for all of the training, since 2008. Results Over Image Institute, where Zachary now teaches as a trainer."
+        note: "Spiritual master for all of the training, since 2008. Usui Reiki Master Teacher line. Results Over Image Institute, where Zachary now teaches as a trainer."
       }
     ]
   },
