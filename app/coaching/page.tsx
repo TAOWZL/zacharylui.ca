@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     title: "Coaching | Zachary Lui",
     description: DESCRIPTION,
     url: "/coaching",
-    images: ["/images/15_nine_operations.png"]
+    images: ["/images/15_nine_operations.jpg"]
   }
 };
 

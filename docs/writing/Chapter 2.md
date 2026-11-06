@@ -12,7 +12,7 @@ tags:
   - book-chapter
 draft: false
 publish: true
-cover: /images/15_nine_operations.png
+cover: /images/15_nine_operations.jpg
 permalink: /eight-of-nine/
 aliases:
   - eight-of-nine
@@ -61,7 +61,7 @@ So what joins them? The graph doesn't. The Han Feizi has a line about people who
 
 And look at what that operation actually does, because this is the part that decides it. The sign is physical every single time. A face is physical, a palm is physical, a wrist is physical. Right. And what comes back through it isn't. What comes back through it isn't. Nobody reads a face and gets a face back, right? You get the person, and the life. And there is no line running from the shape of a jaw to a marriage, you can't walk that one, there's nothing there to walk. Now the wrist, and you'll tell me the wrist is different, because there's a physiology story behind it. So try to walk it. The vessel's under your fingers and it's tense, and physiology gets you that far and then stops. Now walk me from a tense vessel to Liver qi stagnation. Liver there isn't the organ under your ribs, it's a category, a category with wind and anger and the sinews and the colour green already inside it, and no line runs from a tense vessel to a colour. Physiology hands you the tension. The correspondence table does the reading, right. That's what puts it on this list. The hour is open or it isn't, and there's no walking your way to that either.
 
-![A Chinese equatorial sundial on a brick terrace, its shadow across the tilted disc.](https://zacharylui.ca/images/27_the_open_hour.png)
+![A Chinese equatorial sundial on a brick terrace, its shadow across the tilted disc.](https://zacharylui.ca/images/27_the_open_hour.jpg)
 
 #### What answers what
 
@@ -83,7 +83,7 @@ So is this just sympathetic magic with a pen? Not quite, no. Correspondence need
 
 How it travels afterwards is a separate question, and it's open. It can stand on the writing alone. It can be handed to a spirit to carry. It can ride the correspondences and get boosted by them, peach wood because it's peach wood, an hour picked because of what that hour is, the material and the timing working under the ink. Same cheque, more than one way for it to clear.
 
-![A shallow bowl of water with the ash of burned paper dissolving through it, one charred edge still glowing.](https://zacharylui.ca/images/16_talisman_water.png)
+![A shallow bowl of water with the ash of burned paper dissolving through it, one charred edge still glowing.](https://zacharylui.ca/images/16_talisman_water.jpg)
 
 #### What you have to become
 
@@ -105,7 +105,7 @@ How long does this one take? The long version is nourishing life (養生), and i
 
 **And this is the item your curriculum cut hardest.** Not by dropping it. By demoting it. Qigong went from daily cultivation to a course you pass, and a course you pass is just a technique, right? That's the car with no gas from the first chapter, right?
 
-![A worn woven rush mat alone on a low platform in an empty room, nobody there.](https://zacharylui.ca/images/28_the_cushion.png)
+![A worn woven rush mat alone on a low platform in an empty room, nobody there.](https://zacharylui.ca/images/28_the_cushion.jpg)
 
 #### What goes out, and what gets called in
 
@@ -125,7 +125,7 @@ So what separates driving out a demon from draining damp? Not the shape of the m
 
 And the Thirteen Ghost Points are the part I'd have you sit with. Thirteen points, each one named for a ghost, needled in sequence to drive the thing out and get the person back. They first show up in Sun Simiao's Essential Formulas Worth a Thousand in Gold for Every Emergency (備急千金要方) of 652, juan fourteen, in the wind-epilepsy chapter, and Sun doesn't claim them. He hands them on: Bian Que said (扁鵲曰), for the hundred evils that cause illness there are thirteen points for needling, and you begin from Ghost Palace (鬼宮), then Ghost Message (鬼信), then Ghost Fortress (鬼壘). The collective name Thirteen Ghost Points (十三鬼穴) and the attribution to Sun himself are Ming, and the reading list has who did that and when. They're on the body you have right now, right, and you learned some of them under other names. They get chapter seven to themselves.
 
-![Three dark timber doors in an old brick wall, all three standing ajar onto darkness.](https://zacharylui.ca/images/18_three_doors.png)
+![Three dark timber doors in an old brick wall, all three standing ajar onto darkness.](https://zacharylui.ca/images/18_three_doors.jpg)
 
 #### And the lens I brought with me
 
@@ -133,7 +133,7 @@ And the Thirteen Ghost Points are the part I'd have you sit with. Thirteen point
 
 That's the chaos magic position, and it's the lens I'm reading the other eight through. Those eight are in the Chinese material. This one isn't, and it earns its keep later, because it explains something the other eight can't.
 
-![Two old stringed instruments on the floor of an empty room, apart from each other, nothing between them but dust and light.](https://zacharylui.ca/images/17_tuned_strings.png)
+![Two old stringed instruments on the floor of an empty room, apart from each other, nothing between them but dust and light.](https://zacharylui.ca/images/17_tuned_strings.jpg)
 
 ### The engine underneath all of it
 
@@ -159,7 +159,7 @@ And is the list rigged? Fair thing to ask, of somebody who already knows what he
 
 So call it three of nine, maybe four on a generous day. Good. That's the point, right? These are ordinary operations that practitioners run, and the question was never whether anybody scores, it's how many and which ones. Three is a normal number. Eight is a system.
 
-![A low courtyard wall of rammed earth and brick under a tiled coping, the same ground on both sides of it.](https://zacharylui.ca/images/30_the_fence.png)
+![A low courtyard wall of rammed earth and brick under a tiled coping, the same ground on both sides of it.](https://zacharylui.ca/images/30_the_fence.jpg)
 
 ### Where I get careful
 

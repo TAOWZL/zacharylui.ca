@@ -14,7 +14,7 @@ tags:
 - book-chapter
 draft: false
 publish: false
-cover: /images/09_yi_character.png
+cover: /images/09_yi_character.jpg
 permalink: /the-magick-was-never-the-add-on/
 aliases:
 - the-magick-was-never-the-add-on
@@ -22,7 +22,7 @@ aliases:
 
 # The Magick Was Never the Add-On
 
-![The character 醫 brush-inked on aged paper beside an old bronze wine vessel and a few arrowheads.](https://zacharylui.ca/images/09_yi_character.png)
+![The character 醫 brush-inked on aged paper beside an old bronze wine vessel and a few arrowheads.](https://zacharylui.ca/images/09_yi_character.jpg)
 
 Sun Simiao (Sūn Sīmiǎo) is the closest thing this medicine has to a patron saint. King of Medicine (藥王 yàowáng). Deified after he died. Still on the syllabus thirteen centuries on, and every student meets his name in first year whether they clock it or not.
 
@@ -54,7 +54,7 @@ The contested ground is the boring part, and you already know what the boring pa
 
 ## Start in the ground
 
-![A fragment of ancient Chinese silk medical manuscript, columns of faded brush characters.](https://zacharylui.ca/images/10_mawangdui_silk.png)
+![A fragment of ancient Chinese silk medical manuscript, columns of faded brush characters.](https://zacharylui.ca/images/10_mawangdui_silk.jpg)
 
 In 1973, diggers opened a tomb at Mawangdui sealed in 168 BCE and pulled out the earliest medical manuscripts we've recovered. Open the main recipe manual. A herbal remedy, and a spell to say over it. Same ailment, same page, same register. It should surprise you. Dozens of the recipes in there are flat-out incantation and ritual, shelved right in among the drugs. And the era could tell spell-folk from drug-folk when it wanted to. So this isn't ignorance, right? Nobody bothered to enforce it on the page.
 

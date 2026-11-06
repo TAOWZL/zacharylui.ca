@@ -32,11 +32,19 @@ The paid room, built on the Index.
 
 - One class a month on Zoom, on an operation from the Index.
 - Every class recorded, yours while you stay subscribed.
-- Every monograph after garlic, members only.
+- Every monograph after garlic, members only. Salt (鹽) is next.
+
+In the library now: The Two States, Mapping Yin and Yang, and Ghost Road 01, 鬼宮 (Ghost Palace), with the primer. Ghost Road 02, 鬼信 (Ghost Trust), is November's class. [See the full library →](/membership)
 
 \$75 CAD a month plus applicable tax, billed monthly until you cancel. The \$75 rate is open to the first 20 members, and they keep it for as long as they stay subscribed. After that, the price for new members goes up. Cancel anytime; cancelling stops the next charge. Founding members who joined by October 9, 2026 keep their founding rate while subscribed. [Full terms](/terms).
 
 [Join The Secret Menu →](https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w)
+
+## One to one
+
+Bring a decision to a reading: Mahjong tiles or tarot, read with mediumship, 60 minutes on Zoom. \$175 CAD + tax.
+
+[Book Divination Coaching →](https://wujixuan.janeapp.com/#/staff_member/1/treatment/3)
 
 ## The lessons
 

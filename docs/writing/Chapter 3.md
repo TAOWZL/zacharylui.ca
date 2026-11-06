@@ -11,7 +11,7 @@ tags:
   - magick
   - book-chapter
 draft: false
-cover: /images/20_empty_seat.png
+cover: /images/20_empty_seat.jpg
 publish: false
 permalink: /lost-its-licence-in-1571/
 aliases:
@@ -46,7 +46,7 @@ So that's one of the eight. Where were the rest of them sitting? Two of them wer
 
 And the last five never needed a department at all. Three are in the canon from early and they never leave. The correspondence work, as the five-phase mapping of the transport points and the flavours going to the organs. The energy work, as governing the spirit (治神), and that's Su Wen 25, the Discourse on Treasuring Life and Preserving Physical Appearance (寶命全形論). 凡刺之真，必先治神. For needling to be real, first govern the spirit. Ahead of knowing your drugs, ahead of reading your patient. And the gnosis, as the state that same chapter tells you to be in before the needle goes in. All three are still on your syllabus, right, the mapping as the transport points and the other two filed under concentration. The last two sit in books rather than in an institution. Sun Simiao put the self-work at the front of his formulary in the seventh century, ahead of the formulas, and that's the illumination one. And Zhang Congzheng put the expulsion logic in writing in the thirteenth, which is the banishing. So one examined, two licensed, five needing nobody's permission. That's your eight, and you can audit every line of it.
 
-![A thread-bound register open on a desk, its vertical columns blank, one column scraped away to raw fibre.](https://zacharylui.ca/images/19_the_roster.png)
+![A thread-bound register open on a desk, its vertical columns blank, one column scraped away to raw fibre.](https://zacharylui.ca/images/19_the_roster.jpg)
 
 ### The objection I'd raise against myself
 
@@ -120,7 +120,7 @@ What I can put in front of you is the other thing, and it doesn't need my say-so
 
 ---
 
-![Two lattice windows in one wall, the left shuttered closed and the right open onto a sunlit courtyard.](https://zacharylui.ca/images/32_the_second_eye.png)
+![Two lattice windows in one wall, the left shuttered closed and the right open onto a sunlit courtyard.](https://zacharylui.ca/images/32_the_second_eye.jpg)
 
 ## A few things before you go
 

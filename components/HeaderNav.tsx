@@ -18,8 +18,6 @@ const linkClass =
 
 export default function HeaderNav() {
   const pathname = usePathname() ?? "";
-  // The signup page keeps one job: no menu, so the form sits above the fold.
-  if (pathname === "/free-index" || pathname === "/free-index/") return null;
   const laneZ = isLaneZPath(pathname);
   const items: { label: string; short?: string; href: string }[] = laneZ
     ? LANE_Z_NAV
@@ -45,8 +43,7 @@ export default function HeaderNav() {
 
 export function HeaderHomeLink({ className, children }: { className: string; children: React.ReactNode }) {
   const pathname = usePathname() ?? "";
-  // The signup page keeps one job, so its logo goes nowhere else.
-  const href = pathname.startsWith("/free-index") ? "/free-index" : isLaneZPath(pathname) ? "/" : "/in-person";
+  const href = isLaneZPath(pathname) ? "/" : "/in-person";
   return (
     <a href={href} className={className}>
       {children}
