@@ -7,7 +7,8 @@ const DESCRIPTION =
   "Work the medicine you already practise, for yourself. An eight-week founding cohort and one-on-one sessions in Chinese magick and practice.";
 
 // Stripe payment links (Wuji Xuan Life Wellness Ltd account). Both charge tax at checkout.
-const SESSION_URL = "https://buy.stripe.com/3cI6oGdLggwXcLA2il3Nm0B";
+// Private sessions book through the Divination Coaching calendar on Jane; the hour can be coaching, divination or both.
+const SESSION_URL = "https://wujixuan.janeapp.com/#/staff_member/1/treatment/3";
 const COHORT_URL = "https://buy.stripe.com/28E3cudLg5Sj9zo6yB3Nm0A";
 
 export const metadata: Metadata = {
@@ -75,13 +76,14 @@ export default function CoachingPage() {
           Sixty minutes, one on one, on any of the operations above.
         </p>
         <p className="mt-5 leading-relaxed text-zinc-300">
-          Online, scheduled in EST. Pay first; within two business days I email you to set the time. If you join the
+          Book through the Divination Coaching calendar and pick your time. The hour can be divination coaching,
+          straight coaching, or both: say which in the booking note. Online by Zoom, scheduled in Eastern time. If you join the
           cohort within seven days of your session, and before enrolment closes on January 3, the session comes off the price: email me
           and I send you a code for the cohort checkout.
         </p>
         <p className="mt-5 text-lg font-semibold text-zinc-50">$175 + tax</p>
-        <a href={SESSION_URL} className="btn-secondary mt-5" target="_blank" rel="noopener">
-          Book a session
+        <a href={SESSION_URL} className="btn-buy mt-5">
+          Book a session →
         </a>
       </section>
 
