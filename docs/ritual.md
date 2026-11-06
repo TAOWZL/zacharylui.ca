@@ -7,6 +7,8 @@ cover: /images/hero-ritual.png
 
 *Ritual is spiritual work, not healthcare, and not a substitute for medical, mental health, legal, or other professional care. That line stays clean.*
 
+![An altar set with bronze figures, red candles, gold offering cups and spirits for offering](/images/altar.jpg)
+
 ---
 
 ## What I do
