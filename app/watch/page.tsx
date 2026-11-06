@@ -91,7 +91,7 @@ export default function WatchPage() {
       </div>
 
       {GROUPS.map((group) => (
-        <section key={group.name} className="mt-12">
+        <section key={group.name} id={group.name.toLowerCase().replace(/\s+/g, "-")} className="mt-12 scroll-mt-6">
           <h2 className="heading-2">{group.name}</h2>
           <div className="mt-6 grid gap-6 sm:grid-cols-2">
             {group.videos.map((video) => (

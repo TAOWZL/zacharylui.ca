@@ -7,6 +7,8 @@ cover: /images/hero-ritual.png
 
 *Ritual is spiritual work, not healthcare, and not a substitute for medical, mental health, legal, or other professional care. That line stays clean.*
 
+![An altar set with bronze figures, red candles, gold offering cups and spirits for offering](/images/altar.jpg)
+
 ---
 
 ## What I do
@@ -50,6 +52,8 @@ The Daoist transmission came on the basis of that work. **Mao Shan Shangqing (èŒ
 **Usui Reiki Master Teacher.**
 
 Doing public Ritual work since 2016. Ongoing work with specific deities and courts across the traditions named above.
+
+Benebell Wen names me in her 2026 essay [Are Asian Folk Traditions "Pagan"?](https://benebellwen.com/2026/02/19/are-asian-folk-traditions-pagan/) as a practitioner of Buddhist ritual magic and shamanism.
 
 ---
 

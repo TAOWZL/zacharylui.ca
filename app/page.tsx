@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import OperationsMap from "@/components/OperationsMap";
 import IndexSignupForm from "@/components/IndexSignupForm";
 
 // Online front door. Follows the Lane Z rules (see lib/laneZ.ts): no clinic
@@ -133,6 +134,13 @@ export default function HomePage() {
               </div>
             </div>
           ))}
+        </div>
+      </section>
+
+      <section className="mt-16">
+        <h2 className="heading-2">The nine operations</h2>
+        <div className="mt-6">
+          <OperationsMap />
         </div>
       </section>
 

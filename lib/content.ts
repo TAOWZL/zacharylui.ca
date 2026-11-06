@@ -11,6 +11,8 @@ export type Frontmatter = {
   permalink?: string;
   publish?: boolean;
   image?: string;
+  // Social preview image only; unlike image or cover it does not add a hero.
+  ogImage?: string;
   cover?: string;
   date?: string;
   showNewsletter?: boolean;

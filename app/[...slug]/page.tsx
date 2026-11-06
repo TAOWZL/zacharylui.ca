@@ -48,7 +48,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const title = doc.data.title ?? "Zachary Lui";
   const description = inferDescription(doc);
   // SVG heroes do not render as social previews, so they fall through to the default.
-  const ownImage = doc.data.image ?? doc.data.cover;
+  const ownImage = doc.data.ogImage ?? doc.data.image ?? doc.data.cover;
   const image =
     ownImage && !ownImage.endsWith(".svg")
       ? ownImage
