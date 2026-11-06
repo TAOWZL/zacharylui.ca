@@ -9,6 +9,9 @@ import StickyCta from "@/components/StickyCta";
 import HeaderNav, { HeaderHomeLink } from "@/components/HeaderNav";
 import { FooterNav, FooterDisclaimer } from "@/components/FooterBody";
 
+// Cookie-free page counts (GoatCounter). Set the site code to switch it on; empty means off.
+const GOATCOUNTER_CODE = "";
+
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
   title: {
@@ -36,6 +39,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en">
       <body>
         <a href="#main" className="skip-link">Skip to content</a>
+        {GOATCOUNTER_CODE ? (
+          <script
+            data-goatcounter={`https://${GOATCOUNTER_CODE}.goatcounter.com/count`}
+            async
+            src="https://gc.zgo.at/count.js"
+          />
+        ) : null}
         <div className="mx-auto flex min-h-screen w-full max-w-6xl flex-col px-4 py-4 sm:px-6 sm:py-8 lg:px-8">
           <header className="header-shell">
             <div className="flex flex-wrap items-center justify-between gap-4">

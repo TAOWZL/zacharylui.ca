@@ -28,10 +28,11 @@ Class dates go out by email at least seven days ahead. Recordings and monographs
 - **Class 1, September 2026: The Two States, Mapping Yin and Yang.**
 - **Class 2, October 2026: Ghost Road 01, 鬼宮 (Ghost Palace), with the primer.** The context for working the Thirteen Ghost Points from Sun Simiao's formulary. Recording released in November.
 - **Coming in November: Ghost Road 02, 鬼信 (Ghost Trust).**
+- **Next monograph: 鹽 (salt).** Members only, in the members' folder when it lands.
 
 October opened the series **Walking the Ghost Road: The 13 Ghost Points of Sun Simiao**, one point per class in his order. Each class gives the etymology of the point's name, maps the state it holds, and works that state for inner transformation. Every class in the Secret Menu works this way: map the state, then work it.
 
-Join and every recording in the library is yours.
+The library grows by one class every month. Join and every recording in it is yours.
 
 ## What the classes work
 
