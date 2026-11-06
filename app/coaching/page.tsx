@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 // Scope: magick and personal practice coaching, never health care.
 
 const DESCRIPTION =
-  "Work the medicine you already practise, for yourself. An eight-week founding cohort and one-on-one sessions in Chinese magick and practice.";
+  "Run the system you studied in your own life. An eight-week founding cohort and one-on-one sessions in Chinese magick and practice.";
 
 // Stripe payment links (Wuji Xuan Life Wellness Ltd account). Both charge tax at checkout.
 // Private sessions book through the Divination Coaching calendar on Jane; the hour can be coaching, divination or both.
@@ -35,7 +35,7 @@ export default function CoachingPage() {
     <article className="mx-auto max-w-3xl py-2 sm:py-10">
       <p className="kicker">Coaching</p>
       <h1 className="display mt-2 text-[1.6rem] leading-tight text-zinc-50 sm:text-4xl">
-        Work the medicine you already practise.
+        Run the system you studied, eight weeks, in a small group.
       </h1>
       <p className="mt-3 max-w-2xl text-base leading-relaxed text-zinc-300 sm:text-lg">
         You learned the five phases, the channels, the organ spirits. You passed the exam. Then you put the chart away.
