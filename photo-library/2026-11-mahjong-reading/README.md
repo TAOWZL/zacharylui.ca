@@ -2,7 +2,7 @@
 
 Robes, mahjong tiles and altar at the reading table. Copies are web-sized (1600px max), not originals. This folder is not published to the site; copy a photo into `public/images/` to use it.
 
-**Before using on a magick page:** skip anything tagged `licence-visible` (Ontario registration certificate in frame) or `wuji-visible` (clinic sign in frame) unless Zac clears it.
+**Before using on a magick page:** skip anything tagged `licence-visible` (Ontario registration certificate in frame) in frame). Photos tagged `wuji-visible` (clinic sign in frame) were cleared for magick pages by Zac on Nov 6 2026.
 
 | File | Size | What it shows | Tags |
 |---|---|---|---|
