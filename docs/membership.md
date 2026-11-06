@@ -45,7 +45,7 @@ Every claim carries its source, edition named.
 
 ![Zachary Lui smiling in Daoist robes as he shuffles mahjong tiles at a reading](/images/zac-teaching.jpg)
 
-Zachary Lui, 巫 (Wu shaman) and Daoist priest by transmission. He carries 茅山上清 (Mao Shan Shangqing) Daoist transmission, received from the late Robert Youngs in 2020, and works 唐密 (Tangmi), Chinese Esoteric Buddhism. His spiritual master is Andrieh Vitimus, and he has been apprenticing since 2008.
+Zachary Lui, 巫 (Wu shaman) and Daoist priest by transmission. He carries 茅山上清 (Mao Shan Shangqing) and 正一 (Zhengyi) Daoist transmission, received from the late Robert Youngs in 2020, and works 唐密 (Tangmi), Chinese Esoteric Buddhism. His spiritual master is Andrieh Vitimus, and he has been apprenticing since 2008.
 
 Benebell Wen names him in her 2026 essay [Are Asian Folk Traditions "Pagan"?](https://benebellwen.com/2026/02/19/are-asian-folk-traditions-pagan/) as a practitioner of Buddhist ritual magic and shamanism.
 
