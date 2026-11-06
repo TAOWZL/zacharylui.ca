@@ -4,12 +4,12 @@ import type { Metadata } from "next";
 // Scope: magick and personal practice coaching, never health care.
 
 const DESCRIPTION =
-  "Run the system you studied in your own life. An eight-week founding cohort and one-on-one sessions in Chinese magick and practice.";
+  "Run the system you studied in your own life. One-on-one sessions in Chinese magick and practice, and The Secret Menu, one live class a month.";
 
-// Stripe payment links (Wuji Xuan Life Wellness Ltd account). Both charge tax at checkout.
 // Private sessions book through the Divination Coaching calendar on Jane; the hour can be coaching, divination or both.
 const SESSION_URL = "https://wujixuan.janeapp.com/#/staff_member/1/treatment/3";
-const COHORT_URL = "https://buy.stripe.com/28E3cudLg5Sj9zo6yB3Nm0A";
+// The Work the Medicine cohort is paused (Nov 2026); its Stripe link is deactivated.
+const MEMBERSHIP_URL = "/membership";
 
 export const metadata: Metadata = {
   title: "Coaching",
@@ -35,7 +35,7 @@ export default function CoachingPage() {
     <article className="mx-auto max-w-3xl py-2 sm:py-10">
       <p className="kicker">Coaching</p>
       <h1 className="display mt-2 text-[1.6rem] leading-tight text-zinc-50 sm:text-4xl">
-        Run the system you studied, eight weeks, in a small group.
+        Work your own practice, one on one.
       </h1>
       <p className="mt-3 max-w-2xl text-base leading-relaxed text-zinc-300 sm:text-lg">
         You learned the five phases, the channels, the organ spirits. You passed the exam. Then you put the chart away.
@@ -43,12 +43,10 @@ export default function CoachingPage() {
       </p>
 
       <section className="offer-card mt-10">
-        <p className="kicker">Founding cohort</p>
-        <h2 className="heading-2 mt-2">Work the Medicine</h2>
+        <p className="kicker">One on one</p>
+        <h2 className="heading-2 mt-2">Private session</h2>
         <p className="mt-3 leading-relaxed text-zinc-300">
-          Eight weeks, starting the week of January 4, 2027. A small group. One live call each week, online, in EST, recorded for
-          anyone who misses it. One private 60-minute session with me online in the first three weeks, to map your own
-          magickal practice before we work it; I email you to set the time. Four operations, each worked for yourself in your own life.
+          Sixty minutes, one on one, on the operation you want to work:
         </p>
         <ul className="mt-5 grid grid-cols-1 gap-2">
           {WEEKS.map(([name, detail]) => (
@@ -58,32 +56,25 @@ export default function CoachingPage() {
             </li>
           ))}
         </ul>
-        <p className="mt-5 text-lg font-semibold text-zinc-50">$1,200 + tax</p>
-        <p className="text-sm text-zinc-400">
-          Spiritual practice only. It carries no continuing-education credit. Founding price, for this round only. Paid in full at signup. Eight seats. Enrolment closes January 3, 2027, and
-          the round starts the week of January 4 whatever the group size. No refunds. After payment, I email you with the
-          call schedule.
-        </p>
-        <a href={COHORT_URL} className="btn-primary mt-5 self-start" target="_blank" rel="noopener">
-          Reserve a place
-        </a>
-      </section>
-
-      <section className="offer-card mt-8">
-        <p className="kicker">One on one</p>
-        <h2 className="heading-2 mt-2">Private session</h2>
-        <p className="mt-3 leading-relaxed text-zinc-300">
-          Sixty minutes, one on one, on any of the operations above.
-        </p>
         <p className="mt-5 leading-relaxed text-zinc-300">
           Book through the Divination Coaching calendar and pick your time. The hour can be divination coaching,
-          straight coaching, or both: say which in the booking note. Online by Zoom, scheduled in Eastern time. If you join the
-          cohort within seven days of your session, and before enrolment closes on January 3, the session comes off the price: email me
-          and I send you a code for the cohort checkout.
+          straight coaching, or both: say which in the booking note. On Zoom or in person in Toronto, scheduled in Eastern time.
         </p>
         <p className="mt-5 text-lg font-semibold text-zinc-50">$175 + tax</p>
         <a href={SESSION_URL} className="btn-buy mt-5">
           Book a session →
+        </a>
+      </section>
+
+      <section className="offer-card mt-8">
+        <p className="kicker">Membership</p>
+        <h2 className="heading-2 mt-2">The Secret Menu</h2>
+        <p className="mt-3 leading-relaxed text-zinc-300">
+          The same operations in a group, one live class a month on Zoom, every class recorded. $75 CAD a month + tax.
+          Cancel any time.
+        </p>
+        <a href={MEMBERSHIP_URL} className="btn-secondary mt-5">
+          See The Secret Menu →
         </a>
       </section>
 
