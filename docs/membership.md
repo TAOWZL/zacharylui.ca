@@ -23,6 +23,14 @@ In The Secret Menu you work the rest of it, for yourself, in your own life, one 
 
 Class dates go out by email at least seven days ahead. Recordings and monographs land in a members' folder, sent to the email you join with.
 
+## In the library
+
+- **Class 1, September 2026: Yin and yang.** Recorded.
+- **Class 2, November 2026: The ghost points primer.** How to work the Thirteen Ghost Points from Sun Simiao's formulary, starting with 鬼宮 (Ghost Palace).
+- **Coming next: The ghost points for inner transformation.**
+
+Join and every recording in the library is yours.
+
 ## What the classes work
 
 The Index has nine entries: divination, correspondence, talismans, energy work, gnosis, illumination, banishing, spirit work and the ninth. Every class takes one operation from that list and works it.
