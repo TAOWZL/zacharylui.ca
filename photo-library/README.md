@@ -6,7 +6,7 @@ One folder per shoot, named `YYYY-MM-what`. Each folder has a README listing eve
 
 - `lane-z-safe`: fine for magick pages
 - `licence-visible`: Ontario registration certificate in frame, keep off magick pages
-- `wuji-visible`: clinic sign in frame, keep off magick pages unless cleared
+- `wuji-visible`: clinic sign in frame. Cleared for magick pages by Zac, Nov 6 2026
 - `used`: already on the site
 
 ## Shoots
