@@ -20,7 +20,7 @@ const LINES: { title: string; glyph: string; nodes: Node[] }[] = [
       { name: "Jerry Alan Johnson", note: "Founder, International Institute of Medical Qigong. Ordained 正一 (Zhengyi) at Longhu Shan; 上清 (Shangqing) disciple through Maoshan." },
       {
         name: "Robert Youngs",
-        note: "Medical Qigong teacher. Passed the 茅山上清 (Mao Shan Shangqing) transmission on at his passing in 2020."
+        note: "Medical Qigong teacher. Passed the 茅山上清 (Mao Shan Shangqing) transmission to Andrieh Vitimus and to Zachary Lui, who received it at Youngs' passing in 2020."
       }
     ]
   }
