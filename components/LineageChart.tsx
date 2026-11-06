@@ -9,7 +9,7 @@ const LINES: { title: string; glyph: string; nodes: Node[] }[] = [
     nodes: [
       {
         name: "Andrieh Vitimus",
-        note: "Spiritual master for all of the training, since 2008. 巫 (Wu), Primordial Daoist ritual (道教方術, Daoist fangshu) and 唐密 (Tangmi) training, and the Usui Reiki Master Teacher line. Results Over Image Institute, where Zachary now teaches as a trainer."
+        note: "Spiritual master since 2008, across every tradition Zachary works: chaos magic, 巫 (Wu), Primordial Daoist ritual (道教方術, Daoist fangshu), 唐密 (Tangmi), the Usui Reiki Master Teacher line, and more. Results Over Image Institute, where Zachary now teaches as a trainer."
       }
     ]
   },
