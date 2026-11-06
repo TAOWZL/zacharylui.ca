@@ -13,7 +13,7 @@ tags:
   - book-chapter
 draft: false
 publish: false
-cover: /images/21_transport_points.png
+cover: /images/21_transport_points.jpg
 permalink: /how-the-old-doctors-read-a-body/
 aliases:
   - how-the-old-doctors-read-a-body

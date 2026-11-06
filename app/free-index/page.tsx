@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: "The Secret Menu Index",
     description: DESCRIPTION,
     url: "/free-index",
-    images: ["/images/15_nine_operations.png"]
+    images: ["/images/15_nine_operations.jpg"]
   }
 };
 
@@ -59,10 +59,13 @@ export default function FreeIndexPage() {
           Pulse Diagnosis in Early Chinese Medicine (Cambridge University Press, 2010).
         </p>
         <p className="mt-3 text-zinc-300">Eight more like this, one page.</p>
+        <p className="mt-3">
+          <a href="/watch#divination">Watch the divination lesson →</a>
+        </p>
       </section>
       <section className="mt-14">
         <img
-        src="/images/15_nine_operations.png"
+        src="/images/15_nine_operations.jpg"
         alt="Nine objects laid out on a dark wooden table: brush, sealed paper packet, bronze mirror, dried herbs, porcelain dish, red cord, stone, cup"
         width={1672}
         height={941}
@@ -105,6 +108,33 @@ export default function FreeIndexPage() {
       <div className="mt-14">
         <IndexSignupForm id="bottom" />
       </div>
+
+      <nav aria-label="After the Index" className="mt-14 border-t border-charcoal-800 pt-8">
+        <h2 className="heading-2">After the Index</h2>
+        <ul className="mt-5 grid list-none grid-cols-1 gap-3 p-0 sm:grid-cols-3">
+          <li>
+            <a href="/membership" className="chapter-card h-full">
+              <span className="kicker block">Membership</span>
+              <span className="display mt-2 block text-xl">The Secret Menu</span>
+              <span className="mt-2 block text-zinc-300">One live class a month, one operation at a time.</span>
+            </a>
+          </li>
+          <li>
+            <a href="/divination" className="chapter-card h-full">
+              <span className="kicker block">One to one</span>
+              <span className="display mt-2 block text-xl">Divination Coaching</span>
+              <span className="mt-2 block text-zinc-300">Mahjong or tarot, read with mediumship, 60 minutes.</span>
+            </a>
+          </li>
+          <li>
+            <a href="/watch" className="chapter-card h-full">
+              <span className="kicker block">Free</span>
+              <span className="display mt-2 block text-xl">Watch</span>
+              <span className="mt-2 block text-zinc-300">Lessons on the operations, grouped by entry.</span>
+            </a>
+          </li>
+        </ul>
+      </nav>
     </article>
   );
 }

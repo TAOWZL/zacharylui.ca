@@ -13,7 +13,7 @@ tags:
   - book-chapter
 draft: false
 publish: true
-cover: /images/01_mahjong.png
+cover: /images/01_mahjong.jpg
 permalink: /chinese-medicine-is-75-years-old/
 aliases:
   - chinese-medicine-is-75-years-old
@@ -28,7 +28,7 @@ From The Magick That Never Left: Classical Chinese Medicine and the Tradition St
 
 *~17 minute read, plus a reading list*
 
-![Mahjong tiles on a wooden table](https://zacharylui.ca/images/01_mahjong.png)
+![Mahjong tiles on a wooden table](https://zacharylui.ca/images/01_mahjong.jpg)
 
 *Every person in this book is a composite. Personal essay on history and philosophy, not medical advice. [Full note and credentials.](https://zacharylui.ca/about-this-book/)*
 
@@ -44,7 +44,7 @@ So I asked her where her family's from. Mountains or ocean? She's like, dad's si
 
 Then she tells me she's preparing to start a business. Been training for years. Doesn't feel ready. And I'm like, you're never ready, that's not how this works. Nobody gets to feel ready for something like this. And the thing she was calling a business? Same family of work Korean shamans do, with drums and chants and trance. She was just using different language for it, and I pointed her back at her own line, where it already lives.
 
-![Korean mountain ginseng. A correspondence offering from the reading table, not from a clinic. Not herbal medicine, not ingested, and not a named Korean tradition.](https://zacharylui.ca/images/26_mountain_ginseng.png)
+![Korean mountain ginseng. A correspondence offering from the reading table, not from a clinic. Not herbal medicine, not ingested, and not a named Korean tradition.](https://zacharylui.ca/images/26_mountain_ginseng.jpg)
 
 The tiles also turned up a talisman. Herbal magick. You connect to a plant and your energy moves over to match what it carries, and the talisman is the connection. Korean mountain ginseng, picked for her line. Nobody eats it. It sits on a surface. And it sits on the altar as an offering to that same line, so it's doing two jobs, right? My working logic, and not a named Korean tradition.
 
@@ -92,7 +92,7 @@ Then the Cultural Revolution kicked off in 1966, and you got the Four Olds campa
 
 After it wound down in the late 70s, the lineages that survived had to rebuild out of whatever pieces were still lying around. And this next bit is lineage talk, not history. My teachers say a lot of what got pulled back together came from outside the mainland, and Korea is the name I keep hearing, usually with the Dongui Bogam attached. Edges hold old things, right? Same way the oldest French anybody speaks is in Quebec, and not in Paris. And the Dongui Bogam does preserve Chinese material China later lost, so that half is documented. The other half, whether China went and retrieved it afterward, is in the reading list, and the reading list argues against me.
 
-![Classical Chinese herbal apothecary](https://zacharylui.ca/images/04_pharmacy.png)
+![Classical Chinese herbal apothecary](https://zacharylui.ca/images/04_pharmacy.jpg)
 
 So what survived in the standardized curriculum? Most of the methods, reframed without their spiritual context. Familiar enough that people recognize it as some kind of medicine, and exotic enough that it still gets filed under alternative. Kind of like a war dance that gets booked as a cultural performance, right? Every step is still in it, right? Nobody's going to war afterward, and the man doing it doesn't have to be ready to.
 
