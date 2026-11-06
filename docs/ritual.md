@@ -49,6 +49,8 @@ The work begins in chaos magic. Andrieh Vitimus is my sifu (師父) in this work
 
 The Daoist transmission came on the basis of that work. **Mao Shan Shangqing (茅山上清) and folk Daoist lineage holder**, formal transmission received in 2020. Mao Shan Shangqing is a foundational Daoist Ritual tradition, rooted in the Mao mountains and the Shangqing school, with classical lineage going back to the fourth century. Folk Daoism carries the village and household practices alongside the institutional tradition.
 
+LINEAGE_CHART_DIAGRAM
+
 **Usui Reiki Master Teacher.**
 
 Doing public Ritual work since 2016. Ongoing work with specific deities and courts across the traditions named above.

@@ -22,7 +22,7 @@ This is for decisions where being wrong has consequences. Divination is used her
 
 [Or book Mahjong Wealth Divination →](https://wujixuan.janeapp.com/#/staff_member/1/treatment/57)
 
-![Zachary Lui in Daoist robes reading mahjong tiles at the table](/images/zac-mahjong-reading.jpg)
+![Zachary Lui in Daoist robes, hand at his chin, weighing a mahjong spread before the altar](/images/zac-divination-weighing.jpg)
 
 ## When to use this
 

@@ -20,13 +20,13 @@ Robes, mahjong tiles and altar at the reading table. Copies are web-sized (1600p
 | `zac-chin-on-fist-tall.jpg` | 900x1600 | Chin on fist, reading the spread. Contemplative. | face, tall, lane-z-safe |
 | `zac-tiles-portrait-smile.jpg` | 1200x1600 | Slight smile, hands resting on tiles. | face, smile, portrait, lane-z-safe |
 | `zac-eyes-closed-tall.jpg` | 900x1600 | Eyes closed, hands on tiles. ONTARIO REGISTRATION CERTIFICATE visible top right. | face, tall, licence-visible |
-| `zac-altar-side-thinking.jpg` | 1600x1200 | Side view at the altar table, hand at chin. WUJI XUAN "Support the space" sign and liquor bottles visible. | face, landscape, altar, wuji-visible |
+| `zac-altar-side-thinking.jpg` | 1600x1200 | Side view at the altar table, hand at chin. WUJI XUAN "Support the space" sign and liquor bottles visible. Cropped to `public/images/zac-divination-weighing.jpg` for "Clarity when the decision matters" on /divination. | face, landscape, altar, wuji-visible, used |
 | `zac-hand-on-cheek-tall.jpg` | 900x1600 | Hand on cheek, reading the spread. | face, tall, lane-z-safe |
 | `zac-hand-at-jaw-tall.jpg` | 900x1600 | Hand at jaw, reading the spread. | face, tall, lane-z-safe |
 | `zac-altar-eyes-closed.jpg` | 1600x1200 | Eyes closed, hand on cheek, altar and screen behind. WUJI XUAN sign visible. | face, landscape, altar, wuji-visible |
 | `zac-altar-hand-raised.jpg` | 1600x1200 | Hand raised mid-gesture, altar behind. WUJI XUAN sign visible. | face, landscape, altar, wuji-visible |
 | `zac-altar-profile.jpg` | 1600x1200 | Profile at the altar, hand at mouth. WUJI XUAN sign visible. | face, landscape, altar, wuji-visible |
-| `zac-robes-reading-tiles.jpg` | 1200x1600 | Robes, reading tiles, bookshelves. Used on /divination and as its share image. | face, portrait, lane-z-safe, used |
+| `zac-robes-reading-tiles.jpg` | 1200x1600 | Robes, reading tiles, bookshelves. Share image for /divination (was its inline photo until Nov 2026). | face, portrait, lane-z-safe, used |
 | `zac-robes-reading-tiles-2.jpg` | 1200x1600 | Near-duplicate. Was the /membership photo before Nov 2026 (`public/images/zac-robes.jpg`). | face, portrait, lane-z-safe |
 | `tiles-closeup-1.jpg` | 1200x1600 | Tile close-up, red light. | no-face, tiles, lane-z-safe |
 | `tiles-closeup-2.jpg` | 1200x1600 | Tile close-up. | no-face, tiles, lane-z-safe |
