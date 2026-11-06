@@ -146,7 +146,7 @@ export default function HomePage() {
         </ul>
         <p className="mt-4 text-zinc-300">
           <span className="kicker mr-3">Taught at</span>
-          ConVocation, Toronto Pagan Pride and Hamilton Pagan Pride.
+          ConVocation, Penn State (qigong), Toronto Pagan Pride and Hamilton Pagan Pride.
         </p>
       </section>
 
