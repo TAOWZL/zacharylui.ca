@@ -1,6 +1,6 @@
 ---
 title: The Secret Menu
-description: "One live Zoom class a month on Chinese medicine as magick, every class recorded, every new monograph after garlic. $75 CAD a month + tax. Cancel any time."
+description: "One recorded class a month on Chinese medicine as magick, questions answered in the next class, every new monograph after garlic. $75 CAD a month + tax. Cancel any time."
 permalink: membership
 ---
 # The Secret Menu
@@ -9,7 +9,7 @@ permalink: membership
 
 You say qi, shen and the five phases all day. Ask how they work and the explanation hits a floor, somewhere around the year the textbook was written.
 
-In The Secret Menu you work the rest of it, for yourself, in your own life, one operation at a time, live with me on Zoom.
+In The Secret Menu you work the rest of it, for yourself, in your own life, one operation at a time, with me.
 
 \$75 CAD a month + tax, \$84.75 in total. Cancel any time.
 
@@ -17,11 +17,11 @@ In The Secret Menu you work the rest of it, for yourself, in your own life, one 
 
 ## What you get
 
-- One live class a month on Zoom, about an hour, on an operation from the Index.
+- One recorded class a month, about an hour, on an operation from the Index.
 - The recording of every class, yours while you stay subscribed.
 - Every new monograph after garlic. They go to members only. Garlic is 24 pages on one herb, sources itemised edition by edition, and it's [free with the Index](/free-index) so you can see the format first.
 
-Class dates go out by email at least seven days ahead. Recordings and monographs land in a members' folder, sent to the email you join with.
+Send your questions by email, and I answer them in the next class. Recordings and monographs land in a members' folder, sent to the email you join with.
 
 ## In the library
 
