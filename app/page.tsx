@@ -241,8 +241,10 @@ export default function HomePage() {
         />
         <div>
           <p className="font-semibold text-zinc-100">Zachary Lui</p>
-          {/* Lineage lines live in the footer directly below, so the box carries the teacher line only. */}
-          <p className="mt-1 text-zinc-300">Spiritual master: Andrieh Vitimus. Apprenticing since 2008.</p>
+          <p className="mt-1 max-w-2xl text-zinc-300">
+            Wu (巫) and Daoist priest of the Mao Shan Shangqing (茅山上清) transmission, and a Tangmi (唐密) practitioner
+            of Chinese Esoteric Buddhism. Apprenticed to his teachers since 2008; his spiritual master is Andrieh Vitimus.
+          </p>
           <p className="mt-2">
             <a href="/about-this-book/">About the author →</a>
           </p>
