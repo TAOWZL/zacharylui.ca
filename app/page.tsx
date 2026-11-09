@@ -88,26 +88,26 @@ const LINEAGE = [
 ];
 
 // Lane Z appearances only. Clinic press (TCMO, Bill 88, acupuncture podcasts) stays on /press.
+// Cover art loads from Apple Podcasts' artwork CDN (160px squares).
+const art = (path: string) => `https://is1-ssl.mzstatic.com/image/thumb/${path}/160x160bb.jpg`;
 const FEATURED = [
-  {
-    show: "Benebell Wen",
-    title: "Named in Are Asian Folk Traditions \"Pagan\"?, 2026",
-    href: "https://benebellwen.com/2026/02/19/are-asian-folk-traditions-pagan/"
-  },
   {
     show: "Qiological",
     title: "Ep. 340, Alchemy, Magic, and Channel Personalities",
-    href: "https://qiological.com/podcast/alchemy-magic-and-channel-personalities-zachary-lui/"
+    href: "https://qiological.com/podcast/alchemy-magic-and-channel-personalities-zachary-lui/",
+    img: art("Podcasts211/v4/69/76/9d/69769dfc-c7f8-3ed9-c19a-6e12467d167f/mza_13318356769921450566.jpg")
   },
   {
     show: "Black Beryl",
     title: "Buddhist Ritual Magic, with Pierce Salguero of Penn State",
-    href: "https://open.spotify.com/episode/6pJs76mESwXJEHW7hONCEL"
+    href: "https://open.spotify.com/episode/6pJs76mESwXJEHW7hONCEL",
+    img: art("Podcasts211/v4/36/2a/fc/362afcc7-b5ce-e80d-0f92-ef13f93c498d/mza_17174706515285653761.jpg")
   },
   {
     show: "Deeper Down the Rabbit Hole",
     title: "Co-host, with Andrieh Vitimus",
-    href: "https://ddtrh.com"
+    href: "https://ddtrh.com",
+    img: art("Podcasts123/v4/d0/bb/4d/d0bb4d3d-1c6f-6d7f-9b2c-86852da64667/mza_8988145111910738095.jpg")
   }
 ];
 
@@ -134,17 +134,37 @@ export default function HomePage() {
 
       <section aria-label="Featured on" className="mt-10">
         <p className="kicker">Featured on</p>
-        <ul className="mt-3 grid list-none grid-cols-1 gap-3 p-0 sm:grid-cols-2">
+        <ul className="mt-3 grid list-none grid-cols-1 gap-3 p-0 sm:grid-cols-3">
           {FEATURED.map((f) => (
             <li key={f.show} className="min-w-0">
-              <a href={f.href} className="chapter-card h-full" rel="noopener">
-                <span className="display block text-lg">{f.show}</span>
-                <span className="mt-1 block text-zinc-300">{f.title}</span>
+              <a href={f.href} className="chapter-card group h-full" rel="noopener">
+                <span className="flex items-center gap-4 sm:flex-col sm:items-start">
+                <img
+                  src={f.img}
+                  alt={`${f.show} cover art`}
+                  width={80}
+                  height={80}
+                  loading="lazy"
+                  className="h-16 w-16 shrink-0 rounded-md border border-charcoal-800 object-cover opacity-90 transition group-hover:opacity-100 sm:h-20 sm:w-20"
+                />
+                <span className="min-w-0">
+                  <span className="display block text-lg leading-snug">{f.show}</span>
+                  <span className="mt-1 block text-zinc-300">{f.title}</span>
+                </span>
+                </span>
               </a>
             </li>
           ))}
         </ul>
         <p className="mt-4 text-zinc-300">
+          <span className="kicker mr-3">Cited by</span>
+          Benebell Wen, in{" "}
+          <a href="https://benebellwen.com/2026/02/19/are-asian-folk-traditions-pagan/" rel="noopener">
+            Are Asian Folk Traditions &ldquo;Pagan&rdquo;?
+          </a>{" "}
+          (2026).
+        </p>
+        <p className="mt-2 text-zinc-300">
           <span className="kicker mr-3">Taught at</span>
           ConVocation, Penn State (qigong), Toronto Pagan Pride and Hamilton Pagan Pride.
         </p>
