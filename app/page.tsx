@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import OperationsMap from "@/components/OperationsMap";
 import IndexSignupForm from "@/components/IndexSignupForm";
+import ArticleCard from "@/components/ArticleCard";
+import { getWriting } from "@/lib/content";
 
 // Online front door. Follows the Lane Z rules (see lib/laneZ.ts): no clinic
 // name, address, phone, R.Ac title or acupuncture link on this page. The
@@ -65,19 +67,6 @@ const OFFERS: Offer[] = [
     detail: "From $1,500, quoted before anything begins.",
     cta: "About ritual work",
     href: "/ritual"
-  }
-];
-
-const CHAPTERS = [
-  {
-    title: "Chinese Medicine Is 75 Years Old",
-    href: "/chinese-medicine-is-75-years-old",
-    blurb: "What the post-war reform renamed, and the man who wanted the whole thing abolished in 1929."
-  },
-  {
-    title: "Your Clinic Runs Eight of Nine",
-    href: "/eight-of-nine",
-    blurb: "Nine things a magician does, and where eight of them live in the medicine you were trained in."
   }
 ];
 
@@ -208,14 +197,13 @@ export default function HomePage() {
 
       <section className="mt-16">
         <h2 className="heading-2">Read the history</h2>
-        <div className="mt-6 grid gap-5 sm:grid-cols-2">
-          {CHAPTERS.map((ch, i) => (
-            <a key={ch.href} href={ch.href} className="chapter-card">
-              <p className="kicker">Chapter {i + 1}</p>
-              <p className="display mt-2 text-xl">{ch.title}</p>
-              <p className="mt-2 text-lg text-zinc-300">{ch.blurb}</p>
-            </a>
-          ))}
+        <div className="mt-6 grid gap-5 sm:grid-cols-3">
+          {getWriting()
+            .filter((e) => e.series === "The Magick That Never Left")
+            .sort((a, b) => (a.part ?? 0) - (b.part ?? 0))
+            .map((entry) => (
+              <ArticleCard key={entry.slug} entry={entry} kicker={`Chapter ${entry.part}`} />
+            ))}
         </div>
         <p className="mt-4">
           <a href="/writing">All writing →</a> <span className="mx-2 text-zinc-400">·</span> <a href="/watch">Watch the operations →</a>
