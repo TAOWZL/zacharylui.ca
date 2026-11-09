@@ -38,13 +38,13 @@ Every month we hold a primordial Daoist luck ritual, and every month it makes lu
 
 For about a thousand years the Chinese state kept a line of departments where those two sat, the talismans and the calling of spirits.
 
-So chapter one put a date on your curriculum, seventy-five on the policy, seventy on the version you were taught. Now I put dates on the eight. Divination, sympathetic magic, talismans, energy work, gnosis, illumination, banishing, and the calling of spirits, right? And they didn't arrive together, not even close. Different centuries, different directions, and there was never a morning in the Han when somebody walked in and switched them all on at once. So if somebody tells you a system has to switch on all at once to count, think of it like a city. Nobody stands in London and says it can't be a real place because it has no plan.
+So chapter one put a date on your curriculum, seventy-five on the policy, seventy on the version you were taught. Now I put dates on the eight. Divination, sympathetic magic, talismans, energy work, gnosis, illumination, banishing, and the calling of spirits, right? And they didn't arrive together, not even close. They came in over different centuries, from different directions. There was never a morning in the Han dynasty, about two thousand years ago, when somebody walked in and switched them all on at once. So if somebody tells you a system has to switch on all at once to count, that's not how anything old gets built. London grew street by street over a thousand years, and nobody says it isn't a real city.
 
 ## Dates on the eight
 
 ### The ritual department, and the day it closed
 
-Start with the ritual department. It sat inside the state medical bureaucracy for about a thousand years, and it kept getting renamed as the dynasties turned over. Three names, one department. Lin Fu-shih spent a career on this, and he traces it as one line, not three similar things. It ran for longer than your profession has had a college, right? The names are in the reading list for you.
+I'll start with the ritual department. It sat inside the state medical bureaucracy for about a thousand years, and it kept getting renamed as the dynasties turned over. Three names, one department. Lin Fu-shih spent a career on this, and he traces it as one line, not three similar things. It ran for longer than your profession has had a college, right? The names are in the reading list for you.
 
 It ended in 1571. Struck off the roster, alongside the massage department. The date itself is standard, it's in the ordinary reference books, so honestly, don't take it as mine or as Lin's. What I take from Lin is the continuity. One line, all the way down. Plus his finding that most of the medical histories you'd actually read skip the abolition or get the date wrong. Want the actual statute? The Collected Statutes of the Great Ming.
 
