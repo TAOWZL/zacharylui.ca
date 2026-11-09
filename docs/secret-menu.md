@@ -30,7 +30,7 @@ From the palm seal video: Sun Simiao's ghost road seal, mapped on the hand, with
 
 The paid room, built on the Index.
 
-- One class a month on Zoom, on an operation from the Index.
+- One recorded class a month, on an operation from the Index.
 - Every class recorded, yours while you stay subscribed.
 - Every monograph after garlic, members only. Salt (鹽) is next.
 

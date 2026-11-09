@@ -13,6 +13,8 @@ In The Secret Menu you work the rest of it, for yourself, in your own life, one 
 
 \$75 CAD a month + tax, \$84.75 in total. Cancel any time.
 
+No refunds for change of mind. If a month's class is not released within 30 days after that month ends, that month's charge is refunded. [Full terms](/terms).
+
 [Join The Secret Menu →](https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w)
 
 ## What you get
@@ -21,13 +23,13 @@ In The Secret Menu you work the rest of it, for yourself, in your own life, one 
 - The recording of every class, yours while you stay subscribed.
 - Every new monograph after garlic. They go to members only. Garlic is 24 pages on one herb, sources itemised edition by edition, and it's [free with the Index](/free-index) so you can see the format first.
 
-Send your questions by email, and I answer them in the next class. Recordings and monographs land in a members' folder, sent to the email you join with.
+Send your questions to zac@zacharylui.ca, and I answer them in the next class. Recordings and monographs land in a members' folder, sent to the email you join with.
 
 ## In the library
 
 - **Class 1, September 2026: The Two States, Mapping Yin and Yang.**
 - **Class 2, October 2026: Ghost Road 01, 鬼宮 (Ghost Palace), with the primer.** The context for working the Thirteen Ghost Points from Sun Simiao's formulary. Recording released in November.
-- **Coming in November: Ghost Road 02, 鬼信 (Ghost Trust).**
+- **Next: Ghost Road 02, 鬼信 (Ghost Trust).**
 - **Next monograph: 鹽 (salt).** Members only, in the members' folder when it lands.
 
 October opened the series **Walking the Ghost Road: The 13 Ghost Points of Sun Simiao**, one point per class in his order. Each class gives the etymology of the point's name, maps the state it holds, and works that state for inner transformation. Every class in the Secret Menu works this way: map the state, then work it.

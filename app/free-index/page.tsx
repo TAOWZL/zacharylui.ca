@@ -116,7 +116,7 @@ export default function FreeIndexPage() {
             <a href="/membership" className="chapter-card h-full">
               <span className="kicker block">Membership</span>
               <span className="display mt-2 block text-xl">The Secret Menu</span>
-              <span className="mt-2 block text-zinc-300">One live class a month, one operation at a time.</span>
+              <span className="mt-2 block text-zinc-300">One recorded class a month, one operation at a time.</span>
             </a>
           </li>
           <li>

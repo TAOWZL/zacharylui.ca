@@ -5,7 +5,7 @@ permalink: terms
 ---
 # Terms: The Secret Menu
 
-Last updated October 25, 2026.
+Last updated November 8, 2026.
 
 ## Who sells it
 
@@ -15,11 +15,14 @@ The Secret Menu is taught by Zachary Lui.
 
 ## What you get
 
-- One live online class a month, about one hour, on an operation from the Secret Menu Index. Classes run live on Zoom.
+- One recorded class a month, about one hour, on an operation from the Secret Menu Index.
+- Questions you send by email, answered in the next class.
 - The recording of each class, available while you stay subscribed.
 - Every new monograph after the free garlic monograph, available while you stay subscribed.
 
-The class link, recordings and monographs are sent to the email you joined with, through a members' Google Drive folder. Class dates are announced to members by email at least seven days ahead. If a month's class cannot run on its date, members are told by email and it is rescheduled within 30 days. If it cannot be rescheduled, that month's charge is refunded in full.
+Recordings and monographs are sent to the email you joined with, through a members' Google Drive folder. Each class is named for a calendar month. A class is released when it is in the members' folder and members have been emailed. If a month's class is not released within 30 days after the end of that month, we refund, without you asking and within 15 days, the charge that covers the last day of that month, including HST, to the card you paid with. This applies to everyone subscribed on the last day of that month, including anyone who cancelled during that month.
+
+If we reduce or replace anything listed under What you get, current members get at least 30 days' notice by email. The notice says what changes and the date it starts. A change never applies to you before that date and never changes the price you locked. If you cancel before that date, any charge for a period that starts on or after that date is refunded in full.
 
 Recordings and monographs are for your personal use. Do not share, resell or repost them.
 
@@ -41,7 +44,7 @@ Cancel any time by emailing zac@zacharylui.ca with the subject line "Cancel". Yo
 
 ## Refunds
 
-All payments are final. There are no refunds for change of mind, missed classes or unused time in a billing period. The only exceptions are a charge made after you cancelled, a month whose class does not run (see above), and anything the law requires.
+All payments are final. There are no refunds for change of mind, recordings you did not watch or unused time in a billing period. The only exceptions are a charge made after you cancelled, a month whose class is not released (see above), a charge covered by the change notice above, and anything the law requires.
 
 ## Your copy of these terms
 
@@ -49,7 +52,7 @@ After you join, you get an email with a copy of these terms and your receipt, th
 
 ## Privacy
 
-Your name, email and payment details are used to run your membership and send class emails. Payment details are handled by Stripe and are not stored by Wuji Xuan Life Wellness Ltd. Stripe may store and process data outside Canada. Your details are not sold or shared for marketing. If you speak or turn your camera on during a live class, your voice or image may appear in the recording other members see. Email zac@zacharylui.ca to see or correct what is held about you, or to have it deleted when you leave.
+Your name, email and payment details are used to run your membership and send membership emails. Payment details are handled by Stripe and are not stored by Wuji Xuan Life Wellness Ltd. Stripe and Google Drive, which holds the members' folder, may store and process data outside Canada. Your details are not sold or shared for marketing. Questions you email are used to answer them in class. Your name is left out of the recording unless you say it can be used. Classes recorded live on Zoom before November 2026 may include the voice or image of members who spoke or turned their camera on; email zac@zacharylui.ca to have yours removed. Email zac@zacharylui.ca to see or correct what is held about you, or to have it deleted when you leave.
 
 ## Scope
 

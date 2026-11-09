@@ -83,7 +83,7 @@ export default function WatchPage() {
       <h1 className="display text-[2rem] leading-tight sm:text-5xl">Watch the operations</h1>
       <p className="mt-4 max-w-2xl text-xl leading-relaxed text-zinc-300">
         Sorted by the operations in the Index. The videos name each operation. The Secret Menu is where you work it,
-        one live class a month.
+        one recorded class a month.
       </p>
       <div className="mt-6 flex flex-wrap gap-3">
         <a href={JOIN} className="btn-buy">Join The Secret Menu →</a>
@@ -104,7 +104,7 @@ export default function WatchPage() {
       <section className="offer-card-paper mt-16">
         <h2 className="font-display text-3xl font-semibold text-charcoal-950">Work it with me</h2>
         <p className="mt-3 text-lg leading-relaxed text-charcoal-950">
-          One live class a month on Zoom, every class recorded, every monograph after garlic. $75 CAD a month + tax.
+          One recorded class a month, questions answered in the next class, every monograph after garlic. $75 CAD a month + tax.
           Cancel any time.
         </p>
         <div className="mt-5 flex flex-wrap gap-3">
