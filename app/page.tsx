@@ -70,13 +70,23 @@ const OFFERS: Offer[] = [
   }
 ];
 
+// Teaching venues on the home page, one dotted line. Lane Z venues only; the colleges are on /education.
+const TAUGHT_AT = [
+  "Penn State University",
+  "World Tai Chi & Qigong Summit",
+  "Saam Diagnostic Conference",
+  "Results Over Image Institute",
+  "ConVocation",
+  "Toronto and Hamilton Pagan Pride"
+];
+
 const LINEAGE = [
   "巫 (Wu shaman) and Daoist priest by transmission",
   "茅山上清 Mao Shan Shangqing Daoist transmission",
   "唐密 Tangmi, Chinese Esoteric Buddhism"
 ];
 
-// Lane Z appearances only. Clinic press (TCMO, Bill 88, acupuncture podcasts) stays on /press.
+// Lane Z appearances only, four max so the section stays light. Clinic press stays on /press.
 // Cover art loads from Apple Podcasts' artwork CDN (160px squares).
 const art = (path: string) => `https://is1-ssl.mzstatic.com/image/thumb/${path}/160x160bb.jpg`;
 const FEATURED = [
@@ -91,6 +101,12 @@ const FEATURED = [
     title: "Buddhist Ritual Magic, with Pierce Salguero of Penn State",
     href: "https://open.spotify.com/episode/6pJs76mESwXJEHW7hONCEL",
     img: art("Podcasts211/v4/36/2a/fc/362afcc7-b5ce-e80d-0f92-ef13f93c498d/mza_17174706515285653761.jpg")
+  },
+  {
+    show: "Learn Feng Shui",
+    title: "Honoring Our Ancestors and Feng Shui for Burial",
+    href: "https://podcasts.apple.com/us/podcast/honoring-our-ancestors-and-feng-shui-for-burial-with-zac-lui/id1486212016?i=1000632002729",
+    img: art("Podcasts211/v4/b3/1b/5d/b31b5d5d-7ab5-2771-1c95-df61c1542ae3/mza_13874763813627147720.jpg")
   },
   {
     show: "Deeper Down the Rabbit Hole",
@@ -123,18 +139,18 @@ export default function HomePage() {
 
       <section aria-label="Featured on" className="mt-10">
         <p className="kicker">Featured on</p>
-        <ul className="mt-3 grid list-none grid-cols-1 gap-3 p-0 sm:grid-cols-3">
+        <ul className="mt-3 grid list-none grid-cols-1 gap-3 p-0 sm:grid-cols-2">
           {FEATURED.map((f) => (
             <li key={f.show} className="min-w-0">
               <a href={f.href} className="chapter-card group h-full" rel="noopener">
-                <span className="flex items-center gap-4 sm:flex-col sm:items-start">
+                <span className="flex items-center gap-4">
                 <img
                   src={f.img}
                   alt={`${f.show} cover art`}
                   width={80}
                   height={80}
                   loading="lazy"
-                  className="h-16 w-16 shrink-0 rounded-md border border-charcoal-800 object-cover opacity-90 transition group-hover:opacity-100 sm:h-20 sm:w-20"
+                  className="h-16 w-16 shrink-0 rounded-md border border-charcoal-800 object-cover opacity-90 transition group-hover:opacity-100 sm:h-[4.5rem] sm:w-[4.5rem]"
                 />
                 <span className="min-w-0">
                   <span className="display block text-lg leading-snug">{f.show}</span>
@@ -146,16 +162,25 @@ export default function HomePage() {
           ))}
         </ul>
         <p className="mt-4 text-zinc-300">
-          <span className="kicker mr-3">Cited by</span>
-          Benebell Wen, in{" "}
+          <span className="kicker mr-3 whitespace-nowrap">Cited in</span>
+          Benebell Wen,{" "}
           <a href="https://benebellwen.com/2026/02/19/are-asian-folk-traditions-pagan/" rel="noopener">
             Are Asian Folk Traditions &ldquo;Pagan&rdquo;?
           </a>{" "}
-          (2026).
+          (2026)<span className="mx-2 text-zinc-500">·</span>
+          <a href="https://www.theglobeandmail.com/life/adv/article-best-exercises-to-aid-in-digestion/" rel="noopener">
+            The Globe and Mail
+          </a>
+          , on qigong (2020).
         </p>
-        <p className="mt-2 text-zinc-300">
-          <span className="kicker mr-3">Taught at</span>
-          ConVocation, Penn State (qigong), Toronto Pagan Pride and Hamilton Pagan Pride.
+        <p className="mt-3 leading-relaxed text-zinc-300">
+          <span className="kicker mr-3 whitespace-nowrap">Taught at</span>
+          {TAUGHT_AT.map((v, i) => (
+            <span key={v} className="whitespace-nowrap">
+              {v}
+              {i < TAUGHT_AT.length - 1 ? <span className="mx-2 text-zinc-500">·</span> : null}
+            </span>
+          ))}
         </p>
       </section>
 
