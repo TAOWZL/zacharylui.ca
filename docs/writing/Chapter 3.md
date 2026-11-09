@@ -110,7 +110,17 @@ The techniques are all still there, on paper, right? The reasoning survived the 
 
 That's stronger than the polite version people reach for when they're trying to be generous to the tradition, a medicine with some magic attached. It's stronger than the nostalgic one too, a medicine that used to have magic and lost it.
 
-Six of the eight are present tense, and I mean that literally, so take them family by family. It reads the year off a calendar, today, in every school that still teaches the great treatises. It runs on sympathetic correspondence, today, in a clinic near you. Even the formula names give it away. White Tiger Decoction (白虎湯) is the textbook's heat-clearing formula, and the White Tiger, in the myth, is the one that culls. The beast of metal, it cuts, claws out in the mountains of the west, in autumn, the cutting season. Cheng Wuji said so back in the twelfth century, the White Tiger is the metal spirit of the west. And the medicine works with an energy it treats as real, it still tells you what state to be in before the needle goes in, and it still tells you to work on yourself first, in a chapter sitting in front of the formulas. And it still expels, today, naming the thing, choosing its exit, and that reasoning is sitting right underneath every "clear" and "drain" you charted this week. That's six in the medicine. Chapter two's five and a half is your clinic.
+Six of the eight are present tense, and I mean that literally, so take them family by family.
+
+Divination first. The medicine reads the year off a calendar, today, in every school that still teaches the great treatises.
+
+Then sympathetic correspondence. It runs on it today, in a clinic near you, and even the herbal formula names give it away. White Tiger Decoction (白虎湯) is the textbook's heat-clearing formula, and the White Tiger, in the myth, is the one that culls. The beast of metal, it cuts, claws out in the mountains of the west, in autumn, the cutting season. Cheng Wuji said so back in the twelfth century, the White Tiger is the metal spirit of the west.
+
+Then the three that live in you, the practitioner. Energy work, because the medicine works with an energy it treats as real. Gnosis, because it still tells you what state to be in before the needle goes in. Illumination, because it still tells you to work on yourself first, in Sun Simiao's chapters on becoming a great physician, which sit in front of his formulas.
+
+And banishing. It still expels, today, naming the thing and choosing its exit, and that reasoning is sitting right underneath every "clear" and "drain" you charted this week.
+
+That's six in the medicine. Chapter two's five and a half is your clinic.
 
 ![An empty shrine niche in an old plastered wall, a paler patch on the back where a talisman hung and was taken down, the ledge bare but for the ring where the incense burner stood.](https://zacharylui.ca/images/31_the_empty_niche.jpg)
 
