@@ -79,11 +79,6 @@ const TAUGHT_AT = [
   "Toronto and Hamilton Pagan Pride"
 ];
 
-const LINEAGE = [
-  "巫 (Wu shaman) and Daoist priest by transmission",
-  "茅山上清 Mao Shan Shangqing Daoist transmission",
-  "唐密 Tangmi, Chinese Esoteric Buddhism"
-];
 
 // Lane Z appearances only, four max so the section stays light. Clinic press stays on /press.
 // Cover art loads from Apple Podcasts' artwork CDN (160px squares).
@@ -138,29 +133,29 @@ export default function HomePage() {
 
       <section aria-label="Featured on" className="mt-10">
         <p className="kicker">Featured on</p>
-        <ul className="mt-3 grid list-none grid-cols-1 gap-3 p-0 sm:grid-cols-2">
+        <ul className="mt-3 grid list-none grid-cols-2 gap-2 p-0 sm:gap-3">
           {FEATURED.map((f) => (
             <li key={f.show} className="min-w-0">
               <a href={f.href} className="chapter-card group h-full" rel="noopener">
-                <span className="flex items-center gap-4">
+                <span className="flex flex-col items-start gap-2 sm:flex-row sm:items-center sm:gap-4">
                 <img
                   src={f.img}
                   alt={`${f.show} cover art`}
                   width={80}
                   height={80}
                   loading="lazy"
-                  className="h-16 w-16 shrink-0 rounded-md border border-charcoal-800 object-cover opacity-90 transition group-hover:opacity-100 sm:h-[4.5rem] sm:w-[4.5rem]"
+                  className="h-12 w-12 shrink-0 rounded-md border border-charcoal-800 object-cover opacity-90 transition group-hover:opacity-100 sm:h-[4.5rem] sm:w-[4.5rem]"
                 />
                 <span className="min-w-0">
-                  <span className="display block text-lg leading-snug">{f.show}</span>
-                  <span className="mt-1 block text-zinc-300">{f.title}</span>
+                  <span className="display block text-base leading-snug sm:text-lg">{f.show}</span>
+                  <span className="mt-1 hidden text-zinc-300 sm:block">{f.title}</span>
                 </span>
                 </span>
               </a>
             </li>
           ))}
         </ul>
-        <p className="mt-4 text-zinc-300">
+        <p className="mt-4 text-[0.95rem] text-zinc-300">
           <span className="kicker mr-3 whitespace-nowrap">Cited in</span>
           Benebell Wen,{" "}
           <a href="https://benebellwen.com/2026/02/19/are-asian-folk-traditions-pagan/" rel="noopener">
@@ -172,7 +167,7 @@ export default function HomePage() {
           </a>
           , on qigong (2020).
         </p>
-        <p className="mt-3 leading-relaxed text-zinc-300">
+        <p className="mt-2 text-[0.95rem] leading-relaxed text-zinc-300">
           <span className="kicker mr-3 whitespace-nowrap">Taught at</span>
           {TAUGHT_AT.map((v, i) => (
             <span key={v} className="whitespace-nowrap">
@@ -183,7 +178,7 @@ export default function HomePage() {
         </p>
       </section>
 
-      <section className="mt-16">
+      <section className="mt-16 sm:mt-24">
         <h2 className="heading-2">Work with me online</h2>
         <div className="mt-6 grid gap-5 sm:grid-cols-2">
           {OFFERS.map((offer) => (
@@ -202,9 +197,11 @@ export default function HomePage() {
                   {offer.cta} →
                 </a>
                 {offer.more ? (
+                  <span className="hidden sm:contents">
                   <a href={offer.more.href} className="btn-secondary">
                     {offer.more.label}
                   </a>
+                  </span>
                 ) : null}
               </div>
             </div>
@@ -212,14 +209,14 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section className="mt-16">
+      <section className="mt-16 sm:mt-24">
         <h2 className="heading-2">The nine operations</h2>
         <div className="mt-6">
           <OperationsMap />
         </div>
       </section>
 
-      <section className="mt-16">
+      <section className="mt-16 sm:mt-24">
         <h2 className="heading-2">Read the history</h2>
         <div className="mt-6 grid gap-5 sm:grid-cols-3">
           {getWriting()
@@ -234,7 +231,7 @@ export default function HomePage() {
         </p>
       </section>
 
-      <section className="mt-16 flex flex-col items-start gap-5 rounded-lg border border-charcoal-800 bg-charcoal-950/60 p-5 sm:flex-row sm:items-center">
+      <section className="mt-16 sm:mt-24 flex flex-col items-start gap-5 rounded-lg border border-charcoal-800 bg-charcoal-950/60 p-5 sm:flex-row sm:items-center">
         <img
           src="/images/zachary-headshot-2.jpg"
           alt="Zachary Lui"
@@ -244,16 +241,15 @@ export default function HomePage() {
         />
         <div>
           <p className="font-semibold text-zinc-100">Zachary Lui</p>
-          {LINEAGE.map((line, i) => (
-            <p key={line} className={i === 0 ? "mt-1 text-zinc-300" : "text-zinc-300"}>
-              {line}
-            </p>
-          ))}
-          <p className="mt-2 text-zinc-400">Spiritual master: Andrieh Vitimus. Apprenticing since 2008.</p>
+          {/* Lineage lines live in the footer directly below, so the box carries the teacher line only. */}
+          <p className="mt-1 text-zinc-300">Spiritual master: Andrieh Vitimus. Apprenticing since 2008.</p>
+          <p className="mt-2">
+            <a href="/about-this-book/">About the author →</a>
+          </p>
         </div>
       </section>
 
-      <section className="mt-16">
+      <section className="mt-16 sm:mt-24">
         <h2 className="heading-2">Start with the Index</h2>
         <div className="mt-6">
           <IndexSignupForm id="bottom" />

@@ -24,35 +24,35 @@ const STATUS = {
 export default function OperationsMap() {
   return (
     <figure className="m-0">
-      <ol className="grid list-none auto-rows-fr grid-cols-1 gap-3 p-0 min-[480px]:grid-cols-3">
+      <ol className="grid list-none auto-rows-fr grid-cols-2 gap-2 p-0 min-[480px]:grid-cols-3 min-[480px]:gap-3">
         {OPS.map((op) => {
           const inner = (
-            // Phone: glyph on the left, text on the right, so nine tiles stay short. Wider: stacked seal tiles.
-            <span className="grid grid-cols-[5rem_1fr] items-center gap-x-3 min-[480px]:block">
+            // Stacked seal tiles; two across on phones so the nine stay short.
+            <span className="block">
               <span
                 aria-hidden="true"
-                className={`row-span-2 block min-h-[1.2em] whitespace-nowrap font-display text-2xl leading-tight min-[480px]:order-none min-[480px]:text-3xl ${
+                className={`block min-h-[1.2em] whitespace-nowrap font-display text-2xl leading-tight min-[480px]:text-3xl ${
                   op.status === "cut" ? "text-cinnabar-400" : op.status === "held" ? "text-zinc-500" : "text-cream-100"
                 }`}
               >
                 {op.glyph || "?"}
               </span>
               <span className="block min-w-0">
-                <span className="block font-display text-lg font-semibold leading-snug text-cream-100">
+                <span className="block font-display text-base font-semibold leading-snug text-cream-100 min-[480px]:text-lg">
                   <span className="mr-2 text-sm tracking-[0.15em] text-gold-400">{op.n}</span>
                   {op.name}
                 </span>
-                {op.gloss ? <span className="block text-base text-zinc-300">{op.gloss}</span> : null}
-                <span
-                  className={`mt-1 block text-sm ${op.status === "cut" ? "text-cinnabar-400" : "text-zinc-400"}`}
-                >
-                  {STATUS[op.status]}
-                </span>
-                {op.watch ? <span className="mt-1 block text-sm text-gold-400">Watch the lesson →</span> : null}
+                {op.gloss ? <span className="block text-sm text-zinc-300 min-[480px]:text-base">{op.gloss}</span> : null}
+                {/* The six clinic tiles share one status, said once in the caption; only cut and held tiles carry a line. */}
+                {op.status !== "clinic" ? (
+                  <span className={`mt-1 block text-sm ${op.status === "cut" ? "text-cinnabar-400" : "text-zinc-400"}`}>
+                    {STATUS[op.status]}
+                  </span>
+                ) : null}
               </span>
             </span>
           );
-          const box = `block h-full rounded-lg border px-4 py-3 no-underline ${
+          const box = `block h-full rounded-lg border px-3 py-3 no-underline min-[480px]:px-4 ${
             op.status === "cut" ? "border-cinnabar-600 bg-cinnabar-600/10" : "border-charcoal-800 bg-charcoal-950/60"
           }`;
           return (
@@ -70,7 +70,7 @@ export default function OperationsMap() {
       </ol>
       <figcaption className="mt-3 text-base text-zinc-400">
         The nine operations of the Secret Menu Index. Six already run in clinic without the name, two were cut, one is held
-        back. The Secret Menu works one operation per class.
+        back. Tiles with a lesson link to it. The Secret Menu works one operation per class.
       </figcaption>
     </figure>
   );

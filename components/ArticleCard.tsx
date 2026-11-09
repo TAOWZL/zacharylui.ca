@@ -8,7 +8,7 @@ export default function ArticleCard({ entry, kicker }: { entry: WritingEntry; ki
       className="group flex min-w-0 flex-col overflow-hidden rounded-lg border border-charcoal-800 bg-charcoal-950/70 no-underline hover:border-cinnabar-500/60"
     >
       {entry.cover ? (
-        <div className="aspect-video overflow-hidden bg-charcoal-900">
+        <div className="aspect-[5/2] overflow-hidden bg-charcoal-900 sm:aspect-video">
           <img
             src={entry.cover}
             alt=""
