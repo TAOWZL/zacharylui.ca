@@ -44,7 +44,7 @@ So chapter one put a date on your curriculum, seventy-five on the policy, sevent
 
 ### The ritual department, and the day it closed
 
-Start with the ritual department. It sat inside the state medical bureaucracy for about a thousand years, and it kept getting renamed as the dynasties turned over. Three names, one department. Lin Fu-shih spent a career on this, and he traces it as one line, not three similar things. It ran for longer than your profession has had a college, right? The names are in the reading list for you.
+I'll start with the ritual department. It sat inside the state medical bureaucracy for about a thousand years, and it kept getting renamed as the dynasties turned over. Three names, one department. Lin Fu-shih spent a career on this, and he traces it as one line, not three similar things. It ran for longer than your profession has had a college, right? The names are in the reading list for you.
 
 It ended in 1571. Struck off the roster, alongside the massage department. The date itself is standard, it's in the ordinary reference books, so honestly, don't take it as mine or as Lin's. What I take from Lin is the continuity. One line, all the way down. Plus his finding that most of the medical histories you'd actually read skip the abolition or get the date wrong. Want the actual statute? The Collected Statutes of the Great Ming.
 
