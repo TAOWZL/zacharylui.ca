@@ -111,7 +111,7 @@ export default function FreeIndexPage() {
 
       <nav aria-label="After the Index" className="mt-14 border-t border-charcoal-800 pt-8">
         <h2 className="heading-2">After the Index</h2>
-        <ul className="mt-5 grid list-none grid-cols-1 gap-3 p-0 sm:grid-cols-3">
+        <ul className="mt-5 grid list-none grid-cols-1 gap-3 p-0 sm:grid-cols-2">
           <li>
             <a href="/membership" className="chapter-card h-full">
               <span className="kicker block">Membership</span>
@@ -131,6 +131,13 @@ export default function FreeIndexPage() {
               <span className="kicker block">Free</span>
               <span className="display mt-2 block text-xl">Watch</span>
               <span className="mt-2 block text-zinc-300">Lessons on the operations, grouped by entry.</span>
+            </a>
+          </li>
+          <li>
+            <a href="/writing" className="chapter-card h-full">
+              <span className="kicker block">Free</span>
+              <span className="display mt-2 block text-xl">Read</span>
+              <span className="mt-2 block text-zinc-300">The Magick That Never Left, the history behind the Index, chapter by chapter.</span>
             </a>
           </li>
         </ul>
