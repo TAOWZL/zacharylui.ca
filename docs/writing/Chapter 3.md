@@ -13,6 +13,8 @@ tags:
 draft: false
 cover: /images/20_empty_seat.jpg
 publish: true
+series: The Magick That Never Left
+part: 3
 permalink: /lost-its-licence-in-1571/
 aliases:
   - lost-its-licence-in-1571

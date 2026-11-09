@@ -14,6 +14,8 @@ tags:
 draft: false
 publish: false
 cover: /images/21_transport_points.jpg
+series: The Magick That Never Left
+part: 5
 permalink: /how-the-old-doctors-read-a-body/
 aliases:
   - how-the-old-doctors-read-a-body

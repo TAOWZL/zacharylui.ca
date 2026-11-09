@@ -15,6 +15,8 @@ tags:
 draft: false
 publish: false
 cover: /images/09_yi_character.jpg
+series: The Magick That Never Left
+part: 4
 permalink: /the-magick-was-never-the-add-on/
 aliases:
 - the-magick-was-never-the-add-on

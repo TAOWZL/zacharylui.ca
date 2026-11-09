@@ -14,6 +14,8 @@ tags:
 draft: false
 publish: true
 cover: /images/01_mahjong.jpg
+series: The Magick That Never Left
+part: 1
 permalink: /chinese-medicine-is-75-years-old/
 aliases:
   - chinese-medicine-is-75-years-old

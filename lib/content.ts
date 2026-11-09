@@ -17,6 +17,9 @@ export type Frontmatter = {
   date?: string;
   showNewsletter?: boolean;
   noindex?: boolean;
+  // Writing index: pieces in a series group under it, ordered by part.
+  series?: string;
+  part?: number;
 };
 
 export type Doc = {
@@ -293,4 +296,44 @@ export function inferDescription(doc: Doc): string {
     .find((segment) => segment && !segment.startsWith("#"));
   if (!firstParagraph) return "Zachary Lui";
   return firstParagraph.replace(/\n/g, " ").slice(0, 160);
+}
+
+export type WritingEntry = {
+  slug: string;
+  title: string;
+  description: string;
+  date: string;
+  dateDisplay: string;
+  cover?: string;
+  series?: string;
+  part?: number;
+  minutes: number;
+};
+
+// Every published file in docs/writing/ is listed on /writing. A new article only
+// needs title, description, date and cover in its frontmatter; add series and part
+// to group it with the book or another series.
+export function getWriting(): WritingEntry[] {
+  const writingRoot = path.join(docsRoot, "writing") + path.sep;
+  return getAllDocs()
+    .filter((doc) => doc.sourcePath.startsWith(writingRoot) && !doc.data.noindex)
+    .map((doc) => {
+      const raw = doc.data.date as unknown;
+      const date = raw instanceof Date ? raw.toISOString().slice(0, 10) : raw ? String(raw) : "";
+      const words = doc.content.split(/\s+/).filter(Boolean).length;
+      return {
+        slug: doc.slug,
+        title: doc.data.title ?? doc.slug,
+        description: inferDescription(doc),
+        date,
+        dateDisplay: date
+          ? new Date(`${date}T12:00:00`).toLocaleDateString("en-CA", { year: "numeric", month: "long", day: "numeric" })
+          : "",
+        cover: doc.data.cover ?? doc.data.image,
+        series: doc.data.series,
+        part: doc.data.part,
+        minutes: Math.max(1, Math.round(words / 230))
+      };
+    })
+    .sort((a, b) => (a.date < b.date ? 1 : -1));
 }
