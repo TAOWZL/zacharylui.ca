@@ -48,13 +48,13 @@ export function FooterDisclaimer() {
   const laneZ = isLaneZPath(usePathname() ?? "");
   if (laneZ) {
     return (
-      <p className="mx-auto mt-8 max-w-3xl text-xs leading-relaxed text-zinc-400">
+      <p className="mt-8 max-w-3xl text-xs leading-relaxed text-zinc-400">
         This is education and energy practice, not medical treatment or diagnosis. Nothing on this site is a substitute for medical, mental health, legal, or professional advice.
       </p>
     );
   }
   return (
-    <p className="mx-auto mt-8 max-w-3xl text-xs leading-relaxed text-zinc-400">
+    <p className="mt-8 max-w-3xl text-xs leading-relaxed text-zinc-400">
       Acupuncture is a regulated health service in Ontario, provided by Zachary Lui, Registered Acupuncturist (R.Ac), under the{" "}
       <a
         href="https://www.ctcmpao.on.ca/publicregistersrc/"
