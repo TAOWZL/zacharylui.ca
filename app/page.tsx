@@ -8,7 +8,7 @@ import IndexSignupForm from "@/components/IndexSignupForm";
 
 const TITLE = "Zachary Lui | Chinese Magick and Divination Online";
 const DESCRIPTION =
-  "Wu shaman and Daoist priest by transmission. The Secret Menu membership and divination coaching on Zoom, in Chinese medicine as magick.";
+  "Wu shaman and Daoist priest by transmission. The Secret Menu membership, and divination coaching on Zoom, in Chinese medicine as magick.";
 
 export const metadata: Metadata = {
   title: { absolute: TITLE },
@@ -42,7 +42,7 @@ const OFFERS: Offer[] = [
   {
     kicker: "Membership",
     name: "The Secret Menu",
-    body: "One class a month on Zoom, each on an operation from the Index. Every class is recorded, and every monograph after garlic goes to members only.",
+    body: "One recorded class a month, each on an operation from the Index. Members send questions, answered in the next class, and every monograph after garlic goes to members only.",
     detail: "$75 CAD a month + tax. The first 20 members keep that rate. Cancel any time.",
     cta: "Join The Secret Menu",
     href: "https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w",
