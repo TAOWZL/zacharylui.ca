@@ -170,9 +170,9 @@ export default function HomePage() {
         <p className="mt-2 text-[0.95rem] leading-relaxed text-zinc-300">
           <span className="kicker mr-3 whitespace-nowrap">Taught at</span>
           {TAUGHT_AT.map((v, i) => (
-            <span key={v} className="whitespace-nowrap">
-              {v}
-              {i < TAUGHT_AT.length - 1 ? <span className="mx-2 text-zinc-500">·</span> : null}
+            <span key={v}>
+              <span className="whitespace-nowrap">{v}</span>
+              {i < TAUGHT_AT.length - 1 ? <span className="mx-2 text-zinc-500">·</span> : null}{" "}
             </span>
           ))}
         </p>
