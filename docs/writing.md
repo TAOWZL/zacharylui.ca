@@ -4,32 +4,58 @@ description: Essays and notes on classical Chinese medicine, qigong, ritual, and
 cover: /images/hero-writing.svg
 permalink: writing
 ---
-Essays and notes on classical Chinese medicine, qigong, ritual, and the territory where older traditions meet modern practice. Written for practitioners and serious lay readers. Irregular, no editorial calendar.
+Essays on classical Chinese medicine, qigong and ritual, written for practitioners and serious lay readers.
 
 Not medical advice. If something here touches what you're working with clinically, take it to your own practitioner.
 
-# The Magick That Never Left
+## The Magick That Never Left
 
-Two chapters. They are the written foundation for everything that follows: the argument that the Chinese medicine you were trained in is 75 years old, and the receipts for the claim that your clinic already runs eight of the nine things a magician does. Read them in order. Chapter two carries the sources the rest stands on. Each chapter ends with a reading list that names the editions and flags what is contested.
+A serialized book, three chapters so far. Read them in order. Each one ends with a reading list that names the editions and flags what is contested.
 
 [About this book, and who's writing it →](https://zacharylui.ca/about-this-book/)
 
-- **[Chapter 1: Chinese Medicine Is 75 Years Old](https://zacharylui.ca/chinese-medicine-is-75-years-old)**: A mahjong reading that wasn't fortune-telling. Why the version of Chinese medicine you encounter is 75 years old and not 4,000, what the post-war reform renamed, and the man who wanted the whole thing abolished in 1929 and was right about what it is.
+### 1. Chinese Medicine Is 75 Years Old
 
-- **[Chapter 2: Your Clinic Runs Eight of Nine](https://zacharylui.ca/eight-of-nine)**: Nine things a magician does. Your clinic does eight of them, today, and nobody told you which eight. Where each one lives in this medicine, and the two places I get careful.
+Why the version of Chinese medicine you were trained in is 75 years old and not 4,000, what the post-war reform renamed, and the man who wanted it abolished in 1929 and was right about what it is.
 
-# The Nine Operations, on video
+[Read chapter one →](https://zacharylui.ca/chinese-medicine-is-75-years-old)
 
-The story continues on camera, one operation per lesson. Each lesson names one thing you already do in clinic, shows you what it is, and hands you the receipt: the word in your own vocabulary that proves it. Operation 1 is pulse diagnosis. [Watch the series →](/watch)
+### 2. Your Clinic Runs Eight of Nine
 
-# The Secret Menu
+Nine things a magician does. The medicine your clinic runs on holds eight of them, and nobody told you which eight.
 
-**The Secret Menu Index** is the free map: every operation running unlabeled in your training, what it was, when it was cut, and where it is restored. [Get the Index by email →](https://zacharylui.ca/free-index). Subscribers also get the sample monograph, garlic, 大蒜 (garlic); every monograph after it is members only.
+[Read chapter two →](https://zacharylui.ca/eight-of-nine)
 
-**The Secret Menu** is the paid room: one recorded class a month on an operation from the Index, plus every monograph after garlic, members only. \$75 a month plus tax, open to the first 20 members and locked for as long as you stay a member. After that, the price goes up. [Join The Secret Menu →](https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w)
+### 3. Chinese Medicine Lost Its Licence in 1571
 
-# Elsewhere
+A ritual department sat inside the Chinese state medical bureaucracy for about a thousand years. The dates on all eight, and the year that department was struck off the roster.
 
-**Deeper Down the Rabbit Hole.** Co-host with Andrieh Vitimus. Long-form conversations on contemporary esoteric practice, ritual, and tradition. [ddtrh.com](https://ddtrh.com/)
+[Read chapter three →](https://zacharylui.ca/lost-its-licence-in-1571)
 
-For more press coverage, podcast interviews, and conference talks, see [Press](https://zacharylui.ca/press).
+---
+
+## The Nine Operations, on video
+
+One operation per lesson, with the word in your own vocabulary that proves it. Operation 1 is divination, starting at the pulse.
+
+[Watch the series →](/watch)
+
+---
+
+## The Secret Menu
+
+**Free.** The Secret Menu Index maps every operation running unlabeled in your training: what it was, when it was cut, and where it is restored. Subscribers also get the sample monograph, garlic (大蒜).
+
+[Get the Index by email →](https://zacharylui.ca/free-index)
+
+**Paid.** One recorded class a month from the Index, plus every monograph after garlic. \$75 CAD a month plus tax, locked for the first 20 members for as long as they stay. After that, the price goes up.
+
+[Join The Secret Menu →](https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w)
+
+---
+
+## Elsewhere
+
+**Deeper Down the Rabbit Hole.** Co-hosted with Andrieh Vitimus. Long-form conversations on contemporary esoteric practice, ritual and tradition. [ddtrh.com](https://ddtrh.com/)
+
+Press coverage, podcast interviews and conference talks are on the [Press](https://zacharylui.ca/press) page.
