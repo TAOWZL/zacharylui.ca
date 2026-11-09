@@ -15,6 +15,8 @@ In The Secret Menu you work the rest of it, for yourself, in your own life, one 
 
 No refunds for change of mind. If a month's class is not released within 30 days after that month ends, that month's charge is refunded. [Full terms](/terms).
 
+Payments are processed by Wuji Xuan Life Wellness Ltd. It shows on the checkout page and your card statement.
+
 [Join The Secret Menu →](https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w)
 
 ## What you get
@@ -59,6 +61,8 @@ LINEAGE_CHART_DIAGRAM
 The first 20 members at \$75 keep that rate for as long as they stay subscribed. After 20, the price goes up for new members, and checkout shows it before you pay.
 
 To cancel, email zac@zacharylui.ca with the subject line "Cancel" and every future charge stops. [Full terms](/terms).
+
+Payments are processed by Wuji Xuan Life Wellness Ltd. It shows on the checkout page and your card statement.
 
 [Join The Secret Menu →](https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w)
 
