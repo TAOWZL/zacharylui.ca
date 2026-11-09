@@ -92,7 +92,7 @@ So the swap left the reasoning standing and changed what the reasoning was for. 
 
 I lean on Nathan Sivin here, the historian of Chinese science. What I take from him is narrow. He translated and studied the 1972 *Revised Outline of Chinese Medicine*, a textbook written to teach this material to biomedically trained physicians, and what he showed is how much old correlative reasoning is still carrying the load underneath the materialist presentation. He used it to measure the change. I use it to measure what kept running. Read him and decide for yourself.
 
-So say Liver qi stagnation, needle Taichong. What did you just run? A correspondence operation. And the structure runs whether or not you've got a name for it, which is exactly why it survived the swap. What it asks of you is a separate question, and that's the one the swap answered differently.
+So say Liver qi stagnation, needle Taichong (Liver 3). What did you just run? A correspondence operation. And the structure runs whether or not you've got a name for it, which is exactly why it survived the swap. What it asks of you is a separate question, and that's the one the swap answered differently.
 
 It's like a courthouse. The oath, the robes, the standing up and sitting down, the reading-in of a charge. Every one of those is a ritual form that still does real work in that room. And nobody in it would call the day's business a rite. Your clinic's the same. You're standing inside an older machine that never stopped running. Strip out every talisman, and you've still got a resonance engine sitting there, because the resonance engine *is* the medicine.
 
