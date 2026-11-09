@@ -75,7 +75,6 @@ const TAUGHT_AT = [
   "Penn State University",
   "World Tai Chi & Qigong Summit",
   "Saam Diagnostic Conference",
-  "Results Over Image Institute",
   "ConVocation",
   "Toronto and Hamilton Pagan Pride"
 ];
