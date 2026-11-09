@@ -52,9 +52,9 @@ Ritual work is spiritual work, not healthcare. Sits outside R.Ac scope, not a su
 
 ## Teaching
 
-Faculty and instructor at the Ontario College of Traditional Chinese Medicine, Eight Branches Academy of Eastern Medicine, and Acupuncture & Integrative Medicine Academy. Courses taught span the clinical foundations, Internal Medicine (內科), hands-on disciplines (Tui Na, Qigong therapy, student clinic), and the professional preparation subjects that get new practitioners ready to register.
+Faculty and instructor at the Ontario College of Traditional Chinese Medicine, Eight Branches Academy of Eastern Medicine, and Acupuncture & Integrative Medicine Academy. Curriculum Developer at Loyalist College since 2026, building post-secondary TCM and acupuncture courses. Courses taught span the clinical foundations, Internal Medicine (內科), hands-on disciplines (Tui Na, Qigong therapy, student clinic), and the professional preparation subjects that get new practitioners ready to register.
 
-Student cohorts at AIM Academy achieved 100% Pan-Canadian exam pass rates in 2024 and 2025.
+Student cohorts at AIM Academy achieved 100% Pan-Canadian exam pass rates in 2024, 2025, and 2026.
 
 Invited Qigong Master and Lecturer at Penn State University in 2022. Conference presentations at the Saam Diagnostic Conference (2025) and the World Tai Chi & Qigong Summit (2024).
 

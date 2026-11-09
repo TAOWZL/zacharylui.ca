@@ -11,7 +11,9 @@ Teaching TCM and acupuncture in Ontario since 2018. Courses taught span the clin
 
 ## Current and past appointments
 
-**Acupuncture & Integrative Medicine Academy (AIM Academy), Toronto.** Faculty instructor. Clinical acupuncture and Tui Na. Student cohorts achieved 100% Pan-Canadian exam pass rates in 2024 and 2025.
+**Loyalist College.** Curriculum Developer, 2026 to present. Post-secondary TCM and acupuncture course design.
+
+**Acupuncture & Integrative Medicine Academy (AIM Academy), Toronto.** Faculty instructor. Clinical acupuncture and Tui Na. Student cohorts achieved 100% Pan-Canadian exam pass rates in 2024, 2025, and 2026.
 
 **Eight Branches Academy of Eastern Medicine, Toronto.** Faculty instructor, 2023. Tui Na and clinical foundations. Supervised clinical hours with student cohorts.
 
