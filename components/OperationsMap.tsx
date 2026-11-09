@@ -24,11 +24,12 @@ const STATUS = {
 export default function OperationsMap() {
   return (
     <figure className="m-0">
-      <ol className="grid list-none auto-rows-fr grid-cols-2 gap-2 p-0 min-[480px]:grid-cols-3 min-[480px]:gap-3">
+      <ol className="grid list-none grid-cols-2 gap-2 p-0 min-[480px]:auto-rows-fr min-[480px]:grid-cols-3 min-[480px]:gap-3">
         {OPS.map((op) => {
           const inner = (
             // Stacked seal tiles; two across on phones so the nine stay short.
             <span className="block">
+              <span className="flex items-baseline justify-between gap-2">
               <span
                 aria-hidden="true"
                 className={`block min-h-[1.2em] whitespace-nowrap font-display text-2xl leading-tight min-[480px]:text-3xl ${
@@ -37,9 +38,10 @@ export default function OperationsMap() {
               >
                 {op.glyph || "?"}
               </span>
+              <span className="text-sm tracking-[0.15em] text-gold-400">{op.n}</span>
+              </span>
               <span className="block min-w-0">
                 <span className="block font-display text-base font-semibold leading-snug text-cream-100 min-[480px]:text-lg">
-                  <span className="mr-2 text-sm tracking-[0.15em] text-gold-400">{op.n}</span>
                   {op.name}
                 </span>
                 {op.gloss ? <span className="block text-sm text-zinc-300 min-[480px]:text-base">{op.gloss}</span> : null}
@@ -56,7 +58,7 @@ export default function OperationsMap() {
             op.status === "cut" ? "border-cinnabar-600 bg-cinnabar-600/10" : "border-charcoal-800 bg-charcoal-950/60"
           }`;
           return (
-            <li key={op.n} className="min-w-0">
+            <li key={op.n} className={op.status === "held" ? "col-span-2 min-w-0 min-[480px]:col-span-1" : "min-w-0"}>
               {op.watch ? (
                 <a href={`/watch#${op.watch}`} className={`${box} hover:border-gold-400`}>
                   {inner}
