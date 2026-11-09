@@ -18,6 +18,16 @@ export function MarkdownPage({ doc }: Props) {
   const description = doc.data.description;
   const cover = doc.data.cover ?? doc.data.image;
   const hasHero = Boolean(cover);
+  // Chapters open with their description as the first paragraph; showing it in the hero too repeats it.
+  const firstParagraph = rawMarkdown
+    .replace(/^\s*#\s.*$/m, "")
+    .trim()
+    .split(/\n\s*\n/)[0]
+    ?.replace(/[*_`]/g, "")
+    .trim() ?? "";
+  const norm = (t: string) => t.replace(/\s+/g, " ").trim().toLowerCase();
+  const heroDescription =
+    description && !norm(firstParagraph).startsWith(norm(description).slice(0, 60)) ? description : null;
   const showNewsletter = doc.data.showNewsletter === true;
 
   // react-markdown strips raw HTML, so a <details> block in the source never
@@ -133,12 +143,12 @@ export function MarkdownPage({ doc }: Props) {
           <img
             src={cover}
             alt={title}
-            className="h-72 w-full object-cover object-top md:h-[28rem]"
+            className="hero-image"
           />
           <div className="hero-overlay" />
           <div className="hero-content">
             <h1 className="hero-title">{title}</h1>
-            {description ? <p className="hero-description">{description}</p> : null}
+            {heroDescription ? <p className="hero-description">{heroDescription}</p> : null}
           </div>
         </article>
       ) : null}

@@ -194,8 +194,13 @@ a:hover {
 
 /* ── Hero ──────────────────────────────────────────────── */
 
+/* The text sets the height (with a floor) and the image fills behind it, so long titles grow the box instead of clipping. */
 .hero-shell {
   @apply relative overflow-hidden rounded-2xl border border-charcoal-800 shadow-2xl shadow-black/40;
+}
+
+.hero-image {
+  @apply absolute inset-0 h-full w-full object-cover object-top;
 }
 
 .hero-overlay {
@@ -203,7 +208,7 @@ a:hover {
 }
 
 .hero-content {
-  @apply absolute bottom-0 left-0 right-0 space-y-3 p-4 sm:p-6 md:space-y-4 md:p-10;
+  @apply relative flex min-h-[18rem] flex-col justify-end space-y-3 p-4 pt-16 sm:p-6 sm:pt-20 md:min-h-[28rem] md:space-y-4 md:p-10;
 }
 
 .hero-kicker {
