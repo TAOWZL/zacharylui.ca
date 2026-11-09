@@ -210,7 +210,7 @@ Sun Simiao put the spell and the decoction in the same book because as far as he
 
 ---
 
-<small>*What it is and isn't: it teaches ritual, cultivation and correspondence practice as spiritual and educational work. It is not a clinical course, it does not teach acupuncture or TCM diagnosis, nothing in it is offered as treating, diagnosing or curing any condition in you or anyone else, nothing in it is presented as making any regulated treatment more effective, and finishing it confers no competency to treat. It is not open to my acupuncture patients, and subscribing creates no practitioner-patient relationship of any kind.*</small>
+<small>*What it is and isn't: it teaches ritual, cultivation and correspondence practice as spiritual and educational work. It is not a clinical course, it does not teach acupuncture or TCM diagnosis, nothing in it is offered as treating, diagnosing or curing any condition in you or anyone else, nothing in it is presented as making any regulated treatment more effective, and finishing it confers no competency to treat. It is not open to anyone in a clinical relationship with me, and subscribing creates no practitioner-patient relationship of any kind.*</small>
 
 ---
 
