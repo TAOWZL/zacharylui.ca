@@ -26,6 +26,10 @@ publish: true
 
 3. Add a nav item in `site.config.ts` if needed.
 
+## 2b) Add an article to /writing
+
+Put a `.md` in `docs/writing/` with `title`, `description`, `date`, `cover` (16:9 image) and `publish: true`. It shows on /writing automatically, newest first under Essays. Add `series: Name` and `part: N` to group it as a series instead (the book uses `series: The Magick That Never Left`).
+
 ## 3) SEO and metadata
 
 Supported frontmatter keys:

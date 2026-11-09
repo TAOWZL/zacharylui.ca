@@ -13,6 +13,8 @@ tags:
 draft: false
 publish: true
 cover: /images/15_nine_operations.jpg
+series: The Magick That Never Left
+part: 2
 permalink: /eight-of-nine/
 aliases:
   - eight-of-nine
