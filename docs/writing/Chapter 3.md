@@ -38,7 +38,7 @@ Every month we hold a primordial Daoist luck ritual, and every month it makes lu
 
 For about a thousand years the Chinese state kept a line of departments where those two sat, the talismans and the calling of spirits.
 
-So chapter one put a date on your curriculum, seventy-five on the policy, seventy on the version you were taught. Now I put dates on the eight. Divination, sympathetic magic, talismans, energy work, gnosis, illumination, banishing, and the calling of spirits, right? And they didn't arrive together, not even close. Different centuries, different directions, and there was never a morning in the Han when somebody walked in and switched them all on at once. So if somebody tells you a system has to switch on all at once to count, think of it like a city. Nobody stands in London and says it can't be a real place because it has no plan.
+So chapter one put a date on your curriculum, seventy-five on the policy, seventy on the version you were taught. Now I put dates on the eight. Divination, sympathetic magic, talismans, energy work, gnosis, illumination, banishing, and the calling of spirits, right? And they didn't arrive together, not even close. They came in over different centuries, from different directions. There was never a morning in the Han dynasty, about two thousand years ago, when somebody walked in and switched them all on at once. So if somebody tells you a system has to switch on all at once to count, that's not how anything old gets built. London grew street by street over a thousand years, and nobody says it isn't a real city.
 
 ## Dates on the eight
 
