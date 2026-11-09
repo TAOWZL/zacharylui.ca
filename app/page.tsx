@@ -116,7 +116,7 @@ export default function HomePage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(JSON_LD) }} />
       <section>
         <p className="kicker">Zachary Lui</p>
-        <h1 className="display mt-3 text-[2rem] leading-tight sm:text-5xl">
+        <h1 className="display mt-3 text-balance text-[2rem] leading-tight sm:text-5xl">
           Chinese medicine is magick. Learn to work it.
         </h1>
         <p className="mt-4 max-w-2xl text-xl leading-relaxed text-zinc-300">
@@ -133,21 +133,21 @@ export default function HomePage() {
 
       <section aria-label="Featured on" className="mt-10">
         <p className="kicker">Featured on</p>
-        <ul className="mt-3 grid list-none grid-cols-2 gap-2 p-0 sm:gap-3">
+        <ul className="mt-3 grid list-none grid-cols-1 gap-2 p-0 min-[480px]:grid-cols-2 sm:gap-3">
           {FEATURED.map((f) => (
             <li key={f.show} className="min-w-0">
-              <a href={f.href} className="chapter-card group h-full" rel="noopener">
-                <span className="flex flex-col items-start gap-2 sm:flex-row sm:items-center sm:gap-4">
+              <a href={f.href} className="chapter-card group h-full !p-3 sm:!p-5" rel="noopener">
+                <span className="flex items-center gap-3 sm:gap-4">
                 <img
                   src={f.img}
                   alt={`${f.show} cover art`}
                   width={80}
                   height={80}
                   loading="lazy"
-                  className="h-12 w-12 shrink-0 rounded-md border border-charcoal-800 object-cover opacity-90 transition group-hover:opacity-100 sm:h-[4.5rem] sm:w-[4.5rem]"
+                  className="h-10 w-10 shrink-0 rounded-md border border-charcoal-800 object-cover opacity-90 transition group-hover:opacity-100 sm:h-[4.5rem] sm:w-[4.5rem]"
                 />
                 <span className="min-w-0">
-                  <span className="display block text-base leading-snug sm:text-lg">{f.show}</span>
+                  <span className="display block text-[0.95rem] leading-snug sm:text-lg">{f.show}</span>
                   <span className="mt-1 hidden text-zinc-300 sm:block">{f.title}</span>
                 </span>
                 </span>
@@ -231,13 +231,13 @@ export default function HomePage() {
         </p>
       </section>
 
-      <section className="mt-16 sm:mt-24 flex flex-col items-start gap-5 rounded-lg border border-charcoal-800 bg-charcoal-950/60 p-5 sm:flex-row sm:items-center">
+      <section className="mt-16 sm:mt-24 flow-root rounded-lg border border-charcoal-800 bg-charcoal-950/60 p-5 sm:flex sm:flex-row sm:items-center sm:gap-5">
         <img
           src="/images/zachary-headshot-2.jpg"
           alt="Zachary Lui"
           width={96}
           height={96}
-          className="h-24 w-24 rounded-full object-cover"
+          className="float-left mb-1 mr-4 h-16 w-16 shrink-0 rounded-full object-cover sm:float-none sm:m-0 sm:h-24 sm:w-24"
         />
         <div>
           <p className="font-semibold text-zinc-100">Zachary Lui</p>
