@@ -7,27 +7,27 @@ publish: true
 
 # About This Book
 
-*The Magick That Never Left: Classical Chinese Medicine and the Tradition Still Beneath It.* The chapters are free to read here.
+*The Magick That Never Left: Classical Chinese Medicine and the Tradition Still Beneath It.* The chapters are free to read on this site.
 
 ## What it argues
 
-The version of Chinese medicine you encounter is about 75 years old. It's the post-war reform version, and it's a real medicine that holds up in practice. It is also a specific historical edit of something older.
+The version of Chinese medicine you encounter is about 75 years old. It's the post-war reform version, the one the profession is regulated, examined and insured on. It is also a specific historical edit of something older.
 
-What got edited out wasn't the needle and it wasn't the decoction. It was the framing that held them, the cultivation that activated them, and the public naming that said any of this out loud.
+What got edited out wasn't the needle and it wasn't the decoction. It was the framing that held them, the cultivation the operator brought to them, and the public naming that said any of this out loud.
 
-The book's claim is that the reasoning layer underneath the medicine is a worked correspondence system, that a worked correspondence system is what the word magick names, and that a licensed practitioner today is running most of the operations whether or not anybody says so. Not a medicine with some magic attached. A magical technology that got its vocabulary changed.
+The book's claim is that the reasoning layer underneath the medicine is a worked correspondence system, that a worked correspondence system is what the word magick names, and that a licensed practitioner today is running most of the operations whether or not anybody says so. It is a magickal system that got its vocabulary changed.
 
 That claim is about how a historical system of reasoning works. It is not a claim that any treatment produces any effect.
 
 ## Where to start
 
-Chapter one, then chapter two. Chapter two carries the receipts.
+Chapter one, then two, then three. Chapter two carries the receipts.
 
-If you only read one, read chapter two. It's the spine.
+If you only read one, read chapter two. It's the spine. Chapter three states the claim and the fence.
 
 ## About the people in it
 
-**Every person described in this book is a composite.** Each is drawn from several sources, with identifying details altered or invented. No scene is a record of an actual patient or an actual session. Where a scene describes something that happened in a clinical room, the clinical particulars have been changed. Nobody in these pages can be identified, because nobody in these pages is one person.
+**Every patient or client described in this book is a composite.** Each is drawn from several sources, with identifying details altered or invented. No scene is a record of an actual patient or an actual session. Where a scene describes something that happened in a clinical room, the clinical particulars have been changed. Nobody in these pages can be identified, because nobody in these pages is one person.
 
 Where I've changed my mind about a story since I first told it, I say so on the page rather than quietly telling the better version.
 
@@ -49,25 +49,25 @@ I work across more than one tradition, and they do not share a door.
 
 **Teaching and writing**, including this book, is neither of those.
 
-Some chapters describe work from the second and third doors. Where they do, they say so on the page. The fence is in the book because it is real, not because a lawyer asked for it.
+Some chapters describe work from the second and third doors. Where they do, they say so on the page. The fence is in the book because it is real.
 
 ## On the Chinese
 
-Chinese terms appear with the English first, then the characters and the romanization in brackets: governing the spirit (治神 zhì shén), talisman water (符水 fú shuǐ), the channel waters (經水 jīng shuǐ).
+Chinese terms appear with the English first, then the characters in brackets, with romanization where the sound matters. Where I take a character apart or quote a passage, the Chinese comes first and the English follows. For example: governing the spirit (治神 zhì shén), talisman water (符水 fú shuǐ), the channel waters (經水 jīng shuǐ).
 
 The English carries the meaning, so nothing is lost if you skip the brackets. They're there for two reasons. A reader who wants to chase a term into the primary literature has the exact characters to search on. And I can't quietly smuggle a translation past you, because the original is sitting right there next to it.
 
 Where a standard English rendering is contested, I use the one from the scholarly translation I'm citing, and the reading list says who I'm following.
 
-Where a passage carries weight in the argument, I quote a published translation and name the translator. Where none exists, the rendering is mine and the text and chapter are named.
+Where a passage carries weight in the argument, the reading list names the published translation I'm following, or says the rendering is mine, with the text and chapter named.
 
 ## Credentials
 
-Registered Acupuncturist (R.Ac) in Ontario, in clinical practice since 2015. Formal TCM training through the Ontario College of Traditional Chinese Medicine. Teaching qigong since 2013, teaching TCM and acupuncture since 2018.
+Apprenticed to my teachers since 2008. Registered Acupuncturist (R.Ac) in Ontario, in clinical practice since 2015. Formal TCM training through the Ontario College of Traditional Chinese Medicine. Teaching qigong since 2013, teaching TCM and acupuncture since 2018.
 
 Continuing study beyond the core curriculum in classical Chinese medicine, including advanced needling technique studied with the late Professor Jin Zhang, a UNESCO-recognized representative of the Traditional Chinese Acupuncture Intangible Cultural Heritage of Humanity.
 
-**Master of Medical Qigong. That is a non-clinical designation and it is not the regulated one.** It is not a medical qualification. It is not on my acupuncture registration and it confers nothing inside the regulated door. It is written out here in those words on purpose.
+**Master of Medical Qigong. A non-clinical designation, separate from my R.Ac registration.** It is not a medical qualification. It is not on my acupuncture registration and it confers nothing inside the regulated door.
 
 **Mao Shan Shangqing (茅山上清) transmission.** A Daoist lineage transmission, received privately. Religious and cultivational, not clinical. It diagnoses nothing, treats nothing, and decides nothing inside my acupuncture practice.
 
@@ -77,9 +77,9 @@ More at [About](https://zacharylui.ca/about).
 
 ## On the sources
 
-Every chapter ends with a collapsible reading list. That's not decoration. It carries the editions I'm working from, the places I'm relying on secondary literature rather than a primary source, the claims I've had to take back, and the strongest objections anybody has put to me.
+Every chapter ends with a collapsible reading list. It carries the editions I'm working from, the places I'm relying on secondary literature rather than a primary source, and the strongest objections anybody has put to me.
 
-Where I can't support something, I say so and drop the claim. Where a date or a quotation is contested, the reading list says it's contested and prints the other side.
+A claim without a source stays out. Where a date or a quotation is contested, the reading list says it's contested and prints the other side.
 
 Chase the sources. That's what they're there for.
 
