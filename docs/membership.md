@@ -69,3 +69,5 @@ Payments are processed by Wuji Xuan Life Wellness Ltd. It shows on the checkout 
 Want to read before you join? [The Index is free](/free-index).
 
 *This is education and energy practice, for your own use, not medical treatment or diagnosis. Nothing here replaces care from your doctor. No specific results are promised.*
+
+*The Secret Menu is spiritual and educational work. It is not a clinical course, it is not open to my acupuncture patients, and subscribing creates no practitioner-patient relationship.*
