@@ -17,7 +17,7 @@ No refunds for change of mind. If a month's class is not released within 30 days
 
 Payments are processed by Wuji Xuan Life Wellness Ltd. It shows on the checkout page and your card statement.
 
-[Join The Secret Menu →](https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w)
+[Join The Secret Menu →](https://6a86-zac.systeme.io/join-secret-menu)
 
 ## What you get
 
@@ -64,7 +64,7 @@ To cancel, email zac@zacharylui.ca with the subject line "Cancel" and every futu
 
 Payments are processed by Wuji Xuan Life Wellness Ltd. It shows on the checkout page and your card statement.
 
-[Join The Secret Menu →](https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w)
+[Join The Secret Menu →](https://6a86-zac.systeme.io/join-secret-menu)
 
 Want to read before you join? [The Index is free](/free-index).
 

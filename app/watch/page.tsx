@@ -6,7 +6,7 @@ import VideoCard, { type Video } from "@/components/VideoCard";
 const TITLE = "Watch: Chinese Medicine as Magick";
 const DESCRIPTION =
   "Videos from Zachary Lui on the operations of Chinese magick: divination in the pulse, correspondence, talismans, energy work and spirit work.";
-const JOIN = "https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w";
+const JOIN = "https://6a86-zac.systeme.io/join-secret-menu";
 const thumb = (id: string, file = "maxresdefault") => `https://i.ytimg.com/vi/${id}/${file}.jpg`;
 
 export const metadata: Metadata = {

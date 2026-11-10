@@ -47,7 +47,7 @@ const OFFERS: Offer[] = [
     body: "One recorded class a month, each on an operation from the Index. Members send questions, answered in the next class, and every monograph after garlic goes to members only.",
     detail: "$75 CAD a month + tax. The first 20 members keep that rate. Cancel any time.",
     cta: "Join The Secret Menu",
-    href: "https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w",
+    href: "https://6a86-zac.systeme.io/join-secret-menu",
     more: { label: "What's inside", href: "/membership" },
     paper: true
   },
