@@ -32,7 +32,7 @@ Founding rate: the three members who joined at $45 CAD a month plus 13% HST ($5.
 
 From Saturday, October 10, 2026 at 12:00 am Eastern, the price for new members is \$75 CAD a month plus 13% HST (\$9.75), \$84.75 CAD a month in total. This rate is limited to the first 20 members who join at it, and those 20 keep it for as long as they stay subscribed. Once 20 members have joined at this rate, the price for new members goes up, and the new price is shown on the checkout page before you join.
 
-The total is shown at checkout before you pay. Payment is processed by Stripe through Systeme. You are charged on the day you join and on the same day each month after that, until you cancel. There are no other fees.
+The total is shown at checkout before you pay. Payment is processed by Stripe through Systeme; founding members are billed by Stripe directly. You are charged on the day you join and on the same day each month after that, until you cancel. There are no other fees.
 
 If you cancel and join again later, the current rate applies.
 
