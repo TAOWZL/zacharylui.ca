@@ -8,7 +8,7 @@ const TITLE = "Writing";
 const DESCRIPTION =
   "Essays and a serialized book by Zachary Lui on classical Chinese medicine, qigong, ritual and the magick inside the medicine.";
 const BOOK = "The Magick That Never Left";
-const JOIN = "https://6a86-zac.systeme.io/join-secret-menu";
+const JOIN = "/join";
 
 export const metadata: Metadata = {
   title: TITLE,
