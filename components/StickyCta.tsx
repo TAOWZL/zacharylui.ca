@@ -4,7 +4,7 @@ import { usePathname } from "next/navigation";
 
 // Phone-only bar that keeps the one action in reach while people read a long sales page.
 const ACTIONS: Record<string, { label: string; href: string }> = {
-  "/membership": { label: "Join The Secret Menu", href: "https://buy.stripe.com/3cI8wObD81C38vkg9b3Nm0w" },
+  "/membership": { label: "Join The Secret Menu", href: "https://6a86-zac.systeme.io/join-secret-menu" },
   "/divination": { label: "Book a reading", href: "https://wujixuan.janeapp.com/#/staff_member/1/treatment/3" }
 };
 
