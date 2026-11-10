@@ -25,14 +25,14 @@ Payments are processed by Wuji Xuan Life Wellness Ltd. It shows on the checkout 
 - The recording of every class, yours while you stay subscribed.
 - Every new monograph after garlic. They go to members only. Garlic is 24 pages on one herb, sources itemised edition by edition, and it's [free with the Index](/free-index) so you can see the format first.
 
-Send your questions to zac@zacharylui.ca, and I answer them in the next class. Recordings and monographs land in a members' folder, sent to the email you join with.
+Send your questions to zac@zacharylui.ca, and I answer them in the next class. Recordings and monographs are in the members' area, and your login is the email you join with.
 
 ## In the library
 
 - **Class 1, September 2026: The Two States, Mapping Yin and Yang.**
 - **Class 2, October 2026: Ghost Road 01, 鬼宮 (Ghost Palace), with the primer.** The context for working the Thirteen Ghost Points from Sun Simiao's formulary. Recording released in November.
 - **Next: Ghost Road 02, 鬼信 (Ghost Trust).**
-- **Next monograph: 鹽 (salt).** Members only, in the members' folder when it lands.
+- **Next monograph: 鹽 (salt).** Members only, in the members' area when it lands.
 
 October opened the series **Walking the Ghost Road: The 13 Ghost Points of Sun Simiao**, one point per class in his order. Each class gives the etymology of the point's name, maps the state it holds, and works that state for inner transformation. Every class in the Secret Menu works this way: map the state, then work it.
 
