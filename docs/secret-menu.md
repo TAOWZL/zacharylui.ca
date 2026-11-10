@@ -40,7 +40,7 @@ In the library now: The Two States, Mapping Yin and Yang, and Ghost Road 01, 鬼
 
 Payments are processed by Wuji Xuan Life Wellness Ltd. It shows on the checkout page and your card statement.
 
-[Join The Secret Menu →](https://6a86-zac.systeme.io/join-secret-menu)
+[Join The Secret Menu →](https://zacharylui.ca/join)
 
 ## One to one
 
