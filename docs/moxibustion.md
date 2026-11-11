@@ -2,6 +2,7 @@
 title: Moxibustion
 description: Chinese Herbal Magick, moxibustion. Enrolment is closed.
 permalink: courses/moxibustion
+image: /images/og-moxibustion.jpg
 publish: true
 noindex: true
 ---
