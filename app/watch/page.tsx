@@ -51,6 +51,7 @@ const GROUPS: { name: string; videos: Row[] }[] = [
   {
     name: "Spirit work",
     videos: [
+      { id: "02noF-J9xSI", title: "Taoist Magic Says a Grudge Is a Ghost That Moved In", thumb: thumb("02noF-J9xSI"), length: "10 min", date: "2026-11-10", iso: "PT10M7S" },
       { id: "r1dIlfChBfs", title: "Da Shi Zhi Bodhisattva, with Andrieh Vitimus", thumb: thumb("r1dIlfChBfs", "hqdefault"), length: "71 min", date: "2017-01-21", iso: "PT1H10M54S" }
     ]
   }
