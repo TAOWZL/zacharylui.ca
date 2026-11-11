@@ -54,8 +54,8 @@ const OFFERS: Offer[] = [
   {
     kicker: "One to one",
     name: "Divination Coaching",
-    body: "Mahjong tiles or tarot, read with mediumship, 60 minutes on Zoom. Bring the decision. You leave with the read, the path that fits it, and a practice to work afterward.",
-    detail: "$175 CAD + tax. Wherever you are.",
+    body: "Mahjong tiles or tarot, read with mediumship, 60 minutes on Zoom or in person in Toronto. Bring the decision. You leave with the read, the path that fits it, and a practice to work afterward.",
+    detail: "$175 CAD + tax.",
     cta: "Book a session",
     href: "https://wujixuan.janeapp.com/#/staff_member/1/treatment/3",
     more: { label: "About the readings", href: "/divination" }

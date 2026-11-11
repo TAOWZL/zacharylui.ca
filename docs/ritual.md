@@ -47,7 +47,7 @@ Not every request is taken. Some work I don't do. Some work isn't mine to do, it
 
 The work begins in chaos magic. Andrieh Vitimus is my sifu (師父) in this work, the Chinese frame I use for the teacher relationship that holds across years and across traditions. The methodology comes through him and the Results Over Image Institute, where I continue to study and now also teach as a trainer. From that foundation, I have applied the approach across multiple traditions, including Chinese Esoteric Buddhist (唐密), Wu (巫), Daoist, and Reiki frameworks, across years of public practice.
 
-The Daoist transmission came on the basis of that work. **Mao Shan Shangqing (茅山上清) and folk Daoist lineage holder**, formal transmission received in 2020. Mao Shan Shangqing is a foundational Daoist Ritual tradition, rooted in the Mao mountains and the Shangqing school, with classical lineage going back to the fourth century. Folk Daoism carries the village and household practices alongside the institutional tradition.
+The Daoist transmission came on the basis of that work. **Mao Shan Shangqing (茅山上清) and folk Daoist transmission**, received in 2020. Mao Shan Shangqing is a foundational Daoist Ritual tradition, rooted in the Mao mountains and the Shangqing school, with classical lineage going back to the fourth century. Folk Daoism carries the village and household practices alongside the institutional tradition.
 
 LINEAGE_CHART_DIAGRAM
 

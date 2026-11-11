@@ -42,7 +42,7 @@ These are contemplative practices, not regulated health services. They sit outsi
 
 The work begins in chaos magic. Andrieh Vitimus is my sifu (師父) in this work. I continue to study with him at the Results Over Image Institute, where I now also teach as a trainer. From that foundation, I have applied the approach across multiple traditions, including Chinese Esoteric Buddhist (唐密), Wu (巫), Daoist, and Reiki frameworks, across years of public practice.
 
-The Daoist transmission came on the basis of that work. Mao Shan Shangqing (茅山上清) and folk Daoist lineage holder, formal transmission received from Robert Youngs at his passing in 2020. Youngs received the lineage from Jerry Alan Johnson. Mao Shan Shangqing is a foundational Daoist Ritual tradition, rooted in the Mao mountains and the Shangqing school, with classical lineage going back to the fourth century.
+The Daoist transmission came on the basis of that work. Mao Shan Shangqing (茅山上清) and folk Daoist transmission, received from Robert Youngs at his passing in 2020. Youngs received the lineage from Jerry Alan Johnson. Mao Shan Shangqing is a foundational Daoist Ritual tradition, rooted in the Mao mountains and the Shangqing school, with classical lineage going back to the fourth century.
 
 Ritual work is spiritual work, not healthcare. Sits outside R.Ac scope, not a substitute for medical, mental health, legal, or other professional care.
 
