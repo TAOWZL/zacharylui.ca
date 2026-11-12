@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import StripeRef from "@/components/StripeRef";
 
 // Lane Z coaching page: the YouTube descriptions ("apply" link) point here.
 // Scope: magick and personal practice coaching, never health care.
@@ -33,6 +34,7 @@ const WEEKS = [
 export default function CoachingPage() {
   return (
     <article className="mx-auto max-w-3xl py-2 sm:py-10">
+      <StripeRef />
       <p className="kicker">Coaching</p>
       <h1 className="display mt-2 text-[1.6rem] leading-tight text-zinc-50 sm:text-4xl">
         Work the medicine you already practise.
