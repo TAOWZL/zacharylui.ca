@@ -87,6 +87,8 @@ If you need to see the situation clearly before acting: 60 minutes, on Zoom or i
 
 [Or book Mahjong Wealth Divination](https://wujixuan.janeapp.com/#/staff_member/1/treatment/57)
 
+Want the hour spent on your practice itself: energy work, correspondences, herbal magick? That is [Private Coaching →](/coaching)
+
 If you are looking for a tarot reading, a reading with a medium, or Mahjong divination online or in Toronto, this work provides structured insight to support your own decision.
 
 ---

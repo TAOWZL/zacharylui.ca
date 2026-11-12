@@ -53,12 +53,12 @@ const OFFERS: Offer[] = [
   },
   {
     kicker: "One to one",
-    name: "Divination Coaching",
-    body: "Mahjong tiles or tarot, read with mediumship, 60 minutes on Zoom. Bring the decision. You leave with the read, the path that fits it, and a practice to work afterward.",
-    detail: "$175 CAD + tax. Wherever you are.",
-    cta: "Book a session",
-    href: "https://buy.stripe.com/3cI6oGdLggwXcLA2il3Nm0B",
-    more: { label: "About the readings", href: "/divination" }
+    name: "Private Sessions",
+    body: "Sixty minutes, spent one of two ways. A divination reading on a decision, with mediumship and mahjong tiles or tarot. Or coaching on your own practice: energy work, correspondences, herbal magick. You leave with a practice to work afterward.",
+    detail: "$175 CAD + tax. On Zoom wherever you are. Readings also in person in Toronto.",
+    cta: "Work your practice",
+    href: "/coaching",
+    more: { label: "Get a reading", href: "/divination" }
   },
   {
     kicker: "Commissioned",
