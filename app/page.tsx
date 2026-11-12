@@ -57,7 +57,7 @@ const OFFERS: Offer[] = [
     body: "Mahjong tiles or tarot, read with mediumship, 60 minutes on Zoom. Bring the decision. You leave with the read, the path that fits it, and a practice to work afterward.",
     detail: "$175 CAD + tax. Wherever you are.",
     cta: "Book a session",
-    href: "https://wujixuan.janeapp.com/#/staff_member/1/treatment/3",
+    href: "https://buy.stripe.com/3cI6oGdLggwXcLA2il3Nm0B",
     more: { label: "About the readings", href: "/divination" }
   },
   {
