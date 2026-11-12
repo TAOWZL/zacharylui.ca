@@ -150,6 +150,30 @@ function headingToHash(heading: string): string {
     .replace(/\s+/g, "-");
 }
 
+// One read-time for every place it shows (the /writing card and the line inside
+// the article). Counts the article body only: the reading list (the first
+// <details> block onward) is left out, as are HTML tags, image and link URLs.
+const WORDS_PER_MINUTE = 230;
+
+export function readMinutes(markdown: string): number {
+  const detailsAt = markdown.search(/<details[\s>]/i);
+  const body = (detailsAt === -1 ? markdown : markdown.slice(0, detailsAt))
+    .replace(/```[\s\S]*?```/g, " ")
+    .replace(/!\[[^\]]*\]\([^)]*\)/g, " ")
+    .replace(/\[([^\]]*)\]\([^)]*\)/g, "$1")
+    .replace(/<[^>]+>/g, " ")
+    .replace(/[#*_>`|]+/g, " ");
+  const words = body.split(/\s+/).filter((token) => /[\p{L}\p{N}]/u.test(token)).length;
+  return Math.max(1, Math.round(words / WORDS_PER_MINUTE));
+}
+
+// Rewrites a hand-typed read-time line ("~17 minute read", "About a 26 minute
+// read") to the computed figure, so the article never disagrees with its card.
+function syncReadTime(markdown: string): string {
+  const minutes = readMinutes(markdown);
+  return markdown.replace(/(~|About an? )\d+(?= minute read)/g, (_m, lead) => `${lead}${minutes}`);
+}
+
 export function getAllDocs(): Doc[] {
   const mdFiles = listMarkdownFiles(docsRoot);
   const docs: Doc[] = mdFiles.map((filePath) => {
@@ -160,7 +184,7 @@ export function getAllDocs(): Doc[] {
       slug,
       sourcePath: filePath,
       rawContent: raw,
-      content: stripMkdocsAttrLists(content),
+      content: syncReadTime(stripMkdocsAttrLists(content)),
       data: data as Frontmatter
     };
   });
@@ -320,7 +344,6 @@ export function getWriting(): WritingEntry[] {
     .map((doc) => {
       const raw = doc.data.date as unknown;
       const date = raw instanceof Date ? raw.toISOString().slice(0, 10) : raw ? String(raw) : "";
-      const words = doc.content.split(/\s+/).filter(Boolean).length;
       return {
         slug: doc.slug,
         title: doc.data.title ?? doc.slug,
@@ -332,7 +355,7 @@ export function getWriting(): WritingEntry[] {
         cover: doc.data.cover ?? doc.data.image,
         series: doc.data.series,
         part: doc.data.part,
-        minutes: Math.max(1, Math.round(words / 230))
+        minutes: readMinutes(doc.content)
       };
     })
     .sort((a, b) => (a.date < b.date ? 1 : -1));
