@@ -27,8 +27,7 @@ const TOPICS: [string, string][] = [
   ["Mapping metaphors", "reading your own situation through the images the system already uses"],
   ["Energy work", "qigong and neigong, set to what you are working on"],
   ["Correspondences", "and the method I call stacking"],
-  ["Herbal magick and sorcery", "making contact with the herb, then working it in spells"],
-  ["Divination coaching", "a reading on your question, then the work it points to"]
+  ["Herbal magick and sorcery", "making contact with the herb, then working it in spells"]
 ];
 
 const STEPS: [string, string][] = [
@@ -83,6 +82,13 @@ export default function CoachingPage() {
             $175 + tax <span className="text-base font-normal text-zinc-400">· 60 minutes · online</span>
           </p>
           <BookButton className="mt-4" />
+          <p className="mt-5 text-sm text-zinc-400">
+            Need a read on a decision instead?{" "}
+            <a href="/divination" className="underline decoration-zinc-500 underline-offset-4 hover:text-zinc-50">
+              Divination coaching
+            </a>{" "}
+            is the same hour, spent on the reading.
+          </p>
         </div>
         <img
           src="/images/zac-coaching.jpg"
