@@ -86,7 +86,7 @@ export default function CoachingPage() {
         </div>
         <img
           src="/images/zac-coaching.jpg"
-          alt="Zachary Lui in red Daoist robes, smiling as he spreads mahjong tiles across the table"
+          alt="Zachary Lui smiling, in a red Chinese-collar jacket"
           width={900}
           height={1125}
           className="w-full rounded-lg border border-charcoal-800 object-cover"
