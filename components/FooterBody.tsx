@@ -22,6 +22,7 @@ const LANE_Z_LINKS: [string, string][] = [
   ["/free-index", "The Free Index"],
   ["/membership", "The Secret Menu"],
   ["/divination", "Divination Coaching"],
+  ["/coaching", "Private Coaching"],
   ["/ritual", "Commissioned Ritual"],
   ["/watch", "Watch"],
   ["/writing", "Writing"]
