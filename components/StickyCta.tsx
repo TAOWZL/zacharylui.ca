@@ -5,7 +5,8 @@ import { usePathname } from "next/navigation";
 // Phone-only bar that keeps the one action in reach while people read a long sales page.
 const ACTIONS: Record<string, { label: string; href: string }> = {
   "/membership": { label: "Join The Secret Menu", href: "/join" },
-  "/divination": { label: "Book a reading", href: "https://buy.stripe.com/3cI6oGdLggwXcLA2il3Nm0B" }
+  "/divination": { label: "Book a reading", href: "https://buy.stripe.com/3cI6oGdLggwXcLA2il3Nm0B" },
+  "/coaching": { label: "Book a session", href: "https://buy.stripe.com/3cI6oGdLggwXcLA2il3Nm0B" }
 };
 
 export default function StickyCta() {
