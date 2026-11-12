@@ -7,8 +7,8 @@ const DESCRIPTION =
   "Work the medicine you already practise, for yourself. An eight-week founding cohort and one-on-one sessions in Chinese magick and practice.";
 
 // Stripe payment links (Wuji Xuan Life Wellness Ltd account). Both charge tax at checkout.
-// Private sessions book through the Divination Coaching calendar on Jane; the hour can be coaching, divination or both.
-const SESSION_URL = "https://wujixuan.janeapp.com/#/staff_member/1/treatment/3";
+// Private sessions: pay first by Stripe; the Stripe confirmation sends them to cal.com/zacharylui/coaching to book.
+const SESSION_URL = "https://buy.stripe.com/3cI6oGdLggwXcLA2il3Nm0B";
 const COHORT_URL = "https://buy.stripe.com/28E3cudLg5Sj9zo6yB3Nm0A";
 
 export const metadata: Metadata = {
