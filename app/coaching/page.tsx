@@ -24,22 +24,22 @@ export const metadata: Metadata = {
 };
 
 const TOPICS: [string, string][] = [
-  ["Mapping metaphors", "reading your own situation through the images the system already uses"],
-  ["Energy work", "qigong and neigong, set to what you are working on"],
-  ["Correspondences", "and the method I call stacking"],
-  ["Herbal magick and sorcery", "making contact with the herb, then working it in spells"]
+  ["Mapping metaphors", "put your situation on the Chinese map, so you can see which part of it to work on"],
+  ["Energy work", "qigong and neigong: standing, breathing and moving exercises, picked for what you are working on"],
+  ["Correspondences and stacking", "each of the five phases links to a season, a direction, a colour, a taste and a planet. Stacking lines several up at once, so one working pushes one way"],
+  ["Herbal magick and sorcery", "first you make contact with the herb, then you use it in a spell"]
 ];
 
 const STEPS: [string, string][] = [
   ["Pay", "$175 + tax by card. Stripe adds the tax at checkout."],
   ["Pick your time", "The next screen opens my calendar. Sessions are scheduled in Eastern time."],
-  ["Meet on Zoom", "Sixty minutes. We open on what you want to work, and close by going back over the exercises."]
+  ["Meet on Zoom", "Sixty minutes. You tell me what you want to change. We end by going back over the exercises, so you know what to do next."]
 ];
 
 const FAQ: [string, string][] = [
   [
     "Do I need to have studied Chinese medicine?",
-    "It helps. The hour moves fastest if you already know the five phases and the channels at study level. If you work another magickal system, bring it: we map it across."
+    "It helps. If you already know the five phases (wood, fire, earth, metal, water) and the channels, we get further in the hour. If you work another magick system, bring it, and we line it up with the Chinese one."
   ],
   [
     "Can I bring more than one topic?",
@@ -47,7 +47,7 @@ const FAQ: [string, string][] = [
   ],
   [
     "What do I leave with?",
-    "A practice or ritual to run on your own, and a summary of the exercises we covered."
+    "A practice or ritual you can do at home without me, and a summary of the exercises we covered."
   ],
   [
     "Is this therapy or medical care?",
@@ -72,11 +72,12 @@ export default function CoachingPage() {
         <div>
           <p className="kicker">Private coaching</p>
           <h1 className="display mt-2 text-[1.7rem] leading-tight text-zinc-50 sm:text-[2.6rem]">
-            One hour. You leave with a practice built for your life.
+            One hour. You leave with a practice you can do on your own.
           </h1>
           <p className="mt-4 text-base leading-relaxed text-zinc-300 sm:text-lg">
-            Chinese medicine is magick. You already hold the five phases, the channels, the organ spirits. Bring the thing
-            you are working on, and we build the operation together from the system you know.
+            Chinese medicine is magick. The map it uses to read the body, the five phases and the channels, also works on
+            your life. Tell me what you want to change. We find where it sits on the map and build a practice for it that
+            you can do at home.
           </p>
           <p className="mt-6 text-lg font-semibold text-zinc-50">
             $175 + tax <span className="text-base font-normal text-zinc-400">· 60 minutes · online</span>
@@ -129,8 +130,8 @@ export default function CoachingPage() {
       <section className="mt-14">
         <h2 className="heading-2">Who this is for</h2>
         <p className="mt-3 leading-relaxed text-zinc-300">
-          Practitioners, students and serious learners who know the system and want to run it in their own lives.
-          Magicians from other traditions who want the Chinese map underneath their work.
+          People who studied Chinese medicine and want to use it on their own lives. Magicians from other traditions who
+          want the Chinese map under their work.
         </p>
       </section>
 
