@@ -54,8 +54,8 @@ const OFFERS: Offer[] = [
   {
     kicker: "One to one",
     name: "Private Sessions",
-    body: "Sixty minutes on Zoom, spent one of two ways. A divination reading on a decision, with mediumship and mahjong tiles or tarot. Or coaching on your own practice: energy work, correspondences, herbal magick. You leave with a practice to work afterward.",
-    detail: "$175 CAD + tax. Wherever you are.",
+    body: "Sixty minutes, spent one of two ways. A divination reading on a decision, with mediumship and mahjong tiles or tarot. Or coaching on your own practice: energy work, correspondences, herbal magick. You leave with a practice to work afterward.",
+    detail: "$175 CAD + tax. On Zoom wherever you are. Readings also in person in Toronto.",
     cta: "Work your practice",
     href: "/coaching",
     more: { label: "Get a reading", href: "/divination" }
