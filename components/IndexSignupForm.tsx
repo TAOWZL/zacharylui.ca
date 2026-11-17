@@ -1,5 +1,10 @@
+"use client";
+
 // Posts straight to Kit form 9434628 ("The Secret Menu Index"). Single opt-in:
 // Kit redirects to /secret-menu on submit and sends the delivery email.
+// On submit, the hidden "referrer" field is set to the full page URL (with any
+// utm_ tags), the same field Kit's own embed sends, so Kit attribution shows
+// which channel the signup came from instead of just "zacharylui.ca".
 const KIT_FORM_ACTION = "https://app.kit.com/forms/9434628/subscriptions";
 
 export default function IndexSignupForm({ id }: { id: string }) {
@@ -7,8 +12,13 @@ export default function IndexSignupForm({ id }: { id: string }) {
     <form
       action={KIT_FORM_ACTION}
       method="post"
+      onSubmit={(e) => {
+        const ref = e.currentTarget.elements.namedItem("referrer");
+        if (ref instanceof HTMLInputElement) ref.value = window.location.href;
+      }}
       className="flex flex-wrap gap-3 rounded-lg border border-charcoal-800 bg-charcoal-950/80 p-4 sm:p-5"
     >
+      <input type="hidden" name="referrer" defaultValue="" />
       <label htmlFor={`${id}-name`} className="sr-only">First name</label>
       <input
         id={`${id}-name`}
