@@ -1,12 +1,32 @@
 ---
-title: Press and Media | Zachary Lui
+title: Press and Media Kit | Zachary Lui
 description: Press, podcast interviews, and conference presentations featuring Zachary Lui on classical Chinese medicine, qigong, Chinese metaphysics, and ritual work.
 cover: /images/hero-writing.svg
 permalink: press
 ---
-# Press and Media
+# Press and Media Kit
 
-Press coverage, podcast interviews, conference presentations, and podcasting work.
+Bio, photos, press coverage, podcast interviews and conference presentations. To book a talk or workshop, see [Speaking and Booking](/speaking).
+
+---
+
+## Bio
+
+**Short.** Zachary Lui teaches classical Chinese medicine as the magickal tradition it grew out of. He is a Wu (巫) and Daoist priest of the Mao Shan Shangqing (茅山上清) transmission, and a Tangmi (唐密) practitioner of Chinese Esoteric Buddhism.
+
+**Full.** Zachary Lui teaches classical Chinese medicine as the magickal tradition it grew out of. He has apprenticed with his teachers since 2008: three years under a Nanjing-trained qigong teacher, Mao Shan Shangqing transmission and Master of Medical Qigong certification from Daoist priest Robert Youngs, six years of herb study under a pao zhi (炮製) master, and magick under his master, Andrieh Vitimus. He co-hosts the podcast Deeper Down the Rabbit Hole, teaches at Chinese medicine colleges, and teaches yearly at Toronto or Hamilton Pagan Pride. His program, CCM is Magick, teaches the full medicine through myth, character etymology and the art of memory.
+
+---
+
+## Photos
+
+Free to use with coverage of Zachary Lui. Credit: Zachary Lui.
+
+- [Headshot, red changpao, 2048 px](/images/zachary-headshot.jpg)
+- [Headshot, red changpao, close, 800 px](/images/zachary-headshot-2.jpg)
+- [In Daoist robes, reading a mahjong spread](/images/zac-divination-reading.jpg)
+
+---
 
 ---
 
@@ -25,6 +45,8 @@ Press coverage, podcast interviews, conference presentations, and podcasting wor
 ---
 
 ## Conference presentations
+
+**Toronto Pagan Pride**, 2026. Co-taught. Teaching yearly at Toronto or Hamilton Pagan Pride.
 
 **Saam Diagnostic Conference**, May 2025. *Seasonal Diagnosis with SaAm: Aligning Zodiac Signs, Jieqi, and Hexagram.*
 
@@ -96,4 +118,6 @@ In that role, Zachary helped lead the marketing and outreach effort that coordin
 
 ## Press and interview inquiries
 
-For press or interview inquiries, reach the clinic at **416-595-5525**.
+For press or interview inquiries, email [zac@zacharylui.ca](mailto:zac@zacharylui.ca).
+
+For lectures, workshops and conference bookings, see [Speaking and Booking](/speaking).
