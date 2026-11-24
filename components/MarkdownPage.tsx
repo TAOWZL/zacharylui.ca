@@ -147,7 +147,7 @@ export function MarkdownPage({ doc }: Props) {
           />
           <div className="hero-overlay" />
           <div className="hero-content">
-            <h1 className="hero-title">{title}</h1>
+            <h1 className="hero-title">{title.split(" | ")[0]}</h1>
             {heroDescription ? <p className="hero-description">{heroDescription}</p> : null}
           </div>
         </article>

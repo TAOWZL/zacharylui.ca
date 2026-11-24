@@ -1,6 +1,6 @@
 ---
 title: Speaking and Booking | Zachary Lui
-description: Book Zachary Lui for lectures, workshops and conference talks on Chinese medicine as magick, Daoist ritual, memory arts and seasonal diagnosis. Fees, formats and booking terms.
+description: Book Zachary Lui for lectures, workshops and conference talks on Chinese medicine as magick, Daoist ritual, memory arts and neigong. Fees, formats and booking terms.
 cover: /images/hero-writing.svg
 permalink: speaking
 publish: true
