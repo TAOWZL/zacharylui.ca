@@ -13,7 +13,7 @@ cover: /images/hero-ritual.png
 
 ## What I do
 
-**Healing magic.** Spiritual and energetic work for healing, offered as Ritual, distinct from any clinical treatment. Not healthcare. Not a substitute for medical or mental health care.
+**Spirit work.** Spiritual and energetic work offered as Ritual, distinct from any clinical treatment. Not healthcare. Not a substitute for medical or mental health care.
 
 **Protection and cleansing.** Spaces, objects, and situations. Not decorative, not for entertainment.
 

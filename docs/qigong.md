@@ -1,6 +1,6 @@
 ---
 title: Qigong / Neigong Coaching | Zachary Lui, Toronto
-description: Private qigong and neigong coaching with Zachary Lui, Master of Medical Qigong, in Riverdale, Toronto.
+description: Private qigong and neigong coaching with Zachary Lui in Riverdale, Toronto.
 ---
 
 # Qigong / Neigong Coaching

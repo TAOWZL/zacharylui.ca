@@ -5,7 +5,6 @@
 const CLINIC_PREFIXES = [
   "/about",
   "/acupuncture",
-  "/acupuncture-for-anxiety",
   "/education",
   "/in-person",
   "/marriage",

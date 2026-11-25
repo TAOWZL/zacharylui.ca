@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { MarkdownPage } from "@/components/MarkdownPage";
 import { getAllDocs, getDocBySlug, inferDescription } from "@/lib/content";
 import { isLaneZPath } from "@/lib/laneZ";
+import RedirectTo from "@/components/RedirectTo";
 
 type PageProps = {
   params: Promise<{ slug: string[] }>;
@@ -44,6 +45,10 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const slug = slugParts.join("/");
   const doc = getDocBySlug(slug);
   if (!doc) return {};
+  // Old or duplicate URLs forward to the one live page and stay out of search.
+  if (slug.toLowerCase() !== doc.slug.toLowerCase()) {
+    return { robots: { index: false, follow: true }, alternates: { canonical: `/${doc.slug}` } };
+  }
 
   const title = doc.data.title ?? "Zachary Lui";
   const description = inferDescription(doc);
@@ -84,5 +89,8 @@ export default async function DocPage({ params }: PageProps) {
   const slug = slugParts.join("/");
   const doc = getDocBySlug(slug);
   if (!doc) notFound();
+  if (slug.toLowerCase() !== doc.slug.toLowerCase()) {
+    return <RedirectTo href={`/${doc.slug}/`} label={doc.data.title ?? "Continue"} />;
+  }
   return <MarkdownPage doc={doc} />;
 }

@@ -179,7 +179,7 @@ export function getAllDocs(): Doc[] {
   const docs: Doc[] = mdFiles.map((filePath) => {
     const raw = fs.readFileSync(filePath, "utf8");
     const { data, content } = matter(raw);
-    const slug = (data.permalink as string | undefined)?.replace(/^\//, "") ?? filePathToSlug(filePath);
+    const slug = (data.permalink as string | undefined)?.replace(/^\/+|\/+$/g, "") ?? filePathToSlug(filePath);
     return {
       slug,
       sourcePath: filePath,

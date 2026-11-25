@@ -23,9 +23,7 @@ export const siteConfig = {
       {
         heading: "Engage",
         links: [
-          { label: "Apply for Retainer", href: "/apply" },
           { label: "Speaking", href: "/speaking" },
-          { label: "Approach", href: "/approach" },
           { label: "Contact", href: "mailto:admin@wujixuan.org" }
         ]
       }

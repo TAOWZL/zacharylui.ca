@@ -24,6 +24,7 @@ const LANE_Z_LINKS: [string, string][] = [
   ["/divination", "Divination Coaching"],
   ["/coaching", "Private Coaching"],
   ["/ritual", "Commissioned Ritual"],
+  ["/speaking", "Speaking"],
   ["/watch", "Watch"],
   ["/writing", "Writing"]
 ];

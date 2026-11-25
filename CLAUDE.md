@@ -1,4 +1,4 @@
-Project: zacharylui.ca, Jekyll static site on GitHub Pages. Maintainer is Zachary Lui, practicing across Acupuncture, Qigong/Neigong, Reiki, Ritual, and Divination Coaching. CLAUDE.md in repo root is authoritative. Read it first. Every rule there overrides anything in this brief.
+Project: zacharylui.ca, Next.js static export on GitHub Pages (pages in docs/*.md, custom routes in app/, nav in components/HeaderNav.tsx and components/FooterBody.tsx, lane split in lib/laneZ.ts). Older notes below mention Jekyll; the stack is Next.js. Maintainer is Zachary Lui, practicing across Acupuncture, Qigong/Neigong, Reiki, Ritual, and Divination Coaching. CLAUDE.md in repo root is authoritative. Read it first. Every rule there overrides anything in this brief.
 
 Goal of this pass: structured upgrade across SEO infrastructure, trust signals, CTAs, IA, and brand consistency. Site sits ~8.2/10 average. Strongest at voice and CTCMPAO scope discipline (don't touch). Weakest at SEO infrastructure and CTAs.
 

@@ -5,7 +5,6 @@ cover: /images/hero-acupuncture.jpg
 aliases:
   - Acupuncture
   - acupuncture
-  - acupuncture for anxiety
 permalink: acupuncture
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Reiki | Zachary Lui, Usui Reiki Master Teacher, Toronto
+title: Reiki | Zachary Lui, Toronto
 description: Reiki sessions with Zachary Lui, Usui Reiki Master Teacher, at Wuji Xuan Life Wellness in Riverdale, Toronto.
 cover: /images/hero-reiki.jpg
 ---
@@ -13,7 +13,7 @@ Reiki sessions with Zachary Lui in Riverdale, Toronto.
 
 ## What Reiki is
 
-Reiki (霊気) is a Japanese practice developed by Mikao Usui in the early twentieth century. The practitioner places their hands lightly on or just above the body in a sequence of positions. That's the whole method. It's quiet, it's structured, and it's taught across a short lineage from Usui onward.
+Reiki (靈氣, written 霊気 in Japanese) is a Japanese practice developed by Mikao Usui in the early twentieth century. The practitioner places their hands lightly on or just above the body in a sequence of positions. That's the whole method. It's quiet, it's structured, and it's taught across a short lineage from Usui onward.
 
 ---
 

@@ -29,6 +29,7 @@ type Offer = {
   href: string;
   more?: { label: string; href: string };
   paper?: boolean;
+  primary?: boolean;
 };
 
 const JSON_LD = {
@@ -47,7 +48,7 @@ const OFFERS: Offer[] = [
     body: "One recorded class a month, each on an operation from the Index. Members send questions, answered in the next class, and every monograph after garlic goes to members only.",
     detail: "$75 CAD a month + tax. The first 20 members keep that rate. Cancel any time.",
     cta: "Join The Secret Menu",
-    href: "/join",
+    href: "https://6a86-zac.systeme.io/join-secret-menu?utm_source=zacharylui.ca&utm_medium=site&utm_campaign=secret-menu",
     more: { label: "What's inside", href: "/membership" },
     paper: true
   },
@@ -58,6 +59,7 @@ const OFFERS: Offer[] = [
     detail: "$175 CAD + tax. On Zoom wherever you are. Readings also in person in Toronto.",
     cta: "Work your practice",
     href: "/coaching",
+    primary: true,
     more: { label: "Get a reading", href: "/divination" }
   },
   {
@@ -192,16 +194,14 @@ export default function HomePage() {
               <div className="mt-5 flex flex-wrap gap-3">
                 <a
                   href={offer.href}
-                  className={offer.href.startsWith("https://") ? "btn-buy" : "btn-secondary"}
+                  className={offer.primary || offer.href.startsWith("https://") ? "btn-buy" : "btn-secondary"}
                 >
                   {offer.cta} →
                 </a>
                 {offer.more ? (
-                  <span className="hidden sm:contents">
                   <a href={offer.more.href} className="btn-secondary">
                     {offer.more.label}
                   </a>
-                  </span>
                 ) : null}
               </div>
             </div>
