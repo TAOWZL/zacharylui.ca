@@ -42,7 +42,7 @@ Each class trains a practice. No specific results are promised.
 
 Every class is recorded and yours while you stay subscribed, back to the first one. Every monograph after garlic is members only. The next monograph is Salt (鹽).
 
-In the library now: The Two States, Mapping Yin and Yang, and Ghost Road 01, 鬼宮 (Ghost Palace), with the primer. Ghost Road 02, 鬼信 (Ghost Trust), is November's class. [See the full library →](/membership)
+In the library now: Which Side of the Hill Are You On?, yin and yang before the textbook, and Ghost Road 01, The Ghost Under Your Nose, with the primer. [See the full library →](/membership)
 
 I work from the Mao Shan Shangqing transmission.
 
