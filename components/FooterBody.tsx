@@ -26,7 +26,8 @@ const LANE_Z_LINKS: [string, string][] = [
   ["/ritual", "Commissioned Ritual"],
   ["/speaking", "Speaking"],
   ["/watch", "Watch"],
-  ["/writing", "Writing"]
+  ["/writing", "Writing"],
+  ["/in-person", "In person, Toronto"]
 ];
 
 export function FooterNav() {

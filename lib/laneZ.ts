@@ -9,7 +9,6 @@ const CLINIC_PREFIXES = [
   "/in-person",
   "/marriage",
   "/officiant",
-  "/press",
   "/projects",
   "/qigong",
   "/reiki",

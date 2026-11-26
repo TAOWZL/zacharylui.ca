@@ -1,7 +1,7 @@
 ---
 title: In Person in Toronto
 permalink: in-person
-description: " Registered acupuncture, contemplative practice, and ritual work in Riverdale, Toronto. One practitioner, three doors."
+description: "Registered acupuncture, contemplative practice, and ritual work in Riverdale, Toronto. One practitioner, three doors."
 ---
 # In Person in Toronto
 

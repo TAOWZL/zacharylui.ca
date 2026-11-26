@@ -77,7 +77,7 @@ ${urlset}
 fs.writeFileSync(path.join(outDir, "sitemap.xml"), sitemap, "utf8");
 fs.writeFileSync(
   path.join(outDir, "robots.txt"),
-  `User-agent: *\nAllow: /\nSitemap: ${baseUrl}/sitemap.xml\n`,
+  `User-agent: *\nAllow: /\nDisallow: /*.pdf$\nSitemap: ${baseUrl}/sitemap.xml\n`,
   "utf8"
 );
 

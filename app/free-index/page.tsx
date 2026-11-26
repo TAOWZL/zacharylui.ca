@@ -139,6 +139,13 @@ export default function FreeIndexPage() {
               <span className="mt-2 block text-zinc-300">The Magick That Never Left, the history behind the Index, chapter by chapter.</span>
             </a>
           </li>
+          <li>
+            <a href="/wealth-deities" className="chapter-card h-full">
+              <span className="kicker block">Free</span>
+              <span className="display mt-2 block text-xl">Chinese Wealth Deities</span>
+              <span className="mt-2 block text-zinc-300">Eight wealth gods: who they are, what they're good at, and when to work with them.</span>
+            </a>
+          </li>
         </ul>
       </nav>
     </article>

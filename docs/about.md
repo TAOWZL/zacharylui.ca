@@ -30,7 +30,7 @@ The approach is classical Chinese medicine, grounded in the traditional pattern-
 
 Master of Medical Qigong through the International Institute of Medical Qigong (IIMQ), founded by Jerry Alan Johnson. Trained directly under Robert Youngs, Director of IIMQ Canada. The training covers both external Qigong forms and internal Neigong practice. Practicing qigong since childhood, with serious practice since 2008.
 
-Usui Reiki Master Teacher trained directly under Andrieh Vitimus, who received the line from a witch. A line of witches, priests, and magicians, holding the full Usui transmission, both spiritual and clinical. The spiritual is the ground the clinical stands on.
+Usui Reiki Master Teacher trained directly under Andrieh Vitimus, who received the line from a witch. A line of witches, priests, and magicians, holding the full Usui transmission.
 
 These are contemplative practices, not regulated health services. They sit outside R.Ac scope and aren't a replacement for medical or mental health care.
 
@@ -56,7 +56,7 @@ Faculty and instructor at the Ontario College of Traditional Chinese Medicine, E
 
 Student cohorts at AIM Academy achieved 100% Pan-Canadian exam pass rates in 2024, 2025, and 2026.
 
-Invited Qigong Master and Lecturer at Penn State University in 2022. Conference presentations at the Saam Diagnostic Conference (2025) and the World Tai Chi & Qigong Summit (2024).
+Invited lecturer on qigong at Penn State University in 2022. Conference presentations at the Saam Diagnostic Conference (2025) and the World Tai Chi & Qigong Summit (2024).
 
 [Full teaching page →](https://zacharylui.ca/education)
 
@@ -103,4 +103,4 @@ Online through Jane, or **416-595-5525**.
 
 [**Book a session**](https://wujixuan.janeapp.com/#/staff_member/1)
 
-[Services & fees](https://zacharylui.ca/services)
+[Services & fees](/services) · [Current projects](/projects)

@@ -177,6 +177,7 @@ export default function HomePage() {
               {i < TAUGHT_AT.length - 1 ? <span className="mx-2 text-zinc-500">·</span> : null}{" "}
             </span>
           ))}
+          <a href="/speaking" className="ml-1 whitespace-nowrap">Book a talk →</a>
         </p>
       </section>
 

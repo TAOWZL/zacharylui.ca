@@ -5,6 +5,7 @@ const MEMBERS_AREA = "https://6a86-zac.systeme.io/school/course/secret-menu";
 
 export const metadata: Metadata = {
   title: "Secret Menu members' area",
+  description: "The members' area of The Secret Menu, Zachary Lui's monthly class in Chinese magick.",
   robots: { index: false, follow: false },
   alternates: { canonical: "/members" }
 };

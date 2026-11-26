@@ -38,7 +38,7 @@ Receipts are issued for Registered Acupuncturist services and are accepted by ma
 |---|---|
 | Divination Coaching (tarot or mahjong) | $175 + tax |
 
-[Divination](/divination)
+[Book Divination Coaching →](https://wujixuan.janeapp.com/#/staff_member/1/treatment/3)
 
 ---
 
@@ -74,7 +74,6 @@ Receipts are issued for Registered Acupuncturist services and are accepted by ma
 
 Commissioned Ritual begins with an intake conversation, not a booking. Fees scale from the $1,500 starting rate based on scope, timing, and materials. For private questions, most people start with a Divination Coaching session to determine whether commissioned Ritual is the right response. Not every request is accepted.
 
-[Ritual](/ritual)
 
 ---
 
