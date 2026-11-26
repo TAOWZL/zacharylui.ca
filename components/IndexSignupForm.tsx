@@ -1,14 +1,46 @@
+"use client";
+
+import { useEffect, useState } from "react";
+
 // Posts straight to Kit form 9434628 ("The Secret Menu Index"). Single opt-in:
 // Kit redirects to /secret-menu on submit and sends the delivery email.
 const KIT_FORM_ACTION = "https://app.kit.com/forms/9434628/subscriptions";
 
+// Source tracking. The INDEX auto-replies in Meta Business Suite link here with
+// ?utm_campaign=index-comment / index-dm / index-faq. That value is written to
+// the Kit custom field "Index Source" (key index_source, id 1446866) so each
+// signup records which path it came through. No utm_campaign means "site".
+function readSource(): string {
+  try {
+    const raw = new URLSearchParams(window.location.search).get("utm_campaign");
+    const clean = (raw || "").toLowerCase().replace(/[^a-z0-9_-]/g, "").slice(0, 60);
+    return clean || "site";
+  } catch {
+    return "site";
+  }
+}
+
 export default function IndexSignupForm({ id }: { id: string }) {
+  const [source, setSource] = useState("site");
+  const [referrer, setReferrer] = useState("");
+
+  useEffect(() => {
+    setSource(readSource());
+    try {
+      setReferrer(window.location.href);
+    } catch {
+      /* leave empty */
+    }
+  }, []);
+
   return (
     <form
       action={KIT_FORM_ACTION}
       method="post"
       className="flex flex-wrap gap-3 rounded-lg border border-charcoal-800 bg-charcoal-950/80 p-4 sm:p-5"
     >
+      <input type="hidden" name="fields[index_source]" value={source} />
+      <input type="hidden" name="referrer" value={referrer} />
       <label htmlFor={`${id}-name`} className="sr-only">First name</label>
       <input
         id={`${id}-name`}
