@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+Disallow: /*.pdf$
 Sitemap: https://zacharylui.ca/sitemap.xml
