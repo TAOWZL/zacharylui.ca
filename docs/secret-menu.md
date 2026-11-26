@@ -28,13 +28,23 @@ From the palm seal video: Sun Simiao's ghost road seal, mapped on the hand, with
 
 ## The Secret Menu
 
-The paid room, built on the Index.
+The paid room, built on the Index. One recorded class a month, and each one trains a working. You learn to walk a point name as a place, feel it on your own channel, and work it.
 
-- One recorded class a month, on an operation from the Index.
-- Every class recorded, yours while you stay subscribed.
-- Every monograph after garlic, members only. Salt (鹽) is next.
+December 14 opens the map, the base every working stands on. The class takes a point name apart character by character, so you can find the place it names.
+
+Each class closes with a short self-check against the sources, so you can see where you are.
+
+Every Monday you get one drill. Walk the name, then send me what you read in it, by Instagram DM to @thezacharylui or by email. Put SM at the start so I know it's yours. Leave out health details. I send back a voice memo within seven days.
+
+Questions work the same way. One a week, by DM or email, and you get a voice memo within seven days. Questions sent by email still get answered in the next class too.
+
+Each class trains a practice. No specific results are promised.
+
+Every class is recorded and yours while you stay subscribed, back to the first one. Every monograph after garlic is members only. The next monograph is Salt (鹽).
 
 In the library now: The Two States, Mapping Yin and Yang, and Ghost Road 01, 鬼宮 (Ghost Palace), with the primer. Ghost Road 02, 鬼信 (Ghost Trust), is November's class. [See the full library →](/membership)
+
+I work from the Mao Shan Shangqing transmission.
 
 \$75 CAD a month plus applicable tax, billed monthly until you cancel. The \$75 rate is open to the first 20 members, and they keep it for as long as they stay subscribed. After that, the price for new members goes up. Cancel anytime; cancelling stops the next charge. Founding members who joined by October 9, 2026 keep their founding rate while subscribed. [Full terms](/terms).
 

@@ -5,7 +5,7 @@ permalink: terms
 ---
 # Terms: The Secret Menu
 
-Last updated November 10, 2026.
+Last updated November 26, 2026.
 
 ## Who sells it
 
@@ -19,6 +19,12 @@ The Secret Menu is taught by Zachary Lui.
 - Questions you send by email, answered in the next class.
 - The recording of each class, available while you stay subscribed.
 - Every new monograph after the free garlic monograph, available while you stay subscribed.
+- A short self-check at the end of each class, against the sources.
+- One drill each Monday, except announced breaks.
+- Each week, one drill reply and one question reply by voice memo, within seven days, except announced breaks. Send them by Instagram direct message to @thezacharylui or by email. Instagram needs an account. Email doesn't.
+- Questions sent by email are still answered in the next class.
+
+Do not send health information. Voice memo replies cover the class material. They aren't advice on your health or anyone's case.
 
 Recordings and monographs are in the members' area on Systeme, the platform that runs the membership. Your login is the email you joined with. Each class is named for a calendar month. A class is released when it is in the members' area and members have been emailed. If a month's class is not released within 30 days after the end of that month, we refund, without you asking and within 15 days, the charge that covers the last day of that month, including HST, to the card you paid with. This applies to everyone subscribed on the last day of that month, including anyone who cancelled during that month.
 
@@ -52,7 +58,7 @@ After you join, you get an email with a copy of these terms and a separate email
 
 ## Privacy
 
-Your name, email and payment details are used to run your membership and send membership emails. Payment details are handled by Stripe and are not stored by Wuji Xuan Life Wellness Ltd. Stripe and Systeme, which runs the checkout and the members' area, may store and process data outside Canada. Your details are not sold or shared for marketing. Questions you email are used to answer them in class. Your name is left out of the recording unless you say it can be used. Classes recorded live on Zoom before November 2026 may include the voice or image of members who spoke or turned their camera on; email zac@zacharylui.ca to have yours removed. Email zac@zacharylui.ca to see or correct what is held about you, or to have it deleted when you leave.
+Your name, email and payment details are used to run your membership and send membership emails. Payment details are handled by Stripe and are not stored by Wuji Xuan Life Wellness Ltd. Stripe and Systeme, which runs the checkout and the members' area, may store and process data outside Canada. Your details are not sold or shared for marketing. Questions you email are used to answer them in class. Drills and questions you send through Instagram, and the voice memo replies there, are handled by Meta, which may store and process them outside Canada. Your name is left out of the recording unless you say it can be used. Classes recorded live on Zoom before November 2026 may include the voice or image of members who spoke or turned their camera on; email zac@zacharylui.ca to have yours removed. Email zac@zacharylui.ca to see or correct what is held about you, or to have it deleted when you leave.
 
 ## Scope
 

@@ -45,7 +45,7 @@ const OFFERS: Offer[] = [
   {
     kicker: "Membership",
     name: "The Secret Menu",
-    body: "One recorded class a month, each on an operation from the Index. Members send questions, answered in the next class, and every monograph after garlic goes to members only.",
+    body: "One recorded class a month, and each one trains a working. December 14 opens the map, the base every working stands on. Every Monday there's a drill, and I answer what you send by voice memo within seven days.",
     detail: "$75 CAD a month + tax. The first 20 members keep that rate. Cancel any time.",
     cta: "Join The Secret Menu",
     href: "https://6a86-zac.systeme.io/join-secret-menu?utm_source=zacharylui.ca&utm_medium=site&utm_campaign=secret-menu",
@@ -208,6 +208,13 @@ export default function HomePage() {
             </div>
           ))}
         </div>
+        <p className="mt-6 text-base text-zinc-400">
+          Questions first? DM me MAP on Instagram,{" "}
+          <a href="https://www.instagram.com/thezacharylui/" className="underline">
+            @thezacharylui
+          </a>
+          , and I&apos;ll send you where to start.
+        </p>
       </section>
 
       <section className="mt-16 sm:mt-24">
