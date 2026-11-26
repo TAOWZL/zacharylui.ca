@@ -24,14 +24,19 @@ Payments are processed by Wuji Xuan Life Wellness Ltd. It shows on the checkout 
 - One recorded class a month, about an hour, on an operation from the Index.
 - The recording of every class, yours while you stay subscribed.
 - Every new monograph after garlic. They go to members only. Garlic is 24 pages on one herb, sources itemised edition by edition, and it's [free with the Index](/free-index) so you can see the format first.
+- A short self-check at the end of each class, against the sources.
+- One drill every Monday. Walk the name, send me what you read in it, and I send back a voice memo within seven days.
 
-Send your questions to zac@zacharylui.ca, and I answer them in the next class. Recordings and monographs are in the members' area, and your login is the email you join with.
+Send your questions to zac@zacharylui.ca, and I answer them in the next class. You can also send one question a week by Instagram DM to @thezacharylui or by email, and get a voice memo back within seven days. Put SM at the start so I know it's yours, and leave out health details.
+
+Each class trains a practice. No specific results are promised. Recordings and monographs are in the members' area, and your login is the email you join with.
 
 ## In the library
 
 - **Class 1, September 2026: The Two States, Mapping Yin and Yang.**
 - **Class 2, October 2026: Ghost Road 01, 鬼宮 (Ghost Palace), with the primer.** The context for working the Thirteen Ghost Points from Sun Simiao's formulary. Recording released in November.
 - **Next: Ghost Road 02, 鬼信 (Ghost Trust).**
+- **December 14, 2026: the map.** How to take a point name apart character by character and find the place it names. The base every working stands on.
 - **Next monograph: 鹽 (salt).** Members only, in the members' area when it lands.
 
 October opened the series **Walking the Ghost Road: The 13 Ghost Points of Sun Simiao**, one point per class in his order. Each class gives the etymology of the point's name, maps the state it holds, and works that state for inner transformation. Every class in the Secret Menu works this way: map the state, then work it.
