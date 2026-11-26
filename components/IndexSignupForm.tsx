@@ -61,6 +61,28 @@ export default function IndexSignupForm({ id }: { id: string }) {
         placeholder="Email"
         className="w-full min-w-0 flex-[1_1_11rem] rounded-md border border-charcoal-800 bg-zinc-950 px-4 py-3 text-base text-zinc-100 placeholder:text-zinc-400 focus:border-cinnabar-400"
       />
+      {/* Role goes to Kit custom field "Role" (key role, id 1446923). Optional,
+          so it never blocks a signup; the welcome email still asks anyone who skips it. */}
+      <fieldset className="w-full text-sm text-zinc-300">
+        <legend className="mb-2">I'm a (optional):</legend>
+        <div className="flex flex-wrap gap-x-5 gap-y-2">
+          {[
+            ["student", "Student"],
+            ["practitioner", "Practitioner"],
+            ["neither", "Just curious"],
+          ].map(([value, label]) => (
+            <label key={value} className="inline-flex items-center gap-2">
+              <input
+                type="radio"
+                name="fields[role]"
+                value={value}
+                className="accent-cinnabar-400"
+              />
+              {label}
+            </label>
+          ))}
+        </div>
+      </fieldset>
       <button type="submit" className="btn-primary max-w-full flex-[1_1_auto]">
         Send me the free Index
       </button>
