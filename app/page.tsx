@@ -45,7 +45,7 @@ const OFFERS: Offer[] = [
   {
     kicker: "Membership",
     name: "The Secret Menu",
-    body: "One recorded class a month, and each one trains a working. December 14 opens the map, the base every working stands on. Every Monday there's a drill on the month's working, and I answer what you send by voice memo within seven days.",
+    body: "One recorded class a month, and each one trains a working. December 14 opens the map, the base every working stands on. Every Monday a drill on the month's working arrives by email, and I answer what you send by voice memo within seven days.",
     detail: "$75 CAD a month + tax. The first 20 members keep that rate. Cancel any time.",
     cta: "Join The Secret Menu",
     href: "https://6a86-zac.systeme.io/join-secret-menu?utm_source=zacharylui.ca&utm_medium=site&utm_campaign=secret-menu",

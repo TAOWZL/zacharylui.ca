@@ -25,7 +25,7 @@ Payments are processed by Wuji Xuan Life Wellness Ltd. It shows on the checkout 
 - The recording of every class, yours while you stay subscribed.
 - Every new monograph after garlic. They go to members only. Garlic is 24 pages on one herb, sources itemised edition by edition, and it's [free with the Index](/free-index) so you can see the format first.
 - A short self-check at the end of each class, against the sources.
-- One drill every Monday on the month's working. Practise it, send me what happened, and I send back a voice memo within seven days.
+- One drill by email every Monday morning, on the month's working. Practise it, send me what happened, and I send back a voice memo within seven days.
 
 Send your questions to zac@zacharylui.ca, and I answer them in the next class. You can also send one question a week by Instagram DM to @thezacharylui or by email, and get a voice memo back within seven days. Put SM at the start so I know it's yours, and leave out health details.
 

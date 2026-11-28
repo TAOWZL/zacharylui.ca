@@ -20,7 +20,7 @@ The Secret Menu is taught by Zachary Lui.
 - The recording of each class, available while you stay subscribed.
 - Every new monograph after the free garlic monograph, available while you stay subscribed.
 - A short self-check at the end of each class, against the sources.
-- One drill each Monday on the month's working, except announced breaks.
+- One drill each Monday on the month's working, sent by email, except announced breaks.
 - Each week, one drill reply and one question reply by voice memo, within seven days, except announced breaks. Send them by Instagram direct message to @thezacharylui or by email. Instagram needs an account. Email doesn't.
 - While the membership has 25 members or fewer, each drill and question reply is an individual voice memo. Above 25 members, drill and question replies are given in one recorded voice reply each week that answers every message sent that week.
 - Questions sent by email are still answered in the next class.

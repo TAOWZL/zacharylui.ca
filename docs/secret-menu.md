@@ -34,7 +34,7 @@ December 14 opens the map, the base every working stands on. The class takes a p
 
 Each class closes with a short self-check against the sources, so you can see where you are.
 
-Every Monday you get one drill on the month's working. Practise it, then send me what happened, by Instagram DM to @thezacharylui or by email. Put SM at the start so I know it's yours. Leave out health details. I send back a voice memo within seven days.
+Every Monday morning one drill on the month's working arrives by email. Practise it through the week, then send me what happened, by Instagram DM to @thezacharylui or by email. Put SM at the start so I know it's yours. Leave out health details. I send back a voice memo within seven days.
 
 Questions work the same way. One a week, by DM or email, and you get a voice memo within seven days. Questions sent by email still get answered in the next class too.
 
