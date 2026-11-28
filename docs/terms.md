@@ -5,7 +5,7 @@ permalink: terms
 ---
 # Terms: The Secret Menu
 
-Last updated November 26, 2026.
+Last updated November 27, 2026.
 
 ## Who sells it
 
@@ -20,15 +20,16 @@ The Secret Menu is taught by Zachary Lui.
 - The recording of each class, available while you stay subscribed.
 - Every new monograph after the free garlic monograph, available while you stay subscribed.
 - A short self-check at the end of each class, against the sources.
-- One drill each Monday, except announced breaks.
+- One drill each Monday on the month's working, except announced breaks.
 - Each week, one drill reply and one question reply by voice memo, within seven days, except announced breaks. Send them by Instagram direct message to @thezacharylui or by email. Instagram needs an account. Email doesn't.
+- While the membership has 25 members or fewer, each drill and question reply is an individual voice memo. Above 25 members, drill and question replies are given in one recorded voice reply each week that answers every message sent that week.
 - Questions sent by email are still answered in the next class.
 
 Do not send health information. Voice memo replies cover the class material. They aren't advice on your health or anyone's case.
 
 Recordings and monographs are in the members' area on Systeme, the platform that runs the membership. Your login is the email you joined with. Each class is named for a calendar month. A class is released when it is in the members' area and members have been emailed. If a month's class is not released within 30 days after the end of that month, we refund, without you asking and within 15 days, the charge that covers the last day of that month, including HST, to the card you paid with. This applies to everyone subscribed on the last day of that month, including anyone who cancelled during that month.
 
-If we reduce or replace anything listed under What you get, current members get at least 30 days' notice by email. The notice says what changes and the date it starts. A change never applies to you before that date and never changes the price you locked. If you cancel before that date, any charge for a period that starts on or after that date is refunded in full.
+If we reduce or replace anything listed under What you get, current members get at least 30 days' notice by email. The notice says what changes and the date it starts. A change never applies to you before that date and never changes the price you locked. If you cancel before that date, any charge for a period that starts on or after that date is refunded in full. The changes to the drill and to replies made on November 27, 2026 apply to members who joined before that date from December 28, 2026.
 
 Recordings and monographs are for your personal use. Do not share, resell or repost them.
 

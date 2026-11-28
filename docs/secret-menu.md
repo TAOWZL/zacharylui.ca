@@ -30,11 +30,11 @@ From the palm seal video: Sun Simiao's ghost road seal, mapped on the hand, with
 
 The paid room, built on the Index. One recorded class a month, and each one trains a working. You learn to walk a point name as a place, feel it on your own channel, and work it.
 
-December 14 opens the map, the base every working stands on. The class takes a point name apart character by character, so you can find the place it names.
+December 14 is the Six Healing Sounds: six voiced breaths, worked organ by organ, the first step toward incantation. In January the map follows, the base every working stands on.
 
 Each class closes with a short self-check against the sources, so you can see where you are.
 
-Every Monday you get one drill. Walk the name, then send me what you read in it, by Instagram DM to @thezacharylui or by email. Put SM at the start so I know it's yours. Leave out health details. I send back a voice memo within seven days.
+Every Monday you get one drill on the month's working. Practise it, then send me what happened, by Instagram DM to @thezacharylui or by email. Put SM at the start so I know it's yours. Leave out health details. I send back a voice memo within seven days.
 
 Questions work the same way. One a week, by DM or email, and you get a voice memo within seven days. Questions sent by email still get answered in the next class too.
 
