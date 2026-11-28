@@ -30,7 +30,7 @@ From the palm seal video: Sun Simiao's ghost road seal, mapped on the hand, with
 
 The paid room, built on the Index. One recorded class a month, and each one trains a working. You learn to walk a point name as a place, feel it on your own channel, and work it.
 
-December 14 is the Six Healing Sounds: six voiced breaths, worked organ by organ, the first step toward incantation. In January the map follows, the base every working stands on.
+December 14 opens the map, the base every working stands on. The class takes a point name apart character by character, so you can find the place it names.
 
 Each class closes with a short self-check against the sources, so you can see where you are.
 
